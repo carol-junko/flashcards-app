@@ -1,0 +1,78 @@
+{
+  "deckName": "Greetings & Basics",
+  "exercises": [
+    {
+      "id": "ex-1",
+      "type": "cloze",
+      "instruction": "Drag the correct word to complete the morning greeting:",
+      "prompt": "___ dia, como vai você?",
+      "correctAnswer": "Bom",
+      "choices": ["Bom", "Boa", "Bem", "Bons"],
+      "explanation": "'Dia' is masculine in Portuguese, so it requires the masculine adjective 'Bom'."
+    },
+    {
+      "id": "ex-2",
+      "type": "scramble",
+      "instruction": "Drag the words into the correct order to say 'Hello, how are you?':",
+      "choices": ["Olá", ",", "tudo", "bem", "?"],
+      "correctAnswer": "Olá , tudo bem ?",
+      "explanation": "Standard polite greeting structure: 'Olá, tudo bem?'"
+    },
+    {
+      "id": "ex-3",
+      "type": "matching",
+      "instruction": "Drag the Portuguese expressions to their English translations:",
+      "pairs": {
+        "Bom dia": "Good morning",
+        "Por favor": "Please",
+        "Obrigado": "Thank you",
+        "Tchau": "Goodbye"
+      },
+      "explanation": "These are fundamental conversational building blocks."
+    },
+    {
+      "id": "ex-4",
+      "type": "conjugation",
+      "instruction": "Match the pronoun and tense combination for 'Falar' (To Speak):",
+      "setup": "Eu [Pretérito Perfeito / Past]",
+      "correctAnswer": "falei",
+      "choices": ["falei", "falava", "falará", "falo"],
+      "explanation": "'Eu falei' represents a completed action in the past."
+    },
+    {
+      "id": "ex-5",
+      "type": "gender",
+      "instruction": "Select or drag the correct definite article for this tricky noun:",
+      "prompt": "___ problema",
+      "correctAnswer": "O",
+      "choices": ["O", "A", "Os", "As"],
+      "explanation": "Nouns ending in '-ma' of Greek origin (like problema, sistema) are masculine."
+    },
+    {
+      "id": "ex-6",
+      "type": "contraction",
+      "instruction": "Combine the preposition and article: 'Eu gosto ___ (de + a) música.'",
+      "correctAnswer": "da",
+      "choices": ["da", "do", "de la", "na"],
+      "explanation": "In Portuguese, the preposition 'de' merges with the feminine article 'a' to form 'da'."
+    },
+    {
+      "id": "ex-7",
+      "type": "listening",
+      "instruction": "Listen to the phrase and reconstruct what you hear:",
+      "audioText": "Muito prazer",
+      "choices": ["Muito", "prazer", "obrigado", "de", "nada"],
+      "correctAnswer": "Muito prazer",
+      "explanation": "'Muito prazer' means 'Nice to meet you'."
+    },
+    {
+      "id": "ex-8",
+      "type": "dialogue",
+      "instruction": "Choose the most socially natural response to the statement below:",
+      "setup": "Person A: 'Muito obrigado pela ajuda!'",
+      "correctAnswer": "De nada! Imagina.",
+      "choices": ["De nada! Imagina.", "Por favor.", "Olá, tudo bem?", "Bom dia."],
+      "explanation": "'De nada!' or 'Imagina' are standard native ways to say 'You're welcome'."
+    }
+  ]
+}

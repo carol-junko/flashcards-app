@@ -4,266 +4,204 @@ import { useRoute, useRouter } from 'vue-router'
 
 const route = useRoute()
 const router = useRouter()
+const deckId = route.params.deckId || 'greetings-beginner'
 
-// Capture the specific deck selected from the URL route parameters
-const deckId = route.params.deckId
-
-// Clean readable Title computation from deckId strings
-const deckTitle = deckId
-  .split('-')
-  .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-  .join(' ')
-
-// Reactive statistics trackers
+// User Score Profile Tracking
 const flashcardProgress = ref(0)
 const grammarProgress = ref(0)
-const userStreak = ref(0)
+const currentStreak = ref(3) // Mock active day counter tracking
 
-// Load user stats from localStorage when the component mounts
 onMounted(() => {
-  // Check if this specific deck already has records stored locally
-  const savedData = localStorage.getItem(`prolingua_progress_${deckId}`)
-  
-  if (savedData) {
-    const parsed = JSON.parse(savedData)
-    flashcardProgress.value = parsed.flashcardScore || 0
-    grammarProgress.value = parsed.grammarScore || 0
+  // Pull profile state from browser database storage safely
+  const localRecord = localStorage.getItem(`prolingua_progress_${deckId}`)
+  if (localRecord) {
+    const profile = JSON.parse(localRecord)
+    flashcardProgress.value = profile.flashcardScore || 0
+    grammarProgress.value = profile.grammarScore || 0
   }
-  
-  // Track global daily login streak metrics
-  const savedStreak = localStorage.getItem('prolingua_user_streak')
-  userStreak.value = savedStreak ? parseInt(savedStreak, 10) : 1
 })
 
-function navigateToActivity(mode) {
-  if (mode === 'flashcards') {
-    router.push(`/deck/${deckId}`)
-  } else if (mode === 'grammar') {
-    // We will build this view right after this step!
-    router.push(`/exercises/${deckId}`)
-  }
+function startFlashcards() {
+  router.push(`/deck/${deckId}`)
+}
+
+function startGrammar() {
+  router.push(`/exercises/${deckId}`)
+}
+
+function returnToCategories() {
+  router.push('/languages')
 }
 </script>
 
 <template>
-  <div class="hub-container">
-    <!-- Back Navigation Navigation Link -->
-    <div class="header-nav">
-      <button @click="router.back()" class="back-btn">← Back to Topics</button>
-      <div class="streak-badge">🔥 {{ userStreak }} Day Streak</div>
-    </div>
+  <div class="hub-wrapper">
+    <!-- Navigation Context Header -->
+    <button @click="returnToCategories" class="back-link-btn">← Back to Category Decks</button>
 
-    <!-- Main Banner Title Area -->
-    <header class="hub-header">
-      <span class="meta-label">Active Learning Deck</span>
-      <h2>{{ deckTitle }}</h2>
-      <p>Choose your training style below to begin earning experience points.</p>
-    </header>
-
-    <!-- TWO PILLAR SELECTION HUB PANELS -->
-    <div class="activity-grid">
+    <div class="hub-card">
+      <div class="hub-header-row">
+        <h2>Activity Dashboard</h2>
+        <div class="streak-badge" title="Consecutive learning days completed">
+          🔥 <span class="streak-count">{{ currentStreak }} Day Streak</span>
+        </div>
+      </div>
       
-      <!-- MODE 1: VOCABULARY MEMORIZATION -->
-      <div class="activity-card" @click="navigateToActivity('flashcards')">
-        <div class="card-icon icon-vocab">📇</div>
-        <div class="card-body">
-          <h3>Flashcard Player</h3>
-          <p>Review critical vocabulary items, check language contexts, and master pronunciation using flip-retention loops.</p>
-          
-          <!-- Localized Session Performance Meter -->
-          <div class="progress-section">
-            <div class="progress-bar-meta">
-              <span>Mastery Score</span>
-              <span>{{ flashcardProgress }}%</span>
-            </div>
-            <div class="progress-bar-track">
-              <div class="progress-fill fill-vocab" :style="{ width: flashcardProgress + '%' }"></div>
-            </div>
-          </div>
-        </div>
-        <button class="action-arrow">Launch Player →</button>
-      </div>
+      <p class="deck-subtitle-label">Current Deck Focus: <strong>{{ deckId.replace('-', ' ') }}</strong></p>
 
-      <!-- MODE 2: GRAMMAR APPLICATION -->
-      <div class="activity-card" @click="navigateToActivity('grammar')">
-        <div class="card-icon icon-grammar">✏️</div>
-        <div class="card-body">
-          <h3>Grammar Trainer</h3>
-          <p>Test layout construction with interactive sentence unscrambling and contextual gap-fill cloze exercises.</p>
+      <div class="modes-split-layout">
+        
+        <!-- MODULE COLUMN A: FLASHCARDS STUDY -->
+        <div class="mode-workspace-card">
+          <div class="icon-avatar blue-bg">🗂️</div>
+          <h3>Vocabulary Flashcards</h3>
+          <p class="mode-desc">Review essential terms, pronunciation cues, and targeted translations using an interactive card loop.</p>
           
-          <!-- Localized Session Performance Meter -->
-          <div class="progress-section">
-            <div class="progress-bar-meta">
-              <span>Accuracy Score</span>
-              <span>{{ grammarProgress }}%</span>
-            </div>
-            <div class="progress-bar-track">
-              <div class="progress-fill fill-grammar" :style="{ width: grammarProgress + '%' }"></div>
-            </div>
+          <div class="score-tracking-pill">
+            <span class="score-title">Completion:</span>
+            <strong class="score-value">{{ flashcardProgress }}%</strong>
           </div>
-        </div>
-        <button class="action-arrow">Start Exercises →</button>
-      </div>
 
+          <button @click="startFlashcards" class="action-trigger-btn blue-btn">
+            {{ flashcardProgress > 0 ? 'Resume Cards Session' : 'Start Cards Training' }}
+          </button>
+        </div>
+
+        <!-- MODULE COLUMN B: GRAMMAR PUZZLE TRAINER -->
+        <div class="mode-workspace-card">
+          <div class="icon-avatar green-bg">🎮</div>
+          <h3>Interactive Grammar Challenges</h3>
+          <p class="mode-desc">Practice tenses, articles, word orders, matching pairs, and listening scripts using drag-and-drop mechanics.</p>
+          
+          <div class="score-tracking-pill">
+            <span class="score-title">Highest Grade:</span>
+            <strong class="score-value">{{ grammarProgress }}%</strong>
+          </div>
+
+          <button @click="startGrammar" class="action-trigger-btn green-btn">
+            {{ grammarProgress > 0 ? 'Improve Score Profile' : 'Start Grammar Training' }}
+          </button>
+        </div>
+
+      </div>
     </div>
   </div>
 </template>
 
 <style scoped>
-.hub-container {
+.hub-wrapper {
   max-width: 800px;
-  margin: 1rem auto 0 auto;
+  margin: 2rem auto;
+  padding: 0 1rem;
 }
 
-.header-nav {
+.back-link-btn {
+  background: none;
+  border: none;
+  color: #64748b;
+  font-weight: 600;
+  cursor: pointer;
+  margin-bottom: 1rem;
+  transition: color 0.15s;
+}
+.back-link-btn:hover { color: #4f46e5; }
+
+.hub-card {
+  background: white;
+  border: 1px solid #e2e8f0;
+  border-radius: 1.5rem;
+  padding: 2.5rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+}
+
+.hub-header-row {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  border-bottom: 1px solid #f1f5f9;
+  padding-bottom: 1rem;
+  margin-bottom: 0.5rem;
+}
+.hub-header-row h2 { color: #1e293b; margin: 0; }
+
+.streak-badge {
+  background: #fff7ed;
+  border: 1px solid #ffedd5;
+  padding: 0.4rem 0.8rem;
+  border-radius: 2rem;
+  font-weight: 700;
+  color: #ea580c;
+  font-size: 0.9rem;
+}
+
+.deck-subtitle-label {
+  color: #64748b;
+  text-transform: capitalize;
   margin-bottom: 2rem;
 }
 
-.back-btn {
-  background: none;
-  border: none;
-  color: #4f46e5;
-  font-weight: 600;
-  font-size: 0.95rem;
-  cursor: pointer;
-}
-
-.streak-badge {
-  background-color: #ffedd5;
-  color: #c2410c;
-  padding: 0.35rem 0.75rem;
-  font-weight: 700;
-  border-radius: 0.5rem;
-  font-size: 0.85rem;
-}
-
-.hub-header {
-  text-align: center;
-  margin-bottom: 3rem;
-}
-
-.meta-label {
-  font-size: 0.75rem;
-  text-transform: uppercase;
-  font-weight: 700;
-  letter-spacing: 0.05em;
-  color: #94a3b8;
-}
-
-.hub-header h2 {
-  font-size: 2.25rem;
-  color: #1e293b;
-  margin: 0.25rem 0 0.5rem 0;
-}
-
-.hub-header p {
-  color: #64748b;
-}
-
-/* Split Column Selection Grid Layout */
-.activity-grid {
+.modes-split-layout {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 2rem;
+  gap: 1.5rem;
 }
 
 @media (max-width: 640px) {
-  .activity-grid {
-    grid-template-columns: 1fr;
-  }
+  .modes-split-layout { grid-template-columns: 1fr; }
 }
 
-.activity-card {
-  background: white;
+.mode-workspace-card {
   border: 1px solid #e2e8f0;
-  border-radius: 1.25rem;
-  padding: 2rem;
-  cursor: pointer;
+  border-radius: 1rem;
+  padding: 1.5rem;
   display: flex;
   flex-direction: column;
-  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  align-items: center;
+  text-align: center;
+  background: #f8fafc;
 }
 
-.activity-card:hover {
-  transform: translateY(-4px);
-  border-color: #cbd5e1;
-  box-shadow: 0 15px 30px -10px rgba(0, 0, 0, 0.05);
-}
-
-.card-icon {
-  font-size: 2.5rem;
+.icon-avatar {
+  font-size: 2rem;
   width: 60px;
   height: 60px;
   display: flex;
   align-items: center;
   justify-content: center;
-  border-radius: 1rem;
-  margin-bottom: 1.5rem;
+  border-radius: 50%;
+  margin-bottom: 1rem;
 }
+.blue-bg { background-color: #dbeafe; }
+.green-bg { background-color: #dcfce7; }
 
-.icon-vocab { background-color: #eef2ff; }
-.icon-grammar { background-color: #f0fdf4; }
+.mode-workspace-card h3 { color: #1e293b; margin: 0 0 0.5rem 0; font-size: 1.25rem; }
+.mode-desc { color: #64748b; font-size: 0.95rem; line-height: 1.5; margin-bottom: 1.5rem; flex-grow: 1; }
 
-.card-body h3 {
-  font-size: 1.35rem;
-  color: #1e293b;
-  margin-bottom: 0.5rem;
-}
-
-.card-body p {
-  color: #64748b;
-  font-size: 0.95rem;
-  line-height: 1.6;
-  margin-bottom: 2rem;
-}
-
-/* Tracking Bar Engine Layouts */
-.progress-section {
-  margin-top: auto;
-  margin-bottom: 1.5rem;
-}
-
-.progress-bar-meta {
+.score-tracking-pill {
+  background: white;
+  border: 1px solid #e2e8f0;
+  padding: 0.5rem 1rem;
+  border-radius: 2rem;
+  font-size: 0.9rem;
+  margin-bottom: 1.25rem;
   display: flex;
-  justify-content: space-between;
-  font-size: 0.8rem;
-  font-weight: 600;
-  color: #64748b;
-  margin-bottom: 0.35rem;
+  gap: 0.25rem;
 }
+.score-title { color: #94a3b8; }
+.score-value { color: #1e293b; }
 
-.progress-bar-track {
-  background-color: #f1f5f9;
-  height: 8px;
-  border-radius: 9999px;
-  overflow: hidden;
-}
-
-.progress-fill {
-  height: 100%;
-  border-radius: 9999px;
-  transition: width 0.4s ease;
-}
-
-.fill-vocab { background-color: #4f46e5; }
-.fill-grammar { background-color: #22c55e; }
-
-.action-arrow {
-  background: none;
+.action-trigger-btn {
+  width: 100%;
+  padding: 0.75rem;
   border: none;
-  text-align: left;
-  padding: 0;
-  color: #4f46e5;
+  border-radius: 0.5rem;
   font-weight: 700;
-  font-size: 0.95rem;
-  margin-top: auto;
+  font-size: 1rem;
   cursor: pointer;
+  transition: background-color 0.15s;
 }
-
-.activity-card:hover .action-arrow {
-  color: #312e81;
-}
+.blue-btn { background-color: #3b82f6; color: white; }
+.blue-btn:hover { background-color: #1d4ed8; }
+.green-btn { background-color: #22c55e; color: white; }
+.green-btn:hover { background-color: #16a34a; }
 </style>
