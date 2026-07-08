@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
+import DeckView from '@/views/DeckView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -9,7 +10,11 @@ const router = createRouter({
       name: 'home',
       component: HomeView,
     },
-    // We will add our /deck and /exercise paths right here next!
+    {
+      path: '/deck/:deckID',
+      name: 'deck',
+      component: DeckView,
+    },
   ],
 })
 
