@@ -19,11 +19,8 @@ const error = ref(null)
 // Filter decks dynamically based on language path parameter and level tab configuration
 const filteredDecks = computed(() => {
   return decks.value.filter(deck => {
-    // Handle both 'languageId' and legacy 'lang' properties safely
-    const deckLang = deck.languageId || deck.lang || ''
-    const matchesLang = deckLang.toLowerCase() === langId.value.toLowerCase()
-    const matchesLevel = selectedLevel.value === 'All' || deck.level === selectedLevel.value
-    return matchesLang && matchesLevel
+    return deck.languageId.toLowerCase() === langId.value.toLowerCase() &&
+           (selectedLevel.value === 'All' || deck.level.toLowerCase() === selectedLevel.value.toLowerCase())
   })
 })
 

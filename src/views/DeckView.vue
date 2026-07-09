@@ -71,24 +71,27 @@ function finalizeSessionScore() {
 // Mount target file system loader
 onMounted(async () => {
   try {
-    const response = await fetch(`/data/${deckId}.json`)
-    if (!response.ok) throw new Error(`Target module resource data was missing or inaccessible: ${deckId}.json`)
+    // 1. Fetch the master index to find out where our file sits
+    const manifestResponse = await fetch('/data/manifest.json')
+    const manifest = await manifestResponse.json()
+    const targetModule = manifest.find(item => item.id === deckId.value)
     
-    const data = await response.json()
+    if (!targetModule) throw new Error("Module path mapping not found inside directory manifest.")
+
+    // 2. Load the nested module package file directly
+    const dataResponse = await fetch(`/data/${targetModule.dataPath}`)
+    const data = await dataResponse.json()
     
-    // Normalized input mapping: parses standardized flat array OR multi-key payload layouts
-    let derivedCards = Array.isArray(data) ? data : (data.vocabulary || [])
-    
-    // Safety transformer ensuring dynamic properties safely fallback to common alternate properties
+    // 3. Extract the clean flashcards array
+    const derivedCards = data.vocabulary || []
     flashcards.value = derivedCards.map(card => ({
-      id: card.id || Math.random().toString(),
-      front: card.front || card.foreign || '',
-      back: card.back || card.native || '',
+      id: card.id,
+      front: card.front || card.foreign,
+      back: card.back || card.native,
       context: card.context || ''
     }))
-    
   } catch (err) {
-    error.value = err.message || 'An error occurred while building the vocabulary session cards.'
+    error.value = err.message
   } finally {
     loading.value = false
   }

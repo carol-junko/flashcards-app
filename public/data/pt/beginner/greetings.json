@@ -1,0 +1,102 @@
+{
+  "id": "greetings-beginner",
+  "title": "Essential Greetings",
+  "language": "pt",
+  "level": "Beginner",
+
+  "vocabulary": [
+    {
+      "id": "v1",
+      "front": "Bom dia",
+      "back": "Good morning",
+      "context": "Used from sunrise until noon."
+    },
+    {
+      "id": "v2",
+      "front": "Boa tarde",
+      "back": "Good afternoon",
+      "context": "Used from noon until sunset."
+    },
+    {
+      "id": "v3",
+      "front": "Boa noite",
+      "back": "Good evening / Good night",
+      "context": "Used both on arrival and departure after dark."
+    },
+    {
+      "id": "v4",
+      "front": "Por favor",
+      "back": "Please",
+      "context": "Standard polite request modifier."
+    },
+    {
+      "id": "v5",
+      "front": "Obrigado",
+      "back": "Thank you",
+      "context": "Masculine form (used if you identify as male)."
+    },
+    {
+      "id": "v6",
+      "front": "Obrigada",
+      "back": "Thank you",
+      "context": "Feminine form (used if you identify as female)."
+    },
+    {
+      "id": "v7",
+      "front": "De nada",
+      "back": "You're welcome",
+      "context": "Literal translation: 'of nothing'."
+    },
+    {
+      "id": "v8",
+      "front": "Como está?",
+      "back": "How are you?",
+      "context": "Standard polite/formal question formula."
+    }
+  ],
+
+  "grammarExercises": [
+    {
+      "id": "ex-cloze-1",
+      "type": "cloze",
+      "instruction": "Drag the correct morning greeting into the blank target space.",
+      "sentenceWithGaps": "Olá, [GAP]! Como você está hoje?",
+      "correctAnswers": ["Bom dia"],
+      "distractors": ["Boa noite", "Boa tarde", "De nada"]
+    },
+    {
+      "id": "ex-scramble-1",
+      "type": "scramble",
+      "instruction": "Reconstruct proper sentence syntax for a formal thank you response.",
+      "scrambledTokens": ["nada", "De", "amigo", "meu"],
+      "correctSequence": ["De", "nada", "meu", "amigo"]
+    },
+    {
+      "id": "ex-match-1",
+      "type": "match",
+      "instruction": "Pair matching native terms directly with target expressions.",
+      "pairs": [
+        { "left": "Por favor", "right": "Please" },
+        { "left": "Obrigado", "right": "Thank you" },
+        { "left": "Como está?", "right": "How are you?" }
+      ]
+    },
+    {
+      "id": "ex-gender-1",
+      "type": "gender-selector",
+      "instruction": "Select the proper masculine modifier variant for expression validation.",
+      "promptText": "If a male speaker is saying 'Thank you', they must choose:",
+      "options": ["Obrigado", "Obrigada"],
+      "correctAnswer": "Obrigado"
+    },
+    {
+      "id": "ex-dialogue-1",
+      "type": "dialogue",
+      "instruction": "Select the most authentic situational conversation response bloc.",
+      "context": "Scenario: Entering a cafe at 3:00 PM.",
+      "prompt": "Attendant: 'Olá, seja bem-vindo!'",
+      "options": ["Boa tarde! Um café, por favor.", "Boa noite! Até amanhã.", "De nada, tchau!"],
+      "correctAnswer": "Boa tarde! Um café, por favor."
+    }
+  ]
+}
