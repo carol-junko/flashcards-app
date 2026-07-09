@@ -1,0 +1,29 @@
+[
+  {
+    "id": "br-basics",
+    "languageId": "br",
+    "level": "Beginner",
+    "category": "Essentials",
+    "title": "Core Everyday Phrases",
+    "description": "Master crucial greetings, courtesy terms, and primary questions used daily.",
+    "cardCount": 25
+  },
+  {
+    "id": "br-verbs-present",
+    "languageId": "br",
+    "level": "Beginner",
+    "category": "Grammar",
+    "title": "Regular -AR Verbs",
+    "description": "Understand conjugation patterns for high-frequency verbs like falar, estudar, and trabalhar.",
+    "cardCount": 18
+  },
+  {
+    "id": "br-past-tense",
+    "languageId": "br",
+    "level": "Intermediate",
+    "category": "Grammar",
+    "title": "Pretérito Perfeito",
+    "description": "Dive deep into past-tense execution for narrating specific completed events fluently.",
+    "cardCount": 30
+  }
+]
