@@ -10,6 +10,7 @@ const decks = ref([])
 const isLoading = ref(true)
 const fetchError = ref(null)
 
+
 // 🔄 Syncing the fetching logic with your file naming scheme
 onMounted(async () => {
   try {
@@ -47,8 +48,11 @@ function selectDeck(deckId) {
     console.error("Critical: Invoked navigation without a valid deck definition reference tag.")
     return
   }
-  // Safe routing passing the exact deck ID down into the exercise workspace
-  router.push(`/hub/${deckId}`)
+
+  router.push({
+    name: 'ExerciseHub',    // Matches the exact 'name' key in your routes array
+    params: { deckId: deckId } // Safely injects your dynamic property
+  })
 }
 
 function goBack() {
