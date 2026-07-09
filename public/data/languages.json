@@ -1,0 +1,17 @@
+[
+    {
+    "id": "br",
+    "name": "Brazilian Portuguese",
+    "flag": "🇧🇷"  
+    },
+    {
+    "id": "en",
+    "name": "English",
+    "flag": "🇬🇧"  
+    },
+    {
+    "id": "fr",
+    "name": "French",
+    "flag": "🇫🇷"  
+    }
+]
