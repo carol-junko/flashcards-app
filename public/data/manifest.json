@@ -2,15 +2,21 @@
   {
     "id": "greetings-beginner",
     "languageId": "pt",
-    "level": "Beginner",
+    "level": "beginner",
+    "category": "Greetings",
     "title": "Essential Greetings",
-    "description": "Master everyday welcomes, departures, and basic courtesy expressions in Portuguese."
+    "description": "Master everyday welcomes, departures, and basic courtesy expressions.",
+    "dataPath": "pt/beginner/greetings.json",
+    "cardCount": 15
   },
   {
     "id": "verbs-intermediate",
     "languageId": "pt",
-    "level": "Intermediate",
+    "level": "intermediate",
+    "category": "Verbs",
     "title": "Irregular Present Verbs",
-    "description": "Tackle high-frequency irregular verbs (Ser, Estar, Ter, Ir) in common scenarios."
+    "description": "Tackle high-frequency irregular verbs (Ser, Estar, Ter, Ir) in common scenarios.",
+    "dataPath": "pt/intermediate/verbs.json",
+    "cardCount": 20
   }
 ]
