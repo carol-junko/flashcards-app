@@ -1,66 +1,170 @@
 <script setup>
-import { ref } from 'vue'
-import { useRoute } from 'vue-router'
+import { ref, onMounted } from 'vue'
+import { useRoute, useRouter } from 'vue-router'
 
 const route = useRoute()
+const router = useRouter()
 const deckId = route.params.deckId // Captures whatever is after /deck/ in the URL
 
-// Temporary hardcoded card data to test our logic and styling
+// Interface Lifecycle States
+const flashcards = ref([])
 const currentCardIndex = ref(0)
 const isFlipped = ref(false)
+const loading = ref(true)
+const error = ref(null)
 
-const flashcards = ref([
-  { id: '1', front: 'Bom dia', back: 'Good morning', context: 'Used until noon.' },
-  { id: '2', front: 'Por favor', back: 'Please', context: 'Polite request.' },
-  { id: '3', front: 'Obrigado', back: 'Thank you', context: 'Masculine form.' }
-])
+// Session Tracking Vectors
+const correctCount = ref(0)
 
 function flipCard() {
   isFlipped.value = !isFlipped.value
 }
 
-function nextCard() {
-  isFlipped.value = false // Ensure the next card starts on the front side
-  if (currentCardIndex.value < flashcards.value.length - 1) {
-    currentCardIndex.value++
-  } else {
-    currentCardIndex.value = 0 // Loop back to the first card
-  }
+// Exit back to dashboard cleanly
+function exitToHub() {
+  router.push(`/hub/${deckId}`)
 }
+
+// Progress through the deck, routing to score finalizing if closing out the final item
+function handleResponse(isCorrect) {
+  if (isCorrect) correctCount.value++
+  
+  // Clean up flip rotation state
+  isFlipped.value = false
+
+  // Minimal timeout to let card front reset smoothly before swapping index text
+  setTimeout(() => {
+    if (currentCardIndex.value < flashcards.value.length - 1) {
+      currentCardIndex.value++
+    } else {
+      finalizeSessionScore()
+    }
+  }, 200)
+}
+
+// Safely modify target metrics without blowing away cross-functional exercise scores
+function finalizeSessionScore() {
+  const customStorageKey = `lang_deck_${deckId}`
+  const existingRawData = localStorage.getItem(customStorageKey)
+  
+  let persistentPayload = { flashcardScore: 0, grammarScore: 0 }
+  
+  if (existingRawData) {
+    try {
+      persistentPayload = JSON.parse(existingRawData)
+    } catch (e) {
+      // Gracefully fall back to initialization defaults if payload parsing catches
+    }
+  }
+
+  // Set score percentage
+  const finalPercentage = Math.round((correctCount.value / flashcards.value.length) * 100)
+  persistentPayload.flashcardScore = finalPercentage
+
+  // Write out targeted mutations
+  localStorage.setItem(customStorageKey, JSON.stringify(persistentPayload))
+  
+  // Move user out back to the Hub view
+  exitToHub()
+}
+
+// Mount target file system loader
+onMounted(async () => {
+  try {
+    const response = await fetch(`/data/${deckId}.json`)
+    if (!response.ok) throw new Error(`Target module resource data was missing or inaccessible: ${deckId}.json`)
+    
+    const data = await response.json()
+    
+    // Normalized input mapping: parses standardized flat array OR multi-key payload layouts
+    let derivedCards = Array.isArray(data) ? data : (data.vocabulary || [])
+    
+    // Safety transformer ensuring dynamic properties safely fallback to common alternate properties
+    flashcards.value = derivedCards.map(card => ({
+      id: card.id || Math.random().toString(),
+      front: card.front || card.foreign || '',
+      back: card.back || card.native || '',
+      context: card.context || ''
+    }))
+    
+  } catch (err) {
+    error.value = err.message || 'An error occurred while building the vocabulary session cards.'
+  } finally {
+    loading.value = false
+  }
+})
 </script>
 
 <template>
   <div class="deck-container">
-    <p class="deck-info">Viewing Deck: <strong>{{ deckId }}</strong></p>
-    <p class="progress-tracker">Card {{ currentCardIndex + 1 }} of {{ flashcards.length }}</p>
-
-    <!-- THE FLASHCARD STAGE -->
-    <div class="flashcard-wrapper" @click="flipCard">
-      <div class="flashcard-inner" :class="{ 'is-flipped': isFlipped }">
-        
-        <!-- Front of Card -->
-        <div class="card-face card-front">
-          <span class="language-label">Portuguese</span>
-          <h2>{{ flashcards[currentCardIndex].front }}</h2>
-          <small class="hint-text">Click card to reveal translation</small>
-        </div>
-
-        <!-- Back of Card -->
-        <div class="card-face card-back">
-          <span class="language-label">English</span>
-          <h2>{{ flashcards[currentCardIndex].back }}</h2>
-          <p class="context-text">{{ flashcards[currentCardIndex].context }}</p>
-        </div>
-
-      </div>
+    <!-- BACK TO HUB NAV TRIGGER -->
+    <div style="width: 100%; text-align: left; margin-bottom: 0.5rem;">
+      <button @click="exitToHub" style="background: none; border: none; color: #64748b; font-weight: 500; cursor: pointer; padding: 0;">
+        ✕ Exit to Hub
+      </button>
     </div>
 
-    <!-- ACTION BUTTONS -->
-    <div class="controls">
-      <button class="btn" @click.stop="nextCard">Next Card →</button>
+    <p class="deck-info">Viewing Deck: <strong>{{ deckId }}</strong></p>
+
+    <!-- ASYNC STATE SCENARIOS -->
+    <div v-if="loading" class="empty-state-fallback">
+      <p>Assembling vocabulary card layout...</p>
+    </div>
+
+    <div v-else-if="error" class="empty-state-fallback" style="border-color: #fca5a5; color: #ef4444;">
+      <p>{{ error }}</p>
+    </div>
+
+    <div v-else-if="flashcards.length === 0" class="empty-state-fallback">
+      <p>No card data discovered within this learning index profile.</p>
+    </div>
+
+    <div v-else style="width: 100%; display: flex; flex-direction: column; align-items: center;">
+      <p class="progress-tracker">Card {{ currentCardIndex + 1 }} of {{ flashcards.length }}</p>
+
+      <!-- THE FLASHCARD STAGE -->
+      <div class="flashcard-wrapper" @click="flipCard">
+        <div class="flashcard-inner" :class="{ 'is-flipped': isFlipped }">
+          
+          <!-- Front of Card -->
+          <div class="card-face card-front">
+            <span class="language-label">Portuguese</span>
+            <h2>{{ flashcards[currentCardIndex].front }}</h2>
+            <small class="hint-text">Click card to reveal translation</small>
+          </div>
+
+          <!-- Back of Card -->
+          <div class="card-face card-back">
+            <span class="language-label">English</span>
+            <h2>{{ flashcards[currentCardIndex].back }}</h2>
+            <p class="context-text">{{ flashcards[currentCardIndex].context }}</p>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- PERFORMANCE GRADING BAR CONTROLS -->
+      <div class="controls" style="display: flex; gap: 0.75rem;">
+        <button 
+          class="btn" 
+          style="background-color: #ef4444;" 
+          @click.stop="handleResponse(false)"
+        >
+          Still Learning
+        </button>
+        <button 
+          class="btn" 
+          style="background-color: #10b981;" 
+          @click.stop="handleResponse(true)"
+        >
+          Know It!
+        </button>
+      </div>
     </div>
   </div>
 </template>
+
+
 
 <style scoped>
 .deck-container {
@@ -164,7 +268,6 @@ h2 {
 
 .btn {
   width: 100%;
-  background-color: #1e293b;
   color: white;
   border: none;
   padding: 1rem;
@@ -172,10 +275,21 @@ h2 {
   font-weight: 600;
   border-radius: 0.75rem;
   cursor: pointer;
-  transition: background-color 0.2s;
+  transition: opacity 0.2s;
 }
 
 .btn:hover {
-  background-color: #0f172a;
+  opacity: 0.9;
+}
+
+.empty-state-fallback {
+  text-align: center;
+  width: 100%;
+  padding: 3rem;
+  color: #94a3b8;
+  background: white;
+  border-radius: 1rem;
+  border: 1px dashed #e2e8f0;
+  margin: 1.5rem 0;
 }
 </style>

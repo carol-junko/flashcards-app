@@ -1,0 +1,16 @@
+[
+  {
+    "id": "greetings-beginner",
+    "languageId": "pt",
+    "level": "Beginner",
+    "title": "Essential Greetings",
+    "description": "Master everyday welcomes, departures, and basic courtesy expressions in Portuguese."
+  },
+  {
+    "id": "verbs-intermediate",
+    "languageId": "pt",
+    "level": "Intermediate",
+    "title": "Irregular Present Verbs",
+    "description": "Tackle high-frequency irregular verbs (Ser, Estar, Ter, Ir) in common scenarios."
+  }
+]

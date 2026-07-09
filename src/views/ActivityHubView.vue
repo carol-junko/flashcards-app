@@ -12,12 +12,24 @@ const grammarProgress = ref(0)
 const currentStreak = ref(3) // Mock active day counter tracking
 
 onMounted(() => {
-  // Pull profile state from browser database storage safely
-  const localRecord = localStorage.getItem(`prolingua_progress_${deckId}`)
+  // Pull profile state from browser database storage safely using the uniform workspace key
+  const localRecord = localStorage.getItem(`lang_deck_${deckId}`)
   if (localRecord) {
-    const profile = JSON.parse(localRecord)
-    flashcardProgress.value = profile.flashcardScore || 0
-    grammarProgress.value = profile.grammarScore || 0
+    try {
+      const profile = JSON.parse(localRecord)
+      flashcardProgress.value = profile.flashcardScore || 0
+      grammarProgress.value = profile.grammarScore || 0
+    } catch (e) {
+      console.warn("Could not read tracking data matrix for deck instance:", deckId)
+    }
+  }
+
+  // Sync general application session streaks if needed
+  const appStreak = localStorage.getItem('lang_app_streak')
+  if (appStreak) {
+    currentStreak.value = parseInt(appStreak, 10) || 3
+  } else {
+    localStorage.setItem('lang_app_streak', '3')
   }
 })
 
@@ -47,7 +59,7 @@ function returnToCategories() {
         </div>
       </div>
       
-      <p class="deck-subtitle-label">Current Deck Focus: <strong>{{ deckId.replace('-', ' ') }}</strong></p>
+      <p class="deck-subtitle-label">Current Deck Focus: <strong>{{ deckId.replace(/-/g, ' ') }}</strong></p>
 
       <div class="modes-split-layout">
         
@@ -87,6 +99,8 @@ function returnToCategories() {
     </div>
   </div>
 </template>
+
+
 
 <style scoped>
 .hub-wrapper {

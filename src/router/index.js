@@ -3,7 +3,9 @@ import HomeView from '../views/HomeView.vue'
 import LanguagePickerView from '@/views/LanguagePickerView.vue'
 import CategoryView from '@/views/CategoryView.vue'
 import ActivityHubView from '@/views/ActivityHubView.vue'
+import ExerciseView from '@/views/ExerciseView.vue'
 import DeckView from '@/views/DeckView.vue'
+
 
 
 const router = createRouter({
@@ -24,15 +26,20 @@ const router = createRouter({
       name: 'languages',
       component: LanguagePickerView,
     },
-    { 
-      path: '/setup/:langId', 
-      name: 'setup', 
-      component: CategoryView 
+    {
+      path: '/setup/:langId',
+      name: 'setup',
+      component: CategoryView,
     },
-    { 
-      path: '/hub/:deckId', 
-      name: 'hub', 
-      component: ActivityHubView 
+    {
+      path: '/hub/:deckId',
+      name: 'hub',
+      component: ActivityHubView,
+    },
+    {
+      path: '/exercises/:deckId',
+      name: 'exercises',
+      component: ExerciseView,
     },
   ],
 })
