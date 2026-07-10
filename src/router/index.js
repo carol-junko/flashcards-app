@@ -4,8 +4,7 @@ import LanguagePickerView from '../views/LanguagePickerView.vue'
 import CategoryView from '../views/CategoryView.vue'
 import ExerciseView from '../views/ExerciseView.vue'
 import FlashcardsView from '../views/FlashcardsView.vue'
-// import GrammarPractice from '../views/GrammarPractice.vue'
-
+import ExerciseDashboard from '@/views/ExerciseDashboard.vue'
 const routes = [
   {
     path: '/',
@@ -32,12 +31,13 @@ const routes = [
     name: 'Flashcards',
     component: FlashcardsView,
   },
-  // {
-  //   path: '/hub/:deckId/grammar',
-  //   name: 'GrammarPractice',
-  //   component: GrammarPractice,
-  // },
+  {
+    path: '/exercises/:deckId/exercises',
+    name: 'Exercises',
+    component: ExerciseDashboard,
+  },
 ]
+
 
 const router = createRouter({
   history: createWebHistory(),

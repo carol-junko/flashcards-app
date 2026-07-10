@@ -1,0 +1,600 @@
+/* ==========================================================================
+   8-TYPE GAMIFIED ENGINE - CORE LAYOUTS
+   ========================================================================== */
+
+/* Shared Component Wrapper */
+.cloze-exercise-container,
+.scramble-exercise-container,
+.match-exercise-container,
+.conjugation-exercise-container,
+.preposition-exercise-container,
+.listening-exercise-container,
+.dialogue-exercise-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  width: 100%;
+}
+
+/* Instructions Headers */
+.exercise-instruction-block {
+  margin-bottom: 0.5rem;
+}
+
+.game-instruction {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--text-main, #2c3e50);
+  margin: 0 0 0.25rem 0;
+}
+
+.game-translation {
+  font-size: 1rem;
+  color: var(--text-muted, #7f8c8d);
+  margin: 0;
+}
+
+/* Reusable Action Panel Footer */
+.exercise-action-panel {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 1rem;
+}
+
+.action-submit-btn {
+  min-width: 160px;
+}
+
+/* ==========================================================================
+   1. CLOZE EXERCISE (INLINE INPUT EDITION)
+   ========================================================================== */
+
+.cloze-sentence-card {
+  font-size: 1.35rem;
+  line-height: 2.4;
+  padding: 1.75rem;
+  background-color: var(--bg-card-neutral, #f8f9fa);
+  border: 1px solid var(--border-neutral, #e2e8f0);
+  border-radius: 12px;
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.01);
+}
+
+.sentence-text-segment {
+  vertical-align: middle;
+}
+
+.cloze-inline-input {
+  display: inline-block;
+  height: 2.4rem;
+  padding: 0 0.5rem;
+  margin: 0 0.35rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-align: center;
+  color: var(--text-main, #1e293b);
+  background-color: #ffffff;
+  border: 1px solid var(--border-chip, #cbd5e1);
+  border-radius: 6px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  vertical-align: middle;
+  transition: all 0.15s ease-in-out;
+}
+
+.cloze-inline-input:focus {
+  outline: none;
+  border-color: var(--brand-primary, #3498db);
+  box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.15);
+}
+
+/* ==========================================================================
+   2. SCRAMBLE EXERCISE (TAP-TO-PLACE REUSABLE TOKENS)
+   ========================================================================== */
+
+.scramble-assembly-board {
+  min-height: 5.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  gap: 0.65rem;
+  padding: 1.25rem;
+  background-color: var(--bg-card-neutral, #f8f9fa);
+  border: 1px solid var(--border-neutral, #e2e8f0);
+  border-radius: 12px;
+}
+
+.assembly-placeholder {
+  font-size: 0.95rem;
+  color: var(--text-muted, #94a3b8);
+  font-style: italic;
+  width: 100%;
+}
+
+.scramble-source-pool {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  padding: 1.25rem;
+  background-color: var(--bg-pool-neutral, #ffffff);
+  border: 1px dashed var(--border-neutral, #e2e8f0);
+  border-radius: 12px;
+}
+
+/* Universal Interactive Token Chips */
+.word-token-chip {
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--text-chip, #2c3e50);
+  border: 1px solid var(--border-chip, #cbd5e1);
+  border-radius: 8px;
+  background-color: var(--bg-chip, #ffffff);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+  cursor: pointer;
+  user-select: none;
+  transition: all 0.15s ease;
+}
+
+.word-token-chip:hover:not(:disabled) {
+  border-color: var(--brand-primary, #3498db);
+  background-color: rgba(52, 152, 219, 0.02);
+  transform: translateY(-1px);
+}
+
+.word-token-chip:disabled {
+  opacity: 0.25;
+  background-color: var(--bg-disabled, #e2e8f0);
+  border-color: transparent;
+  box-shadow: none;
+  cursor: not-allowed;
+}
+
+.word-token-chip.active-placed {
+  border-color: var(--brand-primary, #3498db);
+  background-color: rgba(52, 152, 219, 0.05);
+}
+
+/* ==========================================================================
+   3. MATCH EXERCISE GRID COLUMN DESIGN
+   ========================================================================== */
+
+.match-columns-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  width: 100%;
+}
+
+.match-items-column {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.match-card-btn {
+  width: 100%;
+  padding: 1rem 1.25rem;
+  font-size: 1.05rem;
+  font-weight: 500;
+  text-align: left;
+  background-color: var(--bg-surface, #ffffff);
+  border: 1px solid var(--border-chip, #cbd5e1);
+  border-radius: 10px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+  cursor: pointer;
+  transition: all 0.15s ease-in-out;
+}
+
+.match-card-btn:hover:not(:disabled) {
+  border-color: var(--brand-primary, #3498db);
+  background-color: rgba(52, 152, 219, 0.02);
+}
+
+.match-card-btn.is-selected {
+  border-color: var(--brand-primary, #3498db);
+  background-color: rgba(52, 152, 219, 0.08);
+  box-shadow: 0 0 0 2px rgba(52, 152, 219, 0.2);
+}
+
+.match-card-btn:disabled {
+  background-color: var(--bg-disabled, #f1f5f9);
+  border-color: transparent;
+  color: var(--text-muted, #94a3b8);
+  box-shadow: none;
+  cursor: not-allowed;
+}
+
+/* ==========================================================================
+   4. CONJUGATION ENGINE ROW CONTROLS
+   ========================================================================== */
+
+.conjugation-matrix-card {
+  border: 1px solid var(--border-neutral, #e2e8f0);
+  border-radius: 12px;
+  background-color: var(--bg-surface, #ffffff);
+  overflow: hidden;
+}
+
+.conjugation-verb-banner {
+  padding: 1rem 1.5rem;
+  background-color: var(--bg-card-neutral, #f8f9fa);
+  border-bottom: 1px solid var(--border-neutral, #e2e8f0);
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text-main, #2c3e50);
+}
+
+.highlight-verb-text {
+  color: var(--brand-primary, #3498db);
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.conjugation-input-table-grid {
+  display: flex;
+  flex-direction: column;
+}
+
+.conjugation-table-row {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  border-bottom: 1px solid var(--border-neutral, #e2e8f0);
+  align-items: center;
+}
+
+.conjugation-table-row:last-child {
+  border-bottom: none;
+}
+
+.pronoun-prefix-cell {
+  padding: 1rem 1.5rem;
+  font-weight: 600;
+  color: var(--text-main, #1e293b);
+  font-size: 1.1rem;
+  background-color: rgba(0, 0, 0, 0.005);
+}
+
+.input-cell-wrapper {
+  padding: 0.5rem 1.5rem;
+}
+
+.conjugation-field {
+  max-width: 320px;
+  height: 2.5rem;
+  font-size: 1rem;
+  border: 1px solid var(--border-chip, #cbd5e1);
+  border-radius: 6px;
+  padding: 0 0.75rem;
+}
+
+/* ==========================================================================
+   5. PREPOSITION FORGE LABS
+   ========================================================================== */
+
+.sentence-preview-box {
+  background-color: var(--bg-card-neutral, #f8f9fa);
+  border: 1px solid var(--border-neutral, #e2e8f0);
+  border-radius: 12px;
+  padding: 1.5rem;
+  text-align: center;
+  font-size: 1.25rem;
+  color: var(--text-main, #1e293b);
+  line-height: 1.6;
+}
+
+.contraction-gap-display {
+  display: inline-block;
+  min-width: 80px;
+  margin: 0 0.5rem;
+  padding: 0.1rem 0.5rem;
+  border-bottom: 3px solid var(--brand-primary, #3498db);
+  font-weight: bold;
+  color: var(--text-muted, #94a3b8);
+  text-align: center;
+  transition: all 0.2s ease;
+}
+
+.contraction-gap-display.has-value {
+  color: var(--brand-primary, #3498db);
+  border-bottom-color: #2ecc71; /* Accent brand success */
+}
+
+.contraction-forge-workspace {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  background-color: var(--bg-surface, #ffffff);
+  padding: 1.25rem;
+  border: 1px solid var(--border-neutral, #e2e8f0);
+  border-radius: 14px;
+}
+
+.forge-selector-group {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.selector-group-label {
+  font-size: 0.85rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-muted, #64748b);
+  text-align: center;
+}
+
+.forge-options-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.5rem;
+}
+
+.forge-option-btn {
+  padding: 0.75rem 0.5rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border: 1px solid var(--border-chip, #cbd5e1);
+  background-color: #ffffff;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.forge-option-btn:hover {
+  background-color: var(--bg-card-neutral, #f8f9fa);
+  border-color: var(--text-muted, #94a3b8);
+}
+
+.forge-option-btn.is-selected {
+  background-color: var(--brand-primary, #3498db);
+  color: #ffffff;
+  border-color: var(--brand-primary, #3498db);
+  box-shadow: 0 4px 12px rgba(52, 152, 219, 0.2);
+}
+
+.forge-math-sign {
+  font-size: 1.75rem;
+  font-weight: bold;
+  color: var(--text-muted, #94a3b8);
+  padding-bottom: 0.25rem;
+}
+
+/* ==========================================================================
+   6. LISTENING AUDIO DECK CONSOLE
+   ========================================================================== */
+
+.audio-playback-deck {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1.5rem 0;
+}
+
+.audio-trigger-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+  background-color: var(--bg-surface, #ffffff);
+  border: 2px solid var(--brand-primary, #3498db);
+  color: var(--brand-primary, #3498db);
+  padding: 1.5rem 2.5rem;
+  border-radius: 20px;
+  cursor: pointer;
+  box-shadow: 0 6px 16px rgba(52, 152, 219, 0.1);
+  transition: all 0.2s ease;
+}
+
+.audio-trigger-btn:hover:not(:disabled) {
+  background-color: rgba(52, 152, 219, 0.04);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(52, 152, 219, 0.15);
+}
+
+.audio-trigger-btn:disabled {
+  border-color: #2ecc71;
+  color: #2ecc71;
+  cursor: default;
+}
+
+.btn-audio-label {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+@keyframes audioPulse {
+  0% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.05); opacity: 0.9; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+.pulse-animation {
+  animation: audioPulse 1.4s infinite ease-in-out;
+}
+
+.transcript-entry-zone {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.input-field-label {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text-muted, #64748b);
+}
+
+.transcript-textarea {
+  width: 100%;
+  padding: 1rem;
+  font-size: 1.1rem;
+  border: 2px solid var(--border-neutral, #e2e8f0);
+  border-radius: 12px;
+  background-color: var(--bg-surface, #ffffff);
+  color: var(--text-main, #1e293b);
+  resize: none;
+  font-family: inherit;
+  transition: border-color 0.2s ease;
+}
+
+.transcript-textarea:focus {
+  outline: none;
+  border-color: var(--brand-primary, #3498db);
+}
+
+/* ==========================================================================
+   7. INTERACTIVE DIALOGUE THREAD WORKSPACE
+   ========================================================================== */
+
+.dialogue-chat-thread {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  background-color: var(--bg-card-neutral, #f8f9fa);
+  border: 1px solid var(--border-neutral, #e2e8f0);
+  border-radius: 16px;
+  padding: 1.5rem;
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+.chat-bubble-row {
+  display: flex;
+  gap: 0.75rem;
+  max-width: 85%;
+  align-items: flex-start;
+}
+
+.chat-bubble-row.role-left {
+  align-self: flex-start;
+}
+
+.chat-bubble-row.role-right {
+  align-self: flex-end;
+  flex-direction: row-reverse;
+}
+
+.character-avatar-badge {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background-color: var(--border-chip, #cbd5e1);
+  color: var(--text-main, #1e293b);
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+  flex-shrink: 0;
+}
+
+.role-right .character-avatar-badge {
+  background-color: rgba(52, 152, 219, 0.2);
+  color: var(--brand-primary, #3498db);
+}
+
+.chat-bubble-content {
+  background-color: #ffffff;
+  border: 1px solid var(--border-neutral, #e2e8f0);
+  padding: 0.75rem 1rem;
+  border-radius: 4px 14px 14px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.02);
+}
+
+.role-right .chat-bubble-content {
+  border-radius: 14px 4px 14px 14px;
+  background-color: #e0f2fe;
+  border-color: #bae6fd;
+}
+
+.character-name-label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--text-muted, #64748b);
+  margin-bottom: 0.15rem;
+}
+
+.character-text-phrase {
+  font-size: 1rem;
+  color: var(--text-main, #1e293b);
+  margin: 0;
+}
+
+.character-text-translation {
+  font-size: 0.8rem;
+  color: var(--text-muted, #64748b);
+  margin-top: 0.2rem;
+}
+
+.dialogue-options-selector {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.dialogue-option-card {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  width: 100%;
+  padding: 1rem;
+  background-color: #ffffff;
+  border: 1px solid var(--border-chip, #cbd5e1);
+  border-radius: 12px;
+  text-align: left;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.dialogue-option-card:hover {
+  background-color: var(--bg-card-neutral, #f8f9fa);
+  border-color: var(--text-muted, #94a3b8);
+}
+
+.dialogue-option-card.is-active {
+  border-color: var(--brand-primary, #3498db);
+  background-color: rgba(52, 152, 219, 0.04);
+  box-shadow: 0 4px 12px rgba(52, 152, 219, 0.08);
+}
+
+.option-index-marker {
+  width: 28px;
+  height: 28px;
+  border-radius: 6px;
+  border: 1px solid var(--border-chip, #cbd5e1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 0.9rem;
+  color: var(--text-muted, #64748b);
+  background-color: var(--bg-card-neutral, #f8f9fa);
+}
+
+.dialogue-option-card.is-active .option-index-marker {
+  background-color: var(--brand-primary, #3498db);
+  color: #ffffff;
+  border-color: var(--brand-primary, #3498db);
+}
+
+.option-text-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.option-text-main {
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--text-main, #1e293b);
+  margin: 0;
+}
+
+.option-text-sub {
+  font-size: 0.8rem;
+  color: var(--text-muted, #64748b);
+}

@@ -1,0 +1,133 @@
+[
+  {
+    "id": "ex_001_cloze",
+    "type": "cloze",
+    "payload": {
+      "instruction": "Complete a frase com o verbo correto:",
+      "chunks": [
+        { "type": "text", "value": "Nós " },
+        { "type": "blank", "blankId": "b1", "expectedLength": 7 },
+        { "type": "text", "value": " em São Paulo desde o ano passado." }
+      ],
+      "truthMap": { "b1": "moramos" }
+    }
+  },
+  {
+    "id": "ex_002_scramble",
+    "type": "scramble",
+    "payload": {
+      "instruction": "Organize as palavras para formar uma saudação correta:",
+      "wordsPool": ["muito", "Olá!", "Tudo", "bem?", "bom"],
+      "correctSentence": "Olá! Tudo bem? Tudo bom"
+    }
+  },
+  {
+    "id": "ex_003_match",
+    "type": "match",
+    "payload": {
+      "instruction": "Combine os pronomes com as formas verbais correspondentes:",
+      "sources": [
+        { "id": "s1", "text": "Eu" },
+        { "id": "s2", "text": "Eles" },
+        { "id": "s3", "text": "Você" }
+      ],
+      "targets": [
+        { "id": "t1", "text": "falo português." },
+        { "id": "t2", "text": "falam português." },
+        { "id": "t3", "text": "fala português." }
+      ],
+      "truthMap": {
+        "s1": "t1",
+        "s2": "t2",
+        "s3": "t3"
+      }
+    }
+  },
+  {
+    "id": "ex_004_conjugation",
+    "type": "conjugation",
+    "payload": {
+      "instruction": "Conjugue o verbo regular no Presente do Indicativo:",
+      "verbTarget": "Comer",
+      "rows": [
+        { "rowId": "r1", "pronoun": "Eu" },
+        { "rowId": "r2", "pronoun": "Você" },
+        { "rowId": "r3", "pronoun": "Nós" }
+      ],
+      "truthMap": {
+        "r1": "como",
+        "r2": "come",
+        "r3": "comemos"
+      }
+    }
+  },
+  {
+    "id": "ex_005_preposition",
+    "type": "preposition",
+    "payload": {
+      "instruction": "Selecione a preposição e o artigo corretos para formar a contração:",
+      "sentenceBefore": "Eles vão ",
+      "sentenceAfter": " praia amanhã de manhã.",
+      "prepositions": ["de", "em", "a"],
+      "articles": ["o", "a", "os", "as"],
+      "combinationsMap": {
+        "a+a": "à",
+        "de+o": "do",
+        "em+a": "na",
+        "a+as": "às"
+      },
+      "correctContraction": "à"
+    }
+  },
+  {
+    "id": "ex_006_listening",
+    "type": "listening",
+    "payload": {
+      "instruction": "Ouça o áudio com atenção e digite exatamente o que foi dito:",
+      "audioUrl": "/audio/br-basics/bom-dia.mp3",
+      "transcript": "Bom dia, como você está hoje?",
+      "acceptedVariations": ["bom dia como voce esta hoje", "bom dia, como voce esta hoje?"]
+    }
+  },
+  {
+    "id": "ex_007_dialogue",
+    "type": "dialogue",
+    "payload": {
+      "instruction": "Escolha a melhor resposta para manter a conversa natural:",
+      "context": "Na padaria:",
+      "turns": [{ "speaker": "Atendente", "text": "Pois não, o que deseja?" }],
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Quero dois pãezinhos e um café, por favor.",
+          "isCorrect": true,
+          "feedback": "Excelente! Resposta educada e natural."
+        },
+        {
+          "id": "opt2",
+          "text": "Tchau, até logo.",
+          "isCorrect": false,
+          "feedback": "Isso é uma despedida, não responde à pergunta do atendente."
+        },
+        {
+          "id": "opt3",
+          "text": "Ontem eu fui ao parque.",
+          "isCorrect": false,
+          "feedback": "Fora de contexto com a situação da padaria."
+        }
+      ]
+    }
+  },
+  {
+    "id": "ex_008_nounArticle",
+    "type": "nounArticle",
+    "payload": {
+      "instruction": "Selecione o artigo correto (Gênero/Número) para o substantivo abaixo:",
+      "noun": "água",
+      "gender": "feminine",
+      "number": "singular",
+      "options": ["o", "a", "um", "uma"],
+      "correctArticle": "a"
+    }
+  }
+]
