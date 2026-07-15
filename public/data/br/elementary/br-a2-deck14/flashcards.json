@@ -1,0 +1,247 @@
+[
+  {
+    "id": "br-426",
+    "front": "Como está o tempo hoje?",
+    "pronunciation": "KOH-moo ehs-TAH oo TEHM-poo HOY-zhee?",
+    "back": "How is the weather today?",
+    "context": "A standard, universal question used to ask about current outdoor weather conditions."
+  },
+  {
+    "id": "br-427",
+    "front": "Está muito calor.",
+    "pronunciation": "ehs-TAH MOOI-too kah-LOHR.",
+    "back": "It is very hot.",
+    "context": "Frequently used throughout Brazil to describe typical warm or tropical sunny days."
+  },
+  {
+    "id": "br-428",
+    "front": "Está frio hoje.",
+    "pronunciation": "ehs-TAH FREE-oo HOY-zhee.",
+    "back": "It is cold today.",
+    "context": "Used during winter months, especially common in southern regions of Brazil."
+  },
+  {
+    "id": "br-429",
+    "front": "Está sol.",
+    "pronunciation": "ehs-TAH sow.",
+    "back": "It is sunny.",
+    "context": "A quick way to describe a clear, bright sky perfect for outdoor activities or the beach."
+  },
+  {
+    "id": "br-430",
+    "front": "Está chovendo.",
+    "pronunciation": "ehs-TAH sho-VEHN-doo.",
+    "back": "It is raining.",
+    "context": "Used to describe ongoing rainfall. Useful for planning whether to bring an umbrella."
+  },
+  {
+    "id": "br-431",
+    "front": "O guarda-chuva",
+    "pronunciation": "oo GWAHR-dah SHOO-vah",
+    "back": "The umbrella",
+    "context": "The essential handheld item used to shield yourself from getting wet during rain."
+  },
+  {
+    "id": "br-432",
+    "front": "O céu está nublado.",
+    "pronunciation": "oo SEW ehs-TAH noo-BLAH-doo.",
+    "back": "The sky is cloudy / overcast.",
+    "context": "Used when clouds cover most of the sky, indicating it might rain soon or lacks sun."
+  },
+  {
+    "id": "br-433",
+    "front": "Está ventando muito.",
+    "pronunciation": "ehs-TAH vehn-TAHN-doo MOOI-too.",
+    "back": "It is blowing a lot of wind. / It is very windy.",
+    "context": "Perfect for describing drafty, gusty weather conditions, especially near coastal beach zones."
+  },
+  {
+    "id": "br-434",
+    "front": "Uma tempestade forte",
+    "pronunciation": "OO-mah tehm-pehs-TAH-jee FOR-chee",
+    "back": "A heavy storm",
+    "context": "Refers to severe weather setups with heavy rain, thunder, and lightning flashes."
+  },
+  {
+    "id": "br-435",
+    "front": "O trovão",
+    "pronunciation": "oo troh-VOHNG",
+    "back": "The thunder",
+    "context": "The loud, crashing sound sequence that closely follows a lightning strike during storms."
+  },
+  {
+    "id": "br-436",
+    "front": "O relâmpago",
+    "pronunciation": "oo heh-LAHM-pah-goo",
+    "back": "The lightning bolt",
+    "context": "The bright visual flash of electricity visible across the sky during storm events."
+  },
+  {
+    "id": "br-437",
+    "front": "A previsão do tempo",
+    "pronunciation": "ah prah-vee-ZOHNG doo TEHM-poo",
+    "back": "The weather forecast",
+    "context": "The daily meteorological projection shown on news channels, apps, or websites."
+  },
+  {
+    "id": "br-438",
+    "front": "Vai chover mais tarde?",
+    "pronunciation": "vahy sho-VEHR mayz TAHR-jee?",
+    "back": "Is it going to rain later?",
+    "context": "A casual question to ask companions before leaving the house for the day."
+  },
+  {
+    "id": "br-439",
+    "front": "Que dia lindo!",
+    "pronunciation": "kee JEE-ah LEENG-doo!",
+    "back": "What a beautiful day!",
+    "context": "An enthusiastic expression shared when the weather outdoors is perfectly pleasant."
+  },
+  {
+    "id": "br-440",
+    "front": "Uma névoa de manhã",
+    "pronunciation": "OO-mah NEH-vwah jee mah-NYAH",
+    "back": "A morning fog / mist",
+    "context": "Refers to low-lying cloud moisture conditions that limit visibility early in the day."
+  },
+  {
+    "id": "br-441",
+    "front": "A temperatura atual",
+    "pronunciation": "ah tehm-peh-rah-TOO-rah ah-too-AW",
+    "back": "The current temperature",
+    "context": "The exact level of measured warmth or chill outside, calculated in degrees Celsius."
+  },
+  {
+    "id": "br-442",
+    "front": "Trinta graus Celsius",
+    "pronunciation": "TREEN-tah GROWZ SEW-syoos",
+    "back": "Thirty degrees Celsius",
+    "context": "Brazil strictly uses the Celsius metric scale for all official temperature readouts."
+  },
+  {
+    "id": "br-443",
+    "front": "O clima tropical",
+    "pronunciation": "oo KLEE-mah troo-pee-KAW",
+    "back": "The tropical climate",
+    "context": "Describes the warm, lush, and humid environment typical of most regions in Brazil."
+  },
+  {
+    "id": "br-444",
+    "front": "Está muito úmido.",
+    "pronunciation": "ehs-TAH MOOI-too OO-mee-doo.",
+    "back": "It is very humid.",
+    "context": "Used when the air holds a lot of heavy moisture, common in coastal or rainforest areas."
+  },
+  {
+    "id": "br-445",
+    "front": "Uma brisa leve",
+    "pronunciation": "OO-mah BREE-zah LEH-vee",
+    "back": "A light breeze",
+    "context": "A refreshing, soft movement of wind that offers cool relief on hot afternoons."
+  },
+  {
+    "id": "br-446",
+    "front": "O arco-íris",
+    "pronunciation": "oo AHR-koo EE-rees",
+    "back": "The rainbow",
+    "context": "The beautiful, multi-colored sky arc that appears when sunlight hits residual rain droplets."
+  },
+  {
+    "id": "br-447",
+    "front": "A poça de água",
+    "pronunciation": "ah POH-sah jee AH-gwah",
+    "back": "The water puddle",
+    "context": "A small accumulation of rainwater left on streets or sidewalks after a heavy downpour."
+  },
+  {
+    "id": "br-448",
+    "front": "O casaco pesado",
+    "pronunciation": "oo kah-ZAH-koo peh-ZAH-doo",
+    "back": "The heavy coat",
+    "context": "An item of clothing brought out only when the temperature drops unexpectedly low."
+  },
+  {
+    "id": "br-449",
+    "front": "Os óculos de sol",
+    "pronunciation": "oos OH-koo-loos jee sow",
+    "back": "The sunglasses",
+    "context": "Essential lifestyle eyewear used daily across Brazil to protect eyes from intense sunlight."
+  },
+  {
+    "id": "br-450",
+    "front": "O protetor solar",
+    "pronunciation": "oo proo-teh-TOHR soh-LAHR",
+    "back": "The sunscreen / sunblock",
+    "context": "Crucial protective lotion needed for beach trips or general extended outdoor exposure."
+  },
+  {
+    "id": "br-451",
+    "front": "O calor está forte hoje.",
+    "pronunciation": "oo kah-LOHR ehs-TAH FOR-chee HOY-zhee.",
+    "back": "The heat is strong today.",
+    "context": "A conversational observation shared during peak summer midday hours."
+  },
+  {
+    "id": "br-452",
+    "front": "A sombra da árvore",
+    "pronunciation": "ah SOHM-brah dah AHR-voo-ree",
+    "back": "The tree shade",
+    "context": "A cool, shielded outdoor spot under branches where people rest to escape direct sunlight."
+  },
+  {
+    "id": "br-453",
+    "front": "O inverno brasileiro",
+    "pronunciation": "oo een-VEHR-noo brah-zee-LAY-roo",
+    "back": "The Brazilian winter",
+    "context": "Generally mild, though it brings genuine cold waves to southern states from June to August."
+  },
+  {
+    "id": "br-454",
+    "front": "O verão ensolarado",
+    "pronunciation": "oo veh-ROHNG ehn-soo-lah-RAH-doo",
+    "back": "The sunny summer",
+    "context": "The lively peak travel season running from December through February across the country."
+  },
+  {
+    "id": "br-455",
+    "front": "Está refrescando.",
+    "pronunciation": "ehs-TAH heh-frehs-KAHN-doo.",
+    "back": "It is cooling down.",
+    "context": "Used late in the afternoon or evening when an aggressive midday heat starts to drop."
+  },
+  {
+    "id": "br-456",
+    "front": "Que frio!",
+    "pronunciation": "kee FREE-oo!",
+    "back": "How cold! / It's freezing!",
+    "context": "A spontaneous, authentic exclamation used when hit by a sudden, chilly gust of air."
+  },
+  {
+    "id": "br-457",
+    "front": "O granizo",
+    "pronunciation": "oo grah-NEE-zoo",
+    "back": "The hail",
+    "context": "Frozen balls of ice that occasionally fall during intense summer storm shifts."
+  },
+  {
+    "id": "br-458",
+    "front": "O mormaço",
+    "pronunciation": "oo mohr-MAH-soo",
+    "back": "The sultry heat / cloudy humidity",
+    "context": "A unique, accurate Portuguese word for hot, humid weather when the sky is gray but it feels like a sauna."
+  },
+  {
+    "id": "br-459",
+    "front": "A chuva passou.",
+    "pronunciation": "ah SHOO-vah pah-SOW.",
+    "back": "The rain passed. / The rain stopped.",
+    "context": "Used to confirm that the rainfall has completely finished and the sky is clearing up."
+  },
+  {
+    "id": "br-460",
+    "front": "Amanhã vai fazer sol.",
+    "pronunciation": "ah-mah-NYAH vahy fah-ZEHR sow.",
+    "back": "Tomorrow it is going to be sunny.",
+    "context": "An optimistic statement regarding the upcoming day's weather outlook."
+  }
+]

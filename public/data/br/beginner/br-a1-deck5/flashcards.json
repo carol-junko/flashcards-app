@@ -1,0 +1,247 @@
+[
+  {
+    "id": "br-146",
+    "front": "Comida",
+    "pronunciation": "[koo-mee-dah]",
+    "back": "Food / Meal",
+    "context": "The general word for anything you eat."
+  },
+  {
+    "id": "br-147",
+    "front": "Água",
+    "pronunciation": "[ah-gwah]",
+    "back": "Water",
+    "context": "The most fundamental drink. Essential for survival."
+  },
+  {
+    "id": "br-148",
+    "front": "Café",
+    "pronunciation": "[kah-feh]",
+    "back": "Coffee",
+    "context": "A massive part of Brazilian culture. Usually served strong and sweet."
+  },
+  {
+    "id": "br-149",
+    "front": "Arroz",
+    "pronunciation": "[ah-hohs]",
+    "back": "Rice",
+    "context": "The universal base layer of almost every traditional Brazilian meal."
+  },
+  {
+    "id": "br-150",
+    "front": "Feijão",
+    "pronunciation": "[fay-zhowng]",
+    "back": "Beans",
+    "context": "Usually black or brown beans, eaten daily mixed over rice. Has a nasal ending."
+  },
+  {
+    "id": "br-151",
+    "front": "Pão",
+    "pronunciation": "[powng]",
+    "back": "Bread",
+    "context": "Highly popular at breakfast, especially 'pão francês' (French bread rolls)."
+  },
+  {
+    "id": "br-152",
+    "front": "Carne",
+    "pronunciation": "[kahr-nee]",
+    "back": "Meat / Beef",
+    "context": "Can mean meat in general, but usually defaults specifically to beef."
+  },
+  {
+    "id": "br-153",
+    "front": "Frango",
+    "pronunciation": "[frahng-goo]",
+    "back": "Chicken",
+    "context": "The word for poultry meat when serving it on a plate."
+  },
+  {
+    "id": "br-154",
+    "front": "Peixe",
+    "pronunciation": "[pay-shee]",
+    "back": "Fish",
+    "context": "The food term for fish meals."
+  },
+  {
+    "id": "br-155",
+    "front": "Ovo",
+    "pronunciation": "[oh-voo]",
+    "back": "Egg",
+    "context": "A common breakfast item or quick protein addition."
+  },
+  {
+    "id": "br-156",
+    "front": "Queijo",
+    "pronunciation": "[kay-zhoo]",
+    "back": "Cheese",
+    "context": "Found in many popular Brazilian snacks, like 'pão de queijo'."
+  },
+  {
+    "id": "br-157",
+    "front": "Salada",
+    "pronunciation": "[sah-lah-dah]",
+    "back": "Salad",
+    "context": "A common side dish consisting of lettuce, tomatoes, and onions."
+  },
+  {
+    "id": "br-158",
+    "front": "Fruta",
+    "pronunciation": "[froo-tah]",
+    "back": "Fruit",
+    "context": "The category noun for sweet, plant-based products."
+  },
+  {
+    "id": "br-159",
+    "front": "Banana",
+    "pronunciation": "[bah-nah-nah]",
+    "back": "Banana",
+    "context": "Spelled identically to English, but the vowels sound softer and lower."
+  },
+  {
+    "id": "br-160",
+    "front": "Maçã",
+    "pronunciation": "[mah-sahng]",
+    "back": "Apple",
+    "context": "The 'ç' sounds like an 's', and the 'ã' creates a nasal finish."
+  },
+  {
+    "id": "br-161",
+    "front": "Laranja",
+    "pronunciation": "[lah-rahng-zhah]",
+    "back": "Orange",
+    "context": "Refers to both the fruit and the color."
+  },
+  {
+    "id": "br-162",
+    "front": "Morango",
+    "pronunciation": "[moo-rahng-goo]",
+    "back": "Strawberry",
+    "context": "A popular flavor choice for candies, ice creams, and desserts."
+  },
+  {
+    "id": "br-163",
+    "front": "Suco",
+    "pronunciation": "[soo-koo]",
+    "back": "Juice",
+    "context": "Fresh tropical fruit juices are incredibly popular throughout Brazil."
+  },
+  {
+    "id": "br-164",
+    "front": "Leite",
+    "pronunciation": "[lay-chee]",
+    "back": "Milk",
+    "context": "Dairy milk used for drinking or cooking."
+  },
+  {
+    "id": "br-165",
+    "front": "Sal",
+    "pronunciation": "[saw]",
+    "back": "Salt",
+    "context": "The main savory seasoning agent. The final 'L' sounds like a 'W'."
+  },
+  {
+    "id": "br-166",
+    "front": "Açúcar",
+    "pronunciation": "[ah-soo-kahr]",
+    "back": "Sugar",
+    "context": "The primary sweetening crystalline element."
+  },
+  {
+    "id": "br-167",
+    "front": "Café da manhã",
+    "pronunciation": "[kah-feh dah mah-nyang]",
+    "back": "Breakfast",
+    "context": "Literally means 'morning coffee'. The first meal of the day."
+  },
+  {
+    "id": "br-168",
+    "front": "Almoço",
+    "pronunciation": "[aw-moh-soo]",
+    "back": "Lunch",
+    "context": "Traditionally the largest and most important heavy hot meal of the day in Brazil."
+  },
+  {
+    "id": "br-169",
+    "front": "Jantar",
+    "pronunciation": "[zhahn-tahr]",
+    "back": "Dinner",
+    "context": "The evening meal, usually lighter than lunch."
+  },
+  {
+    "id": "br-170",
+    "front": "Lanche",
+    "pronunciation": "[lahn-shee]",
+    "back": "Snack / Sandwich",
+    "context": "An afternoon or late-night bite to eat. Does NOT mean lunch."
+  },
+  {
+    "id": "br-171",
+    "front": "Eu como...",
+    "pronunciation": "[ay-oo koh-moo]",
+    "back": "I eat...",
+    "context": "Present tense form used to express regular eating choices."
+  },
+  {
+    "id": "br-172",
+    "front": "Eu bebo...",
+    "pronunciation": "[ay-oo beh-boo]",
+    "back": "I drink...",
+    "context": "Present tense action verb form for consuming liquids."
+  },
+  {
+    "id": "br-173",
+    "front": "Com gelo e açúcar?",
+    "pronunciation": "[kong zheh-loo ee ah-soo-kahr]",
+    "back": "With ice and sugar?",
+    "context": "A classic question servers ask when you order juices or a caipirinha."
+  },
+  {
+    "id": "br-174",
+    "front": "Eu quero uma água, por favor.",
+    "pronunciation": "[ay-oo keh-roo oo-mah ah-gwah poor fah-vohr]",
+    "back": "I want a water, please.",
+    "context": "A basic, direct phrase for ordering water at a counter."
+  },
+  {
+    "id": "br-175",
+    "front": "Bom apetite!",
+    "pronunciation": "[bong ah-peh-chee-chee]",
+    "back": "Enjoy your meal!",
+    "context": "Said politely to others right before they start eating."
+  },
+  {
+    "id": "br-176",
+    "front": "Está gostoso!",
+    "pronunciation": "[ay-stah goos-toh-zoo]",
+    "back": "It tastes delicious!",
+    "context": "A great phrase to compliment a cook or a restaurant's food standard."
+  },
+  {
+    "id": "br-177",
+    "front": "Eu sou vegetariano.",
+    "pronunciation": "[ay-oo sow veh-zheh-tah-ree-ah-noo]",
+    "back": "I am vegetarian (male).",
+    "context": "Used by men to declare their dietary preference."
+  },
+  {
+    "id": "br-178",
+    "front": "Eu sou vegetariana.",
+    "pronunciation": "[ay-oo sow veh-zheh-tah-ree-ah-nah]",
+    "back": "I am vegetarian (female).",
+    "context": "Used by women to declare their dietary preference."
+  },
+  {
+    "id": "br-179",
+    "front": "A conta, por favor.",
+    "pronunciation": "[ah kong-tah poor fah-vohr]",
+    "back": "The bill, please.",
+    "context": "The standard universal phrase used to request the restaurant bill."
+  },
+  {
+    "id": "br-180",
+    "front": "Estou satisfeito / satisfeita",
+    "pronunciation": "[ay-stow sah-chees-fay-too / sah-chees-fay-tah]",
+    "back": "I am full / satisfied",
+    "context": "Use '-to' for males and '-ta' for females to indicate you're finished eating."
+  }
+]

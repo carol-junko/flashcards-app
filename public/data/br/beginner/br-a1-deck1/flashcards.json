@@ -1,0 +1,248 @@
+[
+  {
+    "id": "br-001",
+    "front": "Oi!",
+    "pronunciation": "[oy]",
+    "back": "Hi! / Hello!",
+    "context": "The standard, most common friendly greeting used everywhere."
+  },
+  {
+    "id": "br-002",
+    "front": "Olá!",
+    "pronunciation": "[oh-lah]",
+    "back": "Hello!",
+    "context": "Slightly more formal than 'Oi', but still widely used daily."
+  },
+  {
+    "id": "br-003",
+    "front": "Tudo bem?",
+    "pronunciation": "[too-doo baym]",
+    "back": "How are you? / Everything good?",
+    "context": "The absolute most common casual greeting in Brazil."
+  },
+  {
+    "id": "br-004",
+    "front": "Bom dia!",
+    "pronunciation": "[bong jee-ah]",
+    "back": "Good morning!",
+    "context": "Used from sunrise until midday."
+  },
+  {
+    "id": "br-005",
+    "front": "Boa tarde!",
+    "pronunciation": "[boh-ah tahr-jee]",
+    "back": "Good afternoon!",
+    "context": "Used from midday until it gets dark (around 6 PM)."
+  },
+  {
+    "id": "br-006",
+    "front": "Boa noite!",
+    "pronunciation": "[boh-ah noy-chee]",
+    "back": "Good evening! / Good night!",
+    "context": "Used both when arriving at a place after dark and when saying goodbye at night."
+  },
+  {
+    "id": "br-007",
+    "front": "Por favor",
+    "pronunciation": "[poor fah-vohr]",
+    "back": "Please",
+    "context": "Essential courtesy term."
+  },
+  {
+    "id": "br-008",
+    "front": "Obrigado",
+    "pronunciation": "[oh-bree-gah-doo]",
+    "back": "Thank you (said by a male)",
+    "context": "Men and boys use the ending '-o'."
+  },
+  {
+    "id": "br-009",
+    "front": "Obrigada",
+    "pronunciation": "[oh-bree-gah-dah]",
+    "back": "Thank you (said by a female)",
+    "context": "Women and girls use the ending '-a'."
+  },
+  {
+    "id": "br-010",
+    "front": "De nada",
+    "pronunciation": "[jee nah-dah]",
+    "back": "You're welcome",
+    "context": "The standard response to thank you."
+  },
+  {
+    "id": "br-011",
+    "front": "Com licença",
+    "pronunciation": "[kong lee-sayng-sah]",
+    "back": "Excuse me / Pardon me",
+    "context": "Used when squeezing past someone or getting their attention politely."
+  },
+  {
+    "id": "br-012",
+    "front": "Desculpe",
+    "pronunciation": "[jees-kool-pee]",
+    "back": "Sorry / I'm sorry",
+    "context": "Used for minor accidents, like bumping into someone."
+  },
+  {
+    "id": "br-013",
+    "front": "Tchau!",
+    "pronunciation": "[chow]",
+    "back": "Bye! / Goodbye!",
+    "context": "The most universal way to say goodbye in Brazil."
+  },
+  {
+    "id": "br-014",
+    "front": "Até logo!",
+    "pronunciation": "[ah-tay loh-goo]",
+    "back": "See you later!",
+    "context": "Used when you expect to see the person again soon."
+  },
+  {
+    "id": "br-015",
+    "front": "Até amanhã!",
+    "pronunciation": "[ah-tay ah-mah-nyang]",
+    "back": "See you tomorrow!",
+    "context": "Perfect for classmates or coworkers at the end of the day."
+  },
+  {
+    "id": "br-016",
+    "front": "Prazer em conhecer!",
+    "pronunciation": "[prah-zair aym koo-nyay-sair]",
+    "back": "Nice to meet you!",
+    "context": "Said immediately after learning someone's name."
+  },
+  {
+    "id": "br-017",
+    "front": "Igualmente",
+    "pronunciation": "[ee-gwal-mayn-chee]",
+    "back": "Likewise / Same to you",
+    "context": "A polite response when someone tells you 'nice to meet you' or wishes you a good day."
+  },
+  {
+    "id": "br-018",
+    "front": "Sim",
+    "pronunciation": "[seeng]",
+    "back": "Yes",
+    "context": "Basic affirmation phrase."
+  },
+  {
+    "id": "br-019",
+    "front": "Não",
+    "pronunciation": "[nowng]",
+    "back": "No",
+    "context": "Basic negative phrase. Pronounced with a nasal sound."
+  },
+  {
+    "id": "br-020",
+    "front": "Como você se chama?",
+    "pronunciation": "[koh-moo voh-say see shah-mah]",
+    "back": "What is your name?",
+    "context": "The standard friendly way to ask for someone's name."
+  },
+  {
+    "id": "br-021",
+    "front": "Meu nome é...",
+    "pronunciation": "[meoo noh-mee ay]",
+    "back": "My name is...",
+    "context": "Follow this phrase directly with your first name."
+  },
+  {
+    "id": "br-022",
+    "front": "Como vai?",
+    "pronunciation": "[koh-moo vay]",
+    "back": "How is it going?",
+    "context": "Another common variation of 'Tudo bem?'"
+  },
+  {
+    "id": "br-023",
+    "front": "Tudo ótimo!",
+    "pronunciation": "[too-doo oh-chee-moo]",
+    "back": "Everything is great!",
+    "context": "An enthusiastic response to 'Tudo bem?'"
+  },
+  {
+    "id": "br-024",
+    "front": "Mais ou menos",
+    "pronunciation": "[mize oh may-noos]",
+    "back": "So-so / More or less",
+    "context": "Used if you are feeling average or okay, but not amazing."
+  },
+  {
+    "id": "br-025",
+    "front": "E você?",
+    "pronunciation": "[ee voh-say]",
+    "back": "And you?",
+    "context": "Used to bounce a question back to the other person."
+  },
+  {
+    "id": "br-026",
+    "front": "Muito prazer",
+    "pronunciation": "[mwee-too prah-zair]",
+    "back": "Pleasure / Nice to meet you",
+    "context": "Shortened version of 'Prazer em conhecer'."
+  },
+  {
+    "id": "br-027",
+    "front": "Por nada",
+    "pronunciation": "[poor nah-dah]",
+    "back": "Don't mention it",
+    "context": "An alternative, polite response to thank you."
+  },
+  {
+    "id": "br-028",
+    "front": "Fique à vontade",
+    "pronunciation": "[fee-kee ah vohng-tah-jee]",
+    "back": "Make yourself at home / Feel free",
+    "context": "Said when welcoming a guest into your house or room."
+  },
+  {
+    "id": "br-029",
+    "front": "Perdão",
+    "pronunciation": "[pair-downg]",
+    "back": "Forgive me / Pardon",
+    "context": "A slightly formal apology phrase."
+  },
+  {
+    "id": "br-030",
+    "front": "Onde fica...?",
+    "pronunciation": "[ong-jee fee-kah]",
+    "back": "Where is...?",
+    "context": "A fundamental courtesy phrase to start asking for locations."
+  },
+  {
+    "id": "br-031",
+    "front": "Fale mais devagar, por favor",
+    "pronunciation": "[fah-lee mize jey-vah-gahr poor fah-vohr]",
+    "back": "Speak slower, please",
+    "context": "A lifesaver phrase for real-world interactions when a native speaker is too fast."
+  },
+  {
+    "id": "br-032",
+    "front": "Eu não entendi",
+    "pronunciation": "[ay-oo nowng ayn-ten-jee]",
+    "back": "I didn't understand",
+    "context": "Use this politely when you miss what someone said."
+  },
+  {
+    "id": "br-033",
+    "front": "Você fala inglês?",
+    "pronunciation": "[voh-say fah-lah eeng-glays]",
+    "back": "Do you speak English?",
+    "context": "A helpful phrase for absolute beginners when communication gets stuck."
+  },
+  {
+    "id": "br-034",
+    "front": "Que bom!",
+    "pronunciation": "[kee bong]",
+    "back": "How nice! / That's great!",
+    "context": "A common conversation-filler phrase showing positive active listening."
+  },
+  {
+    "id": "br-035",
+    "front": "Tenha um bom dia!",
+    "pronunciation": "[tay-nyah oong bong jee-ah]",
+    "back": "Have a good day!",
+    "context": "A polite parting phrase used with retail workers, taxi drivers, or friends."
+  }
+]
+ 

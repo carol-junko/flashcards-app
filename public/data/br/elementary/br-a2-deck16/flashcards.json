@@ -1,0 +1,247 @@
+[
+  {
+    "id": "br-496",
+    "front": "Como você está se sentindo?",
+    "pronunciation": "KOH-moo voh-SEH ehs-TAH see sehn-CHEEN-doo?",
+    "back": "How are you feeling?",
+    "context": "A caring, standard question to ask someone about their physical health or well-being."
+  },
+  {
+    "id": "br-497",
+    "front": "Estou me sentindo bem.",
+    "pronunciation": "ehs-TOW mee sehn-CHEEN-doo behng.",
+    "back": "I am feeling well.",
+    "context": "A positive response indicating good health and normal energy levels."
+  },
+  {
+    "id": "br-498",
+    "front": "Não estou me sentindo muito bem.",
+    "pronunciation": "nohng ehs-TOW mee sehn-CHEEN-doo MOOI-too behng.",
+    "back": "I am not feeling very well.",
+    "context": "A polite way to announce that you are experiencing fatigue, discomfort, or mild illness."
+  },
+  {
+    "id": "br-499",
+    "front": "Estou doente.",
+    "pronunciation": "ehs-TOW doo-EHN-chee.",
+    "back": "I am sick.",
+    "context": "Used to explicitly state that you are unwell. Female and male speakers use the same form."
+  },
+  {
+    "id": "br-500",
+    "front": "Estou com dor de cabeça.",
+    "pronunciation": "ehs-TOW kohng dohr jee kah-BEH-sah.",
+    "back": "I have a headache.",
+    "context": "The standard grammatical structure 'Estou com dor de...' means 'I am with pain of...'"
+  },
+  {
+    "id": "br-501",
+    "front": "Dor de barriga",
+    "pronunciation": "dohr jee bah-HEE-gah",
+    "back": "Stomachache",
+    "context": "A common, family-safe term used for abdominal discomfort or an upset stomach."
+  },
+  {
+    "id": "br-502",
+    "front": "Dor de garganta",
+    "pronunciation": "dohr jee gahr-GAHN-tah",
+    "back": "Sore throat",
+    "context": "Refers to irritation or pain in the throat, often associated with a common cold."
+  },
+  {
+    "id": "br-503",
+    "front": "Eu preciso ir ao médico.",
+    "pronunciation": "ew pree-SEE-zoo eer ow MEH-jee-koo.",
+    "back": "I need to go to the doctor.",
+    "context": "An essential phrase used when seeking professional medical attention or advice."
+  },
+  {
+    "id": "br-504",
+    "front": "Onde fica o hospital?",
+    "pronunciation": "OHN-jee FEE-kah oo ohs-pee-TAW?",
+    "back": "Where is the hospital?",
+    "context": "A crucial navigation question used to find emergency or inpatient medical centers."
+  },
+  {
+    "id": "br-505",
+    "front": "A farmácia",
+    "pronunciation": "ah fahr-MAH-syah",
+    "back": "The pharmacy / drugstore",
+    "context": "Drugstores are highly ubiquitous in Brazil and often carry both medication and personal care items."
+  },
+  {
+    "id": "br-506",
+    "front": "Comprar um remédio",
+    "pronunciation": "kohm-PRAHR oong heh-MEH-zhoo",
+    "back": "To buy a medicine / medication",
+    "context": "The standard action phrase for purchasing therapeutic remedies or prescriptions."
+  },
+  {
+    "id": "br-507",
+    "front": "A receita médica",
+    "pronunciation": "ah heh-SAY-tah MEH-jee-kah",
+    "back": "The medical prescription",
+    "context": "The official document from a doctor required to purchase controlled pharmaceuticals."
+  },
+  {
+    "id": "br-508",
+    "front": "Estou com febre.",
+    "pronunciation": "ehs-TOW kohng FEH-bree.",
+    "back": "I have a fever.",
+    "context": "Used when your body temperature runs higher than normal due to fighting an infection."
+  },
+  {
+    "id": "br-509",
+    "front": "Estou gripado.",
+    "pronunciation": "ehs-TOW gree-PAH-doo.",
+    "back": "I have the flu / a bad cold.",
+    "context": "Refers to standard congestion or viral colds. Female speakers say 'gripada'."
+  },
+  {
+    "id": "br-510",
+    "front": "Uma xícara de chá quente",
+    "pronunciation": "OO-mah KSEE-kah-rah jee shah KAYN-chee",
+    "back": "A cup of hot tea",
+    "context": "A classic home remedy option commonly offered in Brazilian families to soothe mild illness."
+  },
+  {
+    "id": "br-511",
+    "front": "Beber muita água",
+    "pronunciation": "beh-BEHR MOOI-too AH-gwah",
+    "back": "To drink plenty of water",
+    "context": "Standard healthcare advice given universally to maintain hydration during recovery."
+  },
+  {
+    "id": "br-512",
+    "front": "Você precisa descansar.",
+    "pronunciation": "voh-SEH pree-SEE-zoo dehs-kahn-SAHR.",
+    "back": "You need to rest.",
+    "context": "An encouraging statement made to a friend, colleague, or family member who looks tired or ill."
+  },
+  {
+    "id": "br-513",
+    "front": "O corpo humano",
+    "pronunciation": "oo KOHR-poo oo-MAH-noo",
+    "back": "The human body",
+    "context": "The collective biological structure comprising all limbs, organs, and systems."
+  },
+  {
+    "id": "br-514",
+    "front": "A cabeça e os ombros",
+    "pronunciation": "ah kah-BEH-sah ee ooz OHM-broos",
+    "back": "The head and the shoulders",
+    "context": "Two primary upper body parts frequently cited in anatomical layouts or exercises."
+  },
+  {
+    "id": "br-515",
+    "front": "Braços e pernas",
+    "pronunciation": "BRAH-soos ee PEHR-nahs",
+    "back": "Arms and legs",
+    "context": "The major limbs used for physical locomotion, lifting, moving, and exercising."
+  },
+  {
+    "id": "br-516",
+    "front": "Mãos e pés",
+    "pronunciation": "MOHNS ee pehs",
+    "back": "Hands and feet",
+    "context": "The extremeties of the limbs used for grasping objects and balanced walking/running."
+  },
+  {
+    "id": "br-517",
+    "front": "O coração",
+    "pronunciation": "oo koh-rah-ZOHNG",
+    "back": "The heart",
+    "context": "The vital muscular organ responsible for pumping blood throughout the circulatory system."
+  },
+  {
+    "id": "br-518",
+    "front": "Os olhos e os ouvidos",
+    "pronunciation": "ooz OH-lyoos ee ooz ow-VEE-doos",
+    "back": "The eyes and the ears",
+    "context": "The primary sensory organs dedicated to sight and hearing capabilities."
+  },
+  {
+    "id": "br-519",
+    "front": "A boca e o nariz",
+    "pronunciation": "ah BOH-kah ee oo nah-REEZ",
+    "back": "The mouth and the nose",
+    "context": "The primary facial features used for breathing, smelling, speaking, and eating."
+  },
+  {
+    "id": "br-520",
+    "front": "Escovar os dentes",
+    "pronunciation": "ees-koo-VAHR ooz DEHN-chees",
+    "back": "To brush the teeth",
+    "context": "A basic, essential daily dental hygiene routine practiced multiple times a day."
+  },
+  {
+    "id": "br-521",
+    "front": "Lavar as mãos com sabonete",
+    "pronunciation": "lah-VAHR ahs MOHNS kohng sah-boo-NEH-chee",
+    "back": "To wash the hands with soap",
+    "context": "A crucial baseline hygiene practice to prevent the transmission of common germs."
+  },
+  {
+    "id": "br-522",
+    "front": "Tomar uma vacina",
+    "pronunciation": "too-MAHR OO-mah vah-SEE-nah",
+    "back": "To take a vaccine / shot",
+    "context": "The medical preventative act of receiving an immunization injection against diseases."
+  },
+  {
+    "id": "br-523",
+    "front": "O curativo / O band-aid",
+    "pronunciation": "oo koo-rah-CHEE-voo / oo bahn-day-jee",
+    "back": "The adhesive bandage / plaster",
+    "context": "Brazilians widely use the brand name 'Band-Aid' colloquially to describe small skin bandages."
+  },
+  {
+    "id": "br-524",
+    "front": "O seguro saúde",
+    "pronunciation": "oo seh-GOO-roo sah-OO-jee",
+    "back": "The health insurance",
+    "context": "Refers to the private policy coverage used to pay for private medical clinic visits or tests."
+  },
+  {
+    "id": "br-525",
+    "front": "O pronto-socorro",
+    "pronunciation": "oo PROHN-too soh-KOH-hoo",
+    "back": "The emergency room / urgent care",
+    "context": "The specific wing of a hospital open 24/7 for immediate, acute medical crises."
+  },
+  {
+    "id": "br-526",
+    "front": "Melhore logo!",
+    "pronunciation": "meh-LYOH-ree LOH-goo!",
+    "back": "Get well soon!",
+    "context": "A warm, natural, and encouraging phrase wished to anyone recovering from an illness."
+  },
+  {
+    "id": "br-527",
+    "front": "Saúde!",
+    "pronunciation": "sah-OO-jee!",
+    "back": "Bless you! / Cheers!",
+    "context": "Said immediately when someone near you sneezes. Also used universally as a toast when drinking."
+  },
+  {
+    "id": "br-528",
+    "front": "Estou em forma.",
+    "pronunciation": "ehs-TOW ayng FOR-mah.",
+    "back": "I am in good shape / fit.",
+    "context": "Used to describe being in good physical condition through regular exercise and health habits."
+  },
+  {
+    "id": "br-529",
+    "front": "Uma alimentação saudável",
+    "pronunciation": "OO-mah ah-lee-mehn-tah-SOHNG sah-oo-DAH-vew",
+    "back": "A healthy diet / nutrition approach",
+    "context": "Focusing your food choices on clean, nutrient-dense ingredients and balanced meals."
+  },
+  {
+    "id": "br-530",
+    "front": "Graças a Deus, estou bem!",
+    "pronunciation": "GRAH-sahs ah DEW-ooz, ehs-TOW behng!",
+    "back": "Thank God, I am well!",
+    "context": "An extremely common cultural idiom used by Brazilians of all backgrounds to express relief regarding their health."
+  }
+]

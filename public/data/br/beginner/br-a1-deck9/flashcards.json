@@ -1,0 +1,177 @@
+[
+  {
+    "id": "br-266",
+    "front": "Eu tenho",
+    "pronunciation": "[ay-oo tayng-yoo]",
+    "back": "I have",
+    "context": "Used to express personal possession, age, or obligations."
+  },
+  {
+    "id": "br-267",
+    "front": "Você tem",
+    "pronunciation": "[voh-say tayng]",
+    "back": "You have",
+    "context": "Used to ask what someone possesses or state what they have."
+  },
+  {
+    "id": "br-268",
+    "front": "Ele tem / Ela tem",
+    "pronunciation": "[eh-lee tayng / eh-lah tayng]",
+    "back": "He has / She has",
+    "context": "Used to describe what a third person possesses."
+  },
+  {
+    "id": "br-269",
+    "front": "Nós temos",
+    "pronunciation": "[naws teh-moos]",
+    "back": "We have",
+    "context": "Used to state what you and a group of people possess together."
+  },
+  {
+    "id": "br-270",
+    "front": "Vocês têm",
+    "pronunciation": "[voh-says tayng]",
+    "back": "You all have",
+    "context": "Spelled with a circumflex accent (ê) to mark the plural form, though pronounced similarly to the singular."
+  },
+  {
+    "id": "br-271",
+    "front": "Eles têm / Elas têm",
+    "pronunciation": "[eh-lees tayng / eh-lahs tayng]",
+    "back": "They have",
+    "context": "Used to state what a group of people possess. Uses the plural circumflex accent."
+  },
+  {
+    "id": "br-272",
+    "front": "Eu vou",
+    "pronunciation": "[ay-oo voh]",
+    "back": "I go / I am going",
+    "context": "Used for present movement or to form the immediate future (e.g., Eu vou comer)."
+  },
+  {
+    "id": "br-273",
+    "front": "Você vai",
+    "pronunciation": "[voh-say vy]",
+    "back": "You go / You are going",
+    "context": "Used to ask where someone is going or tell them what they will do."
+  },
+  {
+    "id": "br-274",
+    "front": "Ele vai / Ela vai",
+    "pronunciation": "[eh-lee vy / eh-lah vy]",
+    "back": "He goes / She goes",
+    "context": "Used for the movement or future actions of a third person."
+  },
+  {
+    "id": "br-275",
+    "front": "Nós vamos",
+    "pronunciation": "[naws vah-moos]",
+    "back": "We go / We are going",
+    "context": "Also used by itself casually to say 'Let's go!' or 'Come on!'."
+  },
+  {
+    "id": "br-276",
+    "front": "Vocês vão",
+    "pronunciation": "[voh-says vowng]",
+    "back": "You all go / You all are going",
+    "context": "Used to address the movement or future actions of a group."
+  },
+  {
+    "id": "br-277",
+    "front": "Eles vão / Elas vão",
+    "pronunciation": "[eh-lees vowng / eh-lahs vowng]",
+    "back": "They go / They are going",
+    "context": "Used for the movement or future actions of a group of people."
+  },
+  {
+    "id": "br-278",
+    "front": "Eu tenho uma dúvida.",
+    "pronunciation": "[ay-oo tayng-yoo oo-mah doo-vee-dah]",
+    "back": "I have a question.",
+    "context": "An essential classroom or lesson phrase when a student is confused."
+  },
+  {
+    "id": "br-279",
+    "front": "Você tem tempo hoje?",
+    "pronunciation": "[voh-say tayng tayng-poo oh-zhee]",
+    "back": "Do you have time today?",
+    "context": "Used when setting up plans or checking someone's availability."
+  },
+  {
+    "id": "br-280",
+    "front": "Tem café?",
+    "pronunciation": "[tayng kah-feh]",
+    "back": "Is there coffee?",
+    "context": "Example of using 'tem' to mean 'there is/are'. A classic question in Brazilian homes or offices."
+  },
+  {
+    "id": "br-281",
+    "front": "Não tem problema.",
+    "pronunciation": "[nowng tayng proo-bleh-mah]",
+    "back": "There is no problem. / No worries.",
+    "context": "The absolute standard way to say 'no problem' or dismiss an apology."
+  },
+  {
+    "id": "br-282",
+    "front": "Eu tenho que estudar.",
+    "pronunciation": "[ay-oo tayng-yoo kee ay-stoo-dahr]",
+    "back": "I have to study.",
+    "context": "Combining 'ter + que + verb' expresses a requirement or obligation."
+  },
+  {
+    "id": "br-283",
+    "front": "Aonde você vai?",
+    "pronunciation": "[ah-ong-jee voh-say vy]",
+    "back": "Where are you going?",
+    "context": "The specific question used when someone is physically on the move."
+  },
+  {
+    "id": "br-284",
+    "front": "Eu vou para casa.",
+    "pronunciation": "[ay-oo voh pah-rah kah-zah]",
+    "back": "I am going home.",
+    "context": "In casual speech, 'para' is almost always shortened to just 'pra'."
+  },
+  {
+    "id": "br-285",
+    "front": "Eu vou viajar amanhã.",
+    "pronunciation": "[ay-oo voh vee-ah-zhahr ah-mah-nyang]",
+    "back": "I am going to travel tomorrow.",
+    "context": "Shows how to express the future using 'vou' followed by an unchanged verb."
+  },
+  {
+    "id": "br-286",
+    "front": "Vamos!",
+    "pronunciation": "[vah-moos]",
+    "back": "Let's go!",
+    "context": "The ultimate high-energy exclamation to get people moving."
+  },
+  {
+    "id": "br-287",
+    "front": "Eles vão ao restaurante.",
+    "pronunciation": "[eh-lees vowng ow hay-stow-rahn-chee]",
+    "back": "They are going to the restaurant.",
+    "context": "Combines 'a' (to) and 'o' (the) into 'ao'."
+  },
+  {
+    "id": "br-288",
+    "front": "Ela vai à praia.",
+    "pronunciation": "[eh-lah vy ah pry-ah]",
+    "back": "She is going to the beach.",
+    "context": "The accent on 'à' indicates a contraction of the preposition 'a' and feminine 'a'."
+  },
+  {
+    "id": "br-289",
+    "front": "Você vai de carro ou de ônibus?",
+    "pronunciation": "[voh-say vy jee kahr-hoo oh jee oh-nee-boos]",
+    "back": "Are you going by car or by bus?",
+    "context": "Shows how 'de' is used to define modes of transit."
+  },
+  {
+    "id": "br-290",
+    "front": "Eu tenho fome.",
+    "pronunciation": "[ay-oo tayng-yoo foh-mee]",
+    "back": "I am hungry.",
+    "context": "Literally translates to 'I have hunger'. Idiomatic expression."
+  }
+]

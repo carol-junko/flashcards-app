@@ -1,0 +1,177 @@
+[
+  {
+    "id": "br-241",
+    "front": "Eu sou",
+    "pronunciation": "[ay-oo sow]",
+    "back": "I am (permanent)",
+    "context": "Used for permanent characteristics like identity, nationality, or professions (e.g., Eu sou americano)."
+  },
+  {
+    "id": "br-242",
+    "front": "Você é",
+    "pronunciation": "[voh-say ay]",
+    "back": "You are (permanent)",
+    "context": "Used when describing who someone is fundamentally or their baseline traits."
+  },
+  {
+    "id": "br-243",
+    "front": "Ele é / Ela é",
+    "pronunciation": "[eh-lee ay / eh-lah ay]",
+    "back": "He is / She is (permanent)",
+    "context": "Used for a third person's permanent traits, origin, or name."
+  },
+  {
+    "id": "br-244",
+    "front": "Nós somos",
+    "pronunciation": "[naws soh-moos]",
+    "back": "We are (permanent)",
+    "context": "Used for permanent traits of a group you belong to. Note: In casual Brazil, 'A gente é' is also used."
+  },
+  {
+    "id": "br-245",
+    "front": "Vocês são",
+    "pronunciation": "[voh-says sowng]",
+    "back": "You all are (permanent)",
+    "context": "Used for addressing a group of people permanently. Ends with a nasal sound."
+  },
+  {
+    "id": "br-246",
+    "front": "Eles são / Elas são",
+    "pronunciation": "[eh-lees sowng / eh-lahs sowng]",
+    "back": "They are (permanent)",
+    "context": "Used for describing the identities or traits of a group of males/mixed (eles) or females (elas)."
+  },
+  {
+    "id": "br-247",
+    "front": "Eu estou",
+    "pronunciation": "[ay-oo ay-stow]",
+    "back": "I am (temporary/situational)",
+    "context": "Used for current feelings, health states, or locations (e.g., Eu estou cansado, Eu estou em casa)."
+  },
+  {
+    "id": "br-248",
+    "front": "Você está",
+    "pronunciation": "[voh-say ay-stah]",
+    "back": "You are (temporary/situational)",
+    "context": "Used to ask how someone is doing or where they are right now. In casual speech, it sounds like 'tá'."
+  },
+  {
+    "id": "br-249",
+    "front": "Ele está / Ela está",
+    "pronunciation": "[eh-lee ay-stah / eh-lah ay-stah]",
+    "back": "He is / She is (temporary/situational)",
+    "context": "Used to describe a temporary mood, location, or state of a third person."
+  },
+  {
+    "id": "br-250",
+    "front": "Nós estamos",
+    "pronunciation": "[naws ay-stah-moos]",
+    "back": "We are (temporary/situational)",
+    "context": "Used for current locations or temporary emotional states of a group."
+  },
+  {
+    "id": "br-251",
+    "front": "Vocês estão",
+    "pronunciation": "[voh-says ay-stowng]",
+    "back": "You all are (temporary/situational)",
+    "context": "Used to ask a group of people how they are doing or where they are at the moment."
+  },
+  {
+    "id": "br-252",
+    "front": "Eles estão / Elas estão",
+    "pronunciation": "[eh-lees ay-stowng / eh-lahs ay-stowng]",
+    "back": "They are (temporary/situational)",
+    "context": "Used to describe where a group of people are or how they are feeling right now."
+  },
+  {
+    "id": "br-253",
+    "front": "Eu sou feliz.",
+    "pronunciation": "[ay-oo sow feh-leez]",
+    "back": "I am a happy person.",
+    "context": "Using 'ser' here implies that happiness is a core, permanent part of your personality."
+  },
+  {
+    "id": "br-254",
+    "front": "Eu estou feliz.",
+    "pronunciation": "[ay-oo ay-stow feh-leez]",
+    "back": "I am happy right now.",
+    "context": "Using 'estar' here implies you are happy because of a current moment, event, or mood."
+  },
+  {
+    "id": "br-255",
+    "front": "Onde você está?",
+    "pronunciation": "[ong-jee voh-say ay-stah]",
+    "back": "Where are you?",
+    "context": "A crucial daily text or call phrase. Uses 'estar' because locations change."
+  },
+  {
+    "id": "br-256",
+    "front": "Eu estou no Brasil.",
+    "pronunciation": "[ay-oo ay-stow noo brah-zeew]",
+    "back": "I am in Brazil.",
+    "context": "Uses 'estar' because your presence in a country is a geographical location."
+  },
+  {
+    "id": "br-257",
+    "front": "Como ele está?",
+    "pronunciation": "[koh-moo eh-lee ay-stah]",
+    "back": "How is he doing?",
+    "context": "Used to ask about someone's current mood, health, or well-being."
+  },
+  {
+    "id": "br-258",
+    "front": "Ela é médica.",
+    "pronunciation": "[eh-lah ay meh-jee-kah]",
+    "back": "She is a doctor.",
+    "context": "Uses 'ser' because a profession is viewed as a fixed personal identity status."
+  },
+  {
+    "id": "br-259",
+    "front": "Nós somos amigos.",
+    "pronunciation": "[naws soh-moos ah-mee-goos]",
+    "back": "We are friends.",
+    "context": "Uses 'ser' because relationships are considered defining personal traits."
+  },
+  {
+    "id": "br-260",
+    "front": "Vocês estão prontos?",
+    "pronunciation": "[voh-says ay-stowng proong-toos]",
+    "back": "Are you all ready?",
+    "context": "Uses 'estar' because being ready is a temporary, transitional state."
+  },
+  {
+    "id": "br-261",
+    "front": "A comida está fria.",
+    "pronunciation": "[ah koo-mee-dah ay-stah free-ah]",
+    "back": "The food is cold.",
+    "context": "Uses 'estar' because the food's temperature has changed from hot to cold temporarily."
+  },
+  {
+    "id": "br-262",
+    "front": "O céu é azul.",
+    "pronunciation": "[oo seh-oo ay ah-zoow]",
+    "back": "The sky is blue.",
+    "context": "Uses 'ser' because the baseline color of the sky is considered an inherent characteristic."
+  },
+  {
+    "id": "br-263",
+    "front": "Eu estou doente.",
+    "pronunciation": "[ay-oo ay-stow doo-ayng-chee]",
+    "back": "I am sick.",
+    "context": "Uses 'estar' because being sick is a temporary health state."
+  },
+  {
+    "id": "br-264",
+    "front": "Eles são do Brasil.",
+    "pronunciation": "[eh-lees sowng doo brah-zeew]",
+    "back": "They are from Brazil.",
+    "context": "Uses 'ser' because origin and birthplace never change."
+  },
+  {
+    "id": "br-265",
+    "front": "A porta está aberta.",
+    "pronunciation": "[ah pohr-tah ay-stah ah-bair-tah]",
+    "back": "The door is open.",
+    "context": "Uses 'estar' because the status of a door (open or closed) is a temporary condition."
+  }
+]

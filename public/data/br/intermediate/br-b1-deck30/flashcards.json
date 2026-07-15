@@ -1,0 +1,247 @@
+[
+  {
+    "id": "br-966",
+    "front": "Você gostaria de jantar comigo hoje à noite?",
+    "pronunciation": "voh-SEH goos-tah-REE-ah jee zhahn-TAHR koong-MEE-goo OH-zhee ah NOY-chee?",
+    "back": "Would you like to have dinner with me tonight?",
+    "context": "A standard, polite invitation using the conditional 'gostaria' (would like)."
+  },
+  {
+    "id": "br-967",
+    "front": "Que tal irmos ao cinema no próximo sábado?",
+    "pronunciation": "kee TAW EER-moos ow see-NEH-mah noo PROH-see-moo SAH-bah-doo?",
+    "back": "How about we go to the movies next Saturday?",
+    "context": "Using the classic 'Que tal...' structure to propose a casual group activity."
+  },
+  {
+    "id": "br-968",
+    "front": "Estou livre na terça-feira, podemos marcar algo.",
+    "pronunciation": "ees-TOY LEE-vree nah TEHR-sah FAY-rah, poo-DEH-moos mahr-KAHR AWL-goo.",
+    "back": "I'm free on Tuesday, we can schedule something.",
+    "context": "Using 'livre' (free) to indicate availability and 'marcar algo' (schedule something) as a plan pivot."
+  },
+  {
+    "id": "br-969",
+    "front": "Adoraria, mas já tenho outros planos.",
+    "pronunciation": "ah-doo-rah-REE-ah, mahs zhah TEYNG-yoo OH-troos PLAH-noos.",
+    "back": "I would love to, but I already have other plans.",
+    "context": "A polite, graceful way to decline an invitation."
+  },
+  {
+    "id": "br-970",
+    "front": "O que você acha de irmos à praia?",
+    "pronunciation": "oo kee voh-SEH AH-shah jee EER-moos ah PRY-ah?",
+    "back": "What do you think about us going to the beach?",
+    "context": "Using 'O que você acha de...' to solicit an opinion on a potential plan."
+  },
+  {
+    "id": "br-971",
+    "front": "Sim, adoraria participar! Onde nos encontramos?",
+    "pronunciation": "seeyng, ah-doo-rah-REE-ah pahr-chee-see-PAHR! OHN-jee noos eeyn-kohn-TRAH-moos?",
+    "back": "Yes, I'd love to participate! Where shall we meet?",
+    "context": "Enthusiastically accepting an invitation and arranging a meeting point using the reflexive 'nos encontramos'."
+  },
+  {
+    "id": "br-972",
+    "front": "Infelizmente, não poderei ir nesta ocasião.",
+    "pronunciation": "een-feh-lee-ZEHN-chee, nohng poo-deh-RAY EER NEHS-tah oh-kah-zy-OHNG.",
+    "back": "Unfortunately, I will not be able to go on this occasion.",
+    "context": "A formal, professional way to decline plans."
+  },
+  {
+    "id": "br-973",
+    "front": "Podemos deixar para outro dia?",
+    "pronunciation": "poo-DEH-moos day-ZHAHR PAH-rah OH-troo JEE-ah?",
+    "back": "Can we leave it for another day?",
+    "context": "Proposing a reschedule for plans that cannot happen currently."
+  },
+  {
+    "id": "br-974",
+    "front": "Estou muito ocupado esta semana.",
+    "pronunciation": "ees-TOY MOOI-too oh-koo-PAH-doo EHS-tah seh-MAH-nah.",
+    "back": "I am very busy this week.",
+    "context": "Stating unavailability due to a high workload."
+  },
+  {
+    "id": "br-975",
+    "front": "Vamos tomar um café na próxima semana?",
+    "pronunciation": "VAH-moos toh-MAHR oong kah-FEH nah PROH-see-mah seh-MAH-nah?",
+    "back": "Shall we grab a coffee next week?",
+    "context": "A classic 'get to know you' or 'catch up' social request."
+  },
+  {
+    "id": "br-976",
+    "front": "Claro, que horas seria melhor para você?",
+    "pronunciation": "KLAH-roo, kee OH-rahs seh-REE-ah meh-LYOHR PAH-rah voh-SEH?",
+    "back": "Sure, what time would be better for you?",
+    "context": "Accepting an invitation and deferring the scheduling decision to the other party."
+  },
+  {
+    "id": "br-977",
+    "front": "Desculpe, eu esqueci completamente do nosso compromisso.",
+    "pronunciation": "dehs-KOOL-pee, ew ehs-keh-SEE kohn-pleh-tah-MEHN-chee doo NOH-soo kohm-proo-MEE-soo.",
+    "back": "Sorry, I completely forgot about our appointment/commitment.",
+    "context": "Apologizing for a social mistake using 'compromisso' (appointment/obligation)."
+  },
+  {
+    "id": "br-978",
+    "front": "Podemos confirmar nossa ida amanhã?",
+    "pronunciation": "poo-DEH-moos kohn-feer-MAHR NOH-sah EE-dah ah-mah-NYAH?",
+    "back": "Can we confirm our going tomorrow?",
+    "context": "Following up to finalize plans using 'ida' (act of going)."
+  },
+  {
+    "id": "br-979",
+    "front": "A que horas começa a festa?",
+    "pronunciation": "ah kee OH-rahs koh-MEH-sah ah FEHS-tah?",
+    "back": "What time does the party start?",
+    "context": "Querying structural event timing."
+  },
+  {
+    "id": "br-980",
+    "front": "Preciso confirmar com o Deni primeiro.",
+    "pronunciation": "pree-SEE-zoo kohn-feer-MAHR koong oo Deni pree-MAY-roo.",
+    "back": "I need to confirm with Deni first.",
+    "context": "Using the 'pending spouse check' strategy before committing to social plans."
+  },
+  {
+    "id": "br-981",
+    "front": "Que bom que você conseguiu vir!",
+    "pronunciation": "kee boong kee voh-SEH kohn-seh-GEEW VEER!",
+    "back": "How good that you managed to come!",
+    "context": "A welcoming phrase acknowledging that plans were successfully met."
+  },
+  {
+    "id": "br-982",
+    "front": "Vamos sair para jantar em algum lugar diferente?",
+    "pronunciation": "VAH-moos sah-EER PAH-rah zhahn-TAHR ahyng aw-GOONG loo-GAHR jee-feh-REHN-chee?",
+    "back": "Shall we go out for dinner somewhere different?",
+    "context": "Suggesting an activity change to break a routine."
+  },
+  {
+    "id": "br-983",
+    "front": "Não tenho certeza se posso, tenho um curso.",
+    "pronunciation": "nohng TEYNG-yoo sehr-TEH-zah see POH-soo, TEYNG-yoo oong KOOR-soo.",
+    "back": "I'm not sure if I can, I have a course.",
+    "context": "Softly declining due to educational commitments."
+  },
+  {
+    "id": "br-984",
+    "front": "Você está livre na sexta-feira à noite?",
+    "pronunciation": "voh-SEH ees-TAH LEE-vree nah SEHKS-tah FAY-rah ah NOY-chee?",
+    "back": "Are you free on Friday night?",
+    "context": "Directly querying availability for social time."
+  },
+  {
+    "id": "br-985",
+    "front": "Quem mais vai estar lá?",
+    "pronunciation": "kayng mays vy ees-TAHR lah?",
+    "back": "Who else will be there?",
+    "context": "Querying the social circle/list of attendees."
+  },
+  {
+    "id": "br-986",
+    "front": "Sinto muito, não vai ser possível.",
+    "pronunciation": "SEEN-too MOOI-too, nohng vy sayr poo-SEE-vew.",
+    "back": "I'm very sorry, it won't be possible.",
+    "context": "A final, firm way to decline plans."
+  },
+  {
+    "id": "br-987",
+    "front": "Espero que você possa vir na próxima.",
+    "pronunciation": "ehs-PEH-roo kee voh-SEH POH-sah VEER nah PROH-see-mah.",
+    "back": "I hope you can come next time.",
+    "context": "A polite inclusionary phrase to encourage future social connections."
+  },
+  {
+    "id": "br-988",
+    "front": "Você prefere almoçar ou jantar?",
+    "pronunciation": "voh-SEH preh-FEH-ree ahl-moo-SAHR ow zhahn-TAHR?",
+    "back": "Do you prefer to have lunch or dinner?",
+    "context": "Giving the other person a binary choice to facilitate planning."
+  },
+  {
+    "id": "br-989",
+    "front": "Podemos marcar às sete da noite?",
+    "pronunciation": "poo-DEH-moos mahr-KAHR ahs SEH-chee dah NOY-chee?",
+    "back": "Can we schedule it for seven at night?",
+    "context": "Setting a precise temporal marker for plans."
+  },
+  {
+    "id": "br-990",
+    "front": "O evento parece muito interessante.",
+    "pronunciation": "oo eh-VEHN-too pah-REH-see MOOI-too eeyn-teh-reh-SAHN-chee.",
+    "back": "The event seems very interesting.",
+    "context": "Positive reinforcement of an invitation to encourage the plans."
+  },
+  {
+    "id": "br-991",
+    "front": "Avisarei se algo mudar nos meus planos.",
+    "pronunciation": "ah-vee-zah-RAY see AWL-goo moo-DAHR noos MEW-ohs PLAH-noos.",
+    "back": "I will let you know if something changes in my plans.",
+    "context": "Indicating potential flexibility for future scheduling shifts."
+  },
+  {
+    "id": "br-992",
+    "front": "Não precisa trazer nada, eu cuido de tudo.",
+    "pronunciation": "nohng pree-SEE-zah trah-ZEHR NAH-dah, ew KOO-ee-doo jee TOO-doo.",
+    "back": "You don't need to bring anything, I'll take care of everything.",
+    "context": "Host etiquette reassuring an invited guest regarding contribution requirements."
+  },
+  {
+    "id": "br-993",
+    "front": "Vamos combinar os detalhes mais tarde?",
+    "pronunciation": "VAH-moos kohn-bee-NAHR ooz deh-TAH-lyes mays TAHR-jee?",
+    "back": "Shall we decide the details later?",
+    "context": "Postponing logistics to a later point once the plan is broadly accepted."
+  },
+  {
+    "id": "br-994",
+    "front": "Foi um prazer conversar com você, até breve!",
+    "pronunciation": "foy oong prah-ZEHR kohn-vehr-SAHR koong voh-SEH, ah-TEH BREH-vee!",
+    "back": "It was a pleasure talking to you, see you soon!",
+    "context": "A warm social sign-off used after making or wrapping up plans."
+  },
+  {
+    "id": "br-995",
+    "front": "Estou ansioso para esse encontro.",
+    "pronunciation": "ees-TOY ahn-syo-zoo PAH-rah EHS-ee eeyn-kohn-troo.",
+    "back": "I'm looking forward to this meeting/encounter.",
+    "context": "Expressing positive anticipation for planned events. Female speakers use 'ansiosa'."
+  },
+  {
+    "id": "br-996",
+    "front": "Você quer carona para o evento?",
+    "pronunciation": "voh-SEH kehr kah-ROH-nah PAH-rah oo eh-VEHN-too?",
+    "back": "Do you want a ride to the event?",
+    "context": "A helpful social offer using the informal noun 'carona' (lift/ride)."
+  },
+  {
+    "id": "br-997",
+    "front": "Dá para encontrar um lugar mais silencioso?",
+    "pronunciation": "DAH PAH-rah eeyn-kohn-TRAHR oong loo-GAHR mays see-lehn-syo-zoo?",
+    "back": "Is it possible to find a quieter place?",
+    "context": "Suggesting a venue shift for better conversation conditions."
+  },
+  {
+    "id": "br-998",
+    "front": "Ainda não tenho certeza se estarei disponível.",
+    "pronunciation": "ah-EEYN-dah nohng TEYNG-yoo sehr-TEH-zah see ees-tah-RAY jee-see-PONE-ee-vew.",
+    "back": "I still don't know for sure if I'll be available.",
+    "context": "Keeping options open without committing to a firm response."
+  },
+  {
+    "id": "br-999",
+    "front": "Vamos marcar de novo qualquer dia desses?",
+    "pronunciation": "VAH-moos mahr-KAHR jee NOH-voo kwaw-KEHR JEE-ah DEH-sehs?",
+    "back": "Shall we schedule it again some day?",
+    "context": "Closing a meeting by proactively setting the stage for future social interaction."
+  },
+  {
+    "id": "br-1000",
+    "front": "Que ótimo encontrar você aqui!",
+    "pronunciation": "kee OH-chee-moo eeyn-kohn-TRAHR voh-SEH ah-KEE!",
+    "back": "How great to meet/find you here!",
+    "context": "An unplanned, enthusiastic social interaction starter when encountering someone unexpectedly."
+  }
+]

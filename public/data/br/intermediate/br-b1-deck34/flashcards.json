@@ -1,0 +1,247 @@
+[
+  {
+    "id": "br-1106",
+    "front": "Eu passei as últimas semanas estudando desenvolvimento de software.",
+    "pronunciation": "ew pah-SAY ahs OOW-chee-mahs seh-MAH-nahs ees-too-DAHN-doo jeh-zehn-vowl-vee-MEHN-too jee software.",
+    "back": "I spent the last few weeks studying software development.",
+    "context": "Stating recent educational focuses using 'desenvolvimento de software'."
+  },
+  {
+    "id": "br-1107",
+    "front": "A estrutura básica de uma página web usa HTML e CSS.",
+    "pronunciation": "ah ees-troo-TOO-rah BAH-zee-kah jee OO-mah PAH-zhee-nah web OO-zah HTML ee CSS.",
+    "back": "The basic structure of a web page uses HTML and CSS.",
+    "context": "Describing front-end fundamentals using 'estrutura básica'."
+  },
+  {
+    "id": "br-1108",
+    "front": "Esta propriedade serve para mudar a cor de fundo do elemento.",
+    "pronunciation": "EHS-tah proo-pree-eh-DAH-jee SEHR-vee PAH-rah moo-DAHR ah coohr jee FOON-doo doo eh-leh-MEHN-too.",
+    "back": "This property serves to change the background color of the element.",
+    "context": "Explaining CSS styling behavior via 'cor de fundo' (background color)."
+  },
+  {
+    "id": "br-1109",
+    "front": "O JavaScript adiciona interatividade e comportamento dinâmico ao site.",
+    "pronunciation": "oo JavaScript ah-jee-syo-NAY eeyng-tehr-ah-chee-vee-DAH-jee ee kohm-pohr-tah-MEHN-too jee-NAH-mee-koo ow SY-chee.",
+    "back": "JavaScript adds interactivity and dynamic behavior to the website.",
+    "context": "Defining front-end scripting roles using 'comportamento dinâmico'."
+  },
+  {
+    "id": "br-1110",
+    "front": "Eu acabei de concluir um curso especializado em Vue.js.",
+    "pronunciation": "ew ah-kah-BAY jee kohn-cloo-EER oong KOOR-soo ees-peh-syah-lee-ZAH-doo ahyng Vue.js.",
+    "back": "I have just completed a specialized course in Vue.js.",
+    "context": "Using 'acabei de' (just finished) to showcase framework upskilling milestones."
+  },
+  {
+    "id": "br-1111",
+    "front": "A linguagem C exige um bom entendimento de gerenciamento de memória.",
+    "pronunciation": "ah leeyng-GWAH-zhehng C eh-ZHEE-zhee oong boong eehyn-tehn-dee-MEHN-too jee zheh-rehn-syah-MEHN-too jee meh-MOH-ryah.",
+    "back": "The C language requires a good understanding of memory management.",
+    "context": "Discussing low-level programming constraints using 'gerenciamento de memória'."
+  },
+  {
+    "id": "br-1112",
+    "front": "O código original precisa ficar reto e alinhado na tela.",
+    "pronunciation": "oo KOH-jee-goo oo-ree-zhee-NAW prah-SEE-zoo fee-KAHR HEH-too ee ah-leeng-YAH-doo nah TEH-lah.",
+    "back": "The original code needs to be straight and aligned on the screen.",
+    "context": "Discussing strict visual structural layouts or element alignments."
+  },
+  {
+    "id": "br-1113",
+    "front": "Eu preciso declarar as variáveis no início do escopo.",
+    "pronunciation": "ew prah-SEE-zoo jeh-clah-RAHR ahs vah-ry-AH-vees noo ee-NEE-syoo doo ees-KOH-poo.",
+    "back": "I need to declare the variables at the beginning of the scope.",
+    "context": "Discussing code logical boundaries via 'declarar variáveis' and 'escopo'."
+  },
+  {
+    "id": "br-1114",
+    "front": "Essa função retorna um valor booleano verdadeiro ou falso.",
+    "pronunciation": "EHS-ah foon-SOHNG heh-TOHR-nah oong vah-LOHR boo-lee-AH-noo vehr-dah-DAY-roo ow FAW-soo.",
+    "back": "This function returns a true or false boolean value.",
+    "context": "Explaining logic routing returns via 'valor booleano'."
+  },
+  {
+    "id": "br-1115",
+    "front": "Como posso resolver esse erro de sintaxe no console?",
+    "pronunciation": "KOH-moo POH-soo heh-zowl-VEHR EHS-ee EH-hoo jee seeyng-TAH-see noo kohn-SOH-lee?",
+    "back": "How can I resolve this syntax error in the console?",
+    "context": "Debugging parsing blockers using the term 'erro de sintaxe'."
+  },
+  {
+    "id": "br-1116",
+    "front": "O loop condicional vai rodar até que a condição seja atendida.",
+    "pronunciation": "oo loop kohn-jee-syo-NAW vy hoo-DAHR ah-TEH kee ah kohn-jee-SOHNG SEH-zhah ah-tehn-JEE-dah.",
+    "back": "The conditional loop will run until the condition is met.",
+    "context": "Explaining block iterations; 'até que' triggers the subjunctive 'seja'."
+  },
+  {
+    "id": "br-1117",
+    "front": "Nós usamos componentes para reaproveitar partes da interface.",
+    "pronunciation": "nohs oo-ZAH-moos kohm-poo-NEHN-chees PAH-rah hay-ah-proo-vay-TAHR PAHR-chees dah eeyng-tehr-FAH-see.",
+    "back": "We use components to reuse parts of the interface.",
+    "context": "Discussing modern architectural modularity using 'reaproveitar componentes'."
+  },
+  {
+    "id": "br-1118",
+    "front": "O script quebra se os dados de entrada forem inválidos.",
+    "pronunciation": "oo script KEH-brah see ooz DAH-doos jee eehn-TRAH-dah FOH-rehng eeyng-VAH-lee-doos.",
+    "back": "The script breaks if the input data is invalid.",
+    "context": "Explaining system crashes using the future subjunctive form 'forem'."
+  },
+  {
+    "id": "br-1119",
+    "front": "Estou praticando lógica de programação todos os dias.",
+    "pronunciation": "ees-TOY prah-chee-KAHN-doo LOH-zhee-kah jee proo-grah-mah-SOHNG TOH-doos ooz JEE-ahs.",
+    "back": "I am practicing programming logic every day.",
+    "context": "Stating persistent skill-building habits using 'lógica de programação'."
+  },
+  {
+    "id": "br-1120",
+    "front": "O banco de dados armazena as informações dos usuários.",
+    "pronunciation": "oo BAHN-koo jee DAH-doos ahr-mah-ZEH-nah ahs eeyng-foohr-mah-SOHNGS doos oo-zoo-AH-ryoos.",
+    "back": "The database stores the users' information.",
+    "context": "Describing backend system components using 'banco de dados' (database)."
+  },
+  {
+    "id": "br-1121",
+    "front": "Você prefere usar seletores de classe ou de ID no CSS?",
+    "pronunciation": "voh-SEH preh-FEH-ree oo-ZAHR seh-leh-TOH-rees jee KLAH-see ow jee ID noo CSS?",
+    "back": "Do you prefer to use class or ID selectors in CSS?",
+    "context": "Discussing CSS targeting specificity strategies using 'seletores de classe'."
+  },
+  {
+    "id": "br-1122",
+    "front": "Essa API envia os dados no formato JSON.",
+    "pronunciation": "EHS-ah API eehn-VEE-ah ooz DAH-doos noo fohr-MAH-too JSON.",
+    "back": "This API sends the data in JSON format.",
+    "context": "Detailing structural communication models via 'formato JSON'."
+  },
+  {
+    "id": "br-1123",
+    "front": "Eu fiz uma requisição HTTP para buscar o conteúdo.",
+    "pronunciation": "ew fees OO-mah heh-kee-zee-SOHNG HTTP PAH-rah boos-KAHR oo kohn-teh-OO-doo.",
+    "back": "I made an HTTP request to fetch the content.",
+    "context": "Describing asynchronous data pipeline pulls using 'requisição HTTP'."
+  },
+  {
+    "id": "br-1124",
+    "front": "A aplicação está renderizando os elementos muito rápido.",
+    "pronunciation": "ah ah-plee-kah-SOHNG ees-TAH heehn-deh-ree-ZAHN-doo ooz eh-leh-MEHN-too MOOI-too HAH-pee-doo.",
+    "back": "The application is rendering the elements very fast.",
+    "context": "Praising layout runtime execution metrics using the gerund 'renderizando'."
+  },
+  {
+    "id": "br-1125",
+    "front": "Eu salvei a nova versão do código no repositório git.",
+    "pronunciation": "ew saw-VAY ah NOH-vah vehr-SOHNG doo KOH-jee-goo noo heh-poo-zee-TOH-ryoo git.",
+    "back": "I saved the new version of the code in the git repository.",
+    "context": "Describing basic source control commits via 'repositório git'."
+  },
+  {
+    "id": "br-1126",
+    "front": "O framework ajuda a organizar melhor os arquivos.",
+    "pronunciation": "oo framework ah-ZHOO-dah ah oohr-gah-nee-ZAHR meh-LYOHR ooz ahr-KEE-voos.",
+    "back": "The framework helps to better organize the files.",
+    "context": "Stating structured tooling advantages using the architecture loanword 'framework'."
+  },
+  {
+    "id": "br-1127",
+    "front": "É preciso validar os campos do formulário antes do envio.",
+    "pronunciation": "eh prah-SEE-zoo vah-lee-DAHR ooz KAHMP-oos doo fohr-moo-LAH-ryoo AHN-chees doo eehn-VEE-oo.",
+    "back": "It is necessary to validate the form fields before sending.",
+    "context": "Stating data safety sanity checks via 'validar campos do formulário'."
+  },
+  {
+    "id": "br-1128",
+    "front": "Um array serve para guardar uma lista ordenada de itens.",
+    "pronunciation": "oong array SEHR-vee PAH-rah gwahr-DAHR OO-mah LEES-tah oohr-deh-NAH-dah jee EE-teeyngs.",
+    "back": "An array serves to keep an ordered list of items.",
+    "context": "Explaining fundamental compound object collections using 'array' or list types."
+  },
+  {
+    "id": "br-1129",
+    "front": "Eu prefiro usar funções assíncronas para carregar dados.",
+    "pronunciation": "ew preh-FEE-roo oo-ZAHR foon-SOHNGS ah-SEENG-croo-nahs PAH-rah kah-heh-GAHR DAH-doos.",
+    "back": "I prefer to use asynchronous functions to load data.",
+    "context": "Describing non-blocking sequence executions using 'funções assíncronas'."
+  },
+  {
+    "id": "br-1130",
+    "front": "O design responsivo garante que o site funcione no celular.",
+    "pronunciation": "oo deez-AYNG hehs-pohn-SEE-voo gah-RAHN-chee kee oo SY-chee foon-SYO-nee noo seh-loo-LAHR.",
+    "back": "Responsive design ensures that the website works on mobile phones.",
+    "context": "Discussing cross-device adaptive sizing systems via 'design responsivo'."
+  },
+  {
+    "id": "br-1131",
+    "front": "Como posso herdar propriedades de outra classe?",
+    "pronunciation": "KOH-moo POH-soo ehr-DAHR proo-pree-eh-DAH-jees jee OH-trah KLAH-see?",
+    "back": "How can I inherit properties from another class?",
+    "context": "Querying object-oriented code architecture setups using the verb 'herdar' (to inherit)."
+  },
+  {
+    "id": "br-1132",
+    "front": "O compilador apontou um erro na linha trinta e dois.",
+    "pronunciation": "oo kohm-pee-lah-DOHR ah-pohn-TOY oong EH-hoo nah LEENG-yah TREENG-tah ee DOYS.",
+    "back": "The compiler pointed out an error on line thirty-two.",
+    "context": "Handling static typing build failures using 'compilador'."
+  },
+  {
+    "id": "br-1133",
+    "front": "Nós mudamos o estado do componente ao clicar no botão.",
+    "pronunciation": "nohs moo-DAH-moos oo ees-TAH-doo doo kohm-poo-NEHN-chee ow klee-KAHR noo boo-TOHNG.",
+    "back": "We change the state of the component upon clicking the button.",
+    "context": "Describing programmatic reactive data flow handling using 'estado do componente'."
+  },
+  {
+    "id": "br-1134",
+    "front": "É importante criar uma documentação clara para o código.",
+    "pronunciation": "eh eeym-pohr-TAHN-chee kry-AHR OO-mah doo-koo-mehn-tah-SOHNG KLAH-rah PAH-rah oo KOH-jee-goo.",
+    "back": "It is important to create clear documentation for the code.",
+    "context": "Advocating for team architectural standards via 'documentação clara'."
+  },
+  {
+    "id": "br-1135",
+    "front": "O servidor backend lida com as regras de negócio.",
+    "pronunciation": "oo sehr-vee-DOHR backend LEE-dah koong ahs HEH-grahs jee neh-GOH-syoo.",
+    "back": "The backend server deals with the business rules.",
+    "context": "Explaining decoupled tier separations using the phrase 'regras de negócio'."
+  },
+  {
+    "id": "br-1136",
+    "front": "Eu configurei uma variável de ambiente para a chave da API.",
+    "pronunciation": "ew kohn-fee-goo-RAY OO-mah vah-ry-AH-vew jee ahym-by-EHN-chee PAH-rah ah SHAH-vee dah API.",
+    "back": "I configured an environment variable for the API key.",
+    "context": "Securing operational infrastructure keys using 'variável de ambiente'."
+  },
+  {
+    "id": "br-1137",
+    "front": "O algoritmo consegue processar os dados em tempo real.",
+    "pronunciation": "oo aw-goo-REE-tmoo kohn-SEH-ghee proo-seh-SAHR ooz DAH-doos ahyng TEHMP-oo hay-AW.",
+    "back": "The algorithm manages to process the data in real-time.",
+    "context": "Describing instant computation steps using 'tempo real'."
+  },
+  {
+    "id": "br-1138",
+    "front": "Você prefere usar estilização inline ou arquivos externos?",
+    "pronunciation": "voh-SEH preh-FEH-ree oo-ZAHR ees-chee-lee-zah-SOHNG inline ow ahr-KEE-voos ehks-TEHR-noos?",
+    "back": "Do you prefer to use inline styling or external files?",
+    "context": "Contrasting markup visual structure distributions via 'estilização inline'."
+  },
+  {
+    "id": "br-1139",
+    "front": "A indentação correta deixa o código muito mais legível.",
+    "pronunciation": "ah een-dehn-tah-SOHNG koh-HEH-tah DAY-shah oo KOH-jee-goo MOOI-too mays leh-ZHEE-vew.",
+    "back": "Correct indentation makes the code much more readable.",
+    "context": "Stating engineering source code cleanliness benefits using 'legível' (readable)."
+  },
+  {
+    "id": "br-1140",
+    "front": "Eu passei no teste de lógica e vou começar o projeto.",
+    "pronunciation": "ew pah-SAY noo TEHS-chee jee LOH-zhee-kah ee vow koh-meh-SAHR oo proo-ZHEH-too.",
+    "back": "I passed the logic test and I am going to start the project.",
+    "context": "Celebrating structural gating milestone clearances with a future target commitment."
+  }
+]

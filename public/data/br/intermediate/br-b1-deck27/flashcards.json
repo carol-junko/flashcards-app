@@ -1,0 +1,212 @@
+[
+  {
+    "id": "br-866",
+    "front": "Tenho certeza absoluta de que o servidor está online.",
+    "pronunciation": "TEYNG-yoo sehr-TEH-zah awb-soo-LOO-tah jee kee oo sehr-vee-DOHR ees-TAH ohn-LY-nee.",
+    "back": "I have absolute certainty that the server is online.",
+    "context": "Using 'ter certeza absoluta de que' to express definitive, unshakeable certainty."
+  },
+  {
+    "id": "br-867",
+    "front": "Você tem certeza disso?",
+    "pronunciation": "voh-SEH cheyng sehr-TEH-zah DEES-oo?",
+    "back": "Are you sure about that?",
+    "context": "A standard conversational question to verify someone's certainty level. Contraction: de + isso = disso."
+  },
+  {
+    "id": "br-868",
+    "front": "Eu não tenho certeza se vou conseguir terminar hoje.",
+    "pronunciation": "ew nohng TEYNG-yoo sehr-TEH-zah see vow kohn-seh-GEER tehr-mee-NAHR OH-zhee.",
+    "back": "I'm not sure if I'll be able to finish today.",
+    "context": "Expressing schedule uncertainty using 'não tenho certeza se' followed by the future proximity construction."
+  },
+  {
+    "id": "br-869",
+    "front": "Eu duvido que eles mudem o prazo final.",
+    "pronunciation": "ew doo-VEE-doo kee EH-leys MOO-dehng oo PRAH-zoo fee-NAW.",
+    "back": "I doubt that they will change the final deadline.",
+    "context": "The verb 'duvidar que' (to doubt that) inherently triggers the subjunctive form ('mudem') in the following clause."
+  },
+  {
+    "id": "br-870",
+    "front": "Talvez seja melhor revisar o código-fonte.",
+    "pronunciation": "taw-VEHS SEH-zhah meh-LYOHR heh-vee-ZAHR oo KOH-jee-goo FOHN-chee.",
+    "back": "Maybe it's better to review the source code.",
+    "context": "The adverb 'talvez' (maybe/perhaps) requires the subjunctive mood ('seja') to indicate doubt or potentiality."
+  },
+  {
+    "id": "br-871",
+    "front": "É provável que a reunião seja cancelada.",
+    "pronunciation": "eh proo-VAH-vew kee ah hehoo-nee-OHNG SEH-zhah kahn-seh-LAH-dah.",
+    "back": "It is likely that the meeting will be canceled.",
+    "context": "Using the impersonal expression 'é provável que' to evaluate situational probability. Triggers the subjunctive 'seja'."
+  },
+  {
+    "id": "br-872",
+    "front": "Não há dúvida de que ela é a melhor candidata.",
+    "pronunciation": "nohng ah DOO-vee-dah jee kee EH-lah eh ah meh-LYOHR kahn-jee-DAH-tah.",
+    "back": "There is no doubt that she is the best candidate.",
+    "context": "Using 'não há dúvida de que' to completely eliminate any room for ambiguity."
+  },
+  {
+    "id": "br-873",
+    "front": "Estou confuso sobre qual ferramenta usar.",
+    "pronunciation": "ees-TOY kohn-FOO-zoo SOH-bree kwaw feh-hah-MEHN-tah oo-ZAHR.",
+    "back": "I am confused about which tool to use.",
+    "context": "Expressing mental uncertainty. If the speaker is female, the adjective shifts to 'confusa'."
+  },
+  {
+    "id": "br-874",
+    "front": "É possível que ocorra um atraso na entrega.",
+    "pronunciation": "eh poo-SEE-vew kee oo-KOH-hah oong ah-TRAH-zoo nah eehn-TREH-gah.",
+    "back": "It is possible that a delay in delivery occurs.",
+    "context": "Using 'é possível que' to state low-to-mid certainty. Triggers the subjunctive 'ocorra'."
+  },
+  {
+    "id": "br-875",
+    "front": "Eu aposto que o plano vai funcionar.",
+    "pronunciation": "ew ah-POHS-too kee oo PLAH-noo vy foon-syo-NAHR.",
+    "back": "I bet that the plan will work.",
+    "context": "Using the colloquial expression 'apostar que' (to bet that) to show confidence in an outcome."
+  },
+  {
+    "id": "br-876",
+    "front": "Sem dúvida nenhuma, este é o caminho certo.",
+    "pronunciation": "sayng DOO-vee-dah nee-NYOO-mah, EHS-chee eh oo kah-MEENG-yoo SEHR-too.",
+    "back": "Without any doubt, this is the right way.",
+    "context": "Using 'sem dúvida nenhuma' to aggressively reinforce certainty in a choice or path."
+  },
+  {
+    "id": "br-877",
+    "front": "Fiquei em dúvida entre as duas opções.",
+    "pronunciation": "fee-KAY ahyng DOO-vee-dah EHN-tree ahs DOO-ahs ohp-SOHNGS.",
+    "back": "I was in doubt between the two options.",
+    "context": "Using the past tense phrase 'ficar em dúvida' to express a past state of hesitation or indecision."
+  },
+  {
+    "id": "br-878",
+    "front": "Não estou totalmente convencido com essa ideia.",
+    "pronunciation": "nohng ees-TOY toh-taw-MEHN-chee kohn-vehn-SEE-doo koong EHS-ah ee-DEH-yah.",
+    "back": "I am not totally convinced by this idea.",
+    "context": "Expressing mild skepticism or lack of complete certainty. Female speakers use 'convencida'."
+  },
+  {
+    "id": "br-879",
+    "front": "É quase certo que teremos uma nova versão amanhã.",
+    "pronunciation": "eh KWAH-zee SEHR-too kee teh-REH-moos OO-mah NOH-vah vehr-SOHNG ah-mah-NYAH.",
+    "back": "It's almost certain that we will have a new version tomorrow.",
+    "context": "Using 'é quase certo que' to show highly probable certainty backed by structural trends."
+  },
+  {
+    "id": "br-880",
+    "front": "Isso parece óbvio para todo mundo.",
+    "pronunciation": "EES-oo pah-REH-see AWB-vyoo PAH-rah TOH-doo MOON-doo.",
+    "back": "That seems obvious to everyone.",
+    "context": "Stating that a concept requires no doubt or explanation because it is transparent ('óbvio')."
+  },
+  {
+    "id": "br-881",
+    "front": "Suspeito que há um erro nessa linha.",
+    "pronunciation": "soos-PAY-too kee ah oong EH-hoo NEHS-ah LEENG-yah.",
+    "back": "I suspect there is an error in this line.",
+    "context": "Using 'suspeitar que' to voice a tentative, unverified hunch in code or administrative tasks."
+  },
+  {
+    "id": "br-882",
+    "front": "É impossível terminar todo o trabalho em uma hora.",
+    "pronunciation": "eh eeym-poo-SEE-vew tehr-mee-NAHR TOH-doo oo trah-BAH-lyoo ahyng OO-mah OH-rah.",
+    "back": "It's impossible to finish all the work in one hour.",
+    "context": "Expressing absolute negative certainty regarding capacity or execution bounds."
+  },
+  {
+    "id": "br-883",
+    "front": "Tenho um pressentimento bom sobre este projeto.",
+    "pronunciation": "TEYNG-yoo oong preh-sehn-chee-MEHN-too boong SOH-bree EHS-chee proo-ZHEH-too.",
+    "back": "I have a good feeling about this project.",
+    "context": "Using 'pressentimento' (hunch/feeling) to share intuitive, informal optimism."
+  },
+  {
+    "id": "br-884",
+    "front": "Não resta a menor dúvida sobre o resultado.",
+    "pronunciation": "nohng HEHS-tah ah meh-NYOHR DOO-vee-dah SOH-bree oo heh-zool-TAH-doo.",
+    "back": "There isn't the slightest doubt left about the result.",
+    "context": "A emphatic phrase confirming a clear conclusion using the verb 'restar' (to remain)."
+  },
+  {
+    "id": "br-885",
+    "front": "Pode ser que eu precise de ajuda com o framework.",
+    "pronunciation": "POH-jee sayr kee ew prah-SEE-zee jee ah-ZHOO-dah koong oo fraym-vohrk.",
+    "back": "It could be that I need help with the framework.",
+    "context": "Using 'Pode ser que...' (It could be that / transparently possible) which triggers the subjunctive 'precise'."
+  },
+  {
+    "id": "br-886",
+    "front": "Quem sabe a gente não viaja no próximo mês?",
+    "pronunciation": "kayng SAH-bee ah ZHEHN-chee nohng vy-AH-zhah noo PROH-see-moo mays?",
+    "back": "Who knows, maybe we travel next month?",
+    "context": "Using the idiomatic alternative phrase 'quem sabe' (who knows / perhaps) to float speculative ideas."
+  },
+  {
+    "id": "br-887",
+    "front": "Estou cem por cento seguro da minha decisão.",
+    "pronunciation": "ees-TOY sayng poor SEHN-too seh-GOO-roo dah MEENG-yah jee-see-ZOHNG.",
+    "back": "I am one hundred percent sure of my decision.",
+    "context": "A colloquial metric used to establish complete confidence. Female speakers use 'segura'."
+  },
+  {
+    "id": "br-888",
+    "front": "Isso me deixa um pouco inseguro.",
+    "pronunciation": "EES-oo mee DAY-shah oong POH-koo eeyng-seh-GOO-roo.",
+    "back": "That makes me a bit insecure/uncertain.",
+    "context": "Admitting an internal sense of doubt or professional hesitation. Female speakers use 'insegura'."
+  },
+  {
+    "id": "br-889",
+    "front": "Caso você mude de ideia, me avise.",
+    "pronunciation": "KAH-zoo voh-SEH MOO-jee jee ee-DEH-yah, mee ah-VEE-zee.",
+    "back": "In case you change your mind, let me know.",
+    "context": "Using the conditional element 'caso' (in case) which mandates the subjunctive form 'mude'."
+  },
+  {
+    "id": "br-890",
+    "front": "Provavelmente o cliente vai aceitar os termos.",
+    "pronunciation": "proo-vah-vew-MEHN-chee oo klee-EHN-chee vy ah-say-TAHR ooz TEHR-moos.",
+    "back": "Probably the client will accept the terms.",
+    "context": "Using the standalone adverb 'provavelmente' to outline high circumstantial likelihood."
+  },
+  {
+    "id": "br-891",
+    "front": "Isso é altamente improvável no momento.",
+    "pronunciation": "EES-oo eh aw-tah-MEHN-chee eeym-proo-VAH-vew noo moo-MEHN-too.",
+    "back": "That is highly improbable at the moment.",
+    "context": "Stating deep structural doubt regarding an event's likelihood using 'improvável'."
+  },
+  {
+    "id": "br-892",
+    "front": "Estou convicto de que tomamos a escolha certa.",
+    "pronunciation": "ees-TOY kohn-VEEK-too jee kee toh-MAH-moos ah ees-KOH-lyah SEHR-tah.",
+    "back": "I am convinced that we made the right choice.",
+    "context": "A formal assertion of certainty using 'convicto' (convinced/persuaded). Female: 'convicta'."
+  },
+  {
+    "id": "br-893",
+    "front": "De uma coisa eu sei: o prazo não muda.",
+    "pronunciation": "jee OO-mah KOY-zah ew say: oo PRAH-zoo nohng MOO-dah.",
+    "back": "One thing I know: the deadline doesn't change.",
+    "context": "An idiomatic conversational pivot phrase used to establish an absolute foundational fact."
+  },
+  {
+    "id": "br-894",
+    "front": "Resta saber se temos orçamento para isso.",
+    "pronunciation": "HEHS-tah sah-BEHR see TEH-moos oohr-sah-MEHN-too PAH-rah EES-oo.",
+    "back": "It remains to be seen if we have a budget for this.",
+    "context": "Using the analytical construct 'resta saber se' (it remains to be known/seen if) to state macro uncertainty."
+  },
+  {
+    "id": "br-895",
+    "front": "Dou minha palavra de que tudo vai dar certo.",
+    "pronunciation": "dow MEENG-yah pah-LAH-vrah jee kee TOO-doo vy dahr SEHR-too.",
+    "back": "I give my word that everything is going to work out.",
+    "context": "Pledging complete relational certainty and personal backing using 'dar minha palavra'."
+  }
+]

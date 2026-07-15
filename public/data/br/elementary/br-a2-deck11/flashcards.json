@@ -1,0 +1,247 @@
+[
+  {
+    "id": "br-321",
+    "front": "Quanto custa?",
+    "pronunciation": "KWAN-too KOOS-tah?",
+    "back": "How much does it cost?",
+    "context": "A direct, polite way to ask for the price of any item while shopping."
+  },
+  {
+    "id": "br-322",
+    "front": "É muito caro.",
+    "pronunciation": "eh MOOI-too KAH-roo.",
+    "back": "It is very expensive.",
+    "context": "Used to describe an item that has a high price tag."
+  },
+  {
+    "id": "br-323",
+    "front": "É bem barato.",
+    "pronunciation": "eh behng bah-RAH-too.",
+    "back": "It is quite cheap.",
+    "context": "Used when you find a good deal or an item is low-priced."
+  },
+  {
+    "id": "br-324",
+    "front": "Uma loja de roupas",
+    "pronunciation": "OO-mah LOH-zhah jee HO-pahs",
+    "back": "A clothing store",
+    "context": "The general term for a boutique or store that sells apparel."
+  },
+  {
+    "id": "br-325",
+    "front": "O shopping",
+    "pronunciation": "oo SHOH-peeng",
+    "back": "The mall / shopping center",
+    "context": "Brazilians use the English word 'shopping' to mean the entire mall building."
+  },
+  {
+    "id": "br-326",
+    "front": "Gostaria de experimentar esta camiseta.",
+    "pronunciation": "gos-tah-REE-ah jee ees-peh-ree-mehn-TAH-rah kah-mee-ZEH-tah.",
+    "back": "I would like to try on this t-shirt.",
+    "context": "A polite phrase to use with a store assistant before heading to the fitting room."
+  },
+  {
+    "id": "br-327",
+    "front": "O provador",
+    "pronunciation": "oo proh-vah-DOHR",
+    "back": "The fitting room / changing room",
+    "context": "The designated area in a clothing store where you try on clothes."
+  },
+  {
+    "id": "br-328",
+    "front": "Esta calça ficou muito justa.",
+    "pronunciation": "EHS-tah KAW-sah fee-KOH MOOI-too ZHOOS-tah.",
+    "back": "These pants turned out too tight.",
+    "context": "Used to explain that a pair of pants or jeans is too small or tight around the waist/legs."
+  },
+  {
+    "id": "br-329",
+    "front": "Ficou um pouco folgado.",
+    "pronunciation": "fee-KOH oong POH-koo fow-GAH-doo.",
+    "back": "It turned out a little loose.",
+    "context": "Used when an item of clothing is slightly too big or baggy on you."
+  },
+  {
+    "id": "br-330",
+    "front": "Você tem um tamanho maior?",
+    "pronunciation": "voh-SEH tehng oong tah-MAH-nyoo mahy-OHR?",
+    "back": "Do you have a larger size?",
+    "context": "A practical question to ask a salesperson if the current item is too small."
+  },
+  {
+    "id": "br-331",
+    "front": "Você tem um tamanho menor?",
+    "pronunciation": "voh-SEH tehng oong tah-MAH-nyoo meh-NOHR?",
+    "back": "Do you have a smaller size?",
+    "context": "A practical question to ask a salesperson if the current item is too large."
+  },
+  {
+    "id": "br-332",
+    "front": "Tamanho P, M ou G?",
+    "pronunciation": "tah-MAH-nyoo peh, ehmee oh zheh?",
+    "back": "Size small, medium, or large?",
+    "context": "In Brazil, standard clothing sizes are abbreviated as P (pequeno), M (médio), and G (grande)."
+  },
+  {
+    "id": "br-333",
+    "front": "Vou levar este casaco.",
+    "pronunciation": "vow leh-VAHR EHS-chee kah-ZAH-koo.",
+    "back": "I will take this coat / jacket.",
+    "context": "A common phrase indicating your final decision to purchase a specific coat."
+  },
+  {
+    "id": "br-334",
+    "front": "Onde fica o caixa?",
+    "pronunciation": "OHN-jee FEE-kah oo KAHY-shah?",
+    "back": "Where is the cashier?",
+    "context": "An essential question to find where you pay for your items in a store."
+  },
+  {
+    "id": "br-335",
+    "front": "Dinheiro ou cartão?",
+    "pronunciation": "jee-NYAY-roo oh kahr-TOHNG?",
+    "back": "Cash or card?",
+    "context": "The standard question cashiers ask when you are ready to pay."
+  },
+  {
+    "id": "br-336",
+    "front": "Posso pagar com Pix?",
+    "pronunciation": "POH-soo pah-GAHR kohng peeks?",
+    "back": "Can I pay with Pix?",
+    "context": "Pix is Brazil's highly popular, instant digital bank transfer system used everywhere."
+  },
+  {
+    "id": "br-337",
+    "front": "Tem algum desconto?",
+    "pronunciation": "tehng aw-GOONG jehs-KOHN-too?",
+    "back": "Is there any discount?",
+    "context": "A polite way to ask if there are active promotions or price reductions."
+  },
+  {
+    "id": "br-338",
+    "front": "A etiqueta de preço",
+    "pronunciation": "ah ee-chee-KEH-tah jee PREH-soo",
+    "back": "The price tag",
+    "context": "The physical tag attached to items showing how much they cost."
+  },
+  {
+    "id": "br-339",
+    "front": "Uma saia azul",
+    "pronunciation": "OO-mah SAHY-ah ah-ZOOL",
+    "back": "A blue skirt",
+    "context": "Combining a basic item of women's apparel with a color description."
+  },
+  {
+    "id": "br-340",
+    "front": "Um vestido lindo",
+    "pronunciation": "oong vehs-CHEE-doo LEENG-doo",
+    "back": "A beautiful dress",
+    "context": "A friendly and natural way to compliment a dress."
+  },
+  {
+    "id": "br-341",
+    "front": "Meus sapatos novos",
+    "pronunciation": "ME-oos sah-PAH-toos NOH-voos",
+    "back": "My new shoes",
+    "context": "Referring to footwear you have recently acquired or bought."
+  },
+  {
+    "id": "br-342",
+    "front": "Esta camisa de botão",
+    "pronunciation": "EHS-tah kah-MEE-zah jee boh-TOHNG",
+    "back": "This button-down shirt",
+    "context": "Refers to formal or semi-formal collared shirts with buttons."
+  },
+  {
+    "id": "br-343",
+    "front": "Uma bermuda confortável",
+    "pronunciation": "OO-mah behr-MOO-dah kohng-for-TAH-vew",
+    "back": "Comfortable shorts",
+    "context": "Bermudas (longer shorts) are incredibly common and practical in warm Brazilian weather."
+  },
+  {
+    "id": "br-344",
+    "front": "Preciso de meias brancas.",
+    "pronunciation": "pree-SEE-zoo jee MAY-ahs BRAHN-kahs.",
+    "back": "I need white socks.",
+    "context": "A routine phrase for shopping for daily essential wardrobe basics."
+  },
+  {
+    "id": "br-345",
+    "front": "A liquidação",
+    "pronunciation": "ah lee-kwee-dah-SOHNG",
+    "back": "The clearance sale",
+    "context": "Signs you see in store windows when they are clearing out inventory at low prices."
+  },
+  {
+    "id": "br-346",
+    "front": "Vou pagar no cartão de crédito.",
+    "pronunciation": "vow pah-GAHR noo kahr-TOHNG jee KREH-jee-too.",
+    "back": "I am going to pay with a credit card.",
+    "context": "Informs the cashier of your chosen payment method before they process it."
+  },
+  {
+    "id": "br-347",
+    "front": "À vista ou parcelado?",
+    "pronunciation": "AH VEES-tah oh pahr-seh-LAH-doo?",
+    "back": "In full or in installments?",
+    "context": "A classic Brazilian shopping question. Paying 'à vista' means all at once; 'parcelado' splits the cost over months."
+  },
+  {
+    "id": "br-348",
+    "front": "Quero o recibo, por favor.",
+    "pronunciation": "KEH-roo oo heh-SEE-boo, poor fah-VOHR.",
+    "back": "I want the receipt, please.",
+    "context": "A routine request at the register to ensure you have a proof of purchase."
+  },
+  {
+    "id": "br-349",
+    "front": "Posso trocar se não servir?",
+    "pronunciation": "POH-soo troh-KAHR see nohng sehr-VEER?",
+    "back": "Can I exchange it if it doesn't fit?",
+    "context": "An excellent question to understand the store's return or exchange policy."
+  },
+  {
+    "id": "br-350",
+    "front": "O tênis de corrida",
+    "pronunciation": "oo TEH-nees jee koh-HEE-dah",
+    "back": "The running shoes / sneakers",
+    "context": "'Tênis' is used for any athletic or casual sneakers in Brazil."
+  },
+  {
+    "id": "br-351",
+    "front": "Um moletom quentinho",
+    "pronunciation": "oong moh-leh-TOHNG kayng-CHEEN-yoo",
+    "back": "A cozy sweatshirt / hoodie",
+    "context": "Adding the diminutive '-inho' emphasizes that the clothing is warm, cozy, and comfortable."
+  },
+  {
+    "id": "br-352",
+    "front": "A bolsa de couro",
+    "pronunciation": "ah BOWL-sah jee KOH-roo",
+    "back": "The leather bag / purse",
+    "context": "A general term used for hand bags, shoulder bags, or fashion purses."
+  },
+  {
+    "id": "br-353",
+    "front": "Está na promoção.",
+    "pronunciation": "ehs-TAH nah proh-moh-SOHNG.",
+    "back": "It is on sale / on promotion.",
+    "context": "Used to say that an item has a temporarily discounted price."
+  },
+  {
+    "id": "br-354",
+    "front": "Vou dar só uma olhadinha.",
+    "pronunciation": "vow dahr SOH OO-mah ow-yah-JEEN-yah.",
+    "back": "I am just browsing / looking around.",
+    "context": "A polite, cultural idiom to tell salesperson staff that you don't need immediate help."
+  },
+  {
+    "id": "br-355",
+    "front": "Obrigado pela atenção!",
+    "pronunciation": "oh-bree-GAH-doo PEH-lah ah-tehn-SOHNG!",
+    "back": "Thank you for your assistance!",
+    "context": "A warm, polite exit phrase to use with store staff. Note: Men say 'obrigado' and women say 'obrigada'."
+  }
+]

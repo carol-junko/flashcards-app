@@ -1,0 +1,212 @@
+[
+  {
+    "id": "br-086",
+    "front": "Eu",
+    "pronunciation": "[ay-oo]",
+    "back": "I / Me",
+    "context": "The standard singular first-person pronoun."
+  },
+  {
+    "id": "br-087",
+    "front": "Você",
+    "pronunciation": "[voh-say]",
+    "back": "You",
+    "context": "The most common way to say 'you' across almost all regions of Brazil."
+  },
+  {
+    "id": "br-088",
+    "front": "Ele",
+    "pronunciation": "[eh-lee]",
+    "back": "He / Him",
+    "context": "Used to refer to a male person or masculine noun."
+  },
+  {
+    "id": "br-089",
+    "front": "Ela",
+    "pronunciation": "[eh-lah]",
+    "back": "She / Her",
+    "context": "Used to refer to a female person or feminine noun."
+  },
+  {
+    "id": "br-090",
+    "front": "De onde você é?",
+    "pronunciation": "[jee ong-jee voh-say ay]",
+    "back": "Where are you from?",
+    "context": "A classic conversation starter for meeting foreigners or people from other Brazilian states."
+  },
+  {
+    "id": "br-091",
+    "front": "Eu sou de...",
+    "pronunciation": "[ay-oo sow jee]",
+    "back": "I am from...",
+    "context": "Follow this with your home city, state, or country."
+  },
+  {
+    "id": "br-092",
+    "front": "Quantos anos você tem?",
+    "pronunciation": "[kwahng-toos ah-noos voh-say tayng]",
+    "back": "How old are you?",
+    "context": "Literally translates to 'How many years do you have?'"
+  },
+  {
+    "id": "br-093",
+    "front": "Eu tenho... anos.",
+    "pronunciation": "[ay-oo tayng-yoo... ah-noos]",
+    "back": "I am... years old.",
+    "context": "Insert a number from Deck 2 in the blank space."
+  },
+  {
+    "id": "br-094",
+    "front": "Qual é a sua profissão?",
+    "pronunciation": "[kwaw ay ah soo-ah proo-fee-sowng]",
+    "back": "What is your profession?",
+    "context": "A polite, standard way to ask someone what they do for work."
+  },
+  {
+    "id": "br-095",
+    "front": "Eu sou estudante.",
+    "pronunciation": "[ay-oo sow ay-stoo-dahn-chee]",
+    "back": "I am a student.",
+    "context": "Gender-neutral term. Notice that Portuguese doesn't use 'a' before professions."
+  },
+  {
+    "id": "br-096",
+    "front": "Onde você mora?",
+    "pronunciation": "[ong-jee voh-say moh-rah]",
+    "back": "Where do you live?",
+    "context": "Used to ask about someone's current neighborhood or city."
+  },
+  {
+    "id": "br-097",
+    "front": "Eu moro em...",
+    "pronunciation": "[ay-oo moh-roo aym]",
+    "back": "I live in...",
+    "context": "Follow this phrase with your current city or country."
+  },
+  {
+    "id": "br-098",
+    "front": "Eu sou americano.",
+    "pronunciation": "[ay-oo sow ah-meh-ree-kah-noo]",
+    "back": "I am American (male).",
+    "context": "Used by men to state US nationality."
+  },
+  {
+    "id": "br-099",
+    "front": "Eu sou americana.",
+    "pronunciation": "[ay-oo sow ah-meh-ree-kah-nah]",
+    "back": "I am American (female).",
+    "context": "Used by women to state US nationality."
+  },
+  {
+    "id": "br-100",
+    "front": "Eu sou brasileiro.",
+    "pronunciation": "[ay-oo sow brah-zee-lay-roo]",
+    "back": "I am Brazilian (male).",
+    "context": "Used by men to state Brazilian nationality."
+  },
+  {
+    "id": "br-101",
+    "front": "Eu sou brasileira.",
+    "pronunciation": "[ay-oo sow brah-zee-lay-nah]",
+    "back": "I am Brazilian (female).",
+    "context": "Used by women to state Brazilian nationality."
+  },
+  {
+    "id": "br-102",
+    "front": "Solteiro / Solteira",
+    "pronunciation": "[sow-tay-roo / sow-tay-rah]",
+    "back": "Single",
+    "context": "Relationship status. Use the '-o' ending for males and '-a' for females."
+  },
+  {
+    "id": "br-103",
+    "front": "Casado / Casada",
+    "pronunciation": "[kah-zah-doo / kah-zah-dah]",
+    "back": "Married",
+    "context": "Relationship status. Use the '-o' ending for males and '-a' for females."
+  },
+  {
+    "id": "br-104",
+    "front": "Eu trabalho com...",
+    "pronunciation": "[ay-oo trah-bah-lyoo kong]",
+    "back": "I work with / in...",
+    "context": "A flexible way to describe your industry (e.g., Eu trabalho com tecnologia)."
+  },
+  {
+    "id": "br-105",
+    "front": "Professor / Professora",
+    "pronunciation": "[proo-feh-sohr / proo-feh-soh-rah]",
+    "back": "Teacher",
+    "context": "Masculine and feminine forms for an educator."
+  },
+  {
+    "id": "br-106",
+    "front": "Engenheiro / Engenheira",
+    "pronunciation": "[ayng-zheh-nyay-roo / ayng-zheh-nyay-rah]",
+    "back": "Engineer",
+    "context": "Masculine and feminine forms for an engineer."
+  },
+  {
+    "id": "br-107",
+    "front": "Médico / Médica",
+    "pronunciation": "[meh-jee-koo / meh-jee-kah]",
+    "back": "Doctor",
+    "context": "Masculine and feminine forms for a medical physician."
+  },
+  {
+    "id": "br-108",
+    "front": "Eu falo um pouco de português.",
+    "pronunciation": "[ay-oo fah-loo oong poh-koo jee poor-too-gays]",
+    "back": "I speak a little Portuguese.",
+    "context": "An excellent humble sentence for learners managing early expectations."
+  },
+  {
+    "id": "br-109",
+    "front": "Qual é o seu telefone?",
+    "pronunciation": "[kwaw ay oo seh-oo teh-leh-foh-nee]",
+    "back": "What is your phone number?",
+    "context": "Used to ask for contact details to keep in touch."
+  },
+  {
+    "id": "br-110",
+    "front": "Qual é o seu e-mail?",
+    "pronunciation": "[kwaw ay oo seh-oo ee-may-oo]",
+    "back": "What is your email?",
+    "context": "Used for professional or casual digital sharing."
+  },
+  {
+    "id": "br-111",
+    "front": "Feliz",
+    "pronunciation": "[feh-leez]",
+    "back": "Happy",
+    "context": "A universal adjective describing current emotional state."
+  },
+  {
+    "id": "br-112",
+    "front": "Cansado / Cansada",
+    "pronunciation": "[kahn-sah-doo / kahn-sah-dah]",
+    "back": "Tired",
+    "context": "Very common after work or travel. Ends in '-o' for males, '-a' for females."
+  },
+  {
+    "id": "br-113",
+    "front": "Eu estou bem.",
+    "pronunciation": "[ay-oo-ay-stow baym]",
+    "back": "I am doing well.",
+    "context": "A straightforward answer detailing your physical or mental state."
+  },
+  {
+    "id": "br-114",
+    "front": "Muito prazer em conhecer você.",
+    "pronunciation": "[mwee-too prah-zair aym koo-nyay-sair voh-say]",
+    "back": "It is a great pleasure to meet you.",
+    "context": "A slightly longer, highly polite introduction finisher."
+  },
+  {
+    "id": "br-115",
+    "front": "Este é o meu amigo.",
+    "pronunciation": "[ays-chee ay oo meoo ah-mee-goo]",
+    "back": "This is my friend (male).",
+    "context": "Used when introducing a male friend to someone else."
+  }
+]

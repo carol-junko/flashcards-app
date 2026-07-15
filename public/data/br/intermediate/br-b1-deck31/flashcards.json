@@ -1,0 +1,247 @@
+[
+  {
+    "id": "br-1001",
+    "front": "Como está o andamento do novo projeto?",
+    "pronunciation": "KOH-moo ees-TAH oo ahn-dah-MEHN-too doo NOH-voo proo-ZHEH-too?",
+    "back": "How is the progress of the new project?",
+    "context": "Asking for a generic status update using 'andamento' (progress/walk of things)."
+  },
+  {
+    "id": "br-1002",
+    "front": "Eu já finalizei a primeira parte do relatório.",
+    "pronunciation": "ew zhah fee-nah-lee-ZAY ah pree-MAY-rah PAHR-chee doo heh-lah-TOH-ryoo.",
+    "back": "I have already finalized the first part of the report.",
+    "context": "Reporting task completion using the crisp professional verb 'finalizar'."
+  },
+  {
+    "id": "br-1003",
+    "front": "Precisamos definir as prioridades da semana.",
+    "pronunciation": "prah-see-ZAH-moos jee-fee-NEER ahs pryo-ree-DAH-jees dah seh-MAH-nah.",
+    "back": "We need to define the priorities for the week.",
+    "context": "Aligning team focuses using 'definir prioridades'."
+  },
+  {
+    "id": "br-1004",
+    "front": "Você pode me enviar a planilha por e-mail?",
+    "pronunciation": "voh-SEH POH-jee mee eehn-vy-AHR ah plah-NEEL-yah poor e-mail?",
+    "back": "Can you send me the spreadsheet by email?",
+    "context": "Requesting an asset using the standard office noun 'planilha' (spreadsheet)."
+  },
+  {
+    "id": "br-1005",
+    "front": "A reunião foi adiada para as duas da tarde.",
+    "pronunciation": "ah hehoo-nee-OHNG foy ah-jee-AH-dah PAH-rah ahs DOO-ahs dah TAHR-jee.",
+    "back": "The meeting was postponed to two in the afternoon.",
+    "context": "Communicating a schedule shift using the passive structure 'foi adiada'."
+  },
+  {
+    "id": "br-1006",
+    "front": "Estou com dificuldades para rodar o script.",
+    "pronunciation": "ees-TOY koong jee-fee-kool-DAH-jees PAH-rah hoo-DAHR oo script.",
+    "back": "I am having difficulties running the script.",
+    "context": "Flagging a technical workflow blocker using 'rodar' (to run/execute software)."
+  },
+  {
+    "id": "br-1007",
+    "front": "Amanhã vou trabalhar em regime de home office.",
+    "pronunciation": "ah-mah-NYAH vow trah-bah-LYAHR ahyng heh-ZHEE-mee jee home office.",
+    "back": "Tomorrow I'm going to work from home / remote setup.",
+    "context": "Using the ubiquitous English loan expression 'home office' to describe remote working."
+  },
+  {
+    "id": "br-1008",
+    "front": "Quem vai ficar responsável pela ata da reunião?",
+    "pronunciation": "kayng vy fee-KAHR hehs-pohn-SAH-vew PEH-lah AH-tah dah hehoo-nee-OHNG?",
+    "back": "Who is going to be responsible for the meeting minutes?",
+    "context": "Delegating administrative tracking documentation using the noun 'ata' (minutes)."
+  },
+  {
+    "id": "br-1009",
+    "front": "Temos que entregar o escopo até sexta-feira.",
+    "pronunciation": "TEH-moos kee eehn-treh-GAHR oo ees-KOH-poo ah-TEH SEHKS-tah FAY-rah.",
+    "back": "We have to deliver the scope by Friday.",
+    "context": "Stating project constraints using the structural technical noun 'escopo'."
+  },
+  {
+    "id": "br-1010",
+    "front": "Vou agendar uma chamada de alinhamento com a equipe.",
+    "pronunciation": "vow ah-zhehn-DAHR OO-mah shah-MAH-dah jee ah-leeng-yah-MEHN-too koong ah ee-KEE-pee.",
+    "back": "I will schedule an alignment call with the team.",
+    "context": "Using 'chamada de alinhamento' to refer to a sync or alignment meeting."
+  },
+  {
+    "id": "br-1011",
+    "front": "Houve um mal-entendido sobre as metas do trimestre.",
+    "pronunciation": "OH-vee oong maw-ehyn-tehn-DEE-doo SOH-bree ahs MEH-tahs doo tree-MEHS-tree.",
+    "back": "There was a misunderstanding about the quarter's goals.",
+    "context": "Using the compound noun 'mal-entendido' to softly unpack a team communication issue."
+  },
+  {
+    "id": "br-1012",
+    "front": "Vou precisar fazer algumas horas extras hoje.",
+    "pronunciation": "vow prah-see-ZAHR fah-ZEHR aw-GOO-mahs OH-rahs EKS-trahs OH-zhee.",
+    "back": "I'm going to need to do some overtime today.",
+    "context": "Stating an extended work schedule layout using 'horas extras'."
+  },
+  {
+    "id": "br-1013",
+    "front": "Você pode revisar essa linha de código para mim?",
+    "pronunciation": "voh-SEH POH-jee heh-vee-ZAHR EHS-ah LEENG-yah jee KOH-jee-goo PAH-rah meeyng?",
+    "back": "Can you review this line of code for me?",
+    "context": "Asking a peer for code review validation using 'linha de código'."
+  },
+  {
+    "id": "br-1014",
+    "front": "O feedback do gerente foi muito positivo.",
+    "pronunciation": "oo feedback doo zheh-REHN-chee foy MOOI-too poo-zee-VEE-voo.",
+    "back": "The manager's feedback was very positive.",
+    "context": "Referencing performance evaluations using the universally accepted loanword 'feedback'."
+  },
+  {
+    "id": "br-1015",
+    "front": "Estamos sem orçamento para novas contratações.",
+    "pronunciation": "ees-TAH-moos sayng oohr-sah-MEHN-too PAH-rah NOH-vahs kohn-trah-tah-SOHNGS.",
+    "back": "We are without budget for new hirings.",
+    "context": "Stating corporate resource constraints using 'orçamento' (budget)."
+  },
+  {
+    "id": "br-1016",
+    "front": "Eu costumo fazer uma pausa rápida para o café.",
+    "pronunciation": "ew koos-TOO-moo fah-ZEHR OO-mah POW-zah HAH-pee-dah PAH-rah oo kah-FEH.",
+    "back": "I usually take a quick coffee break.",
+    "context": "Describing regular daily habits in an office layout using 'fazer uma pausa'."
+  },
+  {
+    "id": "br-1017",
+    "front": "O prazo final para o deploy é hoje à meia-noite.",
+    "pronunciation": "oo PRAH-zoo fee-NAW PAH-rah oo deploy eh OH-zhee ah MAY-ah NOY-chee.",
+    "back": "The final deadline for deployment is tonight at midnight.",
+    "context": "Using technical jargon 'deploy' inside corporate timing parameters."
+  },
+  {
+    "id": "br-1018",
+    "front": "Por favor, me avise quando o servidor estiver pronto.",
+    "pronunciation": "poor fah-VOHR, mee ah-VEE-zee KWAHN-doo oo sehr-vee-DOHR ees-chee-VEHR PROHN-too.",
+    "back": "Please let me know when the server is ready.",
+    "context": "The temporal element 'quando' triggers the future subjunctive 'estiver'."
+  },
+  {
+    "id": "br-1019",
+    "front": "Temos uma demanda muito alta nesta época do ano.",
+    "pronunciation": "TEH-moos OO-mah jee-MAHN-dah MOOI-too AW-tah NEHS-tah EH-poo-kah doo AH-noo.",
+    "back": "We have a very high demand at this time of the year.",
+    "context": "Explaining seasonal workflow stress using 'demanda alta'."
+  },
+  {
+    "id": "br-1020",
+    "front": "Vou compartilhar a minha tela durante a apresentação.",
+    "pronunciation": "vow kohm-pahr-chee-LYAHR ah MEENG-yah TEH-lah doo-RAHN-chee ah ah-preh-zehn-tah-SOHNG.",
+    "back": "I will share my screen during the presentation.",
+    "context": "A phrase used daily in video calls: 'compartilhar a tela'."
+  },
+  {
+    "id": "br-1021",
+    "front": "O documento está salvo na pasta compartilhada.",
+    "pronunciation": "oo doo-koo-MEHN-too ees-TAH SAW-voo nah PAHS-tah kohm-pahr-chee-LYA...-dah.",
+    "back": "The document is saved in the shared folder.",
+    "context": "Directing a team member to a directory asset using 'pasta' (folder)."
+  },
+  {
+    "id": "br-1022",
+    "front": "Quem é o responsável por aprovar os gastos?",
+    "pronunciation": "kayng eh oo hehs-pohn-SAH-vew poor ah-proo-VAHR ooz GAHS-toos?",
+    "back": "Who is responsible for approving the expenses?",
+    "context": "Querying budget signing authority or administrative workflow loops."
+  },
+  {
+    "id": "br-1023",
+    "front": "Precisamos documentar o passo a passo da tarefa.",
+    "pronunciation": "prah-see-ZAH-moos doo-koo-mehn-TAHR oo PAHS-oo ah PAHS-oo dah tah-REH-fah.",
+    "back": "We need to document the step-by-step of the task.",
+    "context": "Using the idiomatic nominal phrase 'passo a passo' for thorough technical instructions."
+  },
+  {
+    "id": "br-1024",
+    "front": "Vou enviar um resumo dos pontos discutidos.",
+    "pronunciation": "vow eehn-vy-AHR oong heh-ZOO-moo doos POHN-toos dees-koo-CHEE-doos.",
+    "back": "I will send a summary of the discussed points.",
+    "context": "Following up post-meeting using 'resumo' (summary/wrapup)."
+  },
+  {
+    "id": "br-1025",
+    "front": "Nosso principal objetivo é otimizar o desempenho.",
+    "pronunciation": "NOH-soo preeng-see-PAW ohb-zheh-CHEE-voo eh oo-chee-mee-ZAHR oo dehs-eeymp-AY-nyoo.",
+    "back": "Our main objective is to optimize performance.",
+    "context": "Stating technical core goals using the abstract corporate noun 'desempenho' (performance)."
+  },
+  {
+    "id": "br-1026",
+    "front": "Essa nova funcionalidade vai agregar muito valor.",
+    "pronunciation": "EHS-ah NOH-vah foon-syo-nah-lee-DAH-jee vy ah-greh-GAHR MOOI-too vah-LOHR.",
+    "back": "This new feature is going to add a lot of value.",
+    "context": "Pitching a feature enhancement or update using 'funcionalidade' (feature/functionality)."
+  },
+  {
+    "id": "br-1027",
+    "front": "Ainda estou me adaptando à cultura da empresa.",
+    "pronunciation": "ah-EEYN-dah ees-TOY mee ah-dahp-TAHN-doo ah kool-TOO-rah dah eeym-PREH-zah.",
+    "back": "I am still adapting to the company's culture.",
+    "context": "Expressing professional transition status using the gerund 'adaptando'."
+  },
+  {
+    "id": "br-1028",
+    "front": "Houve uma queda de energia no escritório.",
+    "pronunciation": "OH-vee OO-mah KEH-dah jee eh-nehr-ZHEE-ah noo ees-kree-TOH-ryoo.",
+    "back": "There was a power outage at the office.",
+    "context": "Reporting physical office workspace disruption using 'queda de energia'."
+  },
+  {
+    "id": "br-1029",
+    "front": "Podemos marcar um bate-papo rápido depois?",
+    "pronunciation": "poo-DEH-moos mahr-KAHR oong BAH-chee PAHP-oo HAH-pee-doo jee-POYS?",
+    "back": "Can we schedule a quick chat later?",
+    "context": "Using the casual noun 'bate-papo' (informal chat/catch up) within a working environment."
+  },
+  {
+    "id": "br-1030",
+    "front": "O sistema está instável desde cedo.",
+    "pronunciation": "oo sees-TEH-mah ees-TAH eeyns-TAH-vew DEHS-jee SEE-doo.",
+    "back": "The system has been unstable since early morning.",
+    "context": "Reporting infrastructural runtime defects using 'instável'."
+  },
+  {
+    "id": "br-1031",
+    "front": "Você tem dez minutos para conversar?",
+    "pronunciation": "voh-SEH cheyng dehs mee-NOO-toos PAH-rah kohn-vehr-SAHR?",
+    "back": "Do you have ten minutes to talk?",
+    "context": "A classic baseline approach query before initiating ad-hoc discussions."
+  },
+  {
+    "id": "br-1032",
+    "front": "Ficou decidido que mudaremos a abordagem.",
+    "pronunciation": "fee-KOY jee-see-JEE-doo kee moo-dah-REH-moos ah ah-boohr-DAH-zhehng.",
+    "back": "It was decided that we will change the approach.",
+    "context": "Summarizing an executive choice using 'abordagem' (approach/methodology)."
+  },
+  {
+    "id": "br-1033",
+    "front": "Esta tarefa é de baixa complexidade.",
+    "pronunciation": "EHS-tah tah-REH-fah eh jee BUY-shah kohm-plehk-see-DAH-jee.",
+    "back": "This task is of low complexity.",
+    "context": "Assessing sprint tickets or work estimation metrics."
+  },
+  {
+    "id": "br-1034",
+    "front": "Caso precise de algo, estou à disposição.",
+    "pronunciation": "KAH-zoo prah-SEE-zee jee AWL-goo, ees-TOY ah dees-poo-zee-SOHNG.",
+    "back": "In case you need anything, I am at your disposal.",
+    "context": "A professional courtesy sign-off phrase triggering subjunctive 'precise'."
+  },
+  {
+    "id": "br-1035",
+    "front": "Bom trabalho a todos, nos vemos na segunda-feira.",
+    "pronunciation": "boong trah-BAH-lyoo ah TOH-doos, noos VEH-moos nah seh-GOON-dah FAY-rah.",
+    "back": "Good work everyone, see you on Monday.",
+    "context": "A warm weekend wrap-up statement to wrap up the professional sequence."
+  }
+]

@@ -33,7 +33,7 @@
 
         <div class="progress-container">
           <div class="progress-text-row">
-            <span>Card {{ currentIndex + 1 }} of {{ totalCards }}</span>
+            <span>Card {{ currentIndex + 1 }} of {{ totalCards }}       </span>
             <span>{{ progressPercent }}% Done</span>
           </div>
           <div class="progress-track">

@@ -1,0 +1,247 @@
+[
+  {
+    "id": "br-356",
+    "front": "Onde fica o restaurante?",
+    "pronunciation": "OHN-jee FEE-kah oo hehs-tow-RAHN-chee?",
+    "back": "Where is the restaurant?",
+    "context": "A straightforward and essential question to ask for directions to an eating establishment."
+  },
+  {
+    "id": "br-357",
+    "front": "Uma mesa para dois, por favor.",
+    "pronunciation": "OO-mah MEH-zah PAH-rah doys, poor fah-VOHR.",
+    "back": "A table for two, please.",
+    "context": "The standard, polite phrase to use when arriving at a restaurant with a companion."
+  },
+  {
+    "id": "br-358",
+    "front": "O cardápio",
+    "pronunciation": "oo kahr-DAH-pyoo",
+    "back": "The menu",
+    "context": "The physical or digital list of food and drink options available at the restaurant."
+  },
+  {
+    "id": "br-359",
+    "front": "Garçom! / Garçonete!",
+    "pronunciation": "gahr-SOHNG! / gahr-soh-NEH-chee!",
+    "back": "Waiter! / Waitress!",
+    "context": "Polite ways to call over your server. 'Garçom' is for men; 'Garçonete' is for women."
+  },
+  {
+    "id": "br-360",
+    "front": "O que você recomenda?",
+    "pronunciation": "oo kee voh-SEH heh-ko-MEHN-dah?",
+    "back": "What do you recommend?",
+    "context": "A friendly way to ask your server for their top suggestions or popular dishes."
+  },
+  {
+    "id": "br-361",
+    "front": "Eu gostaria de pedir um suco.",
+    "pronunciation": "ew gos-tah-REE-ah jee pee-JEER oong SOO-koo.",
+    "back": "I would like to order a juice.",
+    "context": "A polite structure for ordering a beverage. You can swap 'suco' for any drink."
+  },
+  {
+    "id": "br-362",
+    "front": "Água com gás ou sem gás?",
+    "pronunciation": "AH-gwah kohng gahs oh sehng gahs?",
+    "back": "Sparkling water or still water?",
+    "context": "The typical question a server will ask when you order water in Brazil."
+  },
+  {
+    "id": "br-363",
+    "front": "Gelo e limão",
+    "pronunciation": "ZHEH-loo ee lee-MOHNG",
+    "back": "Ice and lime / lemon",
+    "context": "Brazilians frequently add ice and a slice of lime to canned sodas or water."
+  },
+  {
+    "id": "br-364",
+    "front": "Eu sou vegetariano.",
+    "pronunciation": "ew sow veh-zheh-tah-ree-AH-noo.",
+    "back": "I am vegetarian.",
+    "context": "Used by male speakers to indicate dietary preferences. Female speakers say 'vegetariana'."
+  },
+  {
+    "id": "br-365",
+    "front": "Tem alguma opção vegana?",
+    "pronunciation": "tehng aw-GOO-mah ohp-SOHNG veh-GAH-nah?",
+    "back": "Is there any vegan option?",
+    "context": "A helpful question to verify if a dish contains no animal products at all."
+  },
+  {
+    "id": "br-366",
+    "front": "Sou alérgico a amendoim.",
+    "pronunciation": "sow ah-LEHR-zhee-koo ah ah-mehn-doo-EENG.",
+    "back": "I am allergic to peanuts.",
+    "context": "Crucial for safety if you have food allergies. Female speakers say 'alérgica'."
+  },
+  {
+    "id": "br-367",
+    "front": "O prato feito",
+    "pronunciation": "oo PRAH-too FAY-too",
+    "back": "The executive plate / daily special",
+    "context": "Affectionately known as 'PF', this is a classic, affordable Brazilian lunch with rice, beans, and a protein."
+  },
+  {
+    "id": "br-368",
+    "front": "Arroz e feijão",
+    "pronunciation": "ah-HOHZ ee fay-ZHOHNG",
+    "back": "Rice and beans",
+    "context": "The absolute heart and soul of daily Brazilian cuisine, served almost every single day."
+  },
+  {
+    "id": "br-369",
+    "front": "Bom apetite!",
+    "pronunciation": "bohng ah-peh-CHEE-chee!",
+    "back": "Enjoy your meal!",
+    "context": "Said to others right before eating to wish them a pleasant dining experience."
+  },
+  {
+    "id": "br-370",
+    "front": "Com licença",
+    "pronunciation": "kohng lee-SEHN-sah",
+    "back": "Excuse me",
+    "context": "Used politely by servers when setting down food, or by guests when leaving the table."
+  },
+  {
+    "id": "br-371",
+    "front": "Está uma delícia!",
+    "pronunciation": "ehs-TAH OO-mah deh-LEE-syah!",
+    "back": "It is delicious!",
+    "context": "A warm, enthusiastic compliment to give your server or the host regarding the food."
+  },
+  {
+    "id": "br-372",
+    "front": "A entrada",
+    "pronunciation": "ah ehn-TRAH-dah",
+    "back": "The appetizer / starter",
+    "context": "Small dishes or snacks served before the arrival of the primary meal course."
+  },
+  {
+    "id": "br-373",
+    "front": "O prato principal",
+    "pronunciation": "oo PRAH-too preen-see-PAW",
+    "back": "The main course",
+    "context": "The primary, most substantial part of the meal configuration."
+  },
+  {
+    "id": "br-374",
+    "front": "A sobremesa",
+    "pronunciation": "ah soh-bree-MEH-zah",
+    "back": "The dessert",
+    "context": "The sweet dish eaten at the conclusion of a meal, like brigadeiro or pudim."
+  },
+  {
+    "id": "br-375",
+    "front": "Um cafezinho, por favor.",
+    "pronunciation": "oong kah-feh-ZEEN-yoo, poor fah-VOHR.",
+    "back": "A little espresso, please.",
+    "context": "It is a massive Brazilian tradition to have a small, sweet coffee at the end of a lunch."
+  },
+  {
+    "id": "br-376",
+    "front": "A conta, por favor.",
+    "pronunciation": "ah KOHN-tah, poor fah-VOHR.",
+    "back": "The bill, please.",
+    "context": "The standard phrase used to signal the waiter that you are finished and ready to pay."
+  },
+  {
+    "id": "br-377",
+    "front": "O serviço está incluído?",
+    "pronunciation": "oo sehr-VEE-soo ehs-TAH een-kloo-EE-doo?",
+    "back": "Is service included?",
+    "context": "Asks if the standard 10% or 13% tip is already factored into the final bill total."
+  },
+  {
+    "id": "br-378",
+    "front": "Podemos dividir a conta?",
+    "pronunciation": "poh-DEH-moos jee-vee-JEER ah KOHN-tah?",
+    "back": "Can we split the bill?",
+    "context": "Extremely common practice among friends or colleagues dining out together in Brazil."
+  },
+  {
+    "id": "br-379",
+    "front": "Aceita cartão?",
+    "pronunciation": "ah-SAY-tah kahr-TOHNG?",
+    "back": "Do you accept cards?",
+    "context": "A quick check before finalizing your payment method at the table or register."
+  },
+  {
+    "id": "br-380",
+    "front": "Uma lanchonete",
+    "pronunciation": "OO-mah lahn-shoh-NEH-chee",
+    "back": "A snack bar / diner",
+    "context": "Ubiquitous casual eateries in Brazil serving savory snacks, fresh juices, and quick bites."
+  },
+  {
+    "id": "br-381",
+    "front": "Um salgado e uma coxinha",
+    "pronunciation": "oong saw-GAH-doo ee OO-mah koh-SHEEN-yah",
+    "back": "A savory pastry and a chicken croquette",
+    "context": "Coxinha is the most iconic Brazilian savory snack option found at any lanchonete."
+  },
+  {
+    "id": "br-382",
+    "front": "Para viagem",
+    "pronunciation": "PAH-rah vee-AH-zhehng",
+    "back": "To go / takeaway",
+    "context": "Used when ordering food that you intend to carry out instead of consuming inside."
+  },
+  {
+    "id": "br-383",
+    "front": "Para comer aqui",
+    "pronunciation": "PAH-rah koh-MEHR ah-KEE",
+    "back": "To eat here / dine in",
+    "context": "Informs the counter worker that you will sit down inside the shop to enjoy your food."
+  },
+  {
+    "id": "br-384",
+    "front": "O guardanapo",
+    "pronunciation": "oo gwahr-dah-NAH-poo",
+    "back": "The napkin",
+    "context": "The small paper or cloth wipe used for cleaning your hands or mouth during meals."
+  },
+  {
+    "id": "br-385",
+    "front": "Um copo de água",
+    "pronunciation": "oong KOH-poo jee AH-gwah",
+    "back": "A glass of water",
+    "context": "A basic necessity phrase to ask for a standard drinking glass filled with fresh water."
+  },
+  {
+    "id": "br-386",
+    "front": "Garfo, faca e colher",
+    "pronunciation": "GAHR-foo, FAH-kah ee koo-LYEHR",
+    "back": "Fork, knife, and spoon",
+    "context": "The primary trio of dining utensils needed for a standard full-course meal setting."
+  },
+  {
+    "id": "br-387",
+    "front": "Eu recheio",
+    "pronunciation": "oo heh-SHAY-oo",
+    "back": "The filling / stuffing",
+    "context": "Refers to what is inside a pastry or sandwich, such as cheese, beef, or chicken."
+  },
+  {
+    "id": "br-388",
+    "front": "O rodízio",
+    "pronunciation": "oo roh-JEE-zyoo",
+    "back": "All-you-can-eat style service",
+    "context": "Famous Brazilian restaurant style where servers continuously bring food items to your table."
+  },
+  {
+    "id": "br-389",
+    "front": "Estou muito satisfeito.",
+    "pronunciation": "ehs-TOW MOOI-too sah-tees-FAY-too.",
+    "back": "I am very full / satisfied.",
+    "context": "A polite way to indicate you have eaten enough food. Female speakers say 'satisfeita'."
+  },
+  {
+    "id": "br-390",
+    "front": "Tava tudo maravilhoso!",
+    "pronunciation": "TAH-vah TOO-doo mah-rah-vee-LYOH-zoo!",
+    "back": "Everything was wonderful!",
+    "context": "A casual, natural way to express high satisfaction to the staff before leaving."
+  }
+]

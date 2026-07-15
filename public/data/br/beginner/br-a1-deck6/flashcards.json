@@ -1,0 +1,212 @@
+[
+  {
+    "id": "br-181",
+    "front": "Celular",
+    "pronunciation": "[seh-loo-lahr]",
+    "back": "Cell phone / Smartphone",
+    "context": "The absolute most common word for a mobile phone in Brazil."
+  },
+  {
+    "id": "br-182",
+    "front": "Chave",
+    "pronunciation": "[shah-vee]",
+    "back": "Key",
+    "context": "The physical object used to unlock doors, cars, or gates."
+  },
+  {
+    "id": "br-183",
+    "front": "Carteira",
+    "pronunciation": "[kahr-tay-rah]",
+    "back": "Wallet",
+    "context": "The pocket-sized case used for holding cash, documents, and cards."
+  },
+  {
+    "id": "br-184",
+    "front": "Bolsa",
+    "pronunciation": "[bowl-sah]",
+    "back": "Bag / Purse",
+    "context": "Typically refers to a handbag, shoulder bag, or purse."
+  },
+  {
+    "id": "br-185",
+    "front": "Mochila",
+    "pronunciation": "[moo-shee-lah]",
+    "back": "Backpack",
+    "context": "Essential for students, travelers, and commuters."
+  },
+  {
+    "id": "br-186",
+    "front": "Dinheiro",
+    "pronunciation": "[jee-nyay-roo]",
+    "back": "Money / Cash",
+    "context": "The general word for physical currency or money in general."
+  },
+  {
+    "id": "br-187",
+    "front": "Cartão",
+    "pronunciation": "[kahr-towng]",
+    "back": "Card (Credit/Debit)",
+    "context": "Used widely for plastic payment cards. Ends with a strong nasal sound."
+  },
+  {
+    "id": "br-188",
+    "front": "Documento",
+    "pronunciation": "[doo-koo-mayng-too]",
+    "back": "ID / Document",
+    "context": "Refers to official identification cards or passports."
+  },
+  {
+    "id": "br-189",
+    "front": "Passaporte",
+    "pronunciation": "[pah-sah-pohr-chee]",
+    "back": "Passport",
+    "context": "Essential identification document for international travel."
+  },
+  {
+    "id": "br-190",
+    "front": "Óculos",
+    "pronunciation": "[oh-koo-loos]",
+    "back": "Glasses / Eyeglasses",
+    "context": "Always used in the plural form, even for a single pair of glasses."
+  },
+  {
+    "id": "br-191",
+    "front": "Relógio",
+    "pronunciation": "[heh-loh-zhee-oo]",
+    "back": "Watch / Clock",
+    "context": "Refers to both a wrist watch and a wall clock."
+  },
+  {
+    "id": "br-192",
+    "front": "Garrafa",
+    "pronunciation": "[gah-hah-fah]",
+    "back": "Bottle",
+    "context": "Commonly used for water bottles (garrafa de água)."
+  },
+  {
+    "id": "br-193",
+    "front": "Livro",
+    "pronunciation": "[lee-vroo]",
+    "back": "Book",
+    "context": "A physical reading book."
+  },
+  {
+    "id": "br-194",
+    "front": "Caderno",
+    "pronunciation": "[kah-dayr-nou]",
+    "back": "Notebook",
+    "context": "A blank paper notebook used for writing notes or studying."
+  },
+  {
+    "id": "br-195",
+    "front": "Caneta",
+    "pronunciation": "[kah-neh-tah]",
+    "back": "Pen",
+    "context": "An everyday writing tool that uses ink."
+  },
+  {
+    "id": "br-196",
+    "front": "Lápis",
+    "pronunciation": "[lah-pees]",
+    "back": "Pencil",
+    "context": "A graphite writing or drawing tool. Spelled with an 's' but singular."
+  },
+  {
+    "id": "br-197",
+    "front": "Computador",
+    "pronunciation": "[kong-poo-tah-dohr]",
+    "back": "Computer",
+    "context": "Can refer to a desktop computer or a computer setup in general."
+  },
+  {
+    "id": "br-198",
+    "front": "Notebook",
+    "pronunciation": "[noh-chee-booki]",
+    "back": "Laptop computer",
+    "context": "Brazilians adopted the English word 'notebook' to mean a laptop computer."
+  },
+  {
+    "id": "br-199",
+    "front": "Fone de ouvido",
+    "pronunciation": "[foh-nee jee oh-vee-doo]",
+    "back": "Headphones / Earbuds",
+    "context": "Literally translates to 'ear phone'. Singular or plural variants work."
+  },
+  {
+    "id": "br-200",
+    "front": "Carregador",
+    "pronunciation": "[kah-heh-gah-dohr]",
+    "back": "Charger",
+    "context": "An essential accessory for smartphones or laptops."
+  },
+  {
+    "id": "br-201",
+    "front": "Guarda-chuva",
+    "pronunciation": "[gwahr-dah shoo-vah]",
+    "back": "Umbrella",
+    "context": "Literally translates to 'rain guard'. Highly useful in tropical climates."
+  },
+  {
+    "id": "br-202",
+    "front": "Roupas",
+    "pronunciation": "[hoh-pahs]",
+    "back": "Clothes / Clothing",
+    "context": "The general term for items worn on the body."
+  },
+  {
+    "id": "br-203",
+    "front": "Sapatos",
+    "pronunciation": "[sah-pah-toos]",
+    "back": "Shoes",
+    "context": "General term for footwear."
+  },
+  {
+    "id": "br-204",
+    "front": "Chinelo",
+    "pronunciation": "[shee-neh-loo]",
+    "back": "Flip-flops / Sandals",
+    "context": "The iconic, everyday casual footwear of choice all over Brazil."
+  },
+  {
+    "id": "br-205",
+    "front": "Casaco",
+    "pronunciation": "[kah-zah-koo]",
+    "back": "Coat / Jacket",
+    "context": "Used during cooler winter days or air-conditioned rooms."
+  },
+  {
+    "id": "br-206",
+    "front": "Onde está meu celular?",
+    "pronunciation": "[ong-jee ay-stah meoo seh-loo-lahr]",
+    "back": "Where is my cell phone?",
+    "context": "A classic everyday panic question to find a missing item."
+  },
+  {
+    "id": "br-207",
+    "front": "Você viu minha chave?",
+    "pronunciation": "[voh-say vee-oo mee-nyah shah-vee]",
+    "back": "Have you seen my key?",
+    "context": "Used to ask someone if they have spotted your key."
+  },
+  {
+    "id": "br-208",
+    "front": "Eu esqueci minha carteira.",
+    "pronunciation": "[ay-oo ees-kway-see mee-nyah kahr-tay-rah]",
+    "back": "I forgot my wallet.",
+    "context": "A helpful phrase if you find yourself unable to pay at a counter."
+  },
+  {
+    "id": "br-209",
+    "front": "O que é isso?",
+    "pronunciation": "[oo kee ay ee-soo]",
+    "back": "What is this?",
+    "context": "A universal question used when pointing at an unfamiliar object."
+  },
+  {
+    "id": "br-210",
+    "front": "Isso é meu.",
+    "pronunciation": "[ee-soo ay meoo]",
+    "back": "This is mine.",
+    "context": "Used to claim ownership of an item nearby."
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "id": "br-1176",
+    "front": "Eu tenho uma ideia para criar materiais educativos digitais.",
+    "pronunciation": "ew TEYNG-yoo OO-mah ee-DAY-ah PAH-rah kry-AHR mah-teh-ree-AYS ee-doo-kah-CHEE-voos jee-zhee-TAYS.",
+    "back": "I have an idea to create digital educational materials.",
+    "context": "Expressing entrepreneurial intent in content production using 'materiais educativos'."
+  },
+  {
+    "id": "br-1177",
+    "front": "O objetivo do projeto é unificar diferentes mídias em um só lugar.",
+    "pronunciation": "oo ob-zheh-CHEE-voo doo proo-ZHEH-too eh oo-nee-fee-KAHR jee-feh-REHN-chees MEE-dyahs ahyng oong soh loo-GAHR.",
+    "back": "The objective of the project is to unify different media in one single place.",
+    "context": "Describing system integration strategy via 'unificar mídias'."
+  },
+  {
+    "id": "br-1178",
+    "front": "Eu quero produzir cartões de memorização para venda comercial.",
+    "pronunciation": "ew KEH-roo proo-doo-ZEER kahr-TOHNGS jee meh-moo-ree-zah-SOHNG PAH-rah VEHN-dah koo-mehr-SYAW.",
+    "back": "I want to produce flashcards for commercial sale.",
+    "context": "Detailing business product specs; 'cartões de memorização' is the formal term for flashcards."
+  },
+  {
+    "id": "br-1179",
+    "front": "Como funciona o fluxo de trabalho para exportar os arquivos?",
+    "pronunciation": "KOH-moo foon-syo-NAH oo FLOOK-soo jee trah-BAH-lyoo PAH-rah eyks-pohr-TAHR ooz ahr-KEE-voos?",
+    "back": "How does the workflow for exporting files work?",
+    "context": "Querying operational design models via 'fluxo de trabalho' (workflow)."
+  },
+  {
+    "id": "br-1180",
+    "front": "Eu preciso associar um arquivo de áudio à frente do cartão.",
+    "pronunciation": "ew prah-SEE-zoo ah-soo-sy-AHR oong ahr-KEE-voo jee OW-zhoo ah FREHN-chee doo kahr-TOHNG.",
+    "back": "I need to associate an audio file with the front of the card.",
+    "context": "Mapping multimedia parameters to specific flashcard component zones."
+  },
+  {
+    "id": "br-1181",
+    "front": "O design visual precisa ser limpo e atraente para os alunos.",
+    "pronunciation": "oo deez-AYNG vee-zoo-AW prah-SEE-zoo sayr LEEYM-poo ee ah-trah-EHN-chee PAH-rah ooz ah-LOO-noos.",
+    "back": "The visual design needs to be clean and attractive for the students.",
+    "context": "Stating UI presentation benchmarks for student users ('alunos')."
+  },
+  {
+    "id": "br-1182",
+    "front": "Esta ferramenta facilita a criação de conteúdo em lote.",
+    "pronunciation": "EHS-tah feh-hah-MEHN-tah fah-see-LEE-tah ah kry-ah-SOHNG jee kohn-teh-OO-doo ahyng LOH-chee.",
+    "back": "This tool facilitates batch content creation.",
+    "context": "Discussing production scalability parameters using 'em lote' (in batch)."
+  },
+  {
+    "id": "br-1183",
+    "front": "Nós podemos inserir imagens explicativas no verso do cartão.",
+    "pronunciation": "nohs poo-DEH-moos een-seh-REER ee-MAH-zheeyngs eyks-plee-kah-CHEE-vahs noo VEHR-soo doo kahr-TOHNG.",
+    "back": "We can insert explanatory images on the back of the card.",
+    "context": "Explaining deck structure layout locations ('verso' means back/reverse side)."
+  },
+  {
+    "id": "br-1184",
+    "front": "Eu uso uma planilha para organizar o texto antes da importação.",
+    "pronunciation": "ew OO-zoo OO-mah plah-NEEL-yah PAH-rah oohr-gah-nee-ZAHR oo TEHKS-too AHN-chees dah eeym-pohr-tah-SOHNG.",
+    "back": "I use a spreadsheet to organize the text before importing.",
+    "context": "Describing data preparation workflows using 'planilha' (spreadsheet)."
+  },
+  {
+    "id": "br-1185",
+    "front": "O método de repetição espaçada ajuda na retenção a longo prazo.",
+    "pronunciation": "oo MEH-too-doo jee heh-peh-chee-SOHNG ees-pah-SAH-dah ah-ZHOO-dah nah heh-tehn-SOHNG ah LOONG-goo PRAH-zoo.",
+    "back": "The spaced repetition method helps with long-term retention.",
+    "context": "Explaining educational cognitive algorithms via 'repetição espaçada'."
+  },
+  {
+    "id": "br-1186",
+    "front": "Como posso proteger os direitos autorais do meu material?",
+    "pronunciation": "KOH-moo POH-soo proo-teh-ZHEHR ooz jee-RAY-toos ow-too-RAYS doo mew mah-teh-ree-AW?",
+    "back": "How can I protect the copyright of my material?",
+    "context": "Inquiring about legal/intellectual asset safeguards using 'direitos autorais'."
+  },
+  {
+    "id": "br-1187",
+    "front": "O aplicativo permite sincronizar o progresso entre dispositivos.",
+    "pronunciation": "oo ah-plee-kah-CHEE-voo pehr-MEE-chee seeyng-croo-nee-ZAHR oo proo-GREHS-oo eeyn-tree dees-poo-zee-CHEE-voos.",
+    "back": "The app allows syncing progress between devices.",
+    "context": "Describing data continuity architecture traits using 'sincronizar progresso'."
+  },
+  {
+    "id": "br-1188",
+    "front": "Eu dividi o conteúdo didático em pequenas partes fáceis de digerir.",
+    "pronunciation": "ew jee-vee-JEE oo kohn-teh-OO-doo jee-DAH-chee-koo ahyng peh-KEH-nahs PAHR-chees FAH-sees jee jee-zheh-REER.",
+    "back": "I divided the didactic content into small pieces that are easy to digest.",
+    "context": "Discussing microlearning instructional design formatting micro-steps."
+  },
+  {
+    "id": "br-1189",
+    "front": "Qual plataforma você recomenda para hospedar e vender o produto?",
+    "pronunciation": "kwaw plah-tah-FOHR-mah voh-SEH heh-koo-MEHN-dah PAH-rah oos-peh-DAHR ee vehn-DEHR oo proo-DOO-too?",
+    "back": "Which platform do you recommend to host and sell the product?",
+    "context": "Inquiring about e-commerce hosting targets via 'hospedar e vender'."
+  },
+  {
+    "id": "br-1190",
+    "front": "Eu passei o dia editando os clipes de áudio para o projeto.",
+    "pronunciation": "ew pah-SAY oo JEE-ah ee-jee-TAHN-doo ooz KLEE-pees jee OW-zhoo PAH-rah oo proo-ZHEH-too.",
+    "back": "I spent the day editing the audio clips for the project.",
+    "context": "Describing multimedia asset prep pipelines using 'editando'."
+  },
+  {
+    "id": "br-1191",
+    "front": "É importante validar o produto com um pequeno grupo de usuários.",
+    "pronunciation": "eh eeym-pohr-TAHN-chee vah-lee-DAHR oo proo-DOO-too koong oong peh-KEH-noo GROO-poo jee oo-zoo-AH-ryoos.",
+    "back": "It is important to validate the product with a small group of users.",
+    "context": "Advocating for beta-testing product validations via 'grupo de usuários'."
+  },
+  {
+    "id": "br-1192",
+    "front": "O formato final do arquivo deve ser compatível com sistemas mobile.",
+    "pronunciation": "oo fohr-MAH-too fee-NAW doo ahr-KEE-voo DEH-vee sayr kohm-pah-CHEE-vew koong sees-TEH-mahs mobile.",
+    "back": "The final file format must be compatible with mobile systems.",
+    "context": "Stating cross-platform runtime operational boundaries."
+  },
+  {
+    "id": "br-1193",
+    "front": "Eu quero focar no nicho de aprendizado de idiomas.",
+    "pronunciation": "ew KEH-roo foo-KAHR noo NEE-shoo jee ah-prehn-jee-ZAH-doo jee ee-jee-OH-mahs.",
+    "back": "I want to focus on the language learning niche.",
+    "context": "Defining market segmentation strategy using 'nicho' and 'aprendizado de idiomas'."
+  },
+  {
+    "id": "br-1194",
+    "front": "Como posso configurar o estilo dos cartões usando CSS?",
+    "pronunciation": "KOH-moo POH-soo kohn-fee-goo-RAHR oo ees-CHEE-loo doos kahr-TOHNGS oo-ZAHN-doo CSS?",
+    "back": "How can I configure the style of the cards using CSS?",
+    "context": "Querying structural visual styling mechanisms for digital flashcard objects."
+  },
+  {
+    "id": "br-1195",
+    "front": "Esse pacote digital vai incluir cem cartões interativos.",
+    "pronunciation": "EHS-ee pah-COH-chee jee-zhee-TAW vy een-cloo-EER seeyng kahr-TOHNGS eeyn-tehr-ah-CHEE-voos.",
+    "back": "This digital pack will include one hundred interactive cards.",
+    "context": "Stating digital inventory contents using 'cartões interativos'."
+  },
+  {
+    "id": "br-1196",
+    "front": "A clareza dos exemplos determina a qualidade do material.",
+    "pronunciation": "ah klah-REH-zah doos eyks-EHM-ploos jeh-tehr-MEE-nah ah kwah-lee-DAH-jee doo mah-teh-ree-AW.",
+    "back": "The clarity of the examples determines the quality of the material.",
+    "context": "Stating pedagogical content quality parameters via 'clareza dos exemplos'."
+  },
+  {
+    "id": "br-1197",
+    "front": "Eu pretendo automatizar a geração dos arquivos de áudio.",
+    "pronunciation": "ew prah-TEHN-doo ow-too-mah-chee-ZAHR ah zheh-rah-SOHNG doos ahr-KEE-voos jee OW-zhoo.",
+    "back": "I plan to automate the generation of the audio files.",
+    "context": "Discussing Text-to-Speech (TTS) optimization workflows via 'geração de áudio'."
+  },
+  {
+    "id": "br-1198",
+    "front": "O cliente recebe o link para baixar o material na hora.",
+    "pronunciation": "oo klee-EHN-chee heh-SEE-bee oo leeyng-kee PAH-rah by-SHAHR oo mah-teh-ree-AW nah OH-rah.",
+    "back": "The customer receives the link to download the material instantly.",
+    "context": "Describing post-purchase automated fulfillment flows via 'baixar o material'."
+  },
+  {
+    "id": "br-1199",
+    "front": "Nós precisamos revisar a ortografia antes de publicar o deck.",
+    "pronunciation": "nohs prah-see-ZAH-moos heh-vee-ZAHR ah oohr-too-grah-FEE-ah AHN-chees jee poo-blee-KAHR oo deck.",
+    "back": "We need to proofread the spelling before publishing the deck.",
+    "context": "Stating linguistic QA steps; 'deck' is widely used as a loanword in flashcard contexts."
+  },
+  {
+    "id": "br-1200",
+    "front": "Eu estou mapeando os conceitos mais difíceis para os estudantes.",
+    "pronunciation": "ew ees-TOY mah-peh-AHN-doo ooz kohn-SAY-toos mays jee-FEE-sees PAH-rah ooz ees-too-DAHN-chees.",
+    "back": "I am mapping out the most difficult concepts for the students.",
+    "context": "Targeting high-value study pain points using the gerund 'mapeando'."
+  },
+  {
+    "id": "br-1201",
+    "front": "Este software permite converter texto em fala com som natural.",
+    "pronunciation": "EHS-chee software pehr-MEE-chee kohn-vehr-TEHR TEHKS-too ahyng FAH-lah koong soong nah-too-RAW.",
+    "back": "This software allows converting text to speech with a natural sound.",
+    "context": "Describing speech synthesis tools using 'converter texto em fala'."
+  },
+  {
+    "id": "br-1202",
+    "front": "O marketing digital é essencial para alcançar o público certo.",
+    "pronunciation": "oo marketing jee-zhee-TAW eh eh-seehyn-SYAW PAH-rah aw-kahn-SAHR oo POO-blee-koo SEHR-too.",
+    "back": "Digital marketing is essential to reach the right audience.",
+    "context": "Discussing distribution strategies using 'alcançar o público certo'."
+  },
+  {
+    "id": "br-1203",
+    "front": "Eu criei um modelo padrão para manter a identidade visual.",
+    "pronunciation": "ew kry-AY oong moo-DEH-loo pah-DROHNG PAH-rah mah-TEHR ah ee-dehn-chee-DAH-jee vee-zoo-AW.",
+    "back": "I created a default template to maintain the visual identity.",
+    "context": "Ensuring brand consistency across products using 'modelo padrão' (template)."
+  },
+  {
+    "id": "br-1204",
+    "front": "Os usuários preferem baixar pacotes compactados para poupar tempo.",
+    "pronunciation": "ooz oo-zoo-AH-ryoos preh-FEH-reeyng by-SHAHR pah-COH-chees kohm-pak-TAH-doos PAH-rah pow-PAHR TEHMP-oo.",
+    "back": "Users prefer to download zipped/compressed packages to save time.",
+    "context": "Discussing asset distribution architecture optimizations ('pacotes compactados')."
+  },
+  {
+    "id": "br-1205",
+    "front": "Como funciona o sistema de comissão dessas plataformas de vendas?",
+    "pronunciation": "KOH-moo foon-syo-NAH oo sees-TEH-mah jee coo-mee-SOHNG DEHS-ahs plah-tah-FOHR-mahs jee VEHN-dahs?",
+    "back": "How does the commission system of these sales platforms work?",
+    "context": "Analyzing marketplace cost margins via 'sistema de comissão'."
+  },
+  {
+    "id": "br-1206",
+    "front": "Minha intenção é gerar uma fonte de renda extra estável.",
+    "pronunciation": "MEENG-yah een-tehn-SOHNG eh zheh-RAHR OO-mah FOHNT-ee jee HEHYN-dah EHKS-trah ees-TAH-vew.",
+    "back": "My intention is to generate a stable source of extra income.",
+    "context": "Stating side-business commercial goals using 'fonte de renda extra'."
+  },
+  {
+    "id": "br-1207",
+    "front": "Eu configurei tags para categorizar os cartões por nível de dificuldade.",
+    "pronunciation": "ew kohn-fee-goo-RAY tags PAH-rah kah-teh-goo-ree-ZAHR ooz kahr-TOHNGS poor NEE-vew jee jee-fee-koow-DAH-jee.",
+    "back": "I set up tags to categorize the cards by difficulty level.",
+    "context": "Discussing metadata taxonomic sorting models using 'categorizar por nível'."
+  },
+  {
+    "id": "br-1108",
+    "front": "A experiência do usuário deve ser fluida e sem travamentos.",
+    "pronunciation": "ah eyks-peh-ree-EHN-syah doo oo-zoo-AH-ryoo DEH-vee sayr FLOO-ee-dah ee sayng trah-vah-MEHN-toos.",
+    "back": "The user experience must be fluid and without freezes/lag.",
+    "context": "Praising layout runtime stability via 'experiência do usuário' (UX)."
+  },
+  {
+    "id": "br-1209",
+    "front": "Eu passei a tarde estruturando o banco de dados dos cartões.",
+    "pronunciation": "ew pah-SAY ah TAHR-jee ees-troo-too-RAHN-doo oo BAHN-koo jee DAH-doos doos kahr-TOHNGS.",
+    "back": "I spent the afternoon structuring the database for the cards.",
+    "context": "Describing backend asset relations using the past progressive setup 'passei a tarde estruturando'."
+  },
+  {
+    "id": "br-1210",
+    "front": "Estou pronto para lançar a primeira versão do meu produto digital.",
+    "pronunciation": "ees-TOY PROHN-too PAH-rah lahn-SAHR ah pree-MAY-rah vehr-SOHNG doo mew proo-DOO-too jee-zhee-TAW.",
+    "back": "I am ready to launch the first version of my digital product.",
+    "context": "Celebrating MVP product rollouts. Female speakers use 'pronta'."
+  }
+]

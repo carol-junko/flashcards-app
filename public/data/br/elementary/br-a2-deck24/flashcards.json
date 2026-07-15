@@ -1,0 +1,212 @@
+[
+  {
+    "id": "br-766",
+    "front": "Eu quero café, mas não quero açúcar.",
+    "pronunciation": "ew KEH-roo kah-FEH, mahs nohng KEH-roo ah-SOO-kahr.",
+    "back": "I want coffee, but I don't want sugar.",
+    "context": "Using the coordinating conjunction 'mas' (but) to show contrast."
+  },
+  {
+    "id": "br-767",
+    "front": "Ela estuda muito porque quer passar no teste.",
+    "pronunciation": "EH-lah ees-TOO-dah MOOI-too poor-KEE kyehr pah-SAHR noo TEHS-chee.",
+    "back": "She studies a lot because she wants to pass the test.",
+    "context": "Using 'porque' (because) in a single word to express a reason or cause."
+  },
+  {
+    "id": "br-768",
+    "front": "Se chover, nós vamos ficar em casa.",
+    "pronunciation": "see sho-VEHR, nohs VAH-moos fee-KAHR ahyng KAH-zah.",
+    "back": "If it rains, we are going to stay home.",
+    "context": "Using 'se' (if) to introduce a conditional clause."
+  },
+  {
+    "id": "br-769",
+    "front": "Você prefere chá ou café?",
+    "pronunciation": "voh-SEH pree-FEH-ree SHAH ow kah-FEH?",
+    "back": "Do you prefer tea or coffee?",
+    "context": "Using 'ou' (or) to offer alternatives or choices."
+  },
+  {
+    "id": "br-770",
+    "front": "Ele comprou um computador e um celular.",
+    "pronunciation": "EH-lee kohm-PROW oong kohm-poo-tah-DOHR ee oong seh-loo-LAHR.",
+    "back": "He bought a computer and a cell phone.",
+    "context": "Using the basic additive conjunction 'e' (and)."
+  },
+  {
+    "id": "br-771",
+    "front": "Como estava cansado, fui dormir cedo.",
+    "pronunciation": "KOH-moo ees-TAH-vah kahn-SAH-doo, fwee doohr-MEER SEH-doo.",
+    "back": "Since/As I was tired, I went to sleep early.",
+    "context": "Using 'como' at the beginning of a sentence to mean 'since' or 'as' a cause."
+  },
+  {
+    "id": "br-772",
+    "front": "Eu sei falar inglês, portanto posso ajudar.",
+    "pronunciation": "ew say fah-LAHR een-GLEHS, poor-TAHN-too POH-soo ah-ZHOO-dahr.",
+    "back": "I know how to speak English, therefore I can help.",
+    "context": "Using 'portanto' (therefore / so) to state a conclusion."
+  },
+  {
+    "id": "br-773",
+    "front": "Embora esteja frio, eu vou correr.",
+    "pronunciation": "ehm-BOH-rah ees-TEH-zhah FREE-oo, ew vow koh-HEHR.",
+    "back": "Although it is cold, I am going to run.",
+    "context": "Using 'embora' (although / even though) which triggers the subjunctive form 'esteja'."
+  },
+  {
+    "id": "br-774",
+    "front": "Vou te ligar assim que eu chegar.",
+    "pronunciation": "vow chee lee-GAHR ah-SEENG kee ew sheh-GAHR.",
+    "back": "I will call you as soon as I arrive.",
+    "context": "Using 'assim que' (as soon as) to express an immediate temporal link."
+  },
+  {
+    "id": "br-775",
+    "front": "Eles não trabalham nem estudam.",
+    "pronunciation": "EH-lees nohng trah-BAH-lyahwng nayng ees-TOO-dahwng.",
+    "back": "They don't work nor do they study.",
+    "context": "Using 'nem' (nor / and don't) to link negative concepts."
+  },
+  {
+    "id": "br-776",
+    "front": "Trabalhei muito, por isso estou exausto.",
+    "pronunciation": "trah-bah-LYAY MOOI-too, poor EE-soo ees-TOY ee-ZOWS-too.",
+    "back": "I worked hard, that's why / therefore I am exhausted.",
+    "context": "Using the common conversational linker 'por isso' (that's why / for this reason)."
+  },
+  {
+    "id": "br-777",
+    "front": "Vou ao mercado, a não ser que você já tenha ido.",
+    "pronunciation": "vow ow mehr-KAH-doo, ah nohng SEHR kee voh-SEH zhah TEYNG-yah EE-doo.",
+    "back": "I'm going to the market, unless you have already gone.",
+    "context": "Using 'a não ser que' (unless) to express an exception clause."
+  },
+  {
+    "id": "br-778",
+    "front": "Estou estudando para ter um emprego melhor.",
+    "pronunciation": "ees-TOY ees-too-DAHN-doo PAH-rah tehr oong eem-PREH-goo meh-LYOHR.",
+    "back": "I am studying in order to have a better job.",
+    "context": "Using 'para' followed by an infinitive to express purpose or intention."
+  },
+  {
+    "id": "br-779",
+    "front": "Além de estudar, ela trabalha meio período.",
+    "pronunciation": "ah-LAYNG jee ees-too-DAHR, EH-lah trah-BAH-lyah MAY-oo peh-REE-oo-doo.",
+    "back": "In addition to studying, she works part-time.",
+    "context": "Using 'além de' (in addition to / besides) to append extra information."
+  },
+  {
+    "id": "br-780",
+    "front": "Ou você estuda, ou você trabalha.",
+    "pronunciation": "ow voh-SEH ees-TOO-dah, ow voh-SEH trah-BAH-lyah.",
+    "back": "Either you study, or you work.",
+    "context": "Using the double 'ou... ou...' structure for exclusive alternatives (either... or...)."
+  },
+  {
+    "id": "br-781",
+    "front": "O hotel era caro, mas valeu a pena.",
+    "pronunciation": "oo oh-TEW EH-rah KAH-roo, mahs vah-LEW ah PEH-nah.",
+    "back": "The hotel was expensive, but it was worth it.",
+    "context": "Reinforcing contrast using 'mas' with daily travel outcomes."
+  },
+  {
+    "id": "br-782",
+    "front": "Não comprei a passagem porque estava cara demais.",
+    "pronunciation": "nohng kohm-PRAY ah pah-SAH-zhehng poor-KEE ees-TAH-vah KAH-rah jee-MAYS.",
+    "back": "I didn't buy the ticket because it was too expensive.",
+    "context": "Reinforcing 'porque' to explain purchasing decisions."
+  },
+  {
+    "id": "br-783",
+    "front": "Se você precisar de ajuda, me avise.",
+    "pronunciation": "see voh-SEH pree-see-ZAHR jee ah-ZHOO-dah, mee ah-VEE-zee.",
+    "back": "If you need help, let me know.",
+    "context": "Using 'se' with future subjunctive 'precisar' for conditional offers."
+  },
+  {
+    "id": "br-784",
+    "front": "Quer viajar de avião ou de trem?",
+    "pronunciation": "kyehr vyah-ZHAHR jee ah-VYOHNG ow jee trayng?",
+    "back": "Do you want to travel by plane or by train?",
+    "context": "Reinforcing alternative option selections using 'ou'."
+  },
+  {
+    "id": "br-785",
+    "front": "Ele abriu a janela e olhou para fora.",
+    "pronunciation": "EH-lee ah-BREW ah zhah-NEH-lah ee oh-LYOW PAH-rah FOH-rah.",
+    "back": "He opened the window and looked outside.",
+    "context": "Reinforcing 'e' to combine consecutive actions."
+  },
+  {
+    "id": "br-786",
+    "front": "Já que você vai sair, pode levar o lixo?",
+    "pronunciation": "zhah kee voh-SEH vow sah-EER, POH-jee leh-VAHR oo LEE-shoo?",
+    "back": "Since you are going out, can you take out the trash?",
+    "context": "Using 'já que' (since / seeing that) to present an explanatory premise."
+  },
+  {
+    "id": "br-787",
+    "front": "O trânsito estava horrível, logo chegamos atrasados.",
+    "pronunciation": "oo TRAHN-zee-too ees-TAH-vah oh-HEE-vew, LOH-goo sheh-GAH-moos ah-trah-ZAH-doos.",
+    "back": "The traffic was horrible, so we arrived late.",
+    "context": "Using 'logo' as a coordinating conjunction meaning 'so / consequently'."
+  },
+  {
+    "id": "br-788",
+    "front": "Mesmo que seja difícil, vale a tentativa.",
+    "pronunciation": "MEHS-moo kee SEH-zhah jee-FEE-seew, VAH-lee ah tehn-tah-CHEE-vah.",
+    "back": "Even if it is difficult, it's worth the attempt.",
+    "context": "Using 'mesmo que' (even if / even though) with subjunctive 'seja'."
+  },
+  {
+    "id": "br-789",
+    "front": "Me ligue assim que terminar a reunião.",
+    "pronunciation": "mee LEE-gee ah-SEENG kee tehr-mee-NAHR ah hehoo-NYOHNG.",
+    "back": "Call me as soon as the meeting finishes.",
+    "context": "Reinforcing 'assim que' within office or workplace planning syncs."
+  },
+  {
+    "id": "br-790",
+    "front": "O projeto não foi aceito, por isso vamos refazer.",
+    "pronunciation": "oo proo-ZHEH-too nohng fwy ah-SAY-too, poor EE-soo VAH-moos heh-fah-ZEHR.",
+    "back": "The project was not accepted, that's why we are going to redo it.",
+    "context": "Reinforcing 'por isso' to state reactions to an outcome."
+  },
+  {
+    "id": "br-791",
+    "front": "Não mude nada no código a não ser que seja necessário.",
+    "pronunciation": "nohng MOO-jee NAH-dah noo KOH-jee-goo ah nohng SEHR kee SEH-zhah neh-seh-SAH-ryoo.",
+    "back": "Don't change anything in the code unless it's necessary.",
+    "context": "Reinforcing 'a não ser que' paired with technical tasks."
+  },
+  {
+    "id": "br-792",
+    "front": "Eles criaram um aplicativo para facilitar o aprendizado.",
+    "pronunciation": "EH-lees kry-AH-rahwng oong ah-plee-kah-CHEE-voo PAH-rah fah-see-lee-TAHR oo ah-prehn-jee-ZAH-doo.",
+    "back": "They created an app in order to facilitate learning.",
+    "context": "Reinforcing 'para' + infinitive purpose structures."
+  },
+  {
+    "id": "br-793",
+    "front": "Além disso, precisamos atualizar a documentação.",
+    "pronunciation": "ah-LAYNG DEES-oo, pree-see-ZAH-moos ah-twah-lee-ZAHR ah doo-koo-mehn-tah-SOHNG.",
+    "back": "In addition to that, we need to update the documentation.",
+    "context": "Using the standalone transition 'além disso' (besides that / furthermore)."
+  },
+  {
+    "id": "br-794",
+    "front": "Contanto que você termine hoje, está tudo bem.",
+    "pronunciation": "kohn-TAHN-too kee voh-SEH tehr-MEE-nee OH-zhee, ees-TAH TOO-doo bayng.",
+    "back": "As long as you finish today, it's all fine.",
+    "context": "Using 'contanto que' (provided that / as long as) which requires a subjunctive form ('termine')."
+  },
+  {
+    "id": "br-795",
+    "front": "Portanto, a melhor opção é esperar.",
+    "pronunciation": "poor-TAHN-too, ah meh-LYOHR ohp-SOHNG eh ees-peh-RAHR.",
+    "back": "Therefore, the best option is to wait.",
+    "context": "Reinforcing 'portanto' as a formal closing transition statement."
+  }
+]

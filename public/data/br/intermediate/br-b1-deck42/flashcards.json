@@ -1,0 +1,247 @@
+[
+  {
+    "id": "br-1386",
+    "front": "Eu estou configurando o ambiente de desenvolvimento local.",
+    "pronunciation": "ew ees-TOY coohn-fee-goo-RAHN-doo oo ahym-by-EHN-chee jee jeh-zehn-vowl-vee-MEHN-too loo-CAW.",
+    "back": "I am configuring the local development environment.",
+    "context": "Describing workstation initialization processes using 'ambiente de desenvolvimento'."
+  },
+  {
+    "id": "br-1387",
+    "front": "Como posso debugar esse erro de servidor no console?",
+    "pronunciation": "KOH-moo POH-soo jeh-boo-GAHR EHS-ee EH-hoo jee sehr-vee-DOHR noo coohn-SOH-lee?",
+    "back": "How can I debug this server error in the console?",
+    "context": "Querying diagnostic execution flows via 'debugar' and 'servidor'."
+  },
+  {
+    "id": "br-1388",
+    "front": "Eu uso o Git para gerenciar as versões do meu código.",
+    "pronunciation": "ew OO-zoo oo Git PAH-rah zheh-REHN-syah-RAHR ahs vehr-SOHNGS doo mew KOH-jee-go.",
+    "back": "I use Git to manage the versions of my code.",
+    "context": "Stating version control infrastructure habits using 'gerenciar versões'."
+  },
+  {
+    "id": "br-1389",
+    "front": "A variável de ambiente não foi carregada corretamente.",
+    "pronunciation": "ah vah-ry-AH-vee jee ahym-by-EHN-chee nohng foy kah-heh-GAH-dah coohr-EH-tah-MEHN-chee.",
+    "back": "The environment variable was not loaded correctly.",
+    "context": "Troubleshooting configuration secret leakage or binding issues."
+  },
+  {
+    "id": "br-1390",
+    "front": "O processo de deploy automático falhou na integração contínua.",
+    "pronunciation": "oo proo-SEHS-oo jee deploy ow-too-MAH-tee-koo fah-LYOY nah eeyng-teh-grah-SOHNG coohn-TEE-noo-ah.",
+    "back": "The automatic deploy process failed in continuous integration.",
+    "context": "Analyzing DevOps pipeline failures using 'deploy automático' and 'integração contínua'."
+  },
+  {
+    "id": "br-1391",
+    "front": "Eu preciso limpar o cache do navegador para ver as mudanças.",
+    "pronunciation": "ew prah-SEE-zoo leeym-PAHR oo cache doo nah-veh-gah-DOHR PAH-rah vehr ahs moo-DAH-sas.",
+    "back": "I need to clear the browser cache to see the changes.",
+    "context": "Addressing visual update synchronization bottlenecks via 'limpar o cache'."
+  },
+  {
+    "id": "br-1392",
+    "front": "Esta query de banco de dados está muito lenta.",
+    "pronunciation": "EHS-tah query jee BAHN-koo jee DAH-doos ees-TAH MOOI-too LEHN-tah.",
+    "back": "This database query is very slow.",
+    "context": "Diagnostically identifying backend data retrieval latency."
+  },
+  {
+    "id": "br-1393",
+    "front": "Eu estou refatorando o código para melhorar a legibilidade.",
+    "pronunciation": "ew ees-TOY heh-fah-too-RAHN-doo oo KOH-jee-go PAH-rah meh-lyo-RAHR ah leh-zhee-bee-lee-DAH-jee.",
+    "back": "I am refactoring the code to improve readability.",
+    "context": "Describing code quality enhancement processes using 'refatorando'."
+  },
+  {
+    "id": "br-1394",
+    "front": "Como posso verificar as logs de erro no servidor remoto?",
+    "pronunciation": "KOH-moo POH-soo veh-ree-fee-KAHR ahs logs jee EH-hoo noo sehr-vee-DOHR heh-MOH-too?",
+    "back": "How can I check the error logs on the remote server?",
+    "context": "Querying server-side diagnostic file access methods."
+  },
+  {
+    "id": "br-1395",
+    "front": "Eu usei um breakpoint para pausar a execução do script.",
+    "pronunciation": "ew oo-ZAY oong breakpoint PAH-rah pow-ZAHR ah ee-eh-coo-SOHNG doo script.",
+    "back": "I used a breakpoint to pause the script execution.",
+    "context": "Describing step-by-step debugging runtime control points."
+  },
+  {
+    "id": "br-1396",
+    "front": "A autenticação de usuário está falhando no ambiente de produção.",
+    "pronunciation": "ah ow-teh-tee-kah-SOHNG jee oo-zoo-AH-ryoo ees-TAH fah-LYAH-ndoo noo ahym-by-EHN-chee jee proo-doo-SOHNG.",
+    "back": "User authentication is failing in the production environment.",
+    "context": "Stating high-severity production runtime issues."
+  },
+  {
+    "id": "br-1397",
+    "front": "Eu criei um pull request para fundir a branch de desenvolvimento.",
+    "pronunciation": "ew kry-AY oong pull request PAH-rah foon-JEER ah branch jee jeh-zehn-vowl-vee-MEHN-too.",
+    "back": "I created a pull request to merge the development branch.",
+    "context": "Describing workflow stages in Git-based team environments."
+  },
+  {
+    "id": "br-1398",
+    "front": "O console log me ajuda a rastrear os dados que chegam da API.",
+    "pronunciation": "oo console log mee ah-ZHOO-dah ah rahs-treh-AHR ooz DAH-doos kee CHEH-gahyng dah API.",
+    "back": "The console log helps me track the data coming from the API.",
+    "context": "Using diagnostic logging to audit asynchronous payload structures."
+  },
+  {
+    "id": "br-1399",
+    "front": "A aplicação trava toda vez que tento carregar muitos dados.",
+    "pronunciation": "ah ah-plee-kah-SOHNG TRAH-vah TOH-dah VEHS kee TEHNG-too kah-heh-GAHR MOOI-toos DAH-doos.",
+    "back": "The application freezes every time I try to load many data points.",
+    "context": "Describing performance bottleneck symptoms using 'trava' (freezes)."
+  },
+  {
+    "id": "br-1400",
+    "front": "Eu configurei regras de firewall para proteger o servidor.",
+    "pronunciation": "ew coohn-fee-goo-RAY HEH-grahs jee firewall PAH-rah proo-TEH-zhee oo sehr-vee-DOHR.",
+    "back": "I configured firewall rules to protect the server.",
+    "context": "Addressing security and infrastructure hardening requirements."
+  },
+  {
+    "id": "br-1401",
+    "front": "Como posso otimizar as imagens para carregar mais rápido?",
+    "pronunciation": "KOH-moo POH-soo oo-chee-mee-ZAHR ahs ee-MAH-zhehyngs PAH-rah kah-heh-GAHR mays HAH-pee-doo?",
+    "back": "How can I optimize the images to load faster?",
+    "context": "Asking about frontend performance tuning metrics."
+  },
+  {
+    "id": "br-1402",
+    "front": "Eu preciso testar o código em diferentes navegadores.",
+    "pronunciation": "ew prah-SEE-zoo tehs-TAHR oo KOH-jee-go ahyng jee-feh-REHN-chees nah-veh-gah-DOH-rees.",
+    "back": "I need to test the code in different browsers.",
+    "context": "Enforcing cross-browser compatibility assurance standards."
+  },
+  {
+    "id": "br-1403",
+    "front": "O script de migração falhou devido a um conflito no banco.",
+    "pronunciation": "oo script jee mee-grah-SOHNG fah-LYOY jee-VEE-doo ah oong coohn-FREE-too noo BAHN-koo.",
+    "back": "The migration script failed due to a conflict in the database.",
+    "context": "Diagnosing infrastructure update blockers ('banco' is short for database)."
+  },
+  {
+    "id": "br-1404",
+    "front": "Eu prefiro usar ferramentas de linting para manter o código limpo.",
+    "pronunciation": "ew preh-FEE-roo oo-ZAHR feh-hah-MEHN-tahs jee linting PAH-rah mahn-TEHR oo KOH-jee-go LEEYM-poo.",
+    "back": "I prefer to use linting tools to keep the code clean.",
+    "context": "Standardizing automated code formatting and quality control."
+  },
+  {
+    "id": "br-1405",
+    "front": "A carga de CPU está muito alta por causa desse processo.",
+    "pronunciation": "ah KAHR-gah jee CPU ees-TAH MOOI-too AW-tah poor KOW-zah DEHS-ee proo-SEHS-oo.",
+    "back": "The CPU load is very high because of this process.",
+    "context": "Monitoring system resource consumption peaks."
+  },
+  {
+    "id": "br-1406",
+    "front": "Eu sinto falta de uma boa documentação técnica.",
+    "pronunciation": "ew SEEYN-too FAW-tah jee OO-mah BOH-ah doo-koo-mehn-tah-SOHNG TEHK-nee-kah.",
+    "back": "I miss having good technical documentation.",
+    "context": "Identifying gaps in knowledge management systems."
+  },
+  {
+    "id": "br-1407",
+    "front": "Como posso resolver esse erro de conexão com a API?",
+    "pronunciation": "KOH-moo POH-soo heh-zowl-VEHR EHS-ee EH-hoo jee coohn-eh-KWAH-SOHNG coong ah API?",
+    "back": "How can I resolve this connection error with the API?",
+    "context": "Troubleshooting external integration handshake failures."
+  },
+  {
+    "id": "br-1408",
+    "front": "Eu reverti as últimas mudanças para corrigir o problema.",
+    "pronunciation": "ew heh-vehr-CHEE ahs OOW-chee-mahs moo-DAH-sas PAH-rah coohr-hee-ZHEER oo proo-BLEH-mah.",
+    "back": "I reverted the last changes to fix the problem.",
+    "context": "Using version control rollback strategies to stabilize system states."
+  },
+  {
+    "id": "br-1409",
+    "front": "O servidor de homologação está offline no momento.",
+    "pronunciation": "oo sehr-vee-DOHR jee oo-moo-loo-gah-SOHNG ees-TAH offline noo moo-MEHN-too.",
+    "back": "The staging/homologation server is offline at the moment.",
+    "context": "Reporting status on testing environment availability."
+  },
+  {
+    "id": "br-1410",
+    "front": "Eu adicionei um log de depuração para entender o fluxo.",
+    "pronunciation": "ew ah-jee-syo-NAY oong log jee deh-poo-rah-SOHNG PAH-rah eeyng-tehn-DEHR oo FLOO-koo.",
+    "back": "I added a debug log to understand the flow.",
+    "context": "Injecting visibility code into hidden operational pathways."
+  },
+  {
+    "id": "br-1411",
+    "front": "A aplicação está lenta devido a consultas excessivas ao banco.",
+    "pronunciation": "ah ah-plee-kah-SOHNG ees-TAH LEHN-tah jee-VEE-doo ah coohn-SOOW-tahs ee-seh-see-VAH aow BAHN-koo.",
+    "back": "The application is slow due to excessive database queries.",
+    "context": "Identifying source-level IO bottleneck causes."
+  },
+  {
+    "id": "br-1412",
+    "front": "Eu preciso subir essa versão para o ambiente de produção.",
+    "pronunciation": "ew prah-SEE-zoo soo-BEE EHS-ah vehr-SOHNG PAH-rah oo ahym-by-EHN-chee jee proo-doo-SOHNG.",
+    "back": "I need to deploy this version to the production environment.",
+    "context": "Stating deployment goals using 'subir' (to push/deploy)."
+  },
+  {
+    "id": "br-1413",
+    "front": "O comando de build está retornando erro de sintaxe.",
+    "pronunciation": "oo coo-MAHN-doo jee build ees-TAH heh-toohr-NAH-ndoo EH-hoo jee seeyng-TAHKS-ee.",
+    "back": "The build command is returning a syntax error.",
+    "context": "Reporting compilation phase workflow stoppages."
+  },
+  {
+    "id": "br-1414",
+    "front": "Eu estou aprendendo a usar o Docker para isolar aplicações.",
+    "pronunciation": "ew ees-TOY ah-prehyng-DEH-ndoo ah oo-ZAHR oo Docker PAH-rah ee-zoo-LAHR ah-plee-kah-SOHNGS.",
+    "back": "I am learning to use Docker to isolate applications.",
+    "context": "Discussing containerization and dependency isolation."
+  },
+  {
+    "id": "br-1415",
+    "front": "A interface do usuário não está respondendo corretamente.",
+    "pronunciation": "ah eeyng-tehr-FAH-see doo oo-zoo-AH-ryoo nohng ees-TAH heh-spohn-DEH-ndoo coohr-EH-tah-MEHN-chee.",
+    "back": "The user interface is not responding correctly.",
+    "context": "Reporting UX runtime interactivity lag."
+  },
+  {
+    "id": "br-1416",
+    "front": "Eu validei os dados antes de enviar para o banco de dados.",
+    "pronunciation": "ew vah-lee-DAY ooz DAH-doos AHN-chees jee eehn-vy-AHR PAH-rah oo BAHN-koo jee DAH-doos.",
+    "back": "I validated the data before sending it to the database.",
+    "context": "Implementing input sanitation best practices."
+  },
+  {
+    "id": "br-1417",
+    "front": "O link de documentação está quebrado no repositório.",
+    "pronunciation": "oo leeyng-kee jee doo-koo-mehn-tah-SOHNG ees-TAH keh-BRAH-doo noo heh-poo-zee-TOH-ryoo.",
+    "back": "The documentation link is broken in the repository.",
+    "context": "Reporting external resource maintenance issues."
+  },
+  {
+    "id": "br-1418",
+    "front": "Eu preciso otimizar a gestão de memória do meu script.",
+    "pronunciation": "ew prah-SEE-zoo oo-chee-mee-ZAHR ah zheh-SOHNG jee meh-MOH-ryah doo mew script.",
+    "back": "I need to optimize the memory management of my script.",
+    "context": "Addressing resource cleanup and allocation improvements."
+  },
+  {
+    "id": "br-1419",
+    "front": "A equipe de QA aprovou a mudança no código fonte.",
+    "pronunciation": "ah ee-KEE-phee jee QA ah-proo-VOY ah moo-DAH-sah noo KOH-jee-go FOHNT-ee.",
+    "back": "The QA team approved the change in the source code.",
+    "context": "Stating quality assurance approval workflows."
+  },
+  {
+    "id": "br-1420",
+    "front": "Estou pronto para testar o deployment final hoje.",
+    "pronunciation": "ees-TOY PROHN-too PAH-rah tehs-TAHR oo deployment fee-NAW OH-zhee.",
+    "back": "I am ready to test the final deployment today.",
+    "context": "Declaring final operational verification readiness. Female speakers use 'pronta'."
+  }
+]

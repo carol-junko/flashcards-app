@@ -1,0 +1,247 @@
+[
+  {
+    "id": "br-671",
+    "front": "Ontem eu trabalhei até tarde.",
+    "pronunciation": "OHN-tayng ew trah-bah-LYAY ah-TEH TAHR-jee.",
+    "back": "Yesterday I worked until late.",
+    "context": "Simple past tense of 'trabalhar' (to work) for 'eu' (I)."
+  },
+  {
+    "id": "br-672",
+    "front": "Você falou com ele ontem?",
+    "pronunciation": "voh-SEH fah-LOW koong EH-lee OHN-tayng?",
+    "back": "Did you speak with him yesterday?",
+    "context": "Simple past question using 'falar' (to speak) for 'você' (you)."
+  },
+  {
+    "id": "br-673",
+    "front": "Ele morou em Portugal no ano passado.",
+    "pronunciation": "EH-lee moh-ROW ayng poor-too-GAW noo AH-noo pah-SAH-doo.",
+    "back": "He lived in Portugal last year.",
+    "context": "Simple past tense of 'morar' (to live) for 'ele' (he)."
+  },
+  {
+    "id": "br-674",
+    "front": "Nós estudamos muito para a prova.",
+    "pronunciation": "nohs ees-too-DAH-moos MOOI-too PAH-rah ah PROH-vah.",
+    "back": "We studied a lot for the test.",
+    "context": "Simple past tense of 'estudar' (to study) for 'nós'. Note: it matches the present tense form exactly in spelling."
+  },
+  {
+    "id": "br-675",
+    "front": "Eles compraram um computador novo.",
+    "pronunciation": "EH-leys kohm-PRAH-rawng oong kohm-poo-tah-DOHR NOH-voo.",
+    "back": "They bought a new computer.",
+    "context": "Simple past tense of 'comprar' (to buy) for 'eles' (they)."
+  },
+  {
+    "id": "br-676",
+    "front": "Eu comi uma pizza deliciosa ontem à noite.",
+    "pronunciation": "ew koh-MEE OO-mah PEE-tsah deh-lee-syoh-zah OHN-tayng ah NOY-chee.",
+    "back": "I ate a delicious pizza last night.",
+    "context": "Simple past tense of the -ER verb 'comer' (to eat) for 'eu' (I)."
+  },
+  {
+    "id": "br-677",
+    "front": "O que você comeu no almoço?",
+    "pronunciation": "oo kee voh-SEH koh-MEW noo aw-MOH-soo?",
+    "back": "What did you eat for lunch?",
+    "context": "Simple past question using 'comer' for 'você' (you)."
+  },
+  {
+    "id": "br-678",
+    "front": "Ela bebeu apenas água na festa.",
+    "pronunciation": "EH-lah beh-BEW ah-PEH-nahs AH-gwah nah FEHS-tah.",
+    "back": "She drank only water at the party.",
+    "context": "Simple past tense of 'beber' (to drink) for 'ela' (she)."
+  },
+  {
+    "id": "br-679",
+    "front": "Nós bebemos muito café hoje cedo.",
+    "pronunciation": "nohs beh-BEH-moos MOOI-too kah-FEH OH-zhee SEH-doo.",
+    "back": "We drank a lot of coffee early today.",
+    "context": "Simple past tense of 'beber' for 'nós'. Note: identical to the present tense form."
+  },
+  {
+    "id": "br-680",
+    "front": "Eles entenderam a explicação.",
+    "pronunciation": "EH-leys een-tehn-DEH-rawng ah ees-plee-kah-SOHNG.",
+    "back": "They understood the explanation.",
+    "context": "Simple past tense of 'entender' (to understand) for 'eles' (they)."
+  },
+  {
+    "id": "br-681",
+    "front": "Eu escrevi uma mensagem para você.",
+    "pronunciation": "ew ees-kreh-VEE OO-mah mehng-SAHzhehng PAH-rah voh-SEH.",
+    "back": "I wrote a message to you.",
+    "context": "Simple past tense of 'escrever' (to write) for 'eu' (I)."
+  },
+  {
+    "id": "br-682",
+    "front": "Quem escreveu este relatório?",
+    "pronunciation": "kayng ees-kreh-VEW EHS-chee heh-lah-TOH-ryoo?",
+    "back": "Who wrote this report?",
+    "context": "Simple past question using 'escrever' for the third-person singular pronoun."
+  },
+  {
+    "id": "br-683",
+    "front": "Nós escrevemos o código ontem.",
+    "pronunciation": "nohs ees-kreh-VEH-moos oo KOH-jee-goo OHN-tayng.",
+    "back": "We wrote the code yesterday.",
+    "context": "Simple past tense of 'escrever' for 'nós' (we)."
+  },
+  {
+    "id": "br-684",
+    "front": "Eu abri a porta para ela.",
+    "pronunciation": "ew ah-BREE ah POHR-tah PAH-rah EH-lah.",
+    "back": "I opened the door for her.",
+    "context": "Simple past tense of the -IR verb 'abrir' (to open) for 'eu' (I)."
+  },
+  {
+    "id": "br-685",
+    "front": "Você abriu a janela?",
+    "pronunciation": "voh-SEH ah-BREW ah zhah-NEH-lah?",
+    "back": "Did you open the window?",
+    "context": "Simple past question using 'abrir' for 'você' (you)."
+  },
+  {
+    "id": "br-686",
+    "front": "Eles abriram o presente juntos.",
+    "pronunciation": "EH-leys ah-BREE-rawng oo preh-ZEHN-chee ZHOON-toos.",
+    "back": "They opened the gift together.",
+    "context": "Simple past tense of 'abrir' for 'eles' (they)."
+  },
+  {
+    "id": "br-687",
+    "front": "Eu assisti a um filme no cinema.",
+    "pronunciation": "ew ah-sees-CHEE ah oong FEEL-mee noo see-NEH-mah.",
+    "back": "I watched a movie at the cinema.",
+    "context": "Simple past tense of 'assistir' (to watch) for 'eu' (I)."
+  },
+  {
+    "id": "br-688",
+    "front": "Nós assistimos à aula de JavaScript.",
+    "pronunciation": "nohs ah-sees-CHEE-moos ah OW-lah jee zhah-vah-SKREEP-chee.",
+    "back": "We attended the JavaScript class.",
+    "context": "Simple past tense of 'assistir' (to attend) for 'nós' (we)."
+  },
+  {
+    "id": "br-689",
+    "front": "Eu decidi mudar de profissão.",
+    "pronunciation": "ew jee-see-DEE moo-DAHR jee proo-fee-SOHNG.",
+    "back": "I decided to change professions.",
+    "context": "Simple past tense of 'decidir' (to decide) for 'eu' (I)."
+  },
+  {
+    "id": "br-690",
+    "front": "Eles decidiram o prazo final.",
+    "pronunciation": "EH-leys jee-see-DEE-rawng oo PRAH-zoo fee-NAW.",
+    "back": "They decided the final deadline.",
+    "context": "Simple past tense of 'decidir' for 'eles' (they)."
+  },
+  {
+    "id": "br-691",
+    "front": "Eu dividi a conta com meus amigos.",
+    "pronunciation": "ew jee-vee-DEE ah KOHN-tah koong mays ah-MEE-goos.",
+    "back": "I split the bill with my friends.",
+    "context": "Simple past tense of 'dividir' (to split/share) for 'eu' (I)."
+  },
+  {
+    "id": "br-692",
+    "front": "Eu fui ao supermercado na terça-feira.",
+    "pronunciation": "ew FOOI ow soo-pehr-mehr-KAH-doo nah TEHR-sah FAY-rah.",
+    "back": "I went to the supermarket on Tuesday.",
+    "context": "Simple past tense of the highly irregular verb 'ir' (to go) for 'eu' (I)."
+  },
+  {
+    "id": "br-693",
+    "front": "Você foi ao médico semana passada?",
+    "pronunciation": "voh-SEH FOOI ow MEH-jee-koo seh-MAH-nah pah-SAH-dah?",
+    "back": "Did you go to the doctor last week?",
+    "context": "Simple past question using irregular 'ir' for 'você' (you)."
+  },
+  {
+    "id": "br-694",
+    "front": "Nós fomos à praia no fim de semana.",
+    "pronunciation": "nohs FOH-moos ah PRY-ah noo feeng jee seh-MAH-nah.",
+    "back": "We went to the beach over the weekend.",
+    "context": "Simple past tense of irregular 'ir' for 'nós' (we)."
+  },
+  {
+    "id": "br-695",
+    "front": "Eles foram para casa cedo.",
+    "pronunciation": "EH-leys FOH-rawng PAH-rah KAH-zah SEH-doo.",
+    "back": "They went home early.",
+    "context": "Simple past tense of irregular 'ir' for 'eles' (they)."
+  },
+  {
+    "id": "br-696",
+    "front": "Eu estive em São Paulo no mês passado.",
+    "pronunciation": "ew ees-CHEE-vee ayng sohng POW-loo noo mays pah-SAH-doo.",
+    "back": "I was in São Paulo last month.",
+    "context": "Simple past tense of the irregular verb 'estar' (to be - temporary status) for 'eu' (I)."
+  },
+  {
+    "id": "br-697",
+    "front": "Onde você esteve ontem à tarde?",
+    "pronunciation": "OHN-jee voh-SEH ees-TEH-vee OHN-tayng ah TAHR-jee?",
+    "back": "Where were you yesterday afternoon?",
+    "context": "Simple past question using irregular 'estar' for 'você' (you)."
+  },
+  {
+    "id": "br-698",
+    "front": "Nós estivemos muito ocupados hoje.",
+    "pronunciation": "nohs ees-chee-VEH-moos MOOI-too oo-koo-PAH-dooz OH-zhee.",
+    "back": "We were very busy today.",
+    "context": "Simple past tense of irregular 'estar' for 'nós' (we)."
+  },
+  {
+    "id": "br-699",
+    "front": "Eu fiz um bolo de cenoura.",
+    "pronunciation": "ew FEES oong BOH-loo jee seh-NOW-rah.",
+    "back": "I made a carrot cake.",
+    "context": "Simple past tense of the irregular verb 'fazer' (to make/do) for 'eu' (I)."
+  },
+  {
+    "id": "br-700",
+    "front": "O que você fez no sábado?",
+    "pronunciation": "oo kee voh-SEH FAYS noo SAH-bah-doo?",
+    "back": "What did you do on Saturday?",
+    "context": "Simple past question using irregular 'fazer' for 'você' (you)."
+  },
+  {
+    "id": "br-701",
+    "front": "Eles fizeram todo o dever de casa.",
+    "pronunciation": "EH-leys fee-ZEH-rawng TOH-doo oo deh-VEHR jee KAH-zah.",
+    "back": "They did all the homework.",
+    "context": "Simple past tense of irregular 'fazer' for 'eles' (they)."
+  },
+  {
+    "id": "br-702",
+    "front": "Eu tive uma reunião importante de manhã.",
+    "pronunciation": "ew CHEE-vee OO-mah hehoo-nee-OHNG eem-pohr-TAHN-chee jee mah-NYAH.",
+    "back": "I had an important meeting in the morning.",
+    "context": "Simple past tense of the irregular verb 'ter' (to have) for 'eu' (I)."
+  },
+  {
+    "id": "br-703",
+    "front": "Ela teve muito trabalho esta semana.",
+    "pronunciation": "EH-lah CHEE-vee MOOI-too trah-BAH-lyoo EHS-tah seh-MAH-nah.",
+    "back": "She had a lot of work this week.",
+    "context": "Simple past tense of irregular 'ter' for 'ela' (she)."
+  },
+  {
+    "id": "br-704",
+    "front": "Nós tivemos uma excelente ideia.",
+    "pronunciation": "nohs chee-VEH-moos OO-mah ay-seh-LEHN-chee ee-DEH-yah.",
+    "back": "We had an excellent idea.",
+    "context": "Simple past tense of irregular 'ter' for 'nós' (we)."
+  },
+  {
+    "id": "br-705",
+    "front": "Eles tiveram problemas com o servidor.",
+    "pronunciation": "EH-leys chee-VEH-rawng proo-BLEH-mahs koong oo sehr-vee-DOHR.",
+    "back": "They had problems with the server.",
+    "context": "Simple past tense of irregular 'ter' for 'eles' (they) in a technical operations context."
+  }
+]

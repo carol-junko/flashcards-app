@@ -1,0 +1,247 @@
+[
+  {
+    "id": "br-601",
+    "front": "Eu falo português.",
+    "pronunciation": "ew FAH-loo poor-too-GAYS.",
+    "back": "I speak Portuguese.",
+    "context": "Present tense of 'falar' (to speak) for 'eu' (I)."
+  },
+  {
+    "id": "br-602",
+    "front": "Você fala inglês muito bem.",
+    "pronunciation": "voh-SEH FAH-lah een-GLEHS MOOI-too behng.",
+    "back": "You speak English very well.",
+    "context": "Present tense of 'falar' for 'você' (you)."
+  },
+  {
+    "id": "br-603",
+    "front": "Ele fala espanhol.",
+    "pronunciation": "EH-lee FAH-lah ees-pahn-YAW.",
+    "back": "He speaks Spanish.",
+    "context": "Present tense of 'falar' for 'ele' (he)."
+  },
+  {
+    "id": "br-604",
+    "front": "Nós falamos todos os dias.",
+    "pronunciation": "nohs fah-LAH-moos TOH-dooz ooz JEE-ahs.",
+    "back": "We speak every day.",
+    "context": "Present tense of 'falar' for 'nós' (we)."
+  },
+  {
+    "id": "br-605",
+    "front": "Vocês falam muito rápido.",
+    "pronunciation": "voh-SEYS FAH-lahwng MOOI-too HAH-pee-doo.",
+    "back": "You all speak very fast.",
+    "context": "Present tense of 'falar' for 'vocês' (you all)."
+  },
+  {
+    "id": "br-606",
+    "front": "Eles falam de futebol.",
+    "pronunciation": "EH-leys FAH-lahwng jee foo-chee-BAW.",
+    "back": "They speak about soccer.",
+    "context": "Present tense of 'falar' for 'eles/elas' (they)."
+  },
+  {
+    "id": "br-607",
+    "front": "Eu trabalho em uma escola.",
+    "pronunciation": "ew trah-BAH-lyoo ayng OO-mah ees-KOH-lah.",
+    "back": "I work in a school.",
+    "context": "Present tense of 'trabalhar' (to work) for 'eu' (I)."
+  },
+  {
+    "id": "br-608",
+    "front": "Onde você trabalha?",
+    "pronunciation": "OHN-jee voh-SEH trah-BAH-lyah?",
+    "back": "Where do you work?",
+    "context": "Present tense question using 'trabalhar' for 'você' (you)."
+  },
+  {
+    "id": "br-609",
+    "front": "Ela trabalha muito.",
+    "pronunciation": "EH-lah trah-BAH-lyah MOOI-too.",
+    "back": "She works a lot.",
+    "context": "Present tense of 'trabalhar' for 'ela' (she)."
+  },
+  {
+    "id": "br-610",
+    "front": "Nós trabalhamos juntos.",
+    "pronunciation": "nohs trah-bah-LYAH-moos ZHOON-toos.",
+    "back": "We work together.",
+    "context": "Present tense of 'trabalhar' for 'nós' (we)."
+  },
+  {
+    "id": "br-611",
+    "front": "Eles trabalham de casa.",
+    "pronunciation": "EH-leys trah-BAH-lyahwng jee KAH-zah.",
+    "back": "They work from home.",
+    "context": "Present tense of 'trabalhar' for 'eles' (they)."
+  },
+  {
+    "id": "br-612",
+    "front": "Eu estudo programação.",
+    "pronunciation": "ew ees-TOO-doo proo-grah-mah-SOHNG.",
+    "back": "I study programming.",
+    "context": "Present tense of 'estudar' (to study) for 'eu' (I)."
+  },
+  {
+    "id": "br-613",
+    "front": "O que você estuda?",
+    "pronunciation": "oo kee voh-SEH ees-TOO-dah?",
+    "back": "What do you study?",
+    "context": "Present tense question using 'estudar' for 'você' (you)."
+  },
+  {
+    "id": "br-614",
+    "front": "Ele estuda de noite.",
+    "pronunciation": "EH-lee ees-TOO-dah jee NOY-chee.",
+    "back": "He studies at night.",
+    "context": "Present tense of 'estudar' for 'ele' (he)."
+  },
+  {
+    "id": "br-615",
+    "front": "Nós estudamos na biblioteca.",
+    "pronunciation": "nohs ees-too-DAH-moos nah bee-blee-oo-TEH-kah.",
+    "back": "We study in the library.",
+    "context": "Present tense of 'estudar' for 'nós' (we)."
+  },
+  {
+    "id": "br-616",
+    "front": "Vocês estudam bastante.",
+    "pronunciation": "voh-SEYS ees-TOO-dahwng bahs-TAHN-chee.",
+    "back": "You all study a lot.",
+    "context": "Present tense of 'estudar' for 'vocês' (you all)."
+  },
+  {
+    "id": "br-617",
+    "front": "Eu moro no Brasil.",
+    "pronunciation": "ew MOH-roo noo brah-ZEEW.",
+    "back": "I live in Brazil.",
+    "context": "Present tense of 'morar' (to live/reside) for 'eu' (I)."
+  },
+  {
+    "id": "br-618",
+    "front": "Você mora sozinho?",
+    "pronunciation": "voh-SEH MOH-rah soo-ZEENG-yoo?",
+    "back": "Do you live alone?",
+    "context": "Present tense of 'morar' for 'você' (you). Male context shown; female is 'sozinha'."
+  },
+  {
+    "id": "br-619",
+    "front": "Nós moramos em um apartamento.",
+    "pronunciation": "nohs moh-RAH-moos ayng oong ah-pahr-tah-MEHN-too.",
+    "back": "We live in an apartment.",
+    "context": "Present tense of 'morar' for 'nós' (we)."
+  },
+  {
+    "id": "br-620",
+    "front": "Eles moram perto do parque.",
+    "pronunciation": "EH-leys MOH-rahm PEHR-too doo PAHR-kee.",
+    "back": "They live near the park.",
+    "context": "Present tense of 'morar' for 'eles' (they)."
+  },
+  {
+    "id": "br-621",
+    "front": "Eu gosto de música.",
+    "pronunciation": "ew GOS-too jee MOO-zee-kah.",
+    "back": "I like music.",
+    "context": "Present tense of 'gostar' (to like) for 'eu'. Remember 'gostar' always requires 'de'."
+  },
+  {
+    "id": "br-622",
+    "front": "Você gosta de viajar?",
+    "pronunciation": "voh-SEH GOS-tah jee vee-ah-ZHAHR?",
+    "back": "Do you like to travel?",
+    "context": "Present tense of 'gostar' followed by an infinitive verb for 'você' (you)."
+  },
+  {
+    "id": "br-623",
+    "front": "Nós gostamos de cozinhar.",
+    "pronunciation": "nohs goos-TAH-moos jee koo-zeen-YAHR.",
+    "back": "We like to cook.",
+    "context": "Present tense of 'gostar' for 'nós' (we)."
+  },
+  {
+    "id": "br-624",
+    "front": "Eu compro pão fresco.",
+    "pronunciation": "ew KOHM-proo pohng FREHS-koo.",
+    "back": "I buy fresh bread.",
+    "context": "Present tense of 'comprar' (to buy) for 'eu' (I)."
+  },
+  {
+    "id": "br-625",
+    "front": "Ela compra roupas novas.",
+    "pronunciation": "EH-lah KOHM-prah HOW-pahs NOH-vahs.",
+    "back": "She buys new clothes.",
+    "context": "Present tense of 'comprar' for 'ela' (she)."
+  },
+  {
+    "id": "br-626",
+    "front": "Nós compramos passagens de avião.",
+    "pronunciation": "nohs kohm-PRAH-moos pah-SAH-zhehns jee ah-vee-OHNG.",
+    "back": "We buy airplane tickets.",
+    "context": "Present tense of 'comprar' for 'nós' (we)."
+  },
+  {
+    "id": "br-627",
+    "front": "Eu pego o ônibus e você usa o carro.",
+    "pronunciation": "ew PEH-goo oo OH-nee-boos ee voh-SEH OO-zah oo KAH-hoo.",
+    "back": "I take the bus and you use the car.",
+    "context": "Present tense of 'usar' (to use) contrasted with irregular 'pegar'."
+  },
+  {
+    "id": "br-628",
+    "front": "Nós usamos a internet todos os dias.",
+    "pronunciation": "nohs oo-ZAH-moos ah een-tehr-NEH-chee TOH-dooz ooz JEE-ahs.",
+    "back": "We use the internet every day.",
+    "context": "Present tense of 'usar' for 'nós' (we)."
+  },
+  {
+    "id": "br-629",
+    "front": "Eu tomo café da manhã às sete horas.",
+    "pronunciation": "ew TOH-moo kah-FEH dah mah-NYAH ahs SEH-chee OH-rahs.",
+    "back": "I have breakfast at seven o'clock.",
+    "context": "Present tense of 'tomar' (to take/have food/drink) for 'eu' (I)."
+  },
+  {
+    "id": "br-630",
+    "front": "Eles tomam suco de laranja.",
+    "pronunciation": "EH-leys TOH-mahwng SOO-koo jee lah-RAHN-zhah.",
+    "back": "They drink orange juice.",
+    "context": "Present tense of 'tomar' for 'eles' (they)."
+  },
+  {
+    "id": "br-631",
+    "front": "Eu escuto rádio.",
+    "pronunciation": "ew ees-KOO-too HAH-joo.",
+    "back": "I listen to the radio.",
+    "context": "Present tense of 'escutar' (to listen) for 'eu' (I)."
+  },
+  {
+    "id": "br-632",
+    "front": "Você escuta o que eu digo?",
+    "pronunciation": "voh-SEH ees-KOO-tah oo kee ew JEE-goo?",
+    "back": "Do you listen to what I say?",
+    "context": "Present tense of 'escutar' for 'você' (you)."
+  },
+  {
+    "id": "br-633",
+    "front": "Eu preciso de ajuda.",
+    "pronunciation": "ew pree-SEE-zoo jee ah-ZHOO-dah.",
+    "back": "I need help.",
+    "context": "Present tense of 'precisar' (to need) for 'eu'. Always paired with 'de'."
+  },
+  {
+    "id": "br-634",
+    "front": "Nós precisamos terminar o projeto.",
+    "pronunciation": "nohs pree-see-ZAH-moos tehr-mee-NAHR oo proo-ZHEH-too.",
+    "back": "We need to finish the project.",
+    "context": "Present tense of 'precisar' followed by an infinitive action verb."
+  },
+  {
+    "id": "br-635",
+    "front": "Vocês precisam de alguma coisa?",
+    "pronunciation": "voh-SEYS pree-SEE-zahwng jee aw-GOO-mah KOY-zah?",
+    "back": "Do you all need anything?",
+    "context": "Present tense question using 'precisar' for 'vocês' (you all)."
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "id": "br-116",
+    "front": "Família",
+    "pronunciation": "[fah-mee-lyah]",
+    "back": "Family",
+    "context": "The general noun for the family unit."
+  },
+  {
+    "id": "br-117",
+    "front": "Pai",
+    "pronunciation": "[py]",
+    "back": "Father / Dad",
+    "context": "The casual and standard word for dad."
+  },
+  {
+    "id": "br-118",
+    "front": "Mãe",
+    "pronunciation": "[migh]",
+    "back": "Mother / Mom",
+    "context": "The standard word for mom. Has a strong nasal sound."
+  },
+  {
+    "id": "br-119",
+    "front": "Filho",
+    "pronunciation": "[fee-lyoo]",
+    "back": "Son",
+    "context": "Refers to a male child."
+  },
+  {
+    "id": "br-120",
+    "front": "Filha",
+    "pronunciation": "[fee-lyah]",
+    "back": "Daughter",
+    "context": "Refers to a female child."
+  },
+  {
+    "id": "br-121",
+    "front": "Irmão",
+    "pronunciation": "[eer-mowng]",
+    "back": "Brother",
+    "context": "Refers to a male sibling. Ends in a nasal sound."
+  },
+  {
+    "id": "br-122",
+    "front": "Irmã",
+    "pronunciation": "[eer-mahng]",
+    "back": "Sister",
+    "context": "Refers to a female sibling. Ends in a nasal sound."
+  },
+  {
+    "id": "br-123",
+    "front": "Avô",
+    "pronunciation": "[ah-voh]",
+    "back": "Grandfather",
+    "context": "The closed 'ô' sound is deep, like the 'o' in 'glove'."
+  },
+  {
+    "id": "br-124",
+    "front": "Avó",
+    "pronunciation": "[ah-vaw]",
+    "back": "Grandmother",
+    "context": "The open 'ó' sound is sharp, like the 'aw' in 'law'."
+  },
+  {
+    "id": "br-125",
+    "front": "Tio",
+    "pronunciation": "[chee-oo]",
+    "back": "Uncle",
+    "context": "Note: Brazilians also use 'tio' as slang to call a friend or guy."
+  },
+  {
+    "id": "br-126",
+    "front": "Tia",
+    "pronunciation": "[chee-ah]",
+    "back": "Aunt",
+    "context": "Note: Brazilians also use 'tia' as slang for an older woman or teacher."
+  },
+  {
+    "id": "br-127",
+    "front": "Primo / Prima",
+    "pronunciation": "[pree-moo / pree-mah]",
+    "back": "Cousin",
+    "context": "Use '-o' for a male cousin and '-a' for a female cousin."
+  },
+  {
+    "id": "br-128",
+    "front": "Marido",
+    "pronunciation": "[mah-ree-doo]",
+    "back": "Husband",
+    "context": "The standard word for a male spouse."
+  },
+  {
+    "id": "br-129",
+    "front": "Esposa",
+    "pronunciation": "[ay-spoh-zah]",
+    "back": "Wife",
+    "context": "The standard word for a female spouse. The 's' sounds like a 'z'."
+  },
+  {
+    "id": "br-130",
+    "front": "Casa",
+    "pronunciation": "[kah-zah]",
+    "back": "House / Home",
+    "context": "Can mean the structure or home in general. The 's' sounds like a 'z'."
+  },
+  {
+    "id": "br-131",
+    "front": "Apartamento",
+    "pronunciation": "[ah-pahr-tah-mayng-too]",
+    "back": "Apartment",
+    "context": "Very common style of housing in major Brazilian cities."
+  },
+  {
+    "id": "br-132",
+    "front": "Quarto",
+    "pronunciation": "[kwahr-too]",
+    "back": "Bedroom / Room",
+    "context": "Specifically used for a bedroom where someone sleeps."
+  },
+  {
+    "id": "br-133",
+    "front": "Sala",
+    "pronunciation": "[sah-lah]",
+    "back": "Living room",
+    "context": "Short for 'sala de estar', the common room for watching TV."
+  },
+  {
+    "id": "br-134",
+    "front": "Cozinha",
+    "pronunciation": "[koo-zee-nyah]",
+    "back": "Kitchen",
+    "context": "The area where food is stored, cooked, and prepared."
+  },
+  {
+    "id": "br-135",
+    "front": "Banheiro",
+    "pronunciation": "[bah-nyay-roo]",
+    "back": "Bathroom / Restroom",
+    "context": "An essential word to know when visiting someone's house or a public venue."
+  },
+  {
+    "id": "br-136",
+    "front": "Porta",
+    "pronunciation": "[pohr-tah]",
+    "back": "Door",
+    "context": "The physical door of a room or house."
+  },
+  {
+    "id": "br-137",
+    "front": "Janela",
+    "pronunciation": "[zhah-neh-lah]",
+    "back": "Window",
+    "context": "The opening component in a wall to see outside."
+  },
+  {
+    "id": "br-138",
+    "front": "Cama",
+    "pronunciation": "[kah-mah]",
+    "back": "Bed",
+    "context": "The furniture piece in a bedroom used for sleeping."
+  },
+  {
+    "id": "br-139",
+    "front": "Mesa",
+    "pronunciation": "[meh-zah]",
+    "back": "Table / Desk",
+    "context": "Used for dining tables or work surfaces. The 's' sounds like a 'z'."
+  },
+  {
+    "id": "br-140",
+    "front": "Cadeira",
+    "pronunciation": "[kah-day-rah]",
+    "back": "Chair",
+    "context": "The everyday seating furniture piece."
+  },
+  {
+    "id": "br-141",
+    "front": "Chave",
+    "pronunciation": "[shah-vee]",
+    "back": "Key",
+    "context": "The object used to lock or unlock a door."
+  },
+  {
+    "id": "br-142",
+    "front": "Você tem irmãos?",
+    "pronunciation": "[voh-say tayng eer-mowngs]",
+    "back": "Do you have siblings?",
+    "context": "The plural 'irmãos' defaults to asking if someone has brothers or sisters."
+  },
+  {
+    "id": "br-143",
+    "front": "Eu moro com minha família.",
+    "pronunciation": "[ay-oo moh-roo kong mee-nyah fah-mee-lyah]",
+    "back": "I live with my family.",
+    "context": "A natural phrase for describing a living arrangement."
+  },
+  {
+    "id": "br-144",
+    "front": "Onde fica o banheiro?",
+    "pronunciation": "[ong-jee fee-kah oo bah-nyay-roo]",
+    "back": "Where is the bathroom?",
+    "context": "A highly practical question to ask when visiting a restaurant or home."
+  },
+  {
+    "id": "br-145",
+    "front": "Esta é a minha casa.",
+    "pronunciation": "[ays-tah ay ah mee-nyah kah-zah]",
+    "back": "This is my house.",
+    "context": "Used when showing your home to a guest."
+  }
+]

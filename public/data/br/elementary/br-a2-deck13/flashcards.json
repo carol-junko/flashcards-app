@@ -1,0 +1,247 @@
+[
+  {
+    "id": "br-391",
+    "front": "Onde fica a estação de metrô?",
+    "pronunciation": "OHN-jee FEE-kah ah ees-tah-SOHNG jee meh-TROH?",
+    "back": "Where is the subway station?",
+    "context": "An essential question for navigating urban areas using public transit systems."
+  },
+  {
+    "id": "br-392",
+    "front": "Como eu chego no hotel?",
+    "pronunciation": "KOH-moo ew SHEH-goo noo oh-TEW?",
+    "back": "How do I get to the hotel?",
+    "context": "A direct, practical phrase used when asking locals for directions to your lodging."
+  },
+  {
+    "id": "br-393",
+    "front": "Vire à direita.",
+    "pronunciation": "VEE-ree ah jee-RAY-tah.",
+    "back": "Turn right.",
+    "context": "A fundamental directional instruction given by a GPS device or a helpful local."
+  },
+  {
+    "id": "br-394",
+    "front": "Vire à esquerda.",
+    "pronunciation": "VEE-ree ah ees-KEHR-dah.",
+    "back": "Turn left.",
+    "context": "A fundamental directional instruction given by a GPS device or a helpful local."
+  },
+  {
+    "id": "br-395",
+    "front": "Siga em frente.",
+    "pronunciation": "SEE-gah ayng FREHN-chee.",
+    "back": "Go straight ahead.",
+    "context": "Used to tell someone to keep moving forward along their current path."
+  },
+  {
+    "id": "br-396",
+    "front": "É perto ou longe?",
+    "pronunciation": "eh PEHR-too oh LOHN-zhee?",
+    "back": "Is it close or far away?",
+    "context": "A common follow-up question to gauge the walking or driving distance of a destination."
+  },
+  {
+    "id": "br-397",
+    "front": "Dá para ir a pé?",
+    "pronunciation": "dah PAH-rah eer ah peh?",
+    "back": "Can you go on foot? / Is it walkable?",
+    "context": "A very natural conversational idiom used to check if a location is within walking distance."
+  },
+  {
+    "id": "br-398",
+    "front": "O ponto de ônibus",
+    "pronunciation": "oo POHN-too jee OH-nee-boos",
+    "back": "The bus stop",
+    "context": "The specific place on a street designated for boarding or exiting city buses."
+  },
+  {
+    "id": "br-399",
+    "front": "Onde posso comprar a passagem?",
+    "pronunciation": "OHN-jee POH-soo kohm-PRAHR ah pah-SAH-zhehng?",
+    "back": "Where can I buy the ticket?",
+    "context": "Used to ask where to purchase travel passes for buses, trains, or planes."
+  },
+  {
+    "id": "br-400",
+    "front": "Um bilhete de ida e volta",
+    "pronunciation": "oong bee-LYEH-chee jee EE-dah ee VOW-tah",
+    "back": "A round-trip ticket",
+    "context": "Refers to a transport ticket that covers travel both to a destination and back."
+  },
+  {
+    "id": "br-401",
+    "front": "A passagem de ida",
+    "pronunciation": "ah pah-SAH-zhehng jee EE-dah",
+    "back": "The one-way ticket",
+    "context": "Refers to a transport ticket covering travel to a place without a return trip."
+  },
+  {
+    "id": "br-402",
+    "front": "O aeroporto",
+    "pronunciation": "oo ah-eh-roh-POHR-too",
+    "back": "The airport",
+    "context": "The standard hub terminal where commercial airplanes arrive and depart."
+  },
+  {
+    "id": "br-403",
+    "front": "O terminal de rodoviária",
+    "pronunciation": "oo tehr-mee-NAW jee hoo-doh-vee-AH-ryah",
+    "back": "The central bus station",
+    "context": "In Brazil, long-distance interstate buses operate out of large stations called 'rodoviárias'."
+  },
+  {
+    "id": "br-404",
+    "front": "Chamar um táxi",
+    "pronunciation": "shah-MAHR oong TAH-ksee",
+    "back": "To call a taxi",
+    "context": "An action phrase for hailing a cab on the street or ordering one through a mobile app."
+  },
+  {
+    "id": "br-405",
+    "front": "Pedir um carro de aplicativo",
+    "pronunciation": "pee-JEER oong KAHR-oo jee ah-plee-kah-CHEE-voo",
+    "back": "To request a rideshare car",
+    "context": "The common way to describe ordering a ride using apps like Uber or 99 in Brazil."
+  },
+  {
+    "id": "br-406",
+    "front": "Na próxima esquina",
+    "pronunciation": "nah PROH-see-mah ees-KEE-nah",
+    "back": "At the next corner",
+    "context": "A milestone description phrase indicating an action or location at the immediate street intersection."
+  },
+  {
+    "id": "br-407",
+    "front": "Atravesse a rua.",
+    "pronunciation": "ah-trah-VEH-see ah HOO-ah.",
+    "back": "Cross the street.",
+    "context": "An instruction indicating that you need to walk over to the opposite side of the road."
+  },
+  {
+    "id": "br-408",
+    "front": "A faixa de pedestres",
+    "pronunciation": "ah FAY-shah jee peh-DEHS-trees",
+    "back": "The pedestrian crosswalk",
+    "context": "The white painted lines on the road safely designated for people crossing on foot."
+  },
+  {
+    "id": "br-409",
+    "front": "O semáforo / O sinal",
+    "pronunciation": "oo seh-MAH-foo-roo / oo see-NAW",
+    "back": "The traffic light",
+    "context": "'Sinal' is a very common colloquial term used in everyday speech for traffic signals."
+  },
+  {
+    "id": "br-410",
+    "front": "Estou perdido.",
+    "pronunciation": "ehs-TOW pehr-DEE-doo.",
+    "back": "I am lost.",
+    "context": "Used by a male speaker when they cannot find their path. Female speakers say 'perdida'."
+  },
+  {
+    "id": "br-411",
+    "front": "Você pode me ajudar?",
+    "pronunciation": "voh-SEH POH-jee mee ah-zhoo-DAHR?",
+    "back": "Can you help me?",
+    "context": "A universal, polite query to ask a bystander or official for immediate personal assistance."
+  },
+  {
+    "id": "br-412",
+    "front": "O mapa da cidade",
+    "pronunciation": "oo MAH-pah dah see-DAH-jee",
+    "back": "The city map",
+    "context": "A physical chart or digital layout tracking streets, landmarks, and pathways."
+  },
+  {
+    "id": "br-413",
+    "front": "A carteira de motorista",
+    "pronunciation": "ah kahr-TAY-rah jee moh-toh-REES-tah",
+    "back": "The driver's license",
+    "context": "The legal identification documentation permitting a person to operate a motor vehicle."
+  },
+  {
+    "id": "br-414",
+    "front": "Alugar um carro",
+    "pronunciation": "ah-loo-GAHR oong KAHR-oo",
+    "back": "To rent a car",
+    "context": "The transactional process of acquiring a vehicle for temporary personal transportation use."
+  },
+  {
+    "id": "br-415",
+    "front": "O trânsito está pesado.",
+    "pronunciation": "oo TRAHN-zee-too ehs-TAH peh-ZAH-doo.",
+    "back": "The traffic is heavy.",
+    "context": "Used when describing congested roads, traffic jams, or delays during rush hours."
+  },
+  {
+    "id": "br-416",
+    "front": "O passaporte",
+    "pronunciation": "oo pah-sah-POHR-chee",
+    "back": "The passport",
+    "context": "The primary official document required for international border processing and identification."
+  },
+  {
+    "id": "br-417",
+    "front": "O portão de embarque",
+    "pronunciation": "oo pohr-TOHNG jee ehm-BAHR-kee",
+    "back": "The boarding gate",
+    "context": "The specific area in an airport terminal where passengers wait to board their aircraft."
+  },
+  {
+    "id": "br-418",
+    "front": "O voo está atrasado.",
+    "pronunciation": "oo VOH-oo ehs-TAH ah-trah-ZAH-doo.",
+    "back": "The flight is delayed.",
+    "context": "A formal notice status indicating that your aircraft travel schedule has been pushed back."
+  },
+  {
+    "id": "br-419",
+    "front": "Fazer as malas",
+    "pronunciation": "fah-ZEHR ahs MAH-lahs",
+    "back": "To pack the bags / suitcases",
+    "context": "The direct physical preparation action step taken right before embarking on a journey."
+  },
+  {
+    "id": "br-420",
+    "front": "Uma viagem de férias",
+    "pronunciation": "OO-mah vee-AH-zhehng jee FEH-ryahs",
+    "back": "A vacation trip",
+    "context": "Refers to journeys undertaken purely for leisure, rest, holiday, or personal discovery purposes."
+  },
+  {
+    "id": "br-421",
+    "front": "A plataforma do trem",
+    "pronunciation": "ah blah-tah-FOR-mah doo trayng",
+    "back": "The train platform",
+    "context": "The specific trackside platform area where commuters wait to step into an arriving train."
+  },
+  {
+    "id": "br-422",
+    "front": "Fica atrás do banco.",
+    "pronunciation": "FEE-kah ah-TRAHS doo BAHN-koo.",
+    "back": "It is behind the bank.",
+    "context": "A locational description pinpointing a spot situated directly behind a banking building."
+  },
+  {
+    "id": "br-423",
+    "front": "Fica ao lado do mercado.",
+    "pronunciation": "FEE-kah ow LAH-doo doo mehr-KAH-doo.",
+    "back": "It is next to the market.",
+    "context": "A clear spatial description phrase locating an item or place right alongside a grocery store."
+  },
+  {
+    "id": "br-424",
+    "front": "Boa viagem!",
+    "pronunciation": "BOH-ah vee-AH-zhehng!",
+    "back": "Have a good trip! / Safe travels!",
+    "context": "A warm, supportive parting phrase wished to individuals setting off on any kind of journey."
+  },
+  {
+    "id": "br-425",
+    "front": "Muito obrigado pelas instruções.",
+    "pronunciation": "MOOI-too oh-bree-GAH-doo PEH-lahs eens-troo-SOHNS.",
+    "back": "Thank you very much for the directions.",
+    "context": "A polite phrase to express gratitude after a local guides you. Female speakers say 'obrigada'."
+  }
+]

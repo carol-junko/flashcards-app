@@ -1,0 +1,247 @@
+[
+  {
+    "id": "br-931",
+    "front": "Qual é a melhor maneira de ir até o Cristo Redentor?",
+    "pronunciation": "kwaw eh ah meh-LYOHR mah-NAY-rah jee eer ah-TEH oo KREES-too heh-dehn-TOHR?",
+    "back": "What is the best way to get to Christ the Redeemer?",
+    "context": "Asking for transport recommendations to an iconic monument using 'qual é a melhor maneira de'."
+  },
+  {
+    "id": "br-932",
+    "front": "Eu gostaria de comprar dois ingressos para o passeio de barco.",
+    "pronunciation": "ew goos-tah-REE-ah jee kohm-PRAHR doys eeyng-GREH-soos PAH-rah oo pah-SAY-oo jee BAHR-koo.",
+    "back": "I would like to buy two tickets for the boat tour.",
+    "context": "Using 'ingresso' for admission tickets and 'passeio' for a tour or excursion."
+  },
+  {
+    "id": "br-933",
+    "front": "Você tem algum mapa turístico da cidade?",
+    "pronunciation": "voh-SEH cheyng aw-GOONG MAH-pah too-REES-chee-koo dah see-DAH-jee?",
+    "back": "Do you have a tourist map of the city?",
+    "context": "Requesting a physical navigation guide at an information kiosk."
+  },
+  {
+    "id": "br-934",
+    "front": "O centro histórico é seguro para caminhar à noite?",
+    "pronunciation": "oo SEHN-troo ees-TOH-ree-koo eh seh-GOO-roo PAH-rah kah-meeng-YAHR ah NOY-chee?",
+    "back": "Is the historic center safe to walk around at night?",
+    "context": "Inquiring about neighborhood safety profile using the location 'centro histórico'."
+  },
+  {
+    "id": "br-935",
+    "front": "A que horas o museu abre para visitação?",
+    "pronunciation": "ah kee OH-rahs oo moo-ZEW AH-bree PAH-rah vee-zee-tah-SOHNG?",
+    "back": "What time does the museum open for visitors?",
+    "context": "Querying operational hours using the formal noun 'visitação'."
+  },
+  {
+    "id": "br-936",
+    "front": "Vale a pena contratar um guia credenciado?",
+    "pronunciation": "VAH-lee ah PEH-nah kohn-trah-TAHR oong GEE-ah kreh-dehn-sy-AH-doo?",
+    "back": "Is it worth it to hire a certified guide?",
+    "context": "Using the classic idiom 'vale a pena' (is it worth the trouble/effort)."
+  },
+  {
+    "id": "br-937",
+    "front": "Onde fica o ponto de táxi ou de ônibus mais próximo?",
+    "pronunciation": "OHN-jee FEE-kah oo POHN-too jee TAHK-see ow jee OH-nee-boos mays PROH-see-moo?",
+    "back": "Where is the nearest taxi stand or bus stop?",
+    "context": "Locating urban transit connections using 'ponto de...'."
+  },
+  {
+    "id": "br-938",
+    "front": "Nós queremos fazer uma trilha na floresta amanhã cedo.",
+    "pronunciation": "nohs keh-REH-moos fah-ZEHR OO-mah TREE-lyah nah floo-REHS-tah ah-mah-NYAH SEE-doo.",
+    "back": "We want to do a trail hike in the forest tomorrow morning.",
+    "context": "Using 'fazer trilha' for hiking, highly relevant for Brazilian nature tourism."
+  },
+  {
+    "id": "br-939",
+    "front": "Existe algum desconto para estudantes ou idosos?",
+    "pronunciation": "ay-ZEES-chee aw-GOONG dehs-KOHN-too PAH-rah ees-too-DAHN-chees ow ee-DOH-zoos?",
+    "back": "Is there any discount for students or senior citizens?",
+    "context": "Inquiring about legal half-price admissions criteria ('meia-entrada' laws in Brazil)."
+  },
+  {
+    "id": "br-940",
+    "front": "Dá para ir a pé até o mirante?",
+    "pronunciation": "DAH PAH-rah eer ah PEH ah-TEH oo mee-RAHN-chee?",
+    "back": "Is it possible to walk to the viewpoint?",
+    "context": "Using the highly conversational idiom 'dá para' (is it doable/possible) to check walking options."
+  },
+  {
+    "id": "br-941",
+    "front": "Esta praia é recomendada para banho ou surfe?",
+    "pronunciation": "EHS-tah PRY-ah eh heh-koo-mehn-DAH-dah PAH-rah BAHN-yoo ow SOOR-fee?",
+    "back": "Is this beach recommended for swimming or surfing?",
+    "context": "Evaluating coastal water conditions using 'praia própria para banho'."
+  },
+  {
+    "id": "br-942",
+    "front": "Eu recomendo que você visite o Jardim Botânico.",
+    "pronunciation": "ew heh-koo-MEHN-doo kee voh-SEH vee-ZEE-chee oo zhahr-JEENG boo-TAH-nee-koo.",
+    "back": "I recommend that you visit the Botanical Garden.",
+    "context": "The recommendation verb 'recomendar que' triggers the subjunctive 'visite'."
+  },
+  {
+    "id": "br-943",
+    "front": "É permitido tirar fotos dentro da igreja?",
+    "pronunciation": "eh pehr-mee-CHEE-doo chee-RAHR FOH-tooz DEHN-troo dah ee-GREH-zha?",
+    "back": "Is it permitted to take photos inside the church?",
+    "context": "Checking architectural site structural policies using passive phrase 'é permitido'."
+  },
+  {
+    "id": "br-944",
+    "front": "Onde posso comprar lembrancinhas típicas da região?",
+    "pronunciation": "OHN-jee POH-soo kohm-PRAHR lehm-brahn-SEENG-yahs CHEE-pee-kahs dah heh-zhee-OHNG?",
+    "back": "Where can I buy typical souvenirs of the region?",
+    "context": "Using the structural noun 'lembrancinhas' to mean small gifts/souvenirs."
+  },
+  {
+    "id": "br-945",
+    "front": "Esse passeio dura o dia inteiro ou apenas meio período?",
+    "pronunciation": "EHS-ee pah-SAY-oo DOO-rah oo JEE-ah een-TAY-roo ow ah-PEH-nah MAY-oo peh-REE-oo-doo?",
+    "back": "Does this tour last the whole day or just half a day?",
+    "context": "Using the professional constraint phrase 'meio período' (half period/day)."
+  },
+  {
+    "id": "br-946",
+    "front": "O Pão de Açúcar é um dos pontos turísticos mais famosos.",
+    "pronunciation": "oo POHNG jee ah-SOO-kahr eh oong doos POHN-toos too-REES-chee-koos mays fah-MOH-zoos.",
+    "back": "Sugarloaf Mountain is one of the most famous tourist sights.",
+    "context": "Using the specific noun phrase 'ponto turístico' to reference structural landmarks."
+  },
+  {
+    "id": "br-947",
+    "front": "Qual é o preço do passeio de bondinho?",
+    "pronunciation": "kwaw eh oo PREH-soo doo pah-SAY-oo jee boohn-JEENG-yoo?",
+    "back": "What is the price of the cable car ride?",
+    "context": "Using 'bondinho' which refers historically to trams, but also specifically to Rio's cable cars."
+  },
+  {
+    "id": "br-948",
+    "front": "As Cataratas do Iguaçu são uma maravilha da natureza.",
+    "pronunciation": "ahs kah-tah-RAH-tahs doo ee-gwah-SOO SOHNG OO-mah mah-rah-VEE-lyah dah nah-too-REH-zah.",
+    "back": "Iguazu Falls are a wonder of nature.",
+    "context": "Describing geographic wonders using proper plural agreements ('são uma maravilha')."
+  },
+  {
+    "id": "br-949",
+    "front": "Gostaria de agendar uma excursão para Cabo Frio.",
+    "pronunciation": "goos-tah-REE-ah jee ah-zhehn-DAHR OO-mah ayks-koohr-SOHNG PAH-rah KAH-boo FREE-oo.",
+    "back": "I would like to schedule an excursion to Cabo Frio.",
+    "context": "Using the specific transit planning verb 'agendar' with 'excursão' (day trip/group tour)."
+  },
+  {
+    "id": "br-950",
+    "front": "Tem algum restaurante de comida típica por aqui?",
+    "pronunciation": "cheyng aw-GOONG hehs-tow-RAHN-chee jee koo-MEE-dah CHEE-pee-kah poor ah-KEE?",
+    "back": "Is there any restaurant with typical food around here?",
+    "context": "Querying local gastronomy using the spatial range locator 'por aqui'."
+  },
+  {
+    "id": "br-951",
+    "front": "É melhor evitar essa região nos fins de semana.",
+    "pronunciation": "eh meh-LYOHR ee-vee-TAHR EHS-ah heh-zhee-OHNG noos feeyngs jee seh-MAH-nah.",
+    "back": "It's better to avoid this area on weekends.",
+    "context": "A pragmatic crowdsourcing tip regarding regional high-density travel spikes."
+  },
+  {
+    "id": "br-952",
+    "front": "Onde fica a feira de artesanato local?",
+    "pronunciation": "OHN-jee FEE-kah ah FAY-rah jee ahr-teh-zah-NAH-too loo-KAW?",
+    "back": "Where is the local artisan/craft market located?",
+    "context": "Using 'feira de artesanato' to find traditional markets."
+  },
+  {
+    "id": "br-953",
+    "front": "É seguro levar câmera profissional para este passeio?",
+    "pronunciation": "eh seh-GOO-roo leh-VAHR KAH-meh-rah proo-fees-yo-NAW PAH-rah EHS-chee pah-SAY-oo?",
+    "back": "Is it safe to bring a professional camera on this tour?",
+    "context": "A logistical safety query regarding premium electronics exposure."
+  },
+  {
+    "id": "br-954",
+    "front": "Nós precisamos de um guia que fale inglês fluentemente.",
+    "pronunciation": "nohs prah-see-ZAH-moos jee oong GEE-ah kee FAH-lee eeyng-GLEHS floo-ehyn-chee-MEHN-chee.",
+    "back": "We need a guide who speaks English fluently.",
+    "context": "The relative clause following an indefinite requirement ('precisamos de um guia que...') triggers subjunctive 'fale'."
+  },
+  {
+    "id": "br-955",
+    "front": "Qual é a história por trás deste monumento?",
+    "pronunciation": "kwaw eh ah ees-TOH-ryah poor trahs DEHS-chee moo-noo-MEHN-too?",
+    "back": "What is the story behind this monument?",
+    "context": "Querying structural history using the spatial metaphor 'por trás de' (behind)."
+  },
+  {
+    "id": "br-956",
+    "front": "Onde posso alugar uma bicicleta ou patinete?",
+    "pronunciation": "OHN-jee POH-soo ah-loo-GAHR OO-mah bee-see-KLEH-tah ow pah-chee-NEH-chee?",
+    "back": "Where can I rent a bicycle or a scooter?",
+    "context": "Querying micro-mobility options in urban boardwalk layouts using 'patinete'."
+  },
+  {
+    "id": "br-957",
+    "front": "O pôr do sol na praia do Arpoador é lindo.",
+    "pronunciation": "oo pohr doo SOW nah PRY-ah doo ahr-poo-ah-DOHR eh LEENG-doo.",
+    "back": "The sunset at Arpoador beach is beautiful.",
+    "context": "Cultural reference mapping out sunset traditions using the noun phrase 'pôr do sol'."
+  },
+  {
+    "id": "br-958",
+    "front": "A bilheteria do parque aceita dinheiro em espécie?",
+    "pronunciation": "ah bee-lyee-teh-REE-ah doo PAHR-kee ah-SAY-tah jeeng-AY-roo ahyng ees-PEH-see-ee?",
+    "back": "Does the park ticket office accept cash?",
+    "context": "Using the fiscal term 'dinheiro em espécie' to explicitly check for cash policies."
+  },
+  {
+    "id": "br-959",
+    "front": "Você sabe se o parque nacional está aberto hoje?",
+    "pronunciation": "voh-SEH SAH-bee see oo PAHR-kee nah-syo-NAW ees-TAH ah-BEHR-too OH-zhee?",
+    "back": "Do you know if the national park is open today?",
+    "context": "Verifying structural operation schedules for ecological reserves."
+  },
+  {
+    "id": "br-960",
+    "front": "Quais são as atrações imperdíveis dessa cidade?",
+    "pronunciation": "kways SOHNG ahs ah-trah-SOHNGS eeym-pehr-JEE-veys DEHS-ah see-DAH-jee?",
+    "back": "What are the unmissable attractions of this city?",
+    "context": "Using the premium adjective 'imperdíveis' (unmissable/must-see) to find top sights."
+  },
+  {
+    "id": "br-961",
+    "front": "Ficamos impressionados com a arquitetura das igrejas barrocas.",
+    "pronunciation": "fee-KAH-moos eeym-preh-syo-NAH-doos koong ah ahr-kee-teh-TOO-rah das ee-GREH-zhahs bah-HOH-kahs.",
+    "back": "We were impressed with the architecture of the baroque churches.",
+    "context": "Expressing cultural awe using past indicator agreements ('ficamos impressionados')."
+  },
+  {
+    "id": "br-962",
+    "front": "É preciso agendar a visita com antecedência?",
+    "pronunciation": "eh prah-SEE-zoo ah-zhehn-DAHR ah vee-ZEE-tah koong ahn-teh-seh-DEHN-syah?",
+    "back": "Is it necessary to schedule the visit in advance?",
+    "context": "Inquiring about mandatory booking timelines using 'com antecedência' (in advance)."
+  },
+  {
+    "id": "br-963",
+    "front": "Onde fica o centro de atendimento ao turista?",
+    "pronunciation": "OHN-jee FEE-kah oo SEHN-troo jee ah-tehng-jee-MEHN-too ow too-REES-tah?",
+    "back": "Where is the tourist assistance center located?",
+    "context": "Locating institutional support using the phrase 'atendimento ao turista'."
+  },
+  {
+    "id": "br-964",
+    "front": "O trânsito para o litoral costuma ser muito pesado.",
+    "pronunciation": "oo TRAHN-zee-too PAH-rah oo lee-too-RAW koos-TOO-mah sayr MOOI-too peh-ZAH-doo.",
+    "back": "Traffic to the coast is usually very heavy.",
+    "context": "Using 'litoral' to mean the coast/beach region and 'pesado' to characterize heavy gridlock."
+  },
+  {
+    "id": "br-965",
+    "front": "Adorei a hospitalidade do povo brasileiro durante a viagem.",
+    "pronunciation": "ah-doo-RAY ah ohs-pee-tah-lee-DAH-jee doo POH-voo brah-zee-LAY-roo doo-RAHN-chee ah vy-AH-zhehng.",
+    "back": "I loved the hospitality of the Brazilian people during the trip.",
+    "context": "Concluding a tour review using past action verb 'adorar' (to absolutely love)."
+  }
+]

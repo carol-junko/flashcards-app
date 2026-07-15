@@ -1,29 +1,641 @@
 [
   {
-    "id": "br-basics",
+    "id": "br-a1-deck1",
     "languageId": "br",
     "level": "Beginner",
     "category": "Essentials",
-    "title": "Core Everyday Phrases",
+    "title": "Greetings & Courtesy",
     "description": "Master crucial greetings, courtesy terms, and primary questions used daily.",
-    "cardCount": 25
+    "cardCount": 35
   },
   {
-    "id": "br-verbs-present",
+    "id": "br-a1-deck2",
     "languageId": "br",
     "level": "Beginner",
-    "category": "Grammar",
-    "title": "Regular -AR Verbs",
-    "description": "Understand conjugation patterns for high-frequency verbs like falar, estudar, and trabalhar.",
-    "cardCount": 18
+    "category": "Numbers & Time",
+    "title": "Numbers, Days & Months",
+    "description": "Learn to count, talk about days of the week, and mention months.",
+    "cardCount": 35
   },
   {
-    "id": "br-past-tense",
+    "id": "br-a1-deck3",
+    "languageId": "br",
+    "level": "Beginner",
+    "category": "Personal Info",
+    "title": "All About Me",
+    "description": "Introduce yourself, state your age, nationality, and profession.",
+    "cardCount": 30
+  },
+  {
+    "id": "br-a1-deck4",
+    "languageId": "br",
+    "level": "Beginner",
+    "category": "Family & Home",
+    "title": "Family Members & Rooms",
+    "description": "Talk about immediate family members and names of rooms in a house.",
+    "cardCount": 30
+  },
+  {
+    "id": "br-a1-deck5",
+    "languageId": "br",
+    "level": "Beginner",
+    "category": "Food Basics",
+    "title": "Staple Foods & Fruits",
+    "description": "Essential vocabulary for everyday foods, fruits, and basic drinks.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-a1-deck6",
+    "languageId": "br",
+    "level": "Beginner",
+    "category": "Everyday Objects",
+    "title": "Objects & Belongings",
+    "description": "Identify common objects like keys, phones, wallets, and bags.",
+    "cardCount": 30
+  },
+  {
+    "id": "br-a1-deck7",
+    "languageId": "br",
+    "level": "Beginner",
+    "category": "Descriptions",
+    "title": "Colors & Basic Adjectives",
+    "description": "Describe things using simple colors and everyday sizes or qualities.",
+    "cardCount": 30
+  },
+  {
+    "id": "br-a1-deck8",
+    "languageId": "br",
+    "level": "Beginner",
+    "category": "Grammar Verbs",
+    "title": "The Verbs 'Ser' & 'Estar'",
+    "description": "Master the two essential ways to say 'to be' in permanent and temporary situations.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-a1-deck9",
+    "languageId": "br",
+    "level": "Beginner",
+    "category": "Grammar Verbs",
+    "title": "The Verbs 'Ter' & 'Ir'",
+    "description": "Learn to express possession (to have) and future intentions/movement (to go).",
+    "cardCount": 35
+  },
+  {
+    "id": "br-a1-deck10",
+    "languageId": "br",
+    "level": "Beginner",
+    "category": "Grammar Basics",
+    "title": "Pronouns & Connectors",
+    "description": "Connect your thoughts using simple words like 'and', 'but', 'because', and subject pronouns.",
+    "cardCount": 30
+  },
+  {
+    "id": "br-a2-deck11",
+    "languageId": "br",
+    "level": "Elementary",
+    "category": "Shopping & Money",
+    "title": "Prices, Stores & Clothes",
+    "description": "Learn to ask for prices, navigate local stores, and describe clothing items.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-a2-deck12",
+    "languageId": "br",
+    "level": "Elementary",
+    "category": "Dining Out",
+    "title": "Ordering at a Restaurant",
+    "description": "Master requesting dishes, ordering common drinks, and handling the bill.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-a2-deck13",
+    "languageId": "br",
+    "level": "Elementary",
+    "category": "Directions & Travel",
+    "title": "Getting Around & Transport",
+    "description": "Navigate streets, ask for directions, and use public transportation vocabulary.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-a2-deck14",
+    "languageId": "br",
+    "level": "Elementary",
+    "category": "Weather & Climate",
+    "title": "Talking About the Weather",
+    "description": "Describe hot, cold, or rainy days and discuss Brazil's diverse seasons.",
+    "cardCount": 30
+  },
+  {
+    "id": "br-a2-deck15",
+    "languageId": "br",
+    "level": "Elementary",
+    "category": "Workplace Basics",
+    "title": "Professions & Office Life",
+    "description": "Identify common professions, office tools, and basic work routines.",
+    "cardCount": 30
+  },
+  {
+    "id": "br-a2-deck16",
+    "languageId": "br",
+    "level": "Elementary",
+    "category": "Health & Body",
+    "title": "Body Parts & Wellness",
+    "description": "Name parts of the body, express physical pain, and visit a pharmacy.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-a2-deck17",
+    "languageId": "br",
+    "level": "Elementary",
+    "category": "Hobbies & Leisure",
+    "title": "Sports, Music & Free Time",
+    "description": "Discuss your favorite sports, musical tastes, and casual weekend activities.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-a2-deck18",
+    "languageId": "br",
+    "level": "Elementary",
+    "category": "Local Slang",
+    "title": "Essential Brazilian Slang",
+    "description": "Sound like a native using universal expressions like 'legal', 'beleza', and 'cara'.",
+    "cardCount": 30
+  },
+  {
+    "id": "br-a2-deck19",
+    "languageId": "br",
+    "level": "Elementary",
+    "category": "Grammar Verbs",
+    "title": "Regular -AR Verbs (Present)",
+    "description": "Conjugate standard present-tense actions like talking, working, and studying.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-a2-deck20",
+    "languageId": "br",
+    "level": "Elementary",
+    "category": "Grammar Verbs",
+    "title": "Regular -ER & -IR Verbs (Present)",
+    "description": "Master eating, drinking, writing, and opening verbs in the present tense.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-a2-deck21",
+    "languageId": "br",
+    "level": "Elementary",
+    "category": "Grammar Basics",
+    "title": "Past Tense: The Simple Past",
+    "description": "Begin narrating completed actions that already happened yesterday or last week.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-a2-deck22",
+    "languageId": "br",
+    "level": "Elementary",
+    "category": "Grammar Basics",
+    "title": "Prepositions of Place",
+    "description": "Specify exactly where things are using inside, outside, next to, or behind.",
+    "cardCount": 30
+  },
+  {
+    "id": "br-a2-deck23",
+    "languageId": "br",
+    "level": "Elementary",
+    "category": "Grammar Basics",
+    "title": "Making Requests & Commands",
+    "description": "Politely ask people to do things or give clear, functional instructions.",
+    "cardCount": 30
+  },
+  {
+    "id": "br-a2-deck24",
+    "languageId": "br",
+    "level": "Elementary",
+    "category": "Daily Routine",
+    "title": "From Morning to Night",
+    "description": "Describe daily reflexive actions like waking up, showering, and going to sleep.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-a2-deck25",
+    "languageId": "br",
+    "level": "Elementary",
+    "category": "Socializing",
+    "title": "Invitations & Planning",
+    "description": "Invite friends out, accept or decline politely, and schedule meeting places.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-b1-deck26",
     "languageId": "br",
     "level": "Intermediate",
-    "category": "Grammar",
-    "title": "Pretérito Perfeito",
-    "description": "Dive deep into past-tense execution for narrating specific completed events fluently.",
+    "category": "Expressing Opinions",
+    "title": "Agreeing & Disagreeing",
+    "description": "Learn to share your thoughts, support ideas, or politely disagree with others.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-b1-deck27",
+    "languageId": "br",
+    "level": "Intermediate",
+    "category": "Expressing Opinions",
+    "title": "Doubts & Certainty",
+    "description": "Express when you are completely sure about something or when you feel uncertain.",
     "cardCount": 30
+  },
+  {
+    "id": "br-b1-deck28",
+    "languageId": "br",
+    "level": "Intermediate",
+    "category": "Tourism in Brazil",
+    "title": "Hotel Check-ins & Bookings",
+    "description": "Navigate accommodations, request amenities, and handle hotel reception interactions.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-b1-deck29",
+    "languageId": "br",
+    "level": "Intermediate",
+    "category": "Tourism in Brazil",
+    "title": "Sightseeing & Attractions",
+    "description": "Ask for recommendations, buy tour tickets, and explore iconic Brazilian destinations.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-b1-deck30",
+    "languageId": "br",
+    "level": "Intermediate",
+    "category": "Feelings & Emotions",
+    "title": "Moods & Emotional States",
+    "description": "Go beyond basics to express feeling anxious, excited, frustrated, or relieved.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-b1-deck31",
+    "languageId": "br",
+    "level": "Intermediate",
+    "category": "Technology & Media",
+    "title": "Social Media & Internet",
+    "description": "Discuss apps, sharing content, online security, and daily internet usage.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-b1-deck32",
+    "languageId": "br",
+    "level": "Intermediate",
+    "category": "Technology & Media",
+    "title": "Computers & Gadgets",
+    "description": "Master essential terminology for hardware, software, files, and digital tools.",
+    "cardCount": 30
+  },
+  {
+    "id": "br-b1-deck33",
+    "languageId": "br",
+    "level": "Intermediate",
+    "category": "Services",
+    "title": "At the Bank & Money Matters",
+    "description": "Navigate opening accounts, ATMs, currency exchange, and digital bank transfers (Pix).",
+    "cardCount": 35
+  },
+  {
+    "id": "br-b1-deck34",
+    "languageId": "br",
+    "level": "Intermediate",
+    "category": "Services",
+    "title": "At the Pharmacy & Post Office",
+    "description": "Pick up prescription medications, describe symptoms deeply, or mail packages.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-b1-deck35",
+    "languageId": "br",
+    "level": "Intermediate",
+    "category": "Emergencies",
+    "title": "Safety & Urgent Situations",
+    "description": "Essential phrases for reporting losses, contacting police, or handling accidents safely.",
+    "cardCount": 30
+  },
+  {
+    "id": "br-b1-deck36",
+    "languageId": "br",
+    "level": "Intermediate",
+    "category": "Style & Fashion",
+    "title": "Describing Outfits & Styles",
+    "description": "Discuss fashion preferences, fit, style trends, and various clothing materials.",
+    "cardCount": 30
+  },
+  {
+    "id": "br-b1-deck37",
+    "languageId": "br",
+    "level": "Intermediate",
+    "category": "Grammar Basics",
+    "title": "Past Tense: The Imperfect Past",
+    "description": "Learn to talk about continuous childhood habits and what you used to do.",
+    "cardCount": 40
+  },
+  {
+    "id": "br-b1-deck38",
+    "languageId": "br",
+    "level": "Intermediate",
+    "category": "Grammar Basics",
+    "title": "Combining the Past Tenses",
+    "description": "Master telling stories by interrupting continuous past actions with single past events.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-b1-deck39",
+    "languageId": "br",
+    "level": "Intermediate",
+    "category": "Grammar Basics",
+    "title": "The Simple Future Tense",
+    "description": "Conjugate formal future verbs to express what will happen down the road.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-b1-deck40",
+    "languageId": "br",
+    "level": "Intermediate",
+    "category": "Grammar Basics",
+    "title": "The Conditional Tense",
+    "description": "Express hypothetical actions, polite requests, and what you 'would' do.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-b1-deck41",
+    "languageId": "br",
+    "level": "Intermediate",
+    "category": "Grammar Basics",
+    "title": "Direct Object Pronouns",
+    "description": "Avoid repetition by replacing nouns with compact structural objects like 'o', 'a', 'os', 'as'.",
+    "cardCount": 30
+  },
+  {
+    "id": "br-b1-deck42",
+    "languageId": "br",
+    "level": "Intermediate",
+    "category": "Narrating Stories",
+    "title": "Describing Childhood Events",
+    "description": "Practice connecting complex paragraphs to talk about memories and old times.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-b1-deck43",
+    "languageId": "br",
+    "level": "Intermediate",
+    "category": "Narrating Stories",
+    "title": "Talking About Your Weekend",
+    "description": "Recount recent social events, gatherings, outings, and short trips naturally.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-b1-deck44",
+    "languageId": "br",
+    "level": "Intermediate",
+    "category": "Preferences",
+    "title": "Comparing Things & People",
+    "description": "Master saying 'more than', 'less than', and 'as good as' to weigh options.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-b1-deck45",
+    "languageId": "br",
+    "level": "Intermediate",
+    "category": "Preferences",
+    "title": "Superlatives & Extremes",
+    "description": "Express when something is the absolute best, worst, biggest, or smallest.",
+    "cardCount": 30
+  },
+  {
+    "id": "br-b2-deck46",
+    "languageId": "br",
+    "level": "Upper-Intermediate",
+    "category": "Current Events & News",
+    "title": "Modern Brazil: Economy, Society & Environment",
+    "description": "Converse warmly about public policies, economic growth, and preserving Brazil's ecosystems.",
+    "cardCount": 50
+  },
+  {
+    "id": "br-b2-deck47",
+    "languageId": "br",
+    "level": "Upper-Intermediate",
+    "category": "Business & Negotiations",
+    "title": "Business & Professional Communication",
+    "description": "Prepare for job interviews, lead office meetings, and draft formal emails beautifully.",
+    "cardCount": 45
+  },
+  {
+    "id": "br-b2-deck48",
+    "languageId": "br",
+    "level": "Upper-Intermediate",
+    "category": "Brazilian Culture",
+    "title": "Festivals & Regional Folklore",
+    "description": "Explore the rich history behind Carnaval, Folclore, and traditional regional festivals.",
+    "cardCount": 45
+  },
+  {
+    "id": "br-b2-deck49",
+    "languageId": "br",
+    "level": "Upper-Intermediate",
+    "category": "Gastronomy",
+    "title": "Gastronomy & Culinary Arts",
+    "description": "Dive into the origins of Feijoada, and practice recipe verbs to cook Brazilian classics.",
+    "cardCount": 45
+  },
+  {
+    "id": "br-b2-deck50",
+    "languageId": "br",
+    "level": "Upper-Intermediate",
+    "category": "Relationships",
+    "title": "Relationships & Social Nuances",
+    "description": "Express romantic interests, build deep friendships, and resolve social misunderstandings calmly.",
+    "cardCount": 45
+  },
+  {
+    "id": "br-b2-deck51",
+    "languageId": "br",
+    "level": "Upper-Intermediate",
+    "category": "Advanced Idioms",
+    "title": "Gírias Cariocas (Rio de Janeiro)",
+    "description": "Sound like a local from Rio de Janeiro using authentic slang like 'mermão' and 'irado'.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-b2-deck52",
+    "languageId": "br",
+    "level": "Upper-Intermediate",
+    "category": "Advanced Idioms",
+    "title": "Gírias Paulistas (São Paulo)",
+    "description": "Adopt authentic, urban slang from São Paulo like 'meu', 'bicho', and 'da hora'.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-b2-deck53",
+    "languageId": "br",
+    "level": "Upper-Intermediate",
+    "category": "Abstract Concepts",
+    "title": "Life, Values & Ambition",
+    "description": "Discuss ethical scenarios, personal milestones, setbacks, and motivational strategies.",
+    "cardCount": 45
+  },
+  {
+    "id": "br-b2-deck54",
+    "languageId": "br",
+    "level": "Upper-Intermediate",
+    "category": "Grammar Subjunctive",
+    "title": "Present Subjunctive Mastery",
+    "description": "Express your hopes, wishes, and doubts with perfect present subjunctive structures.",
+    "cardCount": 45
+  },
+  {
+    "id": "br-b2-deck55",
+    "languageId": "br",
+    "level": "Upper-Intermediate",
+    "category": "Grammar Subjunctive",
+    "title": "Past & Future Subjunctive",
+    "description": "Navigate complex conditional future states and hypothetical 'what-if' situations easily.",
+    "cardCount": 45
+  },
+  {
+    "id": "br-b2-deck56",
+    "languageId": "br",
+    "level": "Upper-Intermediate",
+    "category": "Grammar Basics",
+    "title": "Advanced Sentence Structures",
+    "description": "Connect ideas smoothly with relative pronouns and understand passive voice construction.",
+    "cardCount": 45
+  },
+  {
+    "id": "br-b2-deck57",
+    "languageId": "br",
+    "level": "Upper-Intermediate",
+    "category": "Debating",
+    "title": "Debating & Media Literacy",
+    "description": "Structure logical arguments, counter points politely, and analyze media advertisements.",
+    "cardCount": 50
+  },
+  {
+    "id": "br-c1-deck58",
+    "languageId": "br",
+    "level": "Advanced",
+    "category": "Legal & Admin",
+    "title": "Legal, Administrative & Relocation Essentials",
+    "description": "Understand rental lease agreements, official visa processes, and formal service contracts.",
+    "cardCount": 50
+  },
+  {
+    "id": "br-c1-deck59",
+    "languageId": "br",
+    "level": "Advanced",
+    "category": "Academic Writing",
+    "title": "Academic Writing & Oratory",
+    "description": "Incorporate formal logic connectors, structure research ideas, and prepare executive presentations.",
+    "cardCount": 45
+  },
+  {
+    "id": "br-c1-deck60",
+    "languageId": "br",
+    "level": "Advanced",
+    "category": "Literature & Art",
+    "title": "Literature, Poetry & Arts Critique",
+    "description": "Analyze classic prose writers, interpret poetry rhythm, and critique cinema or theater.",
+    "cardCount": 50
+  },
+  {
+    "id": "br-c1-deck61",
+    "languageId": "br",
+    "level": "Advanced",
+    "category": "Debating",
+    "title": "Elite Persuasion & Public Speaking",
+    "description": "Employ rhetoric tactics, emphasize arguments, and navigate challenging audience questions.",
+    "cardCount": 45
+  },
+  {
+    "id": "br-c1-deck62",
+    "languageId": "br",
+    "level": "Advanced",
+    "category": "Metaphors & Proverbs",
+    "title": "Idioms, Proverbs & Metaphors",
+    "description": "Unpack deep historical proverbs and colorful animal-themed expressions like 'pagar o pato'.",
+    "cardCount": 45
+  },
+  {
+    "id": "br-c1-deck63",
+    "languageId": "br",
+    "level": "Advanced",
+    "category": "Corporate Strategy",
+    "title": "Corporate Strategy & Leadership",
+    "description": "Discuss startup tech trends, fiscal restructuring, and executive delegation frameworks.",
+    "cardCount": 45
+  },
+  {
+    "id": "br-c1-deck64",
+    "languageId": "br",
+    "level": "Advanced",
+    "category": "Grammar Nuances",
+    "title": "Advanced Grammar & Nuances",
+    "description": "Master inflected infinitives, formal pronoun configurations (mesoclisis), and crase rules.",
+    "cardCount": 50
+  },
+  {
+    "id": "br-c1-deck65",
+    "languageId": "br",
+    "level": "Advanced",
+    "category": "Historical Nuance",
+    "title": "Brazilian History & Political Eras",
+    "description": "Analyze the impacts of the Colonial Baroque era, the old Republic, and democratization.",
+    "cardCount": 45
+  },
+  {
+    "id": "br-c1-deck66",
+    "languageId": "br",
+    "level": "Advanced",
+    "category": "Science & Medicine",
+    "title": "Science, Bioethics & Public Health",
+    "description": "Converse about genetic editing, epidemiology, clinical trials, and medical policies.",
+    "cardCount": 45
+  },
+  {
+    "id": "br-c1-deck67",
+    "languageId": "br",
+    "level": "Advanced",
+    "category": "Journalism",
+    "title": "Journalism, Satire & Irony",
+    "description": "Evaluate investigative media pieces and master the subtext of satirical columns.",
+    "cardCount": 45
+  },
+  {
+    "id": "br-c1-deck68",
+    "languageId": "br",
+    "level": "Advanced",
+    "category": "Regional Variations",
+    "title": "Sotaque & Gírias Mineiras",
+    "description": "Delight in expressions from Minas Gerais like 'uai' and the friendly contraction of sentences.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-c1-deck69",
+    "languageId": "br",
+    "level": "Advanced",
+    "category": "Regional Variations",
+    "title": "Expressões do Nordeste",
+    "description": "Master vibrant northeastern vocabulary including beloved terms like 'oxente' and 'vixe'.",
+    "cardCount": 35
+  },
+  {
+    "id": "br-c1-deck70",
+    "languageId": "br",
+    "level": "Advanced",
+    "category": "Psychology",
+    "title": "Psychology & Philosophy",
+    "description": "Deconstruct cognitive habits, defense mechanisms, existential questions, and identity models.",
+    "cardCount": 45
+  },
+  {
+    "id": "br-c1-deck71",
+    "languageId": "br",
+    "level": "Fluency Milestone",
+    "title": "The Native Integration Exam",
+    "description": "The ultimate test containing highly obscure idioms and rapid-fire conversational scenarios.",
+    "cardCount": 50
   }
+
 ]

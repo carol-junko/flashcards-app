@@ -1,0 +1,352 @@
+[
+  {
+    "id": "br-036",
+    "front": "Zero",
+    "pronunciation": "[zeh-roo]",
+    "back": "Zero",
+    "context": "The number 0. Used identically for phone numbers and codes."
+  },
+  {
+    "id": "br-037",
+    "front": "Um / Uma",
+    "pronunciation": "[oong / oo-mah]",
+    "back": "One",
+    "context": "The number 1. Use 'um' for masculine items and 'uma' for feminine items."
+  },
+  {
+    "id": "br-038",
+    "front": "Dois / Duas",
+    "pronunciation": "[doys / doo-ahs]",
+    "back": "Two",
+    "context": "The number 2. Use 'dois' for masculine items and 'duas' for feminine items."
+  },
+  {
+    "id": "br-039",
+    "front": "Três",
+    "pronunciation": "[trays]",
+    "back": "Three",
+    "context": "The number 3. Fits all nouns equally."
+  },
+  {
+    "id": "br-040",
+    "front": "Quatro",
+    "pronunciation": "[kwah-troo]",
+    "back": "Four",
+    "context": "The number 4."
+  },
+  {
+    "id": "br-041",
+    "front": "Cinco",
+    "pronunciation": "[seen-koo]",
+    "back": "Five",
+    "context": "The number 5."
+  },
+  {
+    "id": "br-042",
+    "front": "Seis",
+    "pronunciation": "[says]",
+    "back": "Six",
+    "context": "The number 6. Note: In phone numbers, Brazilians often say 'meia' (half-dozen) instead."
+  },
+  {
+    "id": "br-043",
+    "front": "Sete",
+    "pronunciation": "[seh-chee]",
+    "back": "Seven",
+    "context": "The number 7."
+  },
+  {
+    "id": "br-044",
+    "front": "Oito",
+    "pronunciation": "[oy-too]",
+    "back": "Eight",
+    "context": "The number 8."
+  },
+  {
+    "id": "br-045",
+    "front": "Nove",
+    "pronunciation": "[noh-vee]",
+    "back": "Nine",
+    "context": "The number 9."
+  },
+  {
+    "id": "br-046",
+    "front": "Dez",
+    "pronunciation": "[dehs]",
+    "back": "Ten",
+    "context": "The number 10."
+  },
+  {
+    "id": "br-047",
+    "front": "Onze",
+    "pronunciation": "[ong-zee]",
+    "back": "Eleven",
+    "context": "The number 11."
+  },
+  {
+    "id": "br-048",
+    "front": "Doze",
+    "pronunciation": "[doh-zee]",
+    "back": "Twelve",
+    "context": "The number 12."
+  },
+  {
+    "id": "br-049",
+    "front": "Treze",
+    "pronunciation": "[treh-zee]",
+    "back": "Thirteen",
+    "context": "The number 13."
+  },
+  {
+    "id": "br-050",
+    "front": "Quatorze",
+    "pronunciation": "[kwah-tohr-zee]",
+    "back": "Fourteen",
+    "context": "The number 14."
+  },
+  {
+    "id": "br-051",
+    "front": "Quinze",
+    "pronunciation": "[keen-zee]",
+    "back": "Fifteen",
+    "context": "The number 15."
+  },
+  {
+    "id": "br-052",
+    "front": "Dezesseis",
+    "pronunciation": "[jeh-zee-says]",
+    "back": "Sixteen",
+    "context": "The number 16."
+  },
+  {
+    "id": "br-053",
+    "front": "Dezesseis",
+    "pronunciation": "[jeh-zee-seh-chee]",
+    "back": "Seventeen",
+    "context": "The number 17."
+  },
+  {
+    "id": "br-054",
+    "front": "Dezoito",
+    "pronunciation": "[jeh-zoy-too]",
+    "back": "Eighteen",
+    "context": "The number 18."
+  },
+  {
+    "id": "br-055",
+    "front": "Dezenove",
+    "pronunciation": "[jeh-zee-noh-vee]",
+    "back": "Nineteen",
+    "context": "The number 19."
+  },
+  {
+    "id": "br-056",
+    "front": "Vinte",
+    "pronunciation": "[veen-chee]",
+    "back": "Twenty",
+    "context": "The number 20."
+  },
+  {
+    "id": "br-057",
+    "front": "Trinta",
+    "pronunciation": "[treen-tah]",
+    "back": "Thirty",
+    "context": "The number 30."
+  },
+  {
+    "id": "br-058",
+    "front": "Quarenta",
+    "pronunciation": "[kwah-rayng-tah]",
+    "back": "Forty",
+    "context": "The number 40."
+  },
+  {
+    "id": "br-059",
+    "front": "Cinquenta",
+    "pronunciation": "[seen-kwayng-tah]",
+    "back": "Fifty",
+    "context": "The number 50."
+  },
+  {
+    "id": "br-060",
+    "front": "Cem",
+    "pronunciation": "[sayng]",
+    "back": "One hundred",
+    "context": "Used strictly for exactly 100. Changes to 'cento' for numbers like 101 (cento e um)."
+  },
+  {
+    "id": "br-061",
+    "front": "Segunda-feira",
+    "pronunciation": "[seh-goong-dah fay-rah]",
+    "back": "Monday",
+    "context": "Often shortened simply to 'Segunda' in casual speech."
+  },
+  {
+    "id": "br-062",
+    "front": "Terça-feira",
+    "pronunciation": "[tayr-sah fay-rah]",
+    "back": "Tuesday",
+    "context": "Often shortened casually to 'Terça'."
+  },
+  {
+    "id": "br-063",
+    "front": "Quarta-feira",
+    "pronunciation": "[kwahr-tah fay-rah]",
+    "back": "Wednesday",
+    "context": "Often shortened casually to 'Quarta'."
+  },
+  {
+    "id": "br-064",
+    "front": "Quinta-feira",
+    "pronunciation": "[keen-tah fay-rah]",
+    "back": "Thursday",
+    "context": "Often shortened casually to 'Quinta'."
+  },
+  {
+    "id": "br-065",
+    "front": "Sexta-feira",
+    "pronunciation": "[says-tah fay-rah]",
+    "back": "Friday",
+    "context": "Often shortened casually to 'Sexta'. The start of the weekend!"
+  },
+  {
+    "id": "br-066",
+    "front": "Sábado",
+    "pronunciation": "[sah-bah-doo]",
+    "back": "Saturday",
+    "context": "Weekend day. No need to add 'feira' to this one."
+  },
+  {
+    "id": "br-067",
+    "front": "Domingo",
+    "pronunciation": "[doo-meeng-goo]",
+    "back": "Sunday",
+    "context": "The traditional rest day. Considered the first day of the calendar week."
+  },
+  {
+    "id": "br-068",
+    "front": "Janeiro",
+    "pronunciation": "[zhah-nay-roo]",
+    "back": "January",
+    "context": "The first month of the year, right in the middle of Brazilian summer."
+  },
+  {
+    "id": "br-069",
+    "front": "Fevereiro",
+    "pronunciation": "[feh-veh-ray-roo]",
+    "back": "February",
+    "context": "The famous month of Carnival celebrations in Brazil."
+  },
+  {
+    "id": "br-070",
+    "front": "Março",
+    "pronunciation": "[mahr-soo]",
+    "back": "March",
+    "context": "The third month of the year."
+  },
+  {
+    "id": "br-071",
+    "front": "Abril",
+    "pronunciation": "[ah-breew]",
+    "back": "April",
+    "context": "The letter 'L' at the end sounds like a soft 'W'."
+  },
+  {
+    "id": "br-072",
+    "front": "Maio",
+    "pronunciation": "[my-oo]",
+    "back": "May",
+    "context": "The fifth month of the year."
+  },
+  {
+    "id": "br-073",
+    "front": "Junho",
+    "pronunciation": "[zhoo-nyoo]",
+    "back": "June",
+    "context": "Famous for traditional 'Festa Junina' winter festivals in Brazil."
+  },
+  {
+    "id": "br-074",
+    "front": "Julho",
+    "pronunciation": "[zhoo-lyoo]",
+    "back": "July",
+    "context": "The peak month for winter school vacations in Brazil."
+  },
+  {
+    "id": "br-075",
+    "front": "Agosto",
+    "pronunciation": "[ah-gohs-too]",
+    "back": "August",
+    "context": "The eighth month of the year."
+  },
+  {
+    "id": "br-076",
+    "front": "Setembro",
+    "pronunciation": "[seh-taym-broo]",
+    "back": "September",
+    "context": "Features Brazil's Independence Day on September 7th."
+  },
+  {
+    "id": "br-077",
+    "front": "Outubro",
+    "pronunciation": "[oh-too-broo]",
+    "back": "October",
+    "context": "The tenth month of the year."
+  },
+  {
+    "id": "br-078",
+    "front": "Novembro",
+    "pronunciation": "[noh-vaym-broo]",
+    "back": "November",
+    "context": "The eleventh month of the year."
+  },
+  {
+    "id": "br-079",
+    "front": "Dezembro",
+    "pronunciation": "[deh-zaym-broo]",
+    "back": "December",
+    "context": "Christmas month, which takes place during warm summer weather in Brazil."
+  },
+  {
+    "id": "br-080",
+    "front": "Hoje",
+    "pronunciation": "[oh-zhee]",
+    "back": "Today",
+    "context": "An essential time anchor. The 'H' is completely silent."
+  },
+  {
+    "id": "br-081",
+    "front": "Amanhã",
+    "pronunciation": "[ah-mah-nyang]",
+    "back": "Tomorrow",
+    "context": "The final nasal sound is sharp, similar to the end of the word 'wrong'."
+  },
+  {
+    "id": "br-082",
+    "front": "Ontem",
+    "pronunciation": "[ong-taym]",
+    "back": "Yesterday",
+    "context": "Refers to the day before today."
+  },
+  {
+    "id": "br-083",
+    "front": "Que dia é hoje?",
+    "pronunciation": "[kee jee-ah ay oh-zhee]",
+    "back": "What day is today?",
+    "context": "Use this phrase to clarify schedules or double-check dates."
+  },
+  {
+    "id": "br-084",
+    "front": "Que horas são?",
+    "pronunciation": "[kee oh-rahs sowng]",
+    "back": "What time is it?",
+    "context": "The universal question for asking the current time."
+  },
+  {
+    "id": "br-085",
+    "front": "Uma semana",
+    "pronunciation": "[oo-mah seh-mah-nah]",
+    "back": "One week",
+    "context": "A standard unit of calendar time containing seven days."
+  }
+]

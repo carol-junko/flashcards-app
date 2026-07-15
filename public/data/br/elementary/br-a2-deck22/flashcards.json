@@ -1,0 +1,212 @@
+[
+  {
+    "id": "br-706",
+    "front": "As chaves estão dentro da gaveta.",
+    "pronunciation": "ahs SHAH-vees ees-TAHWNG DEHN-troo dah gah-VEH-tah.",
+    "back": "The keys are inside the drawer.",
+    "context": "Using 'dentro de' (inside of) to describe a standard contained space. Contraction: dentro + da = dentro da."
+  },
+  {
+    "id": "br-707",
+    "front": "O gato está em cima da mesa.",
+    "pronunciation": "oo GAH-too ees-TAH ahyng SEE-mah dah MEH-zah.",
+    "back": "The cat is on top of the table.",
+    "context": "Using 'em cima de' (on top of / above) for physical surfaces."
+  },
+  {
+    "id": "br-708",
+    "front": "Os sapatos estão debaixo da cama.",
+    "pronunciation": "ooz sah-PAH-tooz ees-TAHWNG jee-BAY-shoo dah KAH-mah.",
+    "back": "The shoes are under the bed.",
+    "context": "Using 'debaixo de' (under / underneath) to show placement."
+  },
+  {
+    "id": "br-709",
+    "front": "O escritório fica perto do parque.",
+    "pronunciation": "oo ees-kree-TOH-ryoo FEE-kah PEHR-too doo PAHR-kee.",
+    "back": "The office is located near the park.",
+    "context": "Using 'perto de' (near / close to). Contraction: perto + do = perto do."
+  },
+  {
+    "id": "br-710",
+    "front": "A estação de metrô é longe daqui?",
+    "pronunciation": "ah ees-tah-SOHNG jee meh-TROH eh LOHN-zhee dah-KEE?",
+    "back": "Is the subway station far from here?",
+    "context": "Using 'longe de' (far from) combined with the adverb 'aqui'."
+  },
+  {
+    "id": "br-711",
+    "front": "O banco fica ao lado da farmácia.",
+    "pronunciation": "oo BAHN-koo FEE-kah ow LAH-doo dah fahr-MAH-syah.",
+    "back": "The bank is next to the pharmacy.",
+    "context": "Using 'ao lado de' (next to / beside) to give neighborhood directions."
+  },
+  {
+    "id": "br-712",
+    "front": "O estacionamento é atrás do prédio.",
+    "pronunciation": "oo ees-tah-syo-nah-MEHN-too eh ah-TRAHS doo PREH-joo.",
+    "back": "The parking lot is behind the building.",
+    "context": "Using 'atrás de' (behind) to define a rear spatial position."
+  },
+  {
+    "id": "br-713",
+    "front": "Há uma árvore na frente da casa.",
+    "pronunciation": "ah OO-mah AHR-voo-ree nah FREHN-chee dah KAH-zah.",
+    "back": "There is a tree in front of the house.",
+    "context": "Using 'na frente de' (in front of) for positions relative to a facade."
+  },
+  {
+    "id": "br-714",
+    "front": "O computador está entre a tela e o teclado.",
+    "pronunciation": "oo kohm-poo-tah-DOHR ees-TAH EHN-tree ah TEH-lah ee oo cheh-KLAH-doo.",
+    "back": "The computer is between the screen and the keyboard.",
+    "context": "Using 'entre' (between) to place an object relative to two distinct items."
+  },
+  {
+    "id": "br-715",
+    "front": "As crianças brincam fora de casa.",
+    "pronunciation": "ahs kree-AHN-sahs BREEN-kahwng FOH-rah jee KAH-zah.",
+    "back": "The children play outside the house.",
+    "context": "Using 'fora de' (outside of) to show external placement."
+  },
+  {
+    "id": "br-716",
+    "front": "O celular está sob o livro.",
+    "pronunciation": "oo seh-loo-LAHR ees-TAH SOB oo LEE-vroo.",
+    "back": "The cell phone is under the book.",
+    "context": "Using the preposition 'sob' (under/beneath), which is a slightly more formal alternative to debaixo."
+  },
+  {
+    "id": "br-717",
+    "front": "O quadro está sobre o sofá.",
+    "pronunciation": "oo KWAH-droo ees-TAH SOH-bree oo soo-FAH.",
+    "back": "The painting is above/over the sofa.",
+    "context": "Using 'sobre' (above / on top of) indicating close or direct overhead placement."
+  },
+  {
+    "id": "br-718",
+    "front": "Minha casa fica antes do semáforo.",
+    "pronunciation": "MEENG-yah KAH-zah FEE-kah AHN-chees doo seh-MAH-foo-roo.",
+    "back": "My house is before the traffic light.",
+    "context": "Using 'antes de' (before) as a spatial reference point along a route."
+  },
+  {
+    "id": "br-719",
+    "front": "O restaurante é depois da ponte.",
+    "pronunciation": "oo hehs-tow-RAHN-chee eh jey-POYS dah POHN-chee.",
+    "back": "The restaurant is after the bridge.",
+    "context": "Using 'depois de' (after / past) to describe navigation past a landmark."
+  },
+  {
+    "id": "br-720",
+    "front": "Coloque a mala no banco de trás.",
+    "pronunciation": "koh-LOH-kee ah MAH-lah noo BAHN-koo jee TRAHS.",
+    "back": "Put the suitcase on the back seat.",
+    "context": "Using 'de trás' (back / rear) as a descriptive positioning modifier."
+  },
+  {
+    "id": "br-721",
+    "front": "O caderno está dentro da mochila.",
+    "pronunciation": "oo kah-DEHR-noo ees-TAH DEHN-troo dah moo-SHEE-lah.",
+    "back": "The notebook is inside the backpack.",
+    "context": "Reinforcing 'dentro de' with common school and workplace objects."
+  },
+  {
+    "id": "br-722",
+    "front": "O restaurante fica embaixo do hotel.",
+    "pronunciation": "oo hehs-tow-RAHN-chee FEE-kah eym-BAY-shoo doo oh-TEW.",
+    "back": "The restaurant is underneath the hotel.",
+    "context": "Using 'embaixo de' (underneath / below) for structural locations."
+  },
+  {
+    "id": "br-723",
+    "front": "Nós moramos no andar de cima.",
+    "pronunciation": "nohs moh-RAH-moos noo ahn-DAHR jee SEE-mah.",
+    "back": "We live on the top floor / floor above.",
+    "context": "Using 'de cima' to reference relative levels within a building."
+  },
+  {
+    "id": "br-724",
+    "front": "O mercado fica bem perto do centro.",
+    "pronunciation": "oo mehr-KAH-doo FEE-kah bayng PEHR-too doo SEHN-troo.",
+    "back": "The market is located very close to downtown.",
+    "context": "Using 'perto do centro' for urban orientation context."
+  },
+  {
+    "id": "br-725",
+    "front": "A praia é muito longe da cidade?",
+    "pronunciation": "ah PRY-ah eh MOOI-too LOHN-zhee dah see-DAH-jee?",
+    "back": "Is the beach very far from the city?",
+    "context": "Using 'longe da' to inquire about geographical distance."
+  },
+  {
+    "id": "br-726",
+    "front": "Sente-se ao meu lado, por favor.",
+    "pronunciation": "SEHN-chee-see ow mew LAH-doo, poor fah-VOHR.",
+    "back": "Sit next to me, please.",
+    "context": "Combining 'ao lado de' with a possessive pronoun pronoun form ('meu lado')."
+  },
+  {
+    "id": "br-727",
+    "front": "O carro está parado na frente da garagem.",
+    "pronunciation": "oo KAH-hoo ees-TAH pah-RAH-doo nah FREHN-chee dah gah-RAH-zhehng.",
+    "back": "The car is parked in front of the garage.",
+    "context": "Using 'na frente da' for domestic outdoor driveway descriptions."
+  },
+  {
+    "id": "br-728",
+    "front": "Quem está atrás de você na fila?",
+    "pronunciation": "kayng ees-TAH ah-TRAHS jee voh-SEH nah FEE-lah?",
+    "back": "Who is behind you in the line?",
+    "context": "Using 'atrás de' followed by a personal pronoun inside a public queue context."
+  },
+  {
+    "id": "br-729",
+    "front": "O Brasil está localizado entre a Argentina e a Venezuela.",
+    "pronunciation": "oo brah-ZEEW ees-TAH loo-kah-lee-ZAH-doo EHN-tree ah ahr-zhen-CHEE-nah ee ah veh-neh-ZWEH-lah.",
+    "back": "Brazil is located between Argentina and Venezuela.",
+    "context": "Using 'entre' for wider macro-geographical or country-level positions."
+  },
+  {
+    "id": "br-730",
+    "front": "Por favor, espere do lado de fora.",
+    "pronunciation": "poor fah-VOHR, ees-PEH-ree doo LAH-doo jee FOH-rah.",
+    "back": "Please wait outside.",
+    "context": "Using the compound phrase 'do lado de fora' to indicate external spatial zones."
+  },
+  {
+    "id": "br-731",
+    "front": "O documento está sob análise.",
+    "pronunciation": "oo doo-koo-MEHN-too ees-TAH sob ah-NAH-lee-zee.",
+    "back": "The document is under review.",
+    "context": "An idiomatic, abstract workspace use of the preposition 'sob' (under)."
+  },
+  {
+    "id": "br-732",
+    "front": "Coloque os pratos sobre a mesa da cozinha.",
+    "pronunciation": "koh-LOH-kee ooz PRAH-tooz SOH-bree ah MEH-zah dah koo-ZEENG-yah.",
+    "back": "Place the dishes on the kitchen table.",
+    "context": "Using 'sobre' as a synonym for placing things onto concrete surfaces."
+  },
+  {
+    "id": "br-733",
+    "front": "A farmácia fica logo depois do cruzamento.",
+    "pronunciation": "ah fahr-MAH-syah FEE-kah LOH-goo dey-POYS doo kroo-zah-MEHN-too.",
+    "back": "The pharmacy is right after the intersection.",
+    "context": "Using 'depois do' paired with local navigation markers."
+  },
+  {
+    "id": "br-734",
+    "front": "O cinema fica antes do shopping.",
+    "pronunciation": "oo see-NEH-mah FEE-kah AH-nees doo SHOH-peeng.",
+    "back": "The cinema is located before the mall.",
+    "context": "Using 'antes do' for commercial location referencing."
+  },
+  {
+    "id": "br-735",
+    "front": "O controle remoto está embaixo da almofada.",
+    "pronunciation": "oo kohn-TROH-lee heh-MOH-too ees-TAH eym-BAY-shoo dah aw-moo-FAH-dah.",
+    "back": "The remote control is under the cushion.",
+    "context": "Using 'embaixo da' for living room setting orientation."
+  }
+]

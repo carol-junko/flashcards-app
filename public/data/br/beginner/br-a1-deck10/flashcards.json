@@ -1,0 +1,212 @@
+[
+  {
+    "id": "br-291",
+    "front": "E",
+    "pronunciation": "[ee]",
+    "back": "And",
+    "context": "The standard connector to join words or ideas together. Pronounced like the English letter 'E'."
+  },
+  {
+    "id": "br-292",
+    "front": "Mas",
+    "pronunciation": "[mahs]",
+    "back": "But / However",
+    "context": "Used to introduce an opposing point or restriction."
+  },
+  {
+    "id": "br-293",
+    "front": "Porque",
+    "pronunciation": "[poor-kee]",
+    "back": "Because / Why",
+    "context": "Used both to ask a question (written separated in grammar, but sounds identical) and to provide a reason."
+  },
+  {
+    "id": "br-294",
+    "front": "Ou",
+    "pronunciation": "[oh]",
+    "back": "Or",
+    "context": "Used to present alternative choices or possibilities."
+  },
+  {
+    "id": "br-295",
+    "front": "Então",
+    "pronunciation": "[ayn-towng]",
+    "back": "So / Then",
+    "context": "A very popular filler and connector word used to progress a story or state a result."
+  },
+  {
+    "id": "br-296",
+    "front": "Também",
+    "pronunciation": "[tahm-baym]",
+    "back": "Also / Too / As well",
+    "context": "Used to express agreement or adding something extra."
+  },
+  {
+    "id": "br-297",
+    "front": "Com",
+    "pronunciation": "[kong]",
+    "back": "With",
+    "context": "Preposition used to indicate accompaniment or combining things."
+  },
+  {
+    "id": "br-298",
+    "front": "Sem",
+    "pronunciation": "[sayng]",
+    "back": "Without",
+    "context": "Preposition indicating absence or exclusion."
+  },
+  {
+    "id": "br-299",
+    "front": "Para",
+    "pronunciation": "[pah-rah]",
+    "back": "For / To / In order to",
+    "context": "Indicates intention, destination, or recipient. Almost always shortened to 'pra' casually."
+  },
+  {
+    "id": "br-300",
+    "front": "Meu / Minha",
+    "pronunciation": "[meoo / mee-nyah]",
+    "back": "My / Mine",
+    "context": "Use 'meu' for masculine items and 'minha' for feminine items."
+  },
+  {
+    "id": "br-301",
+    "front": "Seu / Sua",
+    "pronunciation": "[seh-oo / soo-ah]",
+    "back": "Your / Yours",
+    "context": "Matches the pronoun 'você'. Use 'seu' for masculine and 'sua' for feminine possessions."
+  },
+  {
+    "id": "br-302",
+    "front": "Dele / Dela",
+    "pronunciation": "[deh-lee / deh-lah]",
+    "back": "His / Her (Of him / Of her)",
+    "context": "Placed *after* the noun in Portuguese (e.g., a casa dele = his house)."
+  },
+  {
+    "id": "br-303",
+    "front": "Nosso / Nossa",
+    "pronunciation": "[naw-soo / naw-sah]",
+    "back": "Our / Ours",
+    "context": "Matches masculine or feminine plural nouns."
+  },
+  {
+    "id": "br-304",
+    "front": "Isso",
+    "pronunciation": "[ee-soo]",
+    "back": "That / This",
+    "context": "A general, genderless pronoun used for objects near the listener or abstract concepts."
+  },
+  {
+    "id": "br-305",
+    "front": "Aqui",
+    "pronunciation": "[ah-kee]",
+    "back": "Here",
+    "context": "Indicates the current immediate location of the speaker."
+  },
+  {
+    "id": "br-306",
+    "front": "Lá",
+    "pronunciation": "[lah]",
+    "back": "There",
+    "context": "Indicates a location away from both the speaker and the listener."
+  },
+  {
+    "id": "br-307",
+    "front": "Muito",
+    "pronunciation": "[mwee-too]",
+    "back": "Very / Much / A lot",
+    "context": "Used to intensify adjectives or express a high quantity."
+  },
+  {
+    "id": "br-308",
+    "front": "Pouco",
+    "pronunciation": "[poh-koo]",
+    "back": "Little / Few / Not much",
+    "context": "Expresses a small quantity or intensity deficiency."
+  },
+  {
+    "id": "br-309",
+    "front": "Sempre",
+    "pronunciation": "[saym-pree]",
+    "back": "Always",
+    "context": "Time connector indicating continuous regularity."
+  },
+  {
+    "id": "br-310",
+    "front": "Nunca",
+    "pronunciation": "[noon-kah]",
+    "back": "Never",
+    "context": "Time connector indicating absolute zero frequency."
+  },
+  {
+    "id": "br-311",
+    "front": "Arroz e feijão",
+    "pronunciation": "[ah-hohs ee fay-zhowng]",
+    "back": "Rice and beans",
+    "context": "The ultimate classic culinary pairing in Brazil, using the connector 'e'."
+  },
+  {
+    "id": "br-312",
+    "front": "Eu quero, mas não posso.",
+    "pronunciation": "[ay-oo keh-roo mahs nowng paw-soo]",
+    "back": "I want to, but I can't.",
+    "context": "A polite, standard way to decline an invitation or suggestion."
+  },
+  {
+    "id": "br-313",
+    "front": "Porque eu quero estudar.",
+    "pronunciation": "[poor-kee ay-oo keh-roo ay-stoo-dahr]",
+    "back": "Because I want to study.",
+    "context": "Shows how to give a motivating reason using 'porque'."
+  },
+  {
+    "id": "br-314",
+    "front": "Café com leite, por favor.",
+    "pronunciation": "[kah-feh kong lay-chee poor fah-vohr]",
+    "back": "Coffee with milk, please.",
+    "context": "A classic morning diner order utilizing the connector 'com'."
+  },
+  {
+    "id": "br-315",
+    "front": "Água sem gelo.",
+    "pronunciation": "[ah-gwah sayng zheh-loo]",
+    "back": "Water without ice.",
+    "context": "Shows how to customize an item order using 'sem'."
+  },
+  {
+    "id": "br-316",
+    "front": "Isto é para você.",
+    "pronunciation": "[ees-too ay pah-rah voh-say]",
+    "back": "This is for you.",
+    "context": "Said when handing a gift, task, or item over to someone."
+  },
+  {
+    "id": "br-317",
+    "front": "Esta é a minha opinião.",
+    "pronunciation": "[ays-tah ay ah mee-nyah oh-pee-nee-owng]",
+    "back": "This is my opinion.",
+    "context": "Combines demonstrative and possessive feminine elements."
+  },
+  {
+    "id": "br-318",
+    "front": "Onde está o carro dele?",
+    "pronunciation": "[ong-jee ay-stah oo kahr-hoo deh-lee]",
+    "back": "Where is his car?",
+    "context": "Demonstrates the trailing ownership structure of 'dele'."
+  },
+  {
+    "id": "br-319",
+    "front": "Eu moro aqui.",
+    "pronunciation": "[ay-oo moh-roo ah-kee]",
+    "back": "I live here.",
+    "context": "A quick way to specify your home location locally."
+  },
+  {
+    "id": "br-320",
+    "front": "Então, vamos?",
+    "pronunciation": "[ayn-towng vah-moos]",
+    "back": "So, shall we go?",
+    "context": "A conversational catalyst phrase to signal it's time to depart."
+  }
+]

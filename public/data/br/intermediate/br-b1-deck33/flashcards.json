@@ -1,0 +1,247 @@
+[
+  {
+    "id": "br-1071",
+    "front": "Meu computador atual tem vinte e quatro gigabytes de memória RAM.",
+    "pronunciation": "mew kohm-poo-tah-DOHR ah-too-AW cheyng VEENG-chee ee KWAH-troo zhee-gah-BYE-chees jee meh-MOH-ryah hamyng.",
+    "back": "My current computer has twenty-four gigabytes of RAM.",
+    "context": "Stating hardware specs using the structural phrase 'memória RAM'."
+  },
+  {
+    "id": "br-1072",
+    "front": "Este modelo vem com um processador de última geração.",
+    "pronunciation": "EHS-chee moo-DEH-loo vayyng koong oong proo-seh-sah-DOHR jee OOW-chee-mah zheh-rah-SOHNG.",
+    "back": "This model comes with a latest-generation processor.",
+    "context": "Describing performance components using 'processador de última geração'."
+  },
+  {
+    "id": "br-1073",
+    "front": "O sistema operacional parou de responder de repente.",
+    "pronunciation": "oo sees-TEH-mah oo-peh-rah-syo-NAW pah-ROY jee hehs-pohn-DEHR jee heh-PEHN-chee.",
+    "back": "The operating system stopped responding all of a sudden.",
+    "context": "Reporting a system crash or freeze using 'sistema operacional'."
+  },
+  {
+    "id": "br-1074",
+    "front": "Você prefere usar o sistema em modo claro ou escuro?",
+    "pronunciation": "voh-SEH preh-FEH-ree oo-ZAHR oo sees-TEH-mah ahyng MOH-doo KLAH-roo ow ees-KOO-roo?",
+    "back": "Do you prefer to use the system in light or dark mode?",
+    "context": "Querying UI display setting configurations ('modo claro' vs. 'modo escuro')."
+  },
+  {
+    "id": "br-1075",
+    "front": "Eu preciso instalar as novas atualizações de segurança.",
+    "pronunciation": "ew prah-SEE-zoo eeyns-tah-LAHR ahs NOH-vahs ah-too-ah-lee-zah-SOHNGS jee seh-goo-RAHN-sah.",
+    "back": "I need to install the new security updates.",
+    "context": "Maintaining system integrity using 'atualizações de segurança'."
+  },
+  {
+    "id": "br-1076",
+    "front": "A bateria deste notebook costuma durar o dia todo.",
+    "pronunciation": "ah bah-teh-REE-ah DEHS-chee notebook koos-TOO-mah doo-RAHR oo JEE-ah TOH-doo.",
+    "back": "This notebook's battery usually lasts all day.",
+    "context": "Evaluating hardware durability. Note that 'notebook' is the standard word for laptop in Brazil."
+  },
+  {
+    "id": "br-1077",
+    "front": "Onde posso fazer o download da versão mais recente?",
+    "pronunciation": "OHN-jee POH-soo fah-ZEHR oo download dah vehr-SOHNG mays heh-SEHN-chee?",
+    "back": "Where can I download the most recent version?",
+    "context": "Using the common expression 'fazer o download' alongside version parameters."
+  },
+  {
+    "id": "br-1078",
+    "front": "Minha conexão com a internet está oscilando muito hoje.",
+    "pronunciation": "MEENG-yah kohn-ehk-SOHNG koong ah een-tehr-NEH-chee ees-TAH oo-see-LAHN-doo MOOI-too OH-zhee.",
+    "back": "My internet connection is fluctuating a lot today.",
+    "context": "Describing network instability using the crisp verb 'oscilar'."
+  },
+  {
+    "id": "br-1079",
+    "front": "O aplicativo fechou sozinho enquanto eu salvava o arquivo.",
+    "pronunciation": "oo ah-plee-kah-CHEE-voo feh-SHOY soo-ZEENG-yoo een-KWAHN-too ew saw-VAH-vah oo ahr-KEE-voo.",
+    "back": "The app closed by itself while I was saving the file.",
+    "context": "Describing an application crash loop using 'fechou sozinho'."
+  },
+  {
+    "id": "br-1080",
+    "front": "Vale a pena comprar um monitor com tela maior?",
+    "pronunciation": "VAH-lee ah PEH-nah kohm-PRAHR oong moo-nee-TOHR koong TEH-lah mah-YOHR?",
+    "back": "Is it worth it to buy a monitor with a larger screen?",
+    "context": "Evaluating setup expansion choices using 'tela' (screen/display)."
+  },
+  {
+    "id": "br-1081",
+    "front": "Eu mudei o idioma padrão para o inglês.",
+    "pronunciation": "ew moo-DAY oo ee-jee-OH-mah pah-DROHNG PAH-rah oo eeyng-GLEHS.",
+    "back": "I changed the default language to English.",
+    "context": "Configuring UI locale settings using the phrase 'idioma padrão'."
+  },
+  {
+    "id": "br-1082",
+    "front": "Onde ficam armazenados os arquivos de configuração?",
+    "pronunciation": "OHN-jee FEE-kahyng ahr-mah-zeh-NAH-doos ooz ahr-KEE-voos jee kohn-fee-goo-rah-SOHNG?",
+    "back": "Where are the configuration files stored?",
+    "context": "Locating environment profiles using 'arquivos de configuração'."
+  },
+  {
+    "id": "br-1083",
+    "front": "Este periférico é compatível com o meu sistema?",
+    "pronunciation": "EHS-chee peh-ree-FEH-ree-koo eh kohm-pah-CHEE-vew koong oo mew sees-TEH-mah?",
+    "back": "Is this peripheral compatible with my system?",
+    "context": "Checking physical hardware link logic using 'compatível'."
+  },
+  {
+    "id": "br-1084",
+    "front": "O HD externo serve para fazer cópias de segurança.",
+    "pronunciation": "oo ah-ghee ehks-TEHR-noo SEHR-vee PAH-rah fah-ZEHR KOH-pyahs jee seh-goo-RAHN-sah.",
+    "back": "The external hard drive is used to make backups.",
+    "context": "Using the specific formal noun phrase 'cópia de segurança' for a backup."
+  },
+  {
+    "id": "br-1085",
+    "front": "Eu prefiro usar fones de ouvido com cancelamento de ruído.",
+    "pronunciation": "ew preh-FEE-roo oo-ZAHR FOH-nees jee oo-VEE-doo koong kahn-seh-lah-MEHN-too jee hoo-EE-doo.",
+    "back": "I prefer to use headphones with noise cancellation.",
+    "context": "Specifying setup gear layouts via 'cancelamento de ruído'."
+  },
+  {
+    "id": "br-1086",
+    "front": "É preciso reiniciar o roteador para aplicar as mudanças.",
+    "pronunciation": "eh prah-SEE-zoo hay-nee-sy-AHR oo hoo-teh-ah-DOHR PAH-rah ah-plee-KAHR ahs moo-DAHN-sahs.",
+    "back": "It is necessary to restart the router to apply the changes.",
+    "context": "Network infrastructure troubleshooting using 'reiniciar o roteador'."
+  },
+  {
+    "id": "br-1087",
+    "front": "Eu uso uma extensão no navegador para bloquear anúncios.",
+    "pronunciation": "ew OO-zoo OO-mah eyks-tehn-SOHNG noo nah-veh-gah-DOHR PAH-rah bloo-ky-AHR ah-NOONG-syoos.",
+    "back": "I use a browser extension to block ads.",
+    "context": "Discussing browser tweaks using 'navegador' (browser) and 'extensão' (extension)."
+  },
+  {
+    "id": "br-1088",
+    "front": "Esse erro costuma acontecer quando o servidor cai.",
+    "pronunciation": "EHS-ee EH-hoo koos-TOO-mah ah-kohn-teh-SEHR KWAHN-doo oo sehr-vee-DOHR ky.",
+    "back": "This error usually happens when the server goes down.",
+    "context": "Diagnosing failure loops using the idiomatic verb phrase 'o servidor cai'."
+  },
+  {
+    "id": "br-1089",
+    "front": "Não se esqueça de salvar o projeto antes de fechar.",
+    "pronunciation": "nohng see ehs-KEH-sah jee saw-VAHR oo proo-ZHEH-too AHN-chees jee feh-SHAHR.",
+    "back": "Don't forget to save the project before closing.",
+    "context": "A standard warning loop reminder using negative imperative 'não se esqueça de'."
+  },
+  {
+    "id": "br-1090",
+    "front": "O armazenamento em nuvem ajuda a economizar espaço.",
+    "pronunciation": "oo ahr-mah-zeh-nah-MEHN-too ahyng NOO-vehyng ah-ZHOO-dah ah ee-koh-noo-mee-ZAHR ees-PAH-soo.",
+    "back": "Cloud storage helps save space.",
+    "context": "Describing decentralized architecture using 'armazenamento em nuvem'."
+  },
+  {
+    "id": "br-1091",
+    "front": "Você pode alterar a resolução da tela nas configurações.",
+    "pronunciation": "voh-SEH POH-jee aw-teh-RAHR ah heh-zoo-loo-SOHNG dah TEH-lah nahs kohn-fee-goo-rah-SOHNGS.",
+    "back": "You can change the screen resolution in the settings.",
+    "context": "Guiding a user through display tweaks using 'resolução da tela'."
+  },
+  {
+    "id": "br-1092",
+    "front": "Eu configurei a autenticação em duas etapas por segurança.",
+    "pronunciation": "ew kohn-fee-goo-RAY ah ow-tehny-chee-kah-SOHNG ahyng DOO-ahs eh-TAH-pahs poor seh-goo-RAHN-sah.",
+    "back": "I set up two-factor authentication for security.",
+    "context": "Discussing account protection protocols via 'autenticação em duas etapas'."
+  },
+  {
+    "id": "br-1093",
+    "front": "O mouse com fio é mais confiável para jogos.",
+    "pronunciation": "oo MOW-zee koong FEE-oo eh mays kohn-FY-ah-vew PAH-rah ZHOH-goos.",
+    "back": "The wired mouse is more reliable for gaming.",
+    "context": "Contrasting device wiring links using 'com fio' (wired) as opposed to wireless."
+  },
+  {
+    "id": "br-1094",
+    "front": "Este software consome muitos recursos do sistema.",
+    "pronunciation": "EHS-chee software kohn-SOH-mee MOOI-toos heh-KOOR-soos doo sees-TEH-mah.",
+    "back": "This software consumes a lot of system resources.",
+    "context": "Identifying processing overhead bloat using 'consome recursos'."
+  },
+  {
+    "id": "br-1095",
+    "front": "Minha placa de vídeo antiga não roda esse jogo.",
+    "pronunciation": "MEENG-yah PLAH-kah jee VEE-jee-oo ahn-CHEE-gah nohng HOH-dah EHS-ee ZHOH-goo.",
+    "back": "My old graphics card doesn't run this game.",
+    "context": "Discussing processing bottlenecks via 'placa de vídeo' (GPU/graphics card)."
+  },
+  {
+    "id": "br-1096",
+    "front": "O link de ativação foi enviado para o seu e-mail.",
+    "pronunciation": "oo leeyng-kee jee ah-chee-vah-SOHNG foy eehn-vy-AH-doo PAH-rah oo seu e-mail.",
+    "back": "The activation link was sent to your email.",
+    "context": "Standard account onboarding verification script phrase."
+  },
+  {
+    "id": "br-1097",
+    "front": "A velocidade de upload é importante para fazer streaming.",
+    "pronunciation": "ah veh-loo-see-DAH-jee jee upload eh eeym-pohr-TAHN-chee PAH-rah fah-ZEHR streaming.",
+    "back": "Upload speed is important for streaming.",
+    "context": "Discussing bandwidth profiles using 'velocidade de upload'."
+  },
+  {
+    "id": "br-1098",
+    "front": "Eu prefiro usar um teclado mecânico para digitar.",
+    "pronunciation": "ew preh-FEE-roo oo-ZAHR oong cheh-KLAH-doo meh-KAH-nee-koo PAH-rah jee-zhee-TAHR.",
+    "back": "I prefer to use a mechanical keyboard to type.",
+    "context": "Discussing tactile feedback hardware ergonomics using 'teclado mecânico'."
+  },
+  {
+    "id": "br-1099",
+    "front": "O suporte técnico resolveu o problema em uma hora.",
+    "pronunciation": "oo soo-POHR-chee TEHK-nee-koo heh-zowl-VEW oo proo-BLEH-ma ahyng OO-mah OH-rah.",
+    "back": "Technical support solved the problem in one hour.",
+    "context": "Crediting help desk remediation timelines via 'suporte técnico'."
+  },
+  {
+    "id": "br-1100",
+    "front": "Essa ferramenta ajuda a automatizar tarefas repetitivas.",
+    "pronunciation": "EHS-ah feh-hah-MEHN-tah ah-ZHOO-dah ah ow-too-mah-chee-ZAHR tah-REH-fahs heh-peh-chee-TEE-vahs.",
+    "back": "This tool helps to automate repetitive tasks.",
+    "context": "Stating utility value using 'automatizar tarefas'."
+  },
+  {
+    "id": "br-1101",
+    "front": "É arriscado clicar em links de remetentes desconhecidos.",
+    "pronunciation": "eh ah-ees-KAH-doo klee-KAHR ahyng leeyng-kees jee heh-meh-TEHN-chees dees-koon-ye-SEE-doos.",
+    "back": "It is risky to click on links from unknown senders.",
+    "context": "Phishing or cyber security risk education using 'remetentes desconhecidos'."
+  },
+  {
+    "id": "br-1102",
+    "front": "Você saberia me dizer como limpar o cache do navegador?",
+    "pronunciation": "voh-SEH sah-beh-REE-ah mee jee-ZEHR KOH-moo leeym-PAHR oo cache doo nah-veh-gah-DOHR?",
+    "back": "Would you know how to tell me how to clear the browser cache?",
+    "context": "A conditional-polite troubleshooting query using 'limpar o cache'."
+  },
+  {
+    "id": "br-1103",
+    "front": "O instalador do programa está corrompido.",
+    "pronunciation": "oo eeyns-tah-lah-DOHR doo proo-GRAH-mah ees-TAH koh-hoohm-PEE-doo.",
+    "back": "The program installer is corrupted.",
+    "context": "Reporting a broken file package binary error using 'corrompido'."
+  },
+  {
+    "id": "br-1104",
+    "front": "Meu notebook antigo esquentava demais por falta de limpeza.",
+    "pronunciation": "mew notebook ahn-CHEE-gah ees-keehn-TAH-vah jee-MAYS poor FAWL-tah jee leeym-PEH-zah.",
+    "back": "My old notebook used to overheat too much due to a lack of cleaning.",
+    "context": "Explaining thermal throttling tracking states using the imperfect tense 'esquentava'."
+  },
+  {
+    "id": "br-1105",
+    "front": "A nova atualização corrigiu vários bugs de desempenho.",
+    "pronunciation": "ah NOH-vah ah-too-ah-lee-zah-SOHNG koh-hee-ZHEEW VAH-ryoos bugs jee dehs-eeymp-AY-nyoo.",
+    "back": "The new update fixed several performance bugs.",
+    "context": "Reviewing system patch notes using the past action 'corrigiu' (corrected/fixed)."
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "id": "br-1351",
+    "front": "Eu passei as últimas semanas estudando lógica de programação.",
+    "pronunciation": "ew pah-SAY ahs OOW-chee-mahs seh-MAH-nahs ees-too-DAHN-doo LOH-zhee-kah jee proo-grah-mah-SOHNG.",
+    "back": "I spent the last few weeks studying programming logic.",
+    "context": "Discussing foundational technical milestones using 'lógica de programação'."
+  },
+  {
+    "id": "br-1352",
+    "front": "Eu me inscrevi para a fase intensiva de seleção em setembro.",
+    "pronunciation": "ew mee eeyns-creh-VEE PAH-rah ah FAH-zee eeyng-tehyng-SEE-vah jee seh-leh-SOHNG ahyng seh-TEHMB-roo.",
+    "back": "I registered for the intensive selection phase in September.",
+    "context": "Stating high-stakes academy registration goals using 'fase intensiva de seleção'."
+  },
+  {
+    "id": "br-1353",
+    "front": "O framework Vue.js facilita muito a criação de interfaces dinâmicas.",
+    "pronunciation": "oo framework Vue.js fah-see-LEE-tah MOOI-too ah kry-ah-SOHNG jee eeyng-tehr-FAH-sees jee-NAH-mee-kahs.",
+    "back": "The Vue.js framework greatly facilitates the creation of dynamic interfaces.",
+    "context": "Evaluating component library advantages using 'interfaces dinâmicas'."
+  },
+  {
+    "id": "br-1354",
+    "front": "Como posso centralizar verticalmente uma div usando flexbox?",
+    "pronunciation": "KOH-moo POH-soo seeyng-trah-lee-ZAHR vehr-chee-kaw-MEHN-chee OO-mah div oo-ZAHN-doo flexbox?",
+    "back": "How can I vertically center a div using flexbox?",
+    "context": "Querying structural CSS styling mechanics for layouts."
+  },
+  {
+    "id": "br-1355",
+    "front": "O processo de triagem técnica deles inclui um teste de algoritmo.",
+    "pronunciation": "oo proo-SEHS-oo jee try-AH-zhehyng TEHK-nee-kah DEH-lees een-cloo-EER oong TEHS-chee jee aw-goo-REET-moo.",
+    "back": "Their technical screening process includes an algorithm test.",
+    "context": "Describing engineering screening pipelines using 'triagem técnica'."
+  },
+  {
+    "id": "br-1356",
+    "front": "Eu preciso corrigir a herança desse elemento para alinhar a imagem.",
+    "pronunciation": "ew prah-SEE-zoo coohr-hee-ZHEER ah eh-RAHN-sah DEHS-ee ee-leh-MEHN-too PAH-rah ah-leeny-AHR ah ee-MAH-zhehyng.",
+    "back": "I need to fix the inheritance of this element to align the image.",
+    "context": "Troubleshooting standard frontend styling properties using 'herança' (inheritance)."
+  },
+  {
+    "id": "br-1357",
+    "front": "A linguagem C ajuda a entender como a memória funciona por baixo dos panos.",
+    "pronunciation": "ah leeyng-GWAHzhehyng C ah-ZHOO-dah ah eeyng-tehn-DEHR KOH-moo ah meh-MOH-ryah foon-syo-NAH poor BY-shoo doos PAH-noos.",
+    "back": "The C language helps to understand how memory works behind the scenes.",
+    "context": "Using the popular Brazilian idiom 'por baixo dos panos' to mean behind the scenes or under the hood."
+  },
+  {
+    "id": "br-1358",
+    "front": "Eu passei o dia inteiro tentando resolver um bug no JavaScript.",
+    "pronunciation": "ew pah-SAY oo JEE-ah eeyng-TAY-roo tehn-TAHN-doo heh-zowl-VEHR oong bug noo JavaScript.",
+    "back": "I spent the entire day trying to solve a bug in JavaScript.",
+    "context": "Describing typical software engineering debugging marathons."
+  },
+  {
+    "id": "br-1359",
+    "front": "Essa propriedade CSS faz a imagem voltar a ficar reta e original.",
+    "pronunciation": "EHS-ah proo-pree-eh-DAH-jee CSS faz ah ee-MAH-zhehyng vowl-TAHR ah fee-KAHR HEH-tah ee oo-ree-zhee-NAW.",
+    "back": "This CSS property makes the image go back to being straight and original.",
+    "context": "Explaining visual correction rules after accidental transformations."
+  },
+  {
+    "id": "br-1360",
+    "front": "O escopo das variáveis no JavaScript pode confundir no início.",
+    "pronunciation": "oo ees-KOH-poo dahs vah-ry-AH-vees noo JavaScript POH-jee coohn-foon-DEER noo ee-NEE-syoo.",
+    "back": "The scope of variables in JavaScript can be confusing at the beginning.",
+    "context": "Discussing logical syntax traps using 'escopo das variáveis' (variable scope)."
+  },
+  {
+    "id": "br-1361",
+    "front": "Eu completei todas as tarefas do módulo básico de desenvolvimento web.",
+    "pronunciation": "ew coohm-pleh-TAY TOH-dahs ahs tah-REH-fahs doo MOH-doo-loo BAH-zee-koo jee jeh-zehn-vowl-vee-MEHN-too web.",
+    "back": "I completed all the tasks of the basic web development module.",
+    "context": "Tracking curriculum progression blocks using 'módulo básico'."
+  },
+  {
+    "id": "br-1362",
+    "front": "Como funciona a manipulação do DOM usando JavaScript puro?",
+    "pronunciation": "KOH-moo foon-syo-NAH ah mah-nee-poo-lah-SOHNG doo DOM oo-ZAHN-doo JavaScript POO-roo?",
+    "back": "How does DOM manipulation using vanilla JavaScript work?",
+    "context": "Querying classic browser runtime operations using 'JavaScript puro' (vanilla JS)."
+  },
+  {
+    "id": "br-1363",
+    "front": "O estilo responsivo garante que o site funcione bem no celular.",
+    "pronunciation": "oo ees-CHEE-loo hehs-pohn-SEE-vo gah-RAHN-chee kee oo SIGH-chee foon-SYO-nee bayyng noo seh-loo-LAHR.",
+    "back": "The responsive style ensures that the site works well on the cell phone.",
+    "context": "Stating fluid cross-platform UI goals via 'estilo responsivo'."
+  },
+  {
+    "id": "br-1364",
+    "front": "Eu estou focado em aprender a construir componentes reutilizáveis.",
+    "pronunciation": "ew ees-TOY foo-KAH-do ahyng ah-prehn-DEHR ah coohns-troo-EER coohm-poo-NEHYN-chees heh-oo-chee-lee-ZAH-vees.",
+    "back": "I am focused on learning to build reusable components.",
+    "context": "Discussing modern architectural layout patterns using 'componentes reutilizáveis'."
+  },
+  {
+    "id": "br-1365",
+    "front": "O console mostrou uma mensagem de erro que eu não entendi.",
+    "pronunciation": "oo coohn-SOH-lee mohs-TROY OO-mah meehyn-SAH-zhehyng jee EH-hoo kee ew nohng eeyng-tehn-DEE.",
+    "back": "The console showed an error message that I didn't understand.",
+    "context": "Analyzing compiler or execution diagnostic log flows ('mensagem de erro')."
+  },
+  {
+    "id": "br-1366",
+    "front": "Esse repositório do GitHub contém meus projetos mais recentes.",
+    "pronunciation": "EHS-ee heh-poo-zee-TOH-ryoo doo GitHub coohn-TAYNG meus proo-ZHEH-toos mays heh-SEHYN-chees.",
+    "back": "This GitHub repository contains my most recent projects.",
+    "context": "Showcasing source control asset display hubs using 'repositório'."
+  },
+  {
+    "id": "br-1367",
+    "front": "Eu prefiro usar arrow functions para deixar o código mais limpo.",
+    "pronunciation": "ew preh-FEE-roo oo-ZAHR arrow functions PAH-rah day-SHAHR oo KOH-jee-go mays LEEYM-poo.",
+    "back": "I prefer to use arrow functions to make the code cleaner.",
+    "context": "Stating architectural syntax stylistic preferences."
+  },
+  {
+    "id": "br-1368",
+    "front": "O carregamento assíncrono melhora o desempenho da página.",
+    "pronunciation": "oo cah-heg-ah-MEHN-too ah-SEENG-croo-noo meh-lyo-RAHR oo jeh-zehm-PEHN-yoo dah PAH-zhee-nah.",
+    "back": "Asynchronous loading improves page performance.",
+    "context": "Explaining dynamic network optimization layers using 'carregamento assíncrono'."
+  },
+  {
+    "id": "br-1369",
+    "front": "Eu usei uma tag de mídia específica para inserir o áudio.",
+    "pronunciation": "ew oo-ZAY OO-mah tag jee MEE-dyah ees-peh-SEE-fee-kah PAH-rah een-seh-REER oo OW-zhoo.",
+    "back": "I used a specific media tag to insert the audio.",
+    "context": "Mapping structural HTML wrappers to multimedia asset workflows."
+  },
+  {
+    "id": "br-1370",
+    "front": "A indentação correta torna o código muito mais legível.",
+    "pronunciation": "ah eeynd-dehyng-tah-SOHNG coohr-HEH-tah TOHR-nah oo KOH-jee-go MOOI-too mays leh-ZHEE-vew.",
+    "back": "Correct indentation makes the code much more readable.",
+    "context": "Praising engineering file formatting rules using 'indentação'."
+  },
+  {
+    "id": "br-1371",
+    "front": "Como posso debugar o código direto nas ferramentas do navegador?",
+    "pronunciation": "KOH-moo POH-soo jeh-boo-GAHR oo KOH-jee-go jee-REH-too nahs feh-hah-MEHN-tahs doo nah-veh-gah-DOHR?",
+    "back": "How can I debug the code directly in the browser tools?",
+    "context": "Querying local developer utility workflows via 'ferramentas do navegador' (DevTools)."
+  },
+  {
+    "id": "br-1372",
+    "front": "Eu configurei rotas dinâmicas no meu aplicativo Vue.",
+    "pronunciation": "ew coohn-fee-goo-RAY HOH-tahs jee-NAH-mee-kahs noo mew ah-plee-kah-CHEE-vo Vue.",
+    "back": "I configured dynamic routes in my Vue app.",
+    "context": "Describing single-page application router states using 'rotas dinâmicas'."
+  },
+  {
+    "id": "br-1373",
+    "front": "O interpretador de C apontou um erro de segmentação.",
+    "pronunciation": "oo eeyng-tehr-preh-tah-DOHR jee C ah-pohn-TAY oong EH-hoo jee seyg-meeyng-tah-SOHNG.",
+    "back": "The C interpreter/compiler pointed out a segmentation fault.",
+    "context": "Handling memory pointer exceptions using 'erro de segmentação'."
+  },
+  {
+    "id": "br-1374",
+    "front": "Esta biblioteca externa resolve o problema de renderização de imagens.",
+    "pronunciation": "EHS-tah bee-blee-oo-TEH-kah ehks-TEHR-noo heh-ZOWL-vee oo proo-BLEH-mah jee hehynd-ee-ree-zah-SOHNG jee ee-MAH-zhehyng.",
+    "back": "This external library solves the image rendering problem.",
+    "context": "Overcoming layout validation locks using 'biblioteca externa'."
+  },
+  {
+    "id": "br-1375",
+    "front": "Eu passei a tarde criando folhas de estilo customizadas.",
+    "pronunciation": "ew pah-SAY ah TAHR-jee kry-AHN-doo FOH-lyahs jee ees-CHEE-loo coos-too-mee-ZAH-dahs.",
+    "back": "I spent the afternoon creating customized style sheets.",
+    "context": "Describing layout assembly workflows using 'folhas de estilo' (stylesheets)."
+  },
+  {
+    "id": "br-1376",
+    "front": "O método de array map é ideal para esse tipo de lógica.",
+    "pronunciation": "oo MEH-too-doo jee array map eh ee-de-AW PAH-rah EHS-ee CHEE-pooo jee LOH-zhee-kah.",
+    "back": "The array map method is ideal for this type of logic.",
+    "context": "Explaining data transformation pipelines in JavaScript routines."
+  },
+  {
+    "id": "br-1377",
+    "front": "Eu estou treinando digitação para escrever códigos mais rápido.",
+    "pronunciation": "ew ees-TOY tray-NAHN-doo jee-zhee-tah-SOHNG PAH-rah ees-creh-VEHR KOH-jee-goos mays HAH-pee-doo.",
+    "back": "I am training my typing to write code faster.",
+    "context": "Optimizing micro-productivity mechanical outputs using 'digitação'."
+  },
+  {
+    "id": "br-1378",
+    "front": "A fase de testes práticos exige controle do nervosismo.",
+    "pronunciation": "ah FAH-zee jee TEHS-chees PRAH-chee-koos eh-ZHEE-zhee coohn-TROH-lee doo nehr-voo-ZEES-moo.",
+    "back": "The practical testing phase requires managing nervousness.",
+    "context": "Addressing emotional focus variables during tech screenings."
+  },
+  {
+    "id": "br-1379",
+    "front": "Eu usei variáveis locais para otimizar o uso da memória.",
+    "pronunciation": "ew oo-ZAY vah-ry-AH-vees loo-KAYS PAH-rah oo-chee-mee-ZAHR oo OO-zoo dah meh-MOH-ryah.",
+    "back": "I used local variables to optimize memory usage.",
+    "context": "Stating runtime performance optimizations inside low-level or script structures."
+  },
+  {
+    "id": "br-1380",
+    "front": "Essa tag estrutural do HTML deve conter o conteúdo principal.",
+    "pronunciation": "EHS-ah tag ees-troo-too-RAW doo HTML DEH-vee coohn-TEHR oo coohn-teh-OO-doo preeyng-see-PAW.",
+    "back": "This structural HTML tag must contain the main content.",
+    "context": "Enforcing semantic validation criteria in web layout designs."
+  },
+  {
+    "id": "br-1381",
+    "front": "Como faço para monitorar as requisições de rede da aplicação?",
+    "pronunciation": "KOH-moo FAH-soo PAH-rah moo-nee-too-RAHR ahs heh-kee-zee-SOHNGS jee HEH-jee dah ah-plee-kah-SOHNG?",
+    "back": "How do I track/monitor the network requests of the application?",
+    "context": "Inspecting API data channel payloads via 'requisições de rede'."
+  },
+  {
+    "id": "br-1382",
+    "front": "Eu prefiro resolver algoritmos no papel antes de passar para o computador.",
+    "pronunciation": "ew preh-FEE-roo heh-zowl-VEHR aw-goo-REET-moos noo pah-PEHW AH-chees jee pah-SAHR PAH-rah oo coohm-poo-tah-DOHR.",
+    "back": "I prefer to solve algorithms on paper before moving to the computer.",
+    "context": "Explaining analytical design planning styles using 'resolver algoritmos'."
+  },
+  {
+    "id": "br-1383",
+    "front": "O fechamento correto das chaves evita erros de sintaxe bobos.",
+    "pronunciation": "oo feh-shah-MEHN-too coohr-HEH-tah dahs SHAH-vees ee-VEE-tah EH-hoos jee seeyng-TAHKS-ee BOH-boos.",
+    "back": "The correct closing of braces avoids silly syntax errors.",
+    "context": "Stating logical punctuation consistency rules using 'chaves' (braces/curly brackets)."
+  },
+  {
+    "id": "br-1384",
+    "front": "Eu mudei o seletor CSS para aplicar a cor de fundo certa.",
+    "pronunciation": "ew moo-DAY oo seh-leh-TOHR CSS PAH-rah ah-plee-KAHR ah coohr jee FOON-doo SEHR-tah.",
+    "back": "I changed the CSS selector to apply the right background color.",
+    "context": "Modifying selector scope hierarchies to target visual presentation elements."
+  },
+  {
+    "id": "br-1385",
+    "front": "Estou muito confiante sobre meu desempenho nesse desafio de lógica.",
+    "pronunciation": "ees-TOY MOOI-too coohn-fy-AHN-chee SOH-bree mew jeh-zehm-PEHN-yoo NEHS-ee jeh-zah-FEE-oo jee LOH-zhee-kah.",
+    "back": "I am very confident about my performance in this logic challenge.",
+    "context": "Celebrating successful troubleshooting design tasks. Female speakers use 'confiante'."
+  }
+]

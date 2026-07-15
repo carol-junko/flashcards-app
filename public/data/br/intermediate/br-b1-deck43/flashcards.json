@@ -1,0 +1,247 @@
+[
+  {
+    "id": "br-1421",
+    "front": "Como monitoramos a saúde do sistema em produção?",
+    "pronunciation": "KOH-moo moo-nee-too-RAH-moos ah sah-OO-jee doo sees-TEH-mah ahyng proo-doo-SOHNG?",
+    "back": "How do we monitor the system health in production?",
+    "context": "Querying operational observability workflows using 'saúde do sistema'."
+  },
+  {
+    "id": "br-1422",
+    "front": "Eu estou configurando alertas para picos de latência.",
+    "pronunciation": "ew ees-TOY coohn-fee-goo-RAHN-doo ah-LEHR-tahs PAH-rah PEE-koos jee lah-TEHNG-syah.",
+    "back": "I am configuring alerts for latency spikes.",
+    "context": "Describing proactive monitoring thresholds using 'picos de latência'."
+  },
+  {
+    "id": "br-1423",
+    "front": "O relatório de incidentes está disponível no painel de controle.",
+    "pronunciation": "oo heh-lah-TOO-ryoo jee eeyns-ee-DEHN-chees ees-TAH dees-poo-nee-VEH noo py-NEHW jee coohn-TROH-lee.",
+    "back": "The incident report is available on the dashboard.",
+    "context": "Accessing post-mortem documentation via 'relatório de incidentes'."
+  },
+  {
+    "id": "br-1424",
+    "front": "Precisamos aplicar patches de segurança imediatamente.",
+    "pronunciation": "preh-see-SAH-moos ah-plee-KAHR patches jee seh-goo-RAH-sah ee-meh-jee-ah-tah-MEHN-chee.",
+    "back": "We need to apply security patches immediately.",
+    "context": "Enforcing urgent system hardening protocols."
+  },
+  {
+    "id": "br-1425",
+    "front": "Eu fiz um backup completo dos dados antes da manutenção.",
+    "pronunciation": "ew fees oong backup coohm-PLEH-too dooz DAH-doos AHN-chees dah mah-noo-tehn-SOHNG.",
+    "back": "I made a complete backup of the data before the maintenance.",
+    "context": "Ensuring data integrity during risky system updates."
+  },
+  {
+    "id": "br-1426",
+    "front": "A latência da rede aumentou após o último deploy.",
+    "pronunciation": "ah lah-TEHNG-syah dah HEH-jee ow-mehn-TOY ah-POH-z oo OOW-chee-moo deploy.",
+    "back": "The network latency increased after the last deploy.",
+    "context": "Analyzing deployment-related performance regressions."
+  },
+  {
+    "id": "br-1427",
+    "front": "Como posso verificar o log de acessos do servidor?",
+    "pronunciation": "KOH-moo POH-soo veh-ree-fee-KAHR oo log jee ah-SEH-soos doo sehr-vee-DOHR?",
+    "back": "How can I check the server access log?",
+    "context": "Requesting audit trail visibility for security monitoring."
+  },
+  {
+    "id": "br-1428",
+    "front": "O tráfego de usuários está sobrecarregando o servidor.",
+    "pronunciation": "oo TRAH-feh-goo jee oo-zoo-AH-ryoos ees-TAH SOH-bree-kah-heh-GAHN-doo oo sehr-vee-DOHR.",
+    "back": "User traffic is overloading the server.",
+    "context": "Diagnosing capacity saturation issues via 'tráfego de usuários'."
+  },
+  {
+    "id": "br-1429",
+    "front": "Eu estou documentando os passos para a recuperação do sistema.",
+    "pronunciation": "ew ees-TOY doo-koo-mehn-TAHN-doo ooz PAHS-oos PAH-rah ah heh-koo-peh-rah-SOHNG doo sees-TEH-mah.",
+    "back": "I am documenting the steps for system recovery.",
+    "context": "Drafting disaster recovery playbooks using 'recuperação do sistema'."
+  },
+  {
+    "id": "br-1430",
+    "front": "A integridade dos arquivos foi comprometida durante a transferência.",
+    "pronunciation": "ah eeyng-teh-gree-DAH-jee dooz ahr-KEE-voos foy coohm-proo-meh-chee-DAH doo-RAHN-chee ah trahns-feh-REHN-syah.",
+    "back": "The integrity of the files was compromised during the transfer.",
+    "context": "Reporting corruption issues in asset pipeline workflows."
+  },
+  {
+    "id": "br-1431",
+    "front": "Eu uso ferramentas de monitoramento para ver erros em tempo real.",
+    "pronunciation": "ew OO-zoo feh-hah-MEHN-tahs jee moo-nee-too-rah-MEHN-too PAH-rah vehr EH-hoos ahyng TEHMP-oo heh-AW.",
+    "back": "I use monitoring tools to see errors in real-time.",
+    "context": "Leveraging observability stack tools for 'tempo real' monitoring."
+  },
+  {
+    "id": "br-1432",
+    "front": "O firewall bloqueou uma tentativa suspeita de invasão.",
+    "pronunciation": "oo firewall bloo-keh-OY OO-mah tehn-tah-CHEE-vah soos-PAY-tah jee eeyng-vah-ZOHNG.",
+    "back": "The firewall blocked a suspicious intrusion attempt.",
+    "context": "Reporting on proactive security threat mitigation."
+  },
+  {
+    "id": "br-1433",
+    "front": "Como posso realizar um roll-back para a versão anterior?",
+    "pronunciation": "KOH-moo POH-soo heh-ah-lee-ZAHR oong roll-back PAH-rah ah vehr-SOHNG ahn-teh-ry-OHR?",
+    "back": "How can I perform a roll-back to the previous version?",
+    "context": "Inquiring about stable state restoration workflows."
+  },
+  {
+    "id": "br-1434",
+    "front": "Precisamos agendar uma reunião para revisar os logs de erros.",
+    "pronunciation": "preh-see-SAH-moos ah-zhehn-DAHR OO-mah heh-oo-nee-AOHNG PAH-rah heh-vee-ZAHR ooz logs jee EH-hoos.",
+    "back": "We need to schedule a meeting to review error logs.",
+    "context": "Coordinating team analysis sessions via 'revisar os logs'."
+  },
+  {
+    "id": "br-1435",
+    "front": "A política de senhas foi atualizada para aumentar a segurança.",
+    "pronunciation": "ah poo-LEE-chee-kah jee SEH-nyahs foy ah-too-ah-lee-ZAH-dah PAH-rah ow-mehn-TAHR ah seh-goo-RAH-sah.",
+    "back": "The password policy was updated to increase security.",
+    "context": "Updating access control standards via 'política de senhas'."
+  },
+  {
+    "id": "br-1436",
+    "front": "Eu estou limpando os logs antigos para liberar espaço no disco.",
+    "pronunciation": "ew ees-TOY leeym-PAHN-doo ooz logs ahn-CHEE-goos PAH-rah lee-beh-RAHR ehs-PAH-soo noo DEES-koo.",
+    "back": "I am clearing old logs to free up disk space.",
+    "context": "Performing routine server maintenance using 'liberar espaço'."
+  },
+  {
+    "id": "br-1437",
+    "front": "A aplicação está lenta devido ao alto consumo de memória.",
+    "pronunciation": "ah ah-plee-kah-SOHNG ees-TAH LEHN-tah jee-VEE-doo ow AW-too coohn-SOO-moo jee meh-MOH-ryah.",
+    "back": "The application is slow due to high memory consumption.",
+    "context": "Diagnosing application performance degradation causes."
+  },
+  {
+    "id": "br-1438",
+    "front": "Eu validei a assinatura digital do pacote de instalação.",
+    "pronunciation": "ew vah-lee-DAY ah ah-see-nah-TOO-rah jee-zhee-TAW doo pah-KOH-chee jee eeyns-tah-lah-SOHNG.",
+    "back": "I validated the digital signature of the installation package.",
+    "context": "Ensuring secure supply chain software delivery."
+  },
+  {
+    "id": "br-1439",
+    "front": "O sistema de cache está causando inconsistência nos dados.",
+    "pronunciation": "oo sees-TEH-mah jee cache ees-TAH cow-ZAHN-doo eeyng-coohn-sees-TEH-syah nooz DAH-doos.",
+    "back": "The cache system is causing data inconsistency.",
+    "context": "Troubleshooting state synchronization logic bugs."
+  },
+  {
+    "id": "br-1440",
+    "front": "Como posso otimizar a conexão com o banco de dados?",
+    "pronunciation": "KOH-moo POH-soo oo-chee-mee-ZAHR ah coohn-eh-KWAH-SOHNG coong oo BAHN-koo jee DAH-doos?",
+    "back": "How can I optimize the connection with the database?",
+    "context": "Requesting database access and performance tuning tips."
+  },
+  {
+    "id": "br-1441",
+    "front": "Eu instalei uma ferramenta para rastrear falhas no código.",
+    "pronunciation": "ew eeyns-tah-LAY OO-mah feh-hah-MEHN-tah PAH-rah rahs-treh-AHR FAH-lyahs noo KOH-jee-go.",
+    "back": "I installed a tool to track errors in the code.",
+    "context": "Setting up error tracking and observability stacks."
+  },
+  {
+    "id": "br-1442",
+    "front": "Precisamos restringir o acesso a essa pasta confidencial.",
+    "pronunciation": "preh-see-SAH-moos hehs-treeyng-ZHEER oo ah-SEH-soo ah EHS-ah PAHS-tah coohn-fee-dehyng-SYAW.",
+    "back": "We need to restrict access to this confidential folder.",
+    "context": "Securing sensitive file locations using access control."
+  },
+  {
+    "id": "br-1443",
+    "front": "O tempo de resposta da API melhorou após o ajuste.",
+    "pronunciation": "oo TEHMP-oo jee heh-SPOHS-tah dah API meh-lyo-ROY ah-POH-z oo ah-ZHOOS-chee.",
+    "back": "The API response time improved after the adjustment.",
+    "context": "Confirming performance benchmarks via 'tempo de resposta'."
+  },
+  {
+    "id": "br-1444",
+    "front": "Eu preciso testar a resiliência do sistema com alta carga.",
+    "pronunciation": "ew prah-SEE-zoo tehs-TAHR ah heh-zee-lee-EHN-syah doo sees-TEH-mah coong AW-tah KAHR-gah.",
+    "back": "I need to test the system resilience under high load.",
+    "context": "Performing stress tests via 'alta carga'."
+  },
+  {
+    "id": "br-1445",
+    "front": "O painel de monitoramento mostra uma queda de tráfego.",
+    "pronunciation": "oo py-NEHW jee moo-nee-too-rah-MEHN-too MOHS-trah OO-mah KEH-dah jee TRAH-feh-goo.",
+    "back": "The monitoring dashboard shows a traffic drop.",
+    "context": "Identifying anomaly patterns using the visual dashboard."
+  },
+  {
+    "id": "br-1446",
+    "front": "Eu configurei notificações para erros críticos de sistema.",
+    "pronunciation": "ew coohn-fee-goo-RAY noo-chee-fee-kah-SOHNGS PAH-rah EH-hoos KREE-chee-koos jee sees-TEH-mah.",
+    "back": "I configured notifications for critical system errors.",
+    "context": "Setting up alert routing for high-priority incidents."
+  },
+  {
+    "id": "br-1447",
+    "front": "Como posso garantir que o deploy não quebre nada?",
+    "pronunciation": "KOH-moo POH-soo gah-RAHN-chee kee oo deploy nohng KEH-bree NAH-dah?",
+    "back": "How can I ensure that the deploy doesn't break anything?",
+    "context": "Querying safety protocols to prevent production outages."
+  },
+  {
+    "id": "br-1448",
+    "front": "Eu preciso renovar o certificado de segurança do servidor.",
+    "pronunciation": "ew prah-SEE-zoo heh-noo-VAHR oo sehr-chee-fee-KAH-doo jee seh-goo-RAH-sah doo sehr-vee-DOHR.",
+    "back": "I need to renew the server's security certificate.",
+    "context": "Performing routine security infrastructure management tasks."
+  },
+  {
+    "id": "br-1449",
+    "front": "A migração dos dados foi feita com sucesso total.",
+    "pronunciation": "ah mee-grah-SOHNG dooz DAH-doos foy FAY-tah coong soo-SEHS-oo toh-TAW.",
+    "back": "The data migration was done with total success.",
+    "context": "Confirming completion of critical structural data tasks."
+  },
+  {
+    "id": "br-1450",
+    "front": "O sistema de logs ajuda a auditar quem acessou o arquivo.",
+    "pronunciation": "oo sees-TEH-mah jee logs ah-ZHOO-dah ah ow-jee-TAHR kehyng ah-seh-SOY oo ahr-KEE-vew.",
+    "back": "The log system helps to audit who accessed the file.",
+    "context": "Discussing compliance and security auditing practices."
+  },
+  {
+    "id": "br-1451",
+    "front": "Eu otimizei a indexação do banco de dados para mais velocidade.",
+    "pronunciation": "ew oo-chee-mee-ZAY ah eeyng-deh-kah-SOHNG doo BAHN-koo jee DAH-doos PAH-rah mays veh-loo-see-DAH-jee.",
+    "back": "I optimized the database indexing for more speed.",
+    "context": "Implementing performance gains via database schema tuning."
+  },
+  {
+    "id": "br-1452",
+    "front": "Precisamos de um plano de contingência para falhas de energia.",
+    "pronunciation": "preh-see-SAH-moos jee oong PLAH-noo jee coohn-chee-N-ZHEH-syah PAH-rah FAH-lyahs jee eh-nehr-ZHEE-ah.",
+    "back": "We need a contingency plan for power failures.",
+    "context": "Developing business continuity planning (BCP) structures."
+  },
+  {
+    "id": "br-1453",
+    "front": "O desenvolvedor corrigiu o bug de segurança na última versão.",
+    "pronunciation": "oo jeh-zehn-vowl-vee-DOHR coohr-hee-ZHEEW oo bug jee seh-goo-RAH-sah nah OOW-chee-mah vehr-SOHNG.",
+    "back": "The developer fixed the security bug in the latest version.",
+    "context": "Tracking patch release outcomes via 'desenvolvedor'."
+  },
+  {
+    "id": "br-1454",
+    "front": "Eu prefiro usar automação para verificar a qualidade do código.",
+    "pronunciation": "ew preh-FEE-roo oo-ZAHR ow-too-mah-SOHNG PAH-rah veh-ree-fee-KAHR ah kwah-lee-DAH-jee doo KOH-jee-go.",
+    "back": "I prefer to use automation to verify code quality.",
+    "context": "Adopting CI/CD automated quality gates."
+  },
+  {
+    "id": "br-1455",
+    "front": "Estamos prontos para subir o patch de segurança para produção.",
+    "pronunciation": "ees-TAH-moos PROHN-toos PAH-rah soo-BEE oo patch jee seh-goo-RAH-sah PAH-rah proo-doo-SOHNG.",
+    "back": "We are ready to push the security patch to production.",
+    "context": "Declaring final readiness for critical hotfix deployment."
+  }
+]

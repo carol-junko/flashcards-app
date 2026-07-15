@@ -1,0 +1,247 @@
+[
+  {
+    "id": "br-461",
+    "front": "Qual é o seu trabalho?",
+    "pronunciation": "kwaw eh oo sew trah-BAH-lyoo?",
+    "back": "What is your job?",
+    "context": "A standard, friendly question used to ask someone about their profession or line of work."
+  },
+  {
+    "id": "br-462",
+    "front": "Eu trabalho em um escritório.",
+    "pronunciation": "ew trah-BAH-lyoo ayng oong ees-kree-TOH-ryoo.",
+    "back": "I work in an office.",
+    "context": "A common phrase used to describe a standard corporate or administrative work environment."
+  },
+  {
+    "id": "br-463",
+    "front": "O chefe / A chefa",
+    "pronunciation": "oo SHEH-fee / ah SHEH-fah",
+    "back": "The boss / manager",
+    "context": "Terms used for a supervisor. 'Chefe' is masculine, and 'Chefa' is common in casual feminine contexts."
+  },
+  {
+    "id": "br-464",
+    "front": "Meus colegas de trabalho",
+    "pronunciation": "ME-oos koh-LEH-gahs jee trah-BAH-lyoo",
+    "back": "My co-workers / colleagues",
+    "context": "Refers to the people you share an office space or professional team duties with."
+  },
+  {
+    "id": "br-465",
+    "front": "A reunião começa às nove.",
+    "pronunciation": "ah heh-oo-NYOHNG koh-MEH-sah ahs NOH-vee.",
+    "back": "The meeting starts at nine.",
+    "context": "A routine schedule reminder regarding a corporate presentation or team sync."
+  },
+  {
+    "id": "br-466",
+    "front": "Enviar um e-mail importante",
+    "pronunciation": "ehn-vee-AHR oong ee-MAY-oo eem-pohr-TAHN-chee",
+    "back": "To send an important email",
+    "context": "A primary professional communication action executed daily on a computer."
+  },
+  {
+    "id": "br-467",
+    "front": "O computador da empresa",
+    "pronunciation": "oo kohm-poo-tah-DOHR dah ehm-PREH-zah",
+    "back": "The company computer / laptop",
+    "context": "Refers to the hardware equipment assigned to you by your employer for work purposes."
+  },
+  {
+    "id": "br-468",
+    "front": "Preciso terminar este relatório.",
+    "pronunciation": "pree-SEE-zoo tehr-mee-NAHR EHS-chee heh-lah-TOH-ryoo.",
+    "back": "I need to finish this report.",
+    "context": "An expression used when focusing heavily on paperwork or documenting data before a deadline."
+  },
+  {
+    "id": "br-469",
+    "front": "Trabalhar em casa",
+    "pronunciation": "trah-bah-LYAHR ayng KAH-zah",
+    "back": "To work from home / remote work",
+    "context": "The modern practice of carrying out professional duties from your personal residence."
+  },
+  {
+    "id": "br-470",
+    "front": "O horário de almoço",
+    "pronunciation": "oo oh-RAH-ryoo jee aw-MOH-soo",
+    "back": "The lunch break hours",
+    "context": "The designated personal rest hour during the official shift to eat and step away from tasks."
+  },
+  {
+    "id": "br-471",
+    "front": "Estou muito ocupado agora.",
+    "pronunciation": "ehs-TOW MOOI-too oh-koo-PAH-doo ah-GOH-rah.",
+    "back": "I am very busy right now.",
+    "context": "Used by a male speaker to politely defer non-urgent interactions. Female speakers say 'ocupada'."
+  },
+  {
+    "id": "br-472",
+    "front": "O crachá",
+    "pronunciation": "oo krah-SHAH",
+    "back": "The ID badge / security pass",
+    "context": "The plastic identification card worn to pass through security gates at corporate offices."
+  },
+  {
+    "id": "br-473",
+    "front": "Assinar o contrato",
+    "pronunciation": "ah-see-NAHR oo kohn-TRAH-too",
+    "back": "To sign the contract",
+    "context": "The final formal step of officially finalizing a job offer, partnership, or deal."
+  },
+  {
+    "id": "br-474",
+    "front": "O salário",
+    "pronunciation": "oo sah-LAH-ryoo",
+    "back": "The salary / wages",
+    "context": "The baseline monthly monetary compensation received by an employee for their labor."
+  },
+  {
+    "id": "br-475",
+    "front": "O dia de pagamento",
+    "pronunciation": "oo JEE-ah jee pah-gah-MEHN-too",
+    "back": "The payday",
+    "context": "The highly anticipated calendar date when monthly wages hit your bank account."
+  },
+  {
+    "id": "br-476",
+    "front": "Fazer hora extra",
+    "pronunciation": "fah-ZEHR OH-rah EHKS-trah",
+    "back": "To work overtime",
+    "context": "Staying late at the workplace beyond your standard scheduled hours to log additional shifts."
+  },
+  {
+    "id": "br-477",
+    "front": "Uma entrevista de emprego",
+    "pronunciation": "OO-mah ehn-treh-VEES-tah jee ehm-PREH-goo",
+    "back": "A job interview",
+    "context": "The screening meeting evaluation phase with human resources to secure a career vacancy."
+  },
+  {
+    "id": "br-478",
+    "front": "O currículo",
+    "pronunciation": "oo koo-HEE-koo-loo",
+    "back": "The resume / CV",
+    "context": "The summary document highlighting your professional history and credentials during hiring."
+  },
+  {
+    "id": "br-479",
+    "front": "A assinatura digital",
+    "pronunciation": "ah ah-see-nah-TOO-rah jee-zhee-TAW",
+    "back": "The digital signature",
+    "context": "An electronic verification method used to sign official corporate paperwork instantly."
+  },
+  {
+    "id": "br-480",
+    "front": "Bater o ponto",
+    "pronunciation": "bah-TEHR oo POHN-too",
+    "back": "To clock in / clock out",
+    "context": "The specific task of logging your exact entry and exit work times on a company timecard device."
+  },
+  {
+    "id": "br-481",
+    "front": "Uma planilha de dados",
+    "pronunciation": "OO-mah plah-NEEL-yah jee DAH-doos",
+    "back": "A data spreadsheet",
+    "context": "Refers to digital table tools like Excel files used extensively to balance metrics or figures."
+  },
+  {
+    "id": "br-482",
+    "front": "A sala de reuniões",
+    "pronunciation": "ah SAH-lah jee heh-oo-NYOHNS",
+    "back": "The conference room / meeting room",
+    "context": "The designated corporate chamber where executive teams deliberate on projects together."
+  },
+  {
+    "id": "br-483",
+    "front": "O projeto novo",
+    "pronunciation": "oo proo-ZHEH-too NOH-voo",
+    "back": "The new project",
+    "context": "Refers to a freshly launched corporate initiative or fresh campaign assignment assignment."
+  },
+  {
+    "id": "br-484",
+    "front": "O cliente satisfeito",
+    "pronunciation": "oo klee-EHN-chee sah-tees-FAY-too",
+    "back": "The satisfied client / customer",
+    "context": "Refers to a buyer or client who is highly pleased with your business outcomes or services."
+  },
+  {
+    "id": "br-485",
+    "front": "Ligar para o suporte técnico",
+    "pronunciation": "lee-GAHR PAH-rah oo soo-POR-chee TEHK-nee-koo",
+    "back": "To call IT support / technical help",
+    "context": "Action step taken when office software, internet routing, or computers break down."
+  },
+  {
+    "id": "br-486",
+    "front": "Uma promoção de cargo",
+    "pronunciation": "OO-mah proo-moh-SOHNG jee KAHR-goo",
+    "back": "A job promotion",
+    "context": "Advancing upward into a higher tier position with increased career responsibility and income."
+  },
+  {
+    "id": "br-487",
+    "front": "O cartão de visitas",
+    "pronunciation": "oo kahr-TOHNG jee vee-ZEE-tahs",
+    "back": "The business card",
+    "context": "A small printed card displaying your company title, contact email, and mobile info."
+  },
+  {
+    "id": "br-488",
+    "front": "A recepção",
+    "pronunciation": "ah heh-sehp-SOHNG",
+    "back": "The reception / front desk area",
+    "context": "The welcoming entryway zone where corporate guests report upon entering a building structure."
+  },
+  {
+    "id": "br-489",
+    "front": "O prazo de entrega",
+    "pronunciation": "oo PRAH-zoo jee ehn-TREH-gah",
+    "back": "The deadline",
+    "context": "The exact final calendar date or hour target on which a task must be fully handed in."
+  },
+  {
+    "id": "br-490",
+    "front": "Organizar os arquivos",
+    "pronunciation": "ohr-gah-nee-ZAHR oos ahr-KEE-voos",
+    "back": "To organize the files",
+    "context": "Sorting through documents, storage setups, or folders to keep things clean and functional."
+  },
+  {
+    "id": "br-491",
+    "front": "O feedback positivo",
+    "pronunciation": "oo feed-BEH-kee poo-zee-CHEE-voo",
+    "back": "The positive feedback",
+    "context": "Encouraging, helpful evaluations received from peers or management on excellent work."
+  },
+  {
+    "id": "br-492",
+    "front": "Trabalho em equipe",
+    "pronunciation": "trah-BAH-lyoo ayng ee-KEE-pee",
+    "back": "Teamwork",
+    "context": "Collaborative efforts between multiple professionals working to execute a goal smoothly."
+  },
+  {
+    "id": "br-493",
+    "front": "Aposentar-se",
+    "pronunciation": "ah-poh-zehn-TAHR-see",
+    "back": "To retire",
+    "context": "Concluding your professional working life for good after long years of lifelong career dedication."
+  },
+  {
+    "id": "br-494",
+    "front": "Bom fim de semana!",
+    "pronunciation": "bohng feeng jee seh-MAH-nah!",
+    "back": "Have a good weekend!",
+    "context": "A classic, encouraging sign-off phrase used with team colleagues as Friday shifts conclude."
+  },
+  {
+    "id": "br-495",
+    "front": "Bom trabalho a todos!",
+    "pronunciation": "bohng trah-BAH-lyoo ah TOH-doos!",
+    "back": "Good work, everyone!",
+    "context": "A supportive phrase used by a lead or peer to praise and motivate the entire department group."
+  }
+]

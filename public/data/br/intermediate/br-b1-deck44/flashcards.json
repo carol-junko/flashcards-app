@@ -1,0 +1,247 @@
+[
+  {
+    "id": "br-1456",
+    "front": "Eu estou me preparando para a entrevista técnica de desenvolvedor.",
+    "pronunciation": "ew ees-TOY mee preh-pah-RAHN-doo PAH-rah ah eeyn-treh-vee-tah TEHK-nee-kah jee jeh-zehn-vowl-vee-DOHR.",
+    "back": "I am preparing for the technical developer interview.",
+    "context": "Stating career advancement objectives using 'entrevista técnica'."
+  },
+  {
+    "id": "br-1457",
+    "front": "O desafio de lógica exige uma abordagem passo a passo.",
+    "pronunciation": "oo jeh-zah-FEE-oo jee LOH-zhee-kah eh-ZHEE-zhee OO-mah ah-boohr-DAH-zhehyng PAHS-oo ah PAHS-oo.",
+    "back": "The logic challenge requires a step-by-step approach.",
+    "context": "Strategizing problem-solving methodologies for assessments."
+  },
+  {
+    "id": "br-1458",
+    "front": "Como posso explicar a complexidade do algoritmo em termos simples?",
+    "pronunciation": "KOH-moo POH-soo ees-plee-KAHR ah coohm-pleh-kee-DAH-jee doo aw-goo-REET-moo ahyng TEHR-moos SEEYM-plees?",
+    "back": "How can I explain the algorithm's complexity in simple terms?",
+    "context": "Querying communication strategies for explaining Big O notation."
+  },
+  {
+    "id": "br-1459",
+    "front": "Eu resolvi o problema usando recursividade, o que otimizou o código.",
+    "pronunciation": "ew heh-zowl-VEE oo proo-BLEH-mah oo-ZAHN-doo heh-coohr-see-vee-DAH-jee, oo kee oo-chee-mee-ZOY oo KOH-jee-go.",
+    "back": "I solved the problem using recursion, which optimized the code.",
+    "context": "Discussing advanced algorithmic design choices using 'recursividade'."
+  },
+  {
+    "id": "br-1460",
+    "front": "A empresa avalia não apenas o código, mas também o raciocínio.",
+    "pronunciation": "ah eeym-PREH-zah ah-vah-LEE-ah nohng ah-PEH-nahs oo KOH-jee-go, mahs tahm-BEHNG oo hah-syoo-SEE-nyoo.",
+    "back": "The company evaluates not just the code, but also the reasoning.",
+    "context": "Highlighting soft skills and mental process visibility in interviews."
+  },
+  {
+    "id": "br-1461",
+    "front": "Eu preciso melhorar minha velocidade de digitação de código.",
+    "pronunciation": "ew prah-SEE-zoo meh-lyo-RAHR MEENG-yah veh-loo-see-DAH-jee jee jee-zhee-tah-SOHNG jee KOH-jee-go.",
+    "back": "I need to improve my code typing speed.",
+    "context": "Optimizing micro-productivity assets for timed technical tasks."
+  },
+  {
+    "id": "br-1462",
+    "front": "Como posso lidar com o nervosismo durante um teste ao vivo?",
+    "pronunciation": "KOH-moo POH-soo lee-DAHR coong oo nehr-voo-ZEES-moo doo-RAHN-chee oong TEHS-chee ow VEE-voo?",
+    "back": "How can I deal with nervousness during a live test?",
+    "context": "Managing performance anxiety in front of interviewers."
+  },
+  {
+    "id": "br-1463",
+    "front": "Eu fiz uma revisão completa da documentação do framework.",
+    "pronunciation": "ew fees OO-mah heh-vee-ZOHNG coohm-PLEH-tah dah doo-koo-mehn-tah-SOHNG doo framework.",
+    "back": "I did a complete review of the framework documentation.",
+    "context": "Preparing technical mastery via systematic knowledge auditing."
+  },
+  {
+    "id": "br-1464",
+    "front": "Qual é a melhor prática para estruturar projetos grandes?",
+    "pronunciation": "kwaw eh ah meh-LYOHR PRAH-chee-kah PAH-rah ees-troo-too-RAHR proo-ZHEH-toos GRAHN-jees?",
+    "back": "What is the best practice for structuring large projects?",
+    "context": "Inquiring about software architecture best practices."
+  },
+  {
+    "id": "br-1465",
+    "front": "Eu utilizo o Debugger para rastrear onde o erro ocorre.",
+    "pronunciation": "ew oo-tee-LEE-zoo oo Debugger PAH-rah rahs-treh-AHR OHN-jee oo EH-hoo oo-COH-hee.",
+    "back": "I use the Debugger to track where the error occurs.",
+    "context": "Stating standard diagnostic tool usage for code fixing."
+  },
+  {
+    "id": "br-1466",
+    "front": "A técnica de 'pair programming' ajuda muito na colaboração.",
+    "pronunciation": "ah TEHK-nee-kah jee 'pair programming' ah-ZHOO-dah MOOI-too nah coo-lah-boohr-ah-SOHNG.",
+    "back": "The 'pair programming' technique helps a lot with collaboration.",
+    "context": "Discussing team-based development workflow patterns."
+  },
+  {
+    "id": "br-1467",
+    "front": "Eu estou praticando algoritmos em um site de desafios técnicos.",
+    "pronunciation": "ew ees-TOY prah-chee-KAHN-doo aw-goo-REET-moos ahyng oong SIGH-chee jee jeh-zah-FEE-oos TEHK-nee-koos.",
+    "back": "I am practicing algorithms on a technical challenge site.",
+    "context": "Describing active skill-building platforms using 'desafios técnicos'."
+  },
+  {
+    "id": "br-1468",
+    "front": "Como posso justificar minhas escolhas de design no sistema?",
+    "pronunciation": "KOH-moo POH-soo zhoos-chee-fee-KAHR MEENG-yahs ees-KOH-lyahs jee design noo sees-TEH-mah?",
+    "back": "How can I justify my design choices in the system?",
+    "context": "Preparing to articulate engineering trade-offs during interview debriefs."
+  },
+  {
+    "id": "br-1469",
+    "front": "Eu aprendi a identificar gargalos de performance no banco.",
+    "pronunciation": "ew ah-prehn-JEE ah ee-jehn-chee-fee-KAHR gahr-gah-loos jee pehr-fohr-MAHN-see noo BAHN-koo.",
+    "back": "I learned to identify performance bottlenecks in the database.",
+    "context": "Highlighting backend optimization experience via 'gargalos'."
+  },
+  {
+    "id": "br-1470",
+    "front": "A comunicação clara é tão importante quanto o código escrito.",
+    "pronunciation": "ah coo-moo-nee-kah-SOHNG CLAH-rah eh tohng eem-pohr-TAHN-chee KWAHN-too oo KOH-jee-go ees-CREE-too.",
+    "back": "Clear communication is as important as the written code.",
+    "context": "Valuing soft skills in engineering roles."
+  },
+  {
+    "id": "br-1471",
+    "front": "Eu preciso me preparar para perguntas sobre minha trajetória.",
+    "pronunciation": "ew prah-SEE-zoo mee preh-pah-RAHR PAH-rah pehr-GOON-tahs SOH-bree MEENG-yah trah-zheh-TOH-ryah.",
+    "back": "I need to prepare for questions about my career trajectory.",
+    "context": "Structuring professional background storytelling for interviews."
+  },
+  {
+    "id": "br-1472",
+    "front": "Qual é a sua estratégia para resolver problemas difíceis?",
+    "pronunciation": "kwaw eh ah SOO-ah ees-trah-TEH-zhee-ah PAH-rah heh-zowl-VEHR proo-BLEH-mahs jee-FEE-sees?",
+    "back": "What is your strategy for solving difficult problems?",
+    "context": "Simulating common open-ended technical behavioral interview questions."
+  },
+  {
+    "id": "br-1473",
+    "front": "Eu usei o conceito de modularização para organizar o código.",
+    "pronunciation": "ew oo-ZAY oo coohn-SEH-too jee moo-doo-lah-ree-zah-SOHNG PAH-rah oohr-gah-nee-ZAHR oo KOH-jee-go.",
+    "back": "I used the concept of modularization to organize the code.",
+    "context": "Defining architecture principles to interviewers."
+  },
+  {
+    "id": "br-1474",
+    "front": "A entrevista teve foco em testes unitários e qualidade.",
+    "pronunciation": "ah eeyn-treh-vee-tah TEH-vee FOH-koo ahyng TEHS-chees oo-nee-TAH-ryoos ee kwah-lee-DAH-jee.",
+    "back": "The interview had a focus on unit tests and quality.",
+    "context": "Reporting assessment topic areas via 'testes unitários'."
+  },
+  {
+    "id": "br-1475",
+    "front": "Como posso demonstrar meu interesse pela empresa?",
+    "pronunciation": "KOH-moo POH-soo jeh-moohn-STRAHR mew eeyng-teh-REH-see PEH-lah eeym-PREH-zah?",
+    "back": "How can I demonstrate my interest in the company?",
+    "context": "Querying interview success strategies regarding company research."
+  },
+  {
+    "id": "br-1476",
+    "front": "Eu estudei os padrões de projeto mais comuns em front-end.",
+    "pronunciation": "ew ees-too-DAY ooz pah-DROHNGS jee proo-ZHEH-too mays coo-MOOHNS ahyng front-end.",
+    "back": "I studied the most common design patterns in front-end.",
+    "context": "Preparing for engineering best practice questions."
+  },
+  {
+    "id": "br-1477",
+    "front": "O feedback da entrevista foi construtivo para meu aprendizado.",
+    "pronunciation": "oo feedback dah eeyn-treh-vee-tah foy coohn-stroo-TEE-voo PAH-rah mew ah-prehn-jee-ZAH-doo.",
+    "back": "The interview feedback was constructive for my learning.",
+    "context": "Reframing interview rejection or outcomes via 'feedback'."
+  },
+  {
+    "id": "br-1478",
+    "front": "Eu fiz um protótipo rápido para validar minha ideia.",
+    "pronunciation": "ew fees oong proo-TOH-chee-poo HAH-pee-doo PAH-rah vah-lee-DAHR MEENG-yah ee-DEH-yah.",
+    "back": "I made a quick prototype to validate my idea.",
+    "context": "Describing agile design/build habits for 'protótipo'."
+  },
+  {
+    "id": "br-1479",
+    "front": "Como posso mostrar minha experiência de forma concisa?",
+    "pronunciation": "KOH-moo POH-soo MOHS-trahr MEENG-yah eyks-peh-ree-EHN-syah jee FOHR-mah coohn-SEE-zah?",
+    "back": "How can I show my experience in a concise way?",
+    "context": "Querying resume and summary pitch refinement."
+  },
+  {
+    "id": "br-1480",
+    "front": "Eu me sinto preparado para qualquer desafio de lógica.",
+    "pronunciation": "ew mee SEHYN-too preh-pah-RAH-doo PAH-rah KWAW-kehr jeh-zah-FEE-oo jee LOH-zhee-kah.",
+    "back": "I feel prepared for any logic challenge.",
+    "context": "Affirming readiness for technical screening. Female speakers use 'preparada'."
+  },
+  {
+    "id": "br-1481",
+    "front": "A análise crítica do código é vital para evitar bugs.",
+    "pronunciation": "ah ah-NAH-lee-zee KREE-chee-kah doo KOH-jee-go eh vee-TAW PAH-rah ee-vee-TAHR bugs.",
+    "back": "Critical code analysis is vital to avoid bugs.",
+    "context": "Defining essential quality control workflows."
+  },
+  {
+    "id": "br-1482",
+    "front": "Eu expliquei como otimizei o fluxo de dados do sistema.",
+    "pronunciation": "ew ees-plee-KAY KOH-moo oo-chee-mee-ZAY oo FLOO-koo jee DAH-doos doo sees-TEH-mah.",
+    "back": "I explained how I optimized the system data flow.",
+    "context": "Recounting high-value interview responses."
+  },
+  {
+    "id": "br-1483",
+    "front": "A cultura da empresa valoriza a aprendizagem contínua.",
+    "pronunciation": "ah coow-TOO-rah dah eeym-PREH-zah vah-loo-REE-zah ah ah-prehn-jee-ZAH-zhehyng coohn-TEE-noo-ah.",
+    "back": "The company culture values continuous learning.",
+    "context": "Articulating company cultural alignment fit."
+  },
+  {
+    "id": "br-1484",
+    "front": "Eu usei testes unitários para garantir a estabilidade do código.",
+    "pronunciation": "ew oo-ZAY TEHS-chees oo-nee-TAH-ryoos PAH-rah gah-RAHN-chee ah ees-tah-bee-lee-DAH-jee doo KOH-jee-go.",
+    "back": "I used unit tests to ensure code stability.",
+    "context": "Demonstrating engineering maturity and quality assurance habits."
+  },
+  {
+    "id": "br-1485",
+    "front": "Como posso me destacar em um processo seletivo concorrido?",
+    "pronunciation": "KOH-moo POH-soo mee dees-tah-KAHR ahyng oong proo-SEHS-oo seh-leh-CHEE-voo coohn-coohr-HEE-doo?",
+    "back": "How can I stand out in a competitive selection process?",
+    "context": "Inquiring about competitive candidate differentiation."
+  },
+  {
+    "id": "br-1486",
+    "front": "Eu apresentei um projeto pessoal que mostra meu nível técnico.",
+    "pronunciation": "ew ah-preh-zehn-TAY oong proo-ZHEH-too peh-soo-AW kee MOHS-trah mew NEE-vew TEHK-nee-koo.",
+    "back": "I presented a personal project that shows my technical level.",
+    "context": "Using project portfolios for candidate validation."
+  },
+  {
+    "id": "br-1487",
+    "front": "O entrevistador perguntou sobre como resolvo conflitos de equipe.",
+    "pronunciation": "oo eeyn-treh-vee-tah-DOHR pehr-goohn-TOY SOH-bree KOH-moo heh-zowl-VOO coohn-FREE-toos jee ee-KEE-phee.",
+    "back": "The interviewer asked about how I resolve team conflicts.",
+    "context": "Preparing for behavioral soft skill assessment questions."
+  },
+  {
+    "id": "br-1488",
+    "front": "Eu estou confiante com minhas habilidades de resolução de problemas.",
+    "pronunciation": "ew ees-TOY coohn-fy-AHN-chee coong MEENG-yahs ah-bee-lee-DAH-jees jee heh-zoo-loo-SOHNG jee proo-BLEH-mahs.",
+    "back": "I am confident with my problem-solving skills.",
+    "context": "Affirming professional confidence in technical reasoning."
+  },
+  {
+    "id": "br-1489",
+    "front": "A dedicação aos estudos me deu uma base sólida em tecnologia.",
+    "pronunciation": "ah deh-jee-kah-SOHNG owz ees-TOO-doos mee dew OO-mah BAH-zee SOH-lee-dah ahyng tehk-noo-loo-ZHEE-ah.",
+    "back": "Dedication to studies gave me a solid base in technology.",
+    "context": "Synthesizing career preparation efforts for interview narratives."
+  },
+  {
+    "id": "br-1490",
+    "front": "Estou animado com as oportunidades de crescimento profissional.",
+    "pronunciation": "ees-TOY ah-nee-MAH-doo coong ahs oo-pohr-too-nee-DAH-jees jee creh-see-MEHN-too proo-fee-syo-NAW.",
+    "back": "I am excited about the opportunities for professional growth.",
+    "context": "Expressing intrinsic career motivation. Female speakers use 'animada'."
+  }
+]

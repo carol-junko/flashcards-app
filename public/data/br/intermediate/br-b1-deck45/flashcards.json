@@ -1,0 +1,247 @@
+[
+  {
+    "id": "br-1491",
+    "front": "Como você desenharia um sistema escalável de chat em tempo real?",
+    "pronunciation": "KOH-moo VOH-see deh-zeh-NYAHR-ee-ah oong sees-TEH-mah ehs-kah-LAH-vew jee chat ahyng TEHMP-oo heh-AW?",
+    "back": "How would you design a scalable real-time chat system?",
+    "context": "Simulating high-level system design interview questions."
+  },
+  {
+    "id": "br-1492",
+    "front": "Eu preciso explicar as vantagens de uma arquitetura de microsserviços.",
+    "pronunciation": "ew prah-SEE-zoo ees-plee-KAHR ahs vahn-TAH-zhehs jee OO-mah ahr-kee-teh-TOO-rah jee mee-kroo-sehr-VEE-soos.",
+    "back": "I need to explain the advantages of a microservices architecture.",
+    "context": "Preparing to articulate distributed systems design trade-offs."
+  },
+  {
+    "id": "br-1493",
+    "front": "Qual é a diferença entre um banco de dados SQL e NoSQL?",
+    "pronunciation": "kwaw eh ah jee-feh-REHN-sah EHN-treh oong BAHN-koo jee DAH-doos SQL ee NoSQL?",
+    "back": "What is the difference between a SQL and NoSQL database?",
+    "context": "Addressing fundamental data storage architecture inquiries."
+  },
+  {
+    "id": "br-1494",
+    "front": "A latência de rede pode ser um gargalo em sistemas distribuídos.",
+    "pronunciation": "ah lah-TEHNG-syah jee HEH-jee POH-jee sayr oong gahr-GAH-loo ahyng sees-TEH-mahs dees-tree-BOO-EE-doos.",
+    "back": "Network latency can be a bottleneck in distributed systems.",
+    "context": "Identifying performance constraints in complex system design."
+  },
+  {
+    "id": "br-1495",
+    "front": "Como garantir a consistência dos dados em um sistema distribuído?",
+    "pronunciation": "KOH-moo gah-RAHN-chee ah coohn-sees-TEH-syah dooz DAH-doos ahyng oong sees-TEH-mah dees-tree-BOO-EE-doo?",
+    "back": "How to ensure data consistency in a distributed system?",
+    "context": "Discussing CAP theorem implications and transactional integrity."
+  },
+  {
+    "id": "br-1496",
+    "front": "Eu usei um balanceador de carga para distribuir o tráfego.",
+    "pronunciation": "ew oo-ZAY oong bah-lahn-seh-ah-DOHR jee KAHR-gah PAH-rah dees-tree-BOO-EE oo TRAH-feh-goo.",
+    "back": "I used a load balancer to distribute traffic.",
+    "context": "Stating architectural scaling tools using 'balanceador de carga'."
+  },
+  {
+    "id": "br-1497",
+    "front": "O cache é essencial para reduzir a carga no banco de dados.",
+    "pronunciation": "oo cache eh ees-sehn-SYAW PAH-rah heh-doo-ZEER ah KAHR-gah noo BAHN-koo jee DAH-doos.",
+    "back": "Cache is essential to reduce the load on the database.",
+    "context": "Optimizing read-heavy systems through caching layers."
+  },
+  {
+    "id": "br-1498",
+    "front": "Eu prefiro filas de mensagens para processamento assíncrono.",
+    "pronunciation": "ew preh-FEE-roo FEE-lahs jee meehyn-SAH-zhehs PAH-rah proo-seh-sah-MEHN-too ah-SEENG-croo-noo.",
+    "back": "I prefer message queues for asynchronous processing.",
+    "context": "Architecting decoupled, event-driven communication flows."
+  },
+  {
+    "id": "br-1499",
+    "front": "A escalabilidade horizontal é preferível a longo prazo.",
+    "pronunciation": "ah ehs-kah-lah-bee-lee-DAH-jee oohr-ee-ZOOHN-tah-oo eh preh-feh-REE-vew ah LOONG-goo PRAH-zoo.",
+    "back": "Horizontal scalability is preferable in the long term.",
+    "context": "Comparing vertical vs. horizontal scaling strategy benefits."
+  },
+  {
+    "id": "br-1500",
+    "front": "Como lidar com a falha de um serviço em um ambiente crítico?",
+    "pronunciation": "KOH-moo lee-DAHR coong ah FAH-lyah jee oong sehr-VEE-soo ahyng oong ahym-by-EHN-chee KREE-chee-koo?",
+    "back": "How to deal with a service failure in a critical environment?",
+    "context": "Designing for fault tolerance and high availability."
+  },
+  {
+    "id": "br-1501",
+    "front": "Eu explicaria os trade-offs entre consistência e disponibilidade.",
+    "pronunciation": "ew ees-plee-kah-REE-ah ooz trade-offs EHN-treh coohn-sees-TEH-syah ee dees-poo-nee-bee-lee-DAH-jee.",
+    "back": "I would explain the trade-offs between consistency and availability.",
+    "context": "Articulating complex theoretical system design choices."
+  },
+  {
+    "id": "br-1502",
+    "front": "O uso de shards no banco de dados ajuda na escalabilidade.",
+    "pronunciation": "oo OO-zoo jee shards noo BAHN-koo jee DAH-doos ah-ZHOO-dah nah ehs-kah-lah-bee-lee-DAH-jee.",
+    "back": "The use of database shards helps with scalability.",
+    "context": "Discussing advanced data sharding techniques."
+  },
+  {
+    "id": "br-1503",
+    "front": "Eu considero a segurança como parte fundamental do design.",
+    "pronunciation": "ew coohn-see-DEH-roo ah seh-goo-RAH-sah KOH-moo PAHR-chee foo-ndah-MEHN-tah-oo doo design.",
+    "back": "I consider security as a fundamental part of the design.",
+    "context": "Advocating for 'security by design' principles."
+  },
+  {
+    "id": "br-1504",
+    "front": "A estratégia de replicação evita a perda de dados importantes.",
+    "pronunciation": "ah ees-trah-TEH-zhee-ah jee heh-plee-kah-SOHNG ee-VEE-tah ah PEHR-dah jee DAH-doos eem-pohr-TAHN-chees.",
+    "back": "The replication strategy prevents the loss of important data.",
+    "context": "Implementing redundancy protocols for data durability."
+  },
+  {
+    "id": "br-1505",
+    "front": "Como você monitoraria a performance de um sistema em nuvem?",
+    "pronunciation": "KOH-moo VOH-see moo-nee-too-rah-REE-ah ah pehr-fohr-MAHN-see jee oong sees-TEH-mah ahyng NOO-vehyng?",
+    "back": "How would you monitor the performance of a cloud system?",
+    "context": "Simulating infrastructure monitoring interview scenarios."
+  },
+  {
+    "id": "br-1506",
+    "front": "Eu projetei a interface para ser fácil de manter e expandir.",
+    "pronunciation": "ew proo-zheh-TAY ah eeyng-tehr-FAH-see PAH-rah sayr FAH-see jee mahn-TEHR ee ehs-pah-ndee-R.",
+    "back": "I designed the interface to be easy to maintain and expand.",
+    "context": "Emphasizing clean code and maintainability in design."
+  },
+  {
+    "id": "br-1507",
+    "front": "A escolha da API RESTful simplifica a integração entre sistemas.",
+    "pronunciation": "ah ees-KOH-lyah dah API RESTful seeym-plee-FEE-kah ah eeyng-teh-grah-SOHNG EHN-treh sees-TEH-mahs.",
+    "back": "The choice of RESTful API simplifies the integration between systems.",
+    "context": "Discussing standardized communication protocols."
+  },
+  {
+    "id": "br-1508",
+    "front": "Eu analisei os custos de infraestrutura para justificar a mudança.",
+    "pronunciation": "ew ah-nah-lee-ZAY ooz COOS-toos jee eeyng-frah-ees-troo-TOO-rah PAH-rah zhoos-chee-fee-KAHR ah moo-DAHN-sah.",
+    "back": "I analyzed infrastructure costs to justify the change.",
+    "context": "Articulating business-value arguments for technical debt."
+  },
+  {
+    "id": "br-1509",
+    "front": "O desacoplamento é chave para sistemas complexos e modulares.",
+    "pronunciation": "oo deh-zah-coo-plah-MEHN-too eh SHAH-vee PAH-rah sees-TEH-mahs coohm-PLEH-koos ee moo-doo-LAHR-ees.",
+    "back": "Decoupling is key for complex and modular systems.",
+    "context": "Defining core software engineering architectural tenets."
+  },
+  {
+    "id": "br-1510",
+    "front": "Como resolver um conflito de concorrência em transações financeiras?",
+    "pronunciation": "KOH-moo heh-zowl-VEHR oong coohn-FREE-too jee coohn-coohr-HEHN-syah ahyng trahns-ah-SOHNGS fee-nahn-SYEH-rahs?",
+    "back": "How to resolve a concurrency conflict in financial transactions?",
+    "context": "Deep diving into complex database state management."
+  },
+  {
+    "id": "br-1511",
+    "front": "Eu utilizei um design pattern de fábrica para criar objetos.",
+    "pronunciation": "ew oo-tee-lee-ZAY oong design pattern jee FAH-bree-kah PAH-rah kry-AHR oob-zheh-TOOS.",
+    "back": "I used a factory design pattern to create objects.",
+    "context": "Demonstrating design pattern knowledge in interviews."
+  },
+  {
+    "id": "br-1512",
+    "front": "A automação de testes garante a qualidade durante a escalada.",
+    "pronunciation": "ah ow-too-mah-SOHNG jee TEHS-chees gah-RAHN-chee ah kwah-lee-DAH-jee doo-RAHN-chee ah ehs-kah-LAH-dah.",
+    "back": "Test automation ensures quality during scaling.",
+    "context": "Linking DevOps quality gates to system growth."
+  },
+  {
+    "id": "br-1513",
+    "front": "Eu prefiro banco de dados relacional para dados estruturados.",
+    "pronunciation": "ew preh-FEE-roo BAHN-koo jee DAH-doos heh-lah-syo-NAW PAH-rah DAH-doos ehs-troo-too-RAH-doos.",
+    "back": "I prefer relational databases for structured data.",
+    "context": "Explaining database selection based on data shape."
+  },
+  {
+    "id": "br-1514",
+    "front": "Como você garante que o sistema suporte falhas de rede?",
+    "pronunciation": "KOH-moo VOH-see gah-RAHN-chee kee oo sees-TEH-mah soo-POHR-tee FAH-lyahs jee HEH-jee?",
+    "back": "How do you ensure that the system supports network failures?",
+    "context": "Designing resilient, fault-tolerant infrastructure."
+  },
+  {
+    "id": "br-1515",
+    "front": "Eu planejei a migração de um sistema legado com cuidado.",
+    "pronunciation": "ew plah-neh-ZAY ah mee-grah-SOHNG jee oong sees-TEH-mah leh-GAH-doo coong coow-DAH-doo.",
+    "back": "I planned the migration of a legacy system with care.",
+    "context": "Managing high-risk technical project transition stages."
+  },
+  {
+    "id": "br-1516",
+    "front": "A redundância em servidores evita tempo de inatividade.",
+    "pronunciation": "ah heh-doohn-DAHN-syah ahyng sehr-vee-DOH-rees ee-VEE-tah TEHMP-oo jee ee-nah-chee-vee-DAH-jee.",
+    "back": "Redundancy in servers avoids downtime.",
+    "context": "Designing high-availability architecture components."
+  },
+  {
+    "id": "br-1517",
+    "front": "Eu estou estudando sobre arquitetura orientada a eventos.",
+    "pronunciation": "ew ees-TOY ees-too-DAHN-doo SOH-bree ahr-kee-teh-TOO-rah oo-ryeh-TAH-dah ah eh-VEHN-toos.",
+    "back": "I am studying about event-driven architecture.",
+    "context": "Expanding technical knowledge to event-driven paradigms."
+  },
+  {
+    "id": "br-1518",
+    "front": "Como gerenciar segredos em uma aplicação escalável?",
+    "pronunciation": "KOH-moo zheh-REHN-syah-RAHR seh-GREH-doos ahyng OO-mah ah-plee-kah-SOHNG ehs-kah-LAH-vew?",
+    "back": "How to manage secrets in a scalable application?",
+    "context": "Discussing secure configuration and credential management."
+  },
+  {
+    "id": "br-1519",
+    "front": "Eu usei o Docker para garantir consistência no deploy.",
+    "pronunciation": "ew oo-ZAY oo Docker PAH-rah gah-RAHN-chee coohn-sees-TEH-syah noo deploy.",
+    "back": "I used Docker to ensure consistency in the deploy.",
+    "context": "Standardizing deployment environments using containerization."
+  },
+  {
+    "id": "br-1520",
+    "front": "A escolha de linguagens depende do caso de uso específico.",
+    "pronunciation": "ah ees-KOH-lyah jee leeyng-GWAHzhehyngs deh-PEH-ndee doo KAH-zoo jee OO-zoo ees-peh-SEE-fee-koo.",
+    "back": "The choice of languages depends on the specific use case.",
+    "context": "Justifying technological stack diversity in engineering."
+  },
+  {
+    "id": "br-1521",
+    "front": "Eu preciso documentar os trade-offs de cada decisão.",
+    "pronunciation": "ew prah-SEE-zoo doo-koo-mehn-TAHR ooz trade-offs jee KAH-dah deh-see-SOHNG.",
+    "back": "I need to document the trade-offs of each decision.",
+    "context": "Establishing transparent engineering documentation habits."
+  },
+  {
+    "id": "br-1522",
+    "front": "A performance da API deve ser avaliada constantemente.",
+    "pronunciation": "ah pehr-fohr-MAHN-see dah API DEH-vee sayr ah-vah-LYA-dah coohns-tah-tah-MEHN-chee.",
+    "back": "The API performance must be evaluated constantly.",
+    "context": "Maintaining high operational standards for external APIs."
+  },
+  {
+    "id": "br-1523",
+    "front": "Eu usei ferramentas de profiling para achar gargalos.",
+    "pronunciation": "ew oo-ZAY feh-hah-MEHN-tahs jee profiling PAH-rah ah-SHAHR gahr-gah-loos.",
+    "back": "I used profiling tools to find bottlenecks.",
+    "context": "Using technical diagnostic suites to optimize performance."
+  },
+  {
+    "id": "br-1524",
+    "front": "Precisamos de um plano de recuperação de desastres.",
+    "pronunciation": "preh-see-SAH-moos jee oong PLAH-noo jee heh-coo-peh-rah-SOHNG jee deh-ZAHS-trees.",
+    "back": "We need a disaster recovery plan.",
+    "context": "Developing enterprise-grade operational resilience."
+  },
+  {
+    "id": "br-1525",
+    "front": "Estou pronto para defender minhas escolhas de arquitetura.",
+    "pronunciation": "ees-TOY PROHN-too PAH-rah deh-fehyng-DEHR MEENG-yahs ees-KOH-lyahs jee ahr-kee-teh-TOO-rah.",
+    "back": "I am ready to defend my architecture choices.",
+    "context": "Affirming readiness for high-level technical scrutiny. Female speakers use 'pronta'."
+  }
+]

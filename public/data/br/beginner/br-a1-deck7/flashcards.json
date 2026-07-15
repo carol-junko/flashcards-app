@@ -1,0 +1,212 @@
+[
+  {
+    "id": "br-211",
+    "front": "Grande",
+    "pronunciation": "[grahn-jee]",
+    "back": "Big / Large",
+    "context": "Gender-neutral adjective used for both masculine and feminine nouns."
+  },
+  {
+    "id": "br-212",
+    "front": "Pequeno / Pequena",
+    "pronunciation": "[peh-kay-noo / peh-kay-nah]",
+    "back": "Small / Little",
+    "context": "Use '-o' for masculine nouns and '-a' for feminine nouns."
+  },
+  {
+    "id": "br-213",
+    "front": "Bonito / Bonita",
+    "pronunciation": "[boo-nee-too / boo-nee-tah]",
+    "back": "Beautiful / Pretty / Handsome",
+    "context": "Universal word for attractive people, places, or objects."
+  },
+  {
+    "id": "br-214",
+    "front": "Feio / Feia",
+    "pronunciation": "[fay-oo / fay-ah]",
+    "back": "Ugly",
+    "context": "Used to describe something visually unappealing."
+  },
+  {
+    "id": "br-215",
+    "front": "Bom / Boa",
+    "pronunciation": "[bong / boh-ah]",
+    "back": "Good",
+    "context": "Use 'bom' for masculine items (bom dia) and 'boa' for feminine items (boa tarde)."
+  },
+  {
+    "id": "br-216",
+    "front": "Ruim",
+    "pronunciation": "[hoo-eeng]",
+    "back": "Bad / Poor quality",
+    "context": "Gender-neutral. Used for bad experiences, food, weather, or quality."
+  },
+  {
+    "id": "br-217",
+    "front": "Fácil",
+    "pronunciation": "[fah-seew]",
+    "back": "Easy",
+    "context": "Gender-neutral. The final 'L' sounds like a soft 'W'."
+  },
+  {
+    "id": "br-218",
+    "front": "Difícil",
+    "pronunciation": "[jee-fee-seew]",
+    "back": "Difficult / Hard",
+    "context": "Gender-neutral. Used for complex tasks or situations."
+  },
+  {
+    "id": "br-219",
+    "front": "Novo / Nova",
+    "pronunciation": "[noh-voo / noh-vah]",
+    "back": "New / Young",
+    "context": "Can mean a brand-new object or a young person depending on context."
+  },
+  {
+    "id": "br-220",
+    "front": "Velho / Velha",
+    "pronunciation": "[veh-lyoo / veh-lyah]",
+    "back": "Old",
+    "context": "Used for old objects or elderly people."
+  },
+  {
+    "id": "br-221",
+    "front": "Caro / Cara",
+    "pronunciation": "[kah-roo / kah-rah]",
+    "back": "Expensive",
+    "context": "Used when discussing prices or high-cost items."
+  },
+  {
+    "id": "br-222",
+    "front": "Barato / Barata",
+    "pronunciation": "[bah-rah-too / bah-rah-tah]",
+    "back": "Cheap / Inexpensive",
+    "context": "Used when an item has a low price. Note: 'barata' also means cockroach as a noun!"
+  },
+  {
+    "id": "br-223",
+    "front": "Limpo / Limpa",
+    "pronunciation": "[leeng-poo / leeng-pah]",
+    "back": "Clean",
+    "context": "Used to describe a well-kept room, object, or surface."
+  },
+  {
+    "id": "br-224",
+    "front": "Sujo / Suja",
+    "pronunciation": "[soo-zhoo / soo-zhah]",
+    "back": "Dirty",
+    "context": "Used to describe something that needs washing."
+  },
+  {
+    "id": "br-225",
+    "front": "Quente",
+    "pronunciation": "[kayng-chee]",
+    "back": "Hot / Warm",
+    "context": "Gender-neutral. Used for food, drinks, weather, or surfaces."
+  },
+  {
+    "id": "br-226",
+    "front": "Frio / Fria",
+    "pronunciation": "[free-oo / free-ah]",
+    "back": "Cold",
+    "context": "Used for weather, food temperature, or how a person feels."
+  },
+  {
+    "id": "br-227",
+    "front": "Azul",
+    "pronunciation": "[ah-zoow]",
+    "back": "Blue",
+    "context": "Gender-neutral color. The 'L' sounds like a 'W' at the end."
+  },
+  {
+    "id": "br-228",
+    "front": "Vermelho / Vermelha",
+    "pronunciation": "[vair-meh-lyoo / vair-meh-lyah]",
+    "back": "Red",
+    "context": "Color adjective that changes matching the noun gender."
+  },
+  {
+    "id": "br-229",
+    "front": "Amarelo / Amarela",
+    "pronunciation": "[ah-mah-reh-loo / ah-mah-reh-lah]",
+    "back": "Yellow",
+    "context": "Color adjective that changes matching the noun gender."
+  },
+  {
+    "id": "br-230",
+    "front": "Verde",
+    "pronunciation": "[vair-jee]",
+    "back": "Green",
+    "context": "Gender-neutral color adjective."
+  },
+  {
+    "id": "br-231",
+    "front": "Preto / Preta",
+    "pronunciation": "[preh-too / preh-tah]",
+    "back": "Black",
+    "context": "Color adjective that changes matching the noun gender."
+  },
+  {
+    "id": "br-232",
+    "front": "Branco / Branca",
+    "pronunciation": "[brahng-koo / brahng-kah]",
+    "back": "White",
+    "context": "Color adjective that changes matching the noun gender."
+  },
+  {
+    "id": "br-233",
+    "front": "Cinza",
+    "pronunciation": "[seen-zah]",
+    "back": "Gray",
+    "context": "Gender-neutral color adjective."
+  },
+  {
+    "id": "br-234",
+    "front": "Colorido / Colorida",
+    "pronunciation": "[koh-loh-ree-doo / koh-loh-ree-dah]",
+    "back": "Colorful",
+    "context": "Perfect for describing Brazilian streets during Carnival or local art."
+  },
+  {
+    "id": "br-235",
+    "front": "É muito caro.",
+    "pronunciation": "[ay mwee-too kah-roo]",
+    "back": "It is very expensive.",
+    "context": "A crucial negotiation phrase to use when shopping or looking at prices."
+  },
+  {
+    "id": "br-236",
+    "front": "O carro é azul.",
+    "pronunciation": "[oo kah-hoo ay ah-zoow]",
+    "back": "The car is blue.",
+    "context": "A basic descriptive sentence construction sample."
+  },
+  {
+    "id": "br-237",
+    "front": "A casa é grande.",
+    "pronunciation": "[ah kah-zah ay grahn-jee]",
+    "back": "The house is big.",
+    "context": "Notice that 'grande' remains identical for the feminine noun 'casa'."
+  },
+  {
+    "id": "br-238",
+    "front": "Este café está muito quente.",
+    "pronunciation": "[ays-chee kah-feh ay-stah mwee-too kayng-chee]",
+    "back": "This coffee is very hot.",
+    "context": "A typical warning or observation phrase before drinking."
+  },
+  {
+    "id": "br-239",
+    "front": "O livro é bom.",
+    "pronunciation": "[oo lee-vroo ay bong]",
+    "back": "The book is good.",
+    "context": "Used to give a quick review or opinion on a reading item."
+  },
+  {
+    "id": "br-240",
+    "front": "É fácil ou difícil?",
+    "pronunciation": "[ay fah-seew oh jee-fee-seew]",
+    "back": "Is it easy or difficult?",
+    "context": "A practical question used to gauge the complexity of a task or lesson."
+  }
+]

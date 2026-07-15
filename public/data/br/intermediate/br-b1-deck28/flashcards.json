@@ -1,0 +1,247 @@
+[
+  {
+    "id": "br-896",
+    "front": "Boa tarde, eu tenho uma reserva em nome de Silva.",
+    "pronunciation": "BOH-ah TAHR-jee, ew TEYNG-yoo OO-mah heh-ZEHR-vah ahyng NOH-mee jee SEEL-vah.",
+    "back": "Good afternoon, I have a reservation under the name of Silva.",
+    "context": "Standard hospitality check-in opener using the prepositional phrase 'em nome de'."
+  },
+  {
+    "id": "br-897",
+    "front": "Você poderia confirmar o horário do check-out?",
+    "pronunciation": "voh-SEH poo-deh-REE-ah kohn-feer-MAHR oo oo-RAH-ryoo doo check-out?",
+    "back": "Could you confirm the check-out time?",
+    "context": "Using polite conditional 'poderia' with the widely accepted English loanword 'check-out'."
+  },
+  {
+    "id": "br-898",
+    "front": "O café da manhã está incluso na diária?",
+    "pronunciation": "oo kah-FEH dah mah-NYAH ees-TAH een-KLOO-zoo nah jee-AH-ryah.",
+    "back": "Is breakfast included in the daily rate?",
+    "context": "Using 'diária' to refer to the cost or rate of a hotel room per night."
+  },
+  {
+    "id": "br-899",
+    "front": "Quero um quarto de casal com vista para o mar.",
+    "pronunciation": "KEH-roo oong KWAHR-too jee kah-ZAW koong VEES-tah PAH-rah oo mahr.",
+    "back": "I want a double room with an ocean view.",
+    "context": "Specifying accommodation preferences: 'quarto de casal' means a room with a double/queen/king bed."
+  },
+  {
+    "id": "br-900",
+    "front": "Eu gostaria de dois quartos de solteiro, por favor.",
+    "pronunciation": "ew goos-tah-REE-ah jee doys KWAHR-tooz jee sow-TAY-roo, poor fah-VOHR.",
+    "back": "I would like two single rooms, please.",
+    "context": "Using 'quarto de solteiro' for a room configured with twin or single beds."
+  },
+  {
+    "id": "br-901",
+    "front": "Preciso de um documento de identidade para fazer o registro.",
+    "pronunciation": "pree-SEE-zoo jee oong doo-koo-MEHN-too jee ee-dehn-chee-DAH-jee PAH-rah fah-ZEHR oo heh-ZHEES-troo.",
+    "back": "I need an identity document to check in / complete the registration.",
+    "context": "A front desk receptionist request phrase using 'documento de identidade' (ID)."
+  },
+  {
+    "id": "br-902",
+    "front": "Qual é a senha do Wi-Fi do hotel?",
+    "pronunciation": "kwaw eh ah SAY-nyah doo Wi-Fi doo oh-TEW?",
+    "back": "What is the hotel's Wi-Fi password?",
+    "context": "Crucial utility phrase querying the password ('senha')."
+  },
+  {
+    "id": "br-903",
+    "front": "A que horas é servido o café da manhã?",
+    "pronunciation": "ah kee OH-rahs eh sehr-VEE-doo oo kah-FEH dah mah-NYAH?",
+    "back": "What time is breakfast served?",
+    "context": "Inquiring about dining schedules using passive structure 'é servido'."
+  },
+  {
+    "id": "br-904",
+    "front": "Vocês têm serviço de quarto vinte e quatro horas?",
+    "pronunciation": "voh-SEHS cheyng sehr-VEE-soo jee KWAHR-too VEENG-chee ee KWAH-troo OH-rahs?",
+    "back": "Do you have twenty-four hour room service?",
+    "context": "Inquiring about amenities using 'serviço de quarto' (room service)."
+  },
+  {
+    "id": "br-905",
+    "front": "A chave do quarto é um cartão magnético.",
+    "pronunciation": "ah SHAH-vee doo KWAHR-too eh oong kahr-TOHNG mahg-NEH-chee-koo.",
+    "back": "The room key is a magnetic card.",
+    "context": "Describing standard digital key infrastructure layout."
+  },
+  {
+    "id": "br-906",
+    "front": "Pode me ajudar a subir com as malas?",
+    "pronunciation": "POH-jee mee ah-ZHOO-dahr ah soo-BEER koong ahs MAH-lahs?",
+    "back": "Can you help me bring up the luggage?",
+    "context": "Asking a bellhop or receptionist for assistance with bags ('malas')."
+  },
+  {
+    "id": "br-907",
+    "front": "Onde fica o elevador principal?",
+    "pronunciation": "OHN-jee FEE-kah oo eh-leh-vah-DOHR preeng-see-PAW?",
+    "back": "Where is the main elevator located?",
+    "context": "Navigating the floor layout within an accommodation facility."
+  },
+  {
+    "id": "br-908",
+    "front": "Gostaria de solicitar uma toalha limpa, por favor.",
+    "pronunciation": "goos-tah-REE-ah jee soo-lee-see-TAHR OO-mah twah-lyah LEEM-pah, poor fah-VOHR.",
+    "back": "I would like to request a clean towel, please.",
+    "context": "Using the polite verb 'solicitar' to ask housekeeping for fresh towels ('toalha')."
+  },
+  {
+    "id": "br-909",
+    "front": "O ar-condicionado do meu quarto não está funcionando.",
+    "pronunciation": "oo ahr kohn-jee-syo-NAH-doo doo mew KWAHR-too nohng ees-TAH foon-syo-NAHN-doo.",
+    "back": "The air conditioning in my room is not working.",
+    "context": "A critical maintenance complaint phrase, vital for tropical Brazilian tourism destinations."
+  },
+  {
+    "id": "br-910",
+    "front": "Vocês aceitam pagamento com Pix ou cartão de crédito?",
+    "pronunciation": "voh-SEHS ah-SAY-tahwng pah-gah-MEHN-too koong Pix ow kahr-TOHNG jee KREH-jee-too?",
+    "back": "Do you accept payment with Pix or credit card?",
+    "context": "Inquiring about front desk transactional processing options."
+  },
+  {
+    "id": "br-911",
+    "front": "Eu preciso cancelar minha reserva de amanhã.",
+    "pronunciation": "ew prah-SEE-zoo kahn-seh-LAHR MEENG-yah heh-ZEHR-vah jee ah-mah-NYAH.",
+    "back": "I need to cancel my reservation for tomorrow.",
+    "context": "Using 'cancelar' to update structural booking details."
+  },
+  {
+    "id": "br-912",
+    "front": "Até que horas a piscina fica aberta?",
+    "pronunciation": "ah-TEH kee OH-rahs ah pee-SEE-nah FEE-kah ah-BEHR-tah?",
+    "back": "Until what time does the pool stay open?",
+    "context": "Querying facility hours using the idiom 'até que horas'."
+  },
+  {
+    "id": "br-913",
+    "front": "Tem algum cofre de segurança dentro do armário?",
+    "pronunciation": "cheyng aw-GOONG KOH-free jee seh-goo-RAHN-sah DEHN-troo doo ahr-MAH-ryoo?",
+    "back": "Is there a safety deposit box inside the closet?",
+    "context": "Locating security amenities inside the room layout."
+  },
+  {
+    "id": "br-914",
+    "front": "Há vaga no estacionamento do hotel?",
+    "pronunciation": "ah VAH-gah noo ees-tah-syo-nah-MEHN-too doo oh-TEW?",
+    "back": "Is there a space available in the hotel parking lot?",
+    "context": "Using 'vaga' (vacancy / open spot) to check parking access constraints."
+  },
+  {
+    "id": "br-915",
+    "front": "Eu gostaria de pedir o fechamento da minha conta.",
+    "pronunciation": "ew goos-tah-REE-ah jee peh-JEER oo feh-shah-MEHN-too dah MEENG-yah KOHN-tah.",
+    "back": "I would like to request the closing of my bill.",
+    "context": "Formal way to signal checkout billing closing processing."
+  },
+  {
+    "id": "br-916",
+    "front": "Poderia trocar os lençóis da cama, por favor?",
+    "pronunciation": "poo-deh-REE-ah troo-KAHR ooz lehn-SOYS dah KAH-mah, poor fah-VOHR?",
+    "back": "Could you change the bed sheets, please?",
+    "context": "Asking housekeeping for clean linens using the noun 'lençóis'."
+  },
+  {
+    "id": "br-917",
+    "front": "A que horas é o horário de check-in?",
+    "pronunciation": "ah kee OH-rahs eh oo oo-RAH-ryoo jee check-in?",
+    "back": "What time is check-in?",
+    "context": "Confirming earliest arrival entry processing times."
+  },
+  {
+    "id": "br-918",
+    "front": "Não há água quente no chuveiro.",
+    "pronunciation": "nohng ah AH-gwah KHAYN-chee noo shoo-VAY-roo.",
+    "back": "There is no hot water in the shower.",
+    "context": "Room complaint addressing bathroom amenities structure using 'chuveiro'."
+  },
+  {
+    "id": "br-919",
+    "front": "Vocês podem guardar minhas malas por algumas horas?",
+    "pronunciation": "voh-SEHS POH-deeyng gwahr-DAHR MEENG-yah MAH-lahs poor aw-GOO-mahs OH-rahs?",
+    "back": "Can you store my luggage for a few hours?",
+    "context": "Requesting post-checkout bag storage using 'guardar malas'."
+  },
+  {
+    "id": "br-920",
+    "front": "O hotel oferece serviço de translado para o aeroporto?",
+    "pronunciation": "oo oh-TEW oh-feh-REH-see sehr-VEE-soo jee trahns-LAH-doo PAH-rah oo ah-ay-roo-POHR-too?",
+    "back": "Does the hotel offer shuttle service to the airport?",
+    "context": "Querying transit integration using the industry term 'translado' (shuttle/transfer)."
+  },
+  {
+    "id": "br-921",
+    "front": "Meu quarto fica no quinto andar.",
+    "pronunciation": "mew KWAHR-too FEE-kah noo KEENG-too ahn-DAHR.",
+    "back": "My room is on the fifth floor.",
+    "context": "Stating building levels using ordinal numbering structure ('quinto andar')."
+  },
+  {
+    "id": "br-922",
+    "front": "Quero solicitar um serviço de despertador às seis da manhã.",
+    "pronunciation": "KEH-roo soo-lee-see-TAHR oong sehr-VEE-soo jee dehs-pehr-tah-DOHR ahs says dah mah-NYAH.",
+    "back": "I want to request a wake-up call service at six in the morning.",
+    "context": "Using the specific hospitality noun 'serviço de despertador'."
+  },
+  {
+    "id": "br-923",
+    "front": "O frigobar do quarto está abastecido?",
+    "pronunciation": "oo free-goh-BAHR doo KWAHR-too ees-TAH ah-bahs-teh-SEE-doo?",
+    "back": "Is the room mini-fridge stocked?",
+    "context": "Using the common Portuguese noun 'frigobar' for hotel mini-refrigerators."
+  },
+  {
+    "id": "br-924",
+    "front": "Como faço para ligar para a recepção?",
+    "pronunciation": "KOH-moo FAH-soo PAH-rah lee-GAHR PAH-rah ah heh-sehp-SOHNG?",
+    "back": "How do I call the front desk / reception?",
+    "context": "Inquiring about internal room phone operations."
+  },
+  {
+    "id": "br-925",
+    "front": "A voltagem das tomadas aqui é cento e dez ou duzentos e vinte?",
+    "pronunciation": "ah vowl-TAH-zhehng dahs too-MAH-dahs ah-KEE eh SEHN-too ee dehs ow doo-ZEHN-tooz ee VEENG-chee?",
+    "back": "Is the voltage of the outlets here 110 or 220?",
+    "context": "Crucial electrical logistics query. Voltages vary heavily across different Brazilian states."
+  },
+  {
+    "id": "br-926",
+    "front": "É necessário pagar uma taxa extra de turismo?",
+    "pronunciation": "eh neh-seh-SAH-ryoo pah-GAHR OO-mah TAH-shah EKS-trah jee too-REES-moo?",
+    "back": "Is it necessary to pay an extra tourism tax?",
+    "context": "Inquiring about localized auxiliary administrative surcharges."
+  },
+  {
+    "id": "br-927",
+    "front": "O hotel tem academia de ginástica?",
+    "pronunciation": "oo oh-TEW cheyng ah-kah-deh-MEE-ah jee zhee-NAHS-chee-kah?",
+    "back": "Does the hotel have a fitness gym?",
+    "context": "Querying wellness amenities using the standard noun phrase 'academia'."
+  },
+  {
+    "id": "br-928",
+    "front": "Gostaria de estender a minha estadia por mais duas noites.",
+    "pronunciation": "goos-tah-REE-ah jee ees-tehn-DEHR ah MEENG-yah ees-tah-JEE-ah poor mays DOO-ahs NOY-chees.",
+    "back": "I would like to extend my stay for two more nights.",
+    "context": "Modifying structural booking duration lengths using the verb 'estender'."
+  },
+  {
+    "id": "br-929",
+    "front": "O sinal de internet cai o tempo todo aqui no quarto.",
+    "pronunciation": "oo see-NAW jee een-tehr-NEH-chee ky oo TEHMP-oo TOH-doo ah-KEE noo KWAHR-too.",
+    "back": "The internet signal drops all the time here in the room.",
+    "context": "Reporting a continuous infrastructure quality defect ('cai o tempo todo')."
+  },
+  {
+    "id": "br-930",
+    "front": "Muito obrigado por toda a atenção durante a hospedagem.",
+    "pronunciation": "MOOI-too oo-bree-GAH-doo poor TOH-dah ah ah-tehn-SOHNG doo-RAHN-chee ah ohs-peh-DAH-zhehng.",
+    "back": "Thank you very much for all your attention during the stay.",
+    "context": "A warm checkout parting courtesy statement thanking staff for their service ('hospedagem'). Use 'obrigada' if female."
+  }
+]

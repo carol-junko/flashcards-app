@@ -1,0 +1,247 @@
+[
+  {
+    "id": "br-636",
+    "front": "Eu como arroz e feijão.",
+    "pronunciation": "ew KOH-moo ah-HOHZ ee fay-ZHOHNG.",
+    "back": "I eat rice and beans.",
+    "context": "Present tense of the -ER verb 'comer' (to eat) for 'eu' (I)."
+  },
+  {
+    "id": "br-637",
+    "front": "Você come carne?",
+    "pronunciation": "voh-SEH KOH-mee KAHR-nee?",
+    "back": "Do you eat meat?",
+    "context": "Present tense question using 'comer' for 'você' (you)."
+  },
+  {
+    "id": "br-638",
+    "front": "Ele não come doce.",
+    "pronunciation": "EH-lee nohng KOH-mee DOH-see.",
+    "back": "He doesn't eat sweets.",
+    "context": "Negative present tense sentence using 'comer' for 'ele' (he)."
+  },
+  {
+    "id": "br-639",
+    "front": "Nós comemos salada no almoço.",
+    "pronunciation": "nohs koh-MEH-moos sah-LAH-dah noo aw-MOH-soo.",
+    "back": "We eat salad at lunch.",
+    "context": "Present tense of 'comer' for 'nós' (we)."
+  },
+  {
+    "id": "br-640",
+    "front": "Eles comem muito rápido.",
+    "pronunciation": "EH-leys KOH-mehng MOOI-too HAH-pee-doo.",
+    "back": "They eat very fast.",
+    "context": "Present tense of 'comer' for 'eles/elas' (they)."
+  },
+  {
+    "id": "br-641",
+    "front": "Eu bebo água gelada.",
+    "pronunciation": "ew BEH-boo AH-gwah zheh-LAH-dah.",
+    "back": "I drink cold water.",
+    "context": "Present tense of the -ER verb 'beber' (to drink) for 'eu' (I)."
+  },
+  {
+    "id": "br-642",
+    "front": "O que você bebe de manhã?",
+    "pronunciation": "oo kee voh-SEH BEH-bee jee mah-NYAH?",
+    "back": "What do you drink in the morning?",
+    "context": "Present tense question using 'beber' for 'você' (you)."
+  },
+  {
+    "id": "br-643",
+    "front": "Nós bebemos suco natural.",
+    "pronunciation": "nohs beh-BEH-moos SOO-koo nah-too-RAW.",
+    "back": "We drink fresh/natural juice.",
+    "context": "Present tense of 'beber' for 'nós' (we)."
+  },
+  {
+    "id": "br-644",
+    "front": "Vocês bebem cerveja ou vinho?",
+    "pronunciation": "voh-SEYS BEH-behng sehr-VAY-zhah ow VEENG-yoo?",
+    "back": "Do you all drink beer or wine?",
+    "context": "Present tense question using 'beber' for 'vocês' (you all)."
+  },
+  {
+    "id": "br-645",
+    "front": "Eu escrevo um código em JavaScript.",
+    "pronunciation": "ew ees-KRAY-voo oong KOH-jee-goo ayng zhah-vah-SKREEP-chee.",
+    "back": "I write a code in JavaScript.",
+    "context": "Present tense of the -ER verb 'escrever' (to write) for 'eu' (I)."
+  },
+  {
+    "id": "br-646",
+    "front": "Ela escreve e-mails todos os dias.",
+    "pronunciation": "EH-lah ees-KRAY-vee ee-MAY-oos TOH-dooz ooz JEE-ahs.",
+    "back": "She writes emails every day.",
+    "context": "Present tense of 'escrever' for 'ela' (she)."
+  },
+  {
+    "id": "br-647",
+    "front": "N Nós escrevemos um relatório.",
+    "pronunciation": "nohs ees-kreh-VEH-moos oong heh-lah-TOH-ryoo.",
+    "back": "We write a report.",
+    "context": "Present tense of 'escrever' for 'nós' (we)."
+  },
+  {
+    "id": "br-648",
+    "front": "Eles escrevem artigos técnicos.",
+    "pronunciation": "EH-leys ees-KRAY-vehng ahr-CHEE-goos TEK-nee-koos.",
+    "back": "They write technical articles.",
+    "context": "Present tense of 'escrever' for 'eles' (they)."
+  },
+  {
+    "id": "br-649",
+    "front": "Eu aprendo coisas novas na internet.",
+    "pronunciation": "ew ah-PREHN-doo KOY-zahs NOH-vahs nah een-tehr-NEH-chee.",
+    "back": "I learn new things on the internet.",
+    "context": "Present tense of the -ER verb 'aprender' (to learn) for 'eu' (I)."
+  },
+  {
+    "id": "br-650",
+    "front": "Você aprende rápido.",
+    "pronunciation": "voh-SEH ah-PREHN-jee HAH-pee-doo.",
+    "back": "You learn quickly.",
+    "context": "Present tense of 'aprender' for 'você' (you)."
+  },
+  {
+    "id": "br-651",
+    "front": "Nós aprendemos português juntos.",
+    "pronunciation": "nohs ah-prehn-DEH-moos poor-too-GAYS ZHOON-toos.",
+    "back": "We learn Portuguese together.",
+    "context": "Present tense of 'aprender' for 'nós' (we)."
+  },
+  {
+    "id": "br-652",
+    "front": "Eu vendo meu carro antigo.",
+    "pronunciation": "ew VEHN-doo mew KAH-hoo ahn-CHEE-goo.",
+    "back": "I sell my old car.",
+    "context": "Present tense of the -ER verb 'vender' (to sell) for 'eu' (I)."
+  },
+  {
+    "id": "br-653",
+    "front": "Eles vendem produtos digitais.",
+    "pronunciation": "EH-leys VEHN-dehng proo-DOO-toos jee-zhee-TAYS.",
+    "back": "They sell digital products.",
+    "context": "Present tense of 'vender' for 'eles/elas' (they)."
+  },
+  {
+    "id": "br-654",
+    "front": "Eu corro no parque no sábado.",
+    "pronunciation": "ew KOH-hoo noo PAHR-kee noo SAH-bah-doo.",
+    "back": "I run in the park on Saturday.",
+    "context": "Present tense of the -ER verb 'correr' (to run) for 'eu' (I)."
+  },
+  {
+    "id": "br-655",
+    "front": "Nós corremos cinco quilômetros.",
+    "pronunciation": "nohs coh-REH-moos SEENG-koo kee-LOH-meh-troos.",
+    "back": "We run five kilometers.",
+    "context": "Present tense of 'correr' for 'nós' (we)."
+  },
+  {
+    "id": "br-656",
+    "front": "Eu entendo o seu problema.",
+    "pronunciation": "ew een-TEHN-doo oo sew proo-BLEH-mah.",
+    "back": "I understand your problem.",
+    "context": "Present tense of the -ER verb 'entender' (to understand) for 'eu' (I)."
+  },
+  {
+    "id": "br-657",
+    "front": "Você entende esta lição?",
+    "pronunciation": "voh-SEH een-TEHN-jee EHS-tah lee-SOHNG?",
+    "back": "Do you understand this lesson?",
+    "context": "Present tense question using 'entender' for 'você' (you)."
+  },
+  {
+    "id": "br-658",
+    "front": "Eu abro a janela quando está quente.",
+    "pronunciation": "ew AH-broo ah zhah-NEH-lah KWAHN-doo ees-TAH KEHN-chee.",
+    "back": "I open the window when it's hot.",
+    "context": "Present tense of the -IR verb 'abrir' (to open) for 'eu' (I)."
+  },
+  {
+    "id": "br-659",
+    "front": "Você abre a porta, por favor?",
+    "pronunciation": "voh-SEH AH-bree ah POHR-tah, poor fah-VOHR?",
+    "back": "Do you open the door, please? / Can you open the door?",
+    "context": "Present tense request using 'abrir' for 'você' (you)."
+  },
+  {
+    "id": "br-660",
+    "front": "Nós abrimos a loja às nove horas.",
+    "pronunciation": "nohs ah-BREE-moos ah LOH-zhah ahs NOH-vee OH-rahs.",
+    "back": "We open the store at nine o'clock.",
+    "context": "Present tense of 'abrir' for 'nós' (we)."
+  },
+  {
+    "id": "br-661",
+    "front": "Eles abrem as caixas agora.",
+    "pronunciation": "EH-leys AH-brehng ahs KAY-shahs ah-GOH-rah.",
+    "back": "They open the boxes now.",
+    "context": "Present tense of 'abrir' for 'eles' (they)."
+  },
+  {
+    "id": "br-662",
+    "front": "Eu divido o apartamento com um amigo.",
+    "pronunciation": "ew jee-VEE-doo oo ah-pahr-tah-MEHN-too koong oong ah-MEE-goo.",
+    "back": "I share the apartment with a friend.",
+    "context": "Present tense of the -IR verb 'dividir' (to divide/share) for 'eu' (I)."
+  },
+  {
+    "id": "br-663",
+    "front": "Nós dividimos a conta do restaurante.",
+    "pronunciation": "nohs jee-vee-DEE-moos ah KOHN-tah doo hehs-tow-RAHN-chee.",
+    "back": "We split the restaurant bill.",
+    "context": "Present tense of 'dividir' for 'nós' (we)."
+  },
+  {
+    "id": "br-664",
+    "front": "Eu decido isso mais tarde.",
+    "pronunciation": "ew jee-SEE-doo EES-oo mays TAHR-jee.",
+    "back": "I decide this later.",
+    "context": "Present tense of the -IR verb 'decidir' (to decide) for 'eu' (I)."
+  },
+  {
+    "id": "br-665",
+    "front": "Vocês decidem o local da reunião?",
+    "pronunciation": "voh-SEYS jee-SEE-dehng oo loo-KAW dah hehoo-nee-OHNG?",
+    "back": "Do you all decide the meeting location?",
+    "context": "Present tense question using 'decidir' for 'vocês' (you all)."
+  },
+  {
+    "id": "br-666",
+    "front": "Eu assisto a um filme hoje.",
+    "pronunciation": "ew ah-SEES-too ah oong FEEL-mee OH-zhee.",
+    "back": "I watch a movie today.",
+    "context": "Present tense of the -IR verb 'assistir' (to watch/attend) for 'eu'. Requires preposition 'a'."
+  },
+  {
+    "id": "br-667",
+    "front": "Ela assiste às aulas de manhã.",
+    "pronunciation": "EH-lah ah-SEES-chee ahs OW-lahs jee mah-NYAH.",
+    "back": "She attends the classes in the morning.",
+    "context": "Present tense of 'assistir' for 'ela' (she), meaning to attend/watch."
+  },
+  {
+    "id": "br-668",
+    "front": "Nós assistimos aos vídeos do curso.",
+    "pronunciation": "nohs ah-sees-CHEE-moos owz VEE-jooz doo KOOR-soo.",
+    "back": "We watch the course videos.",
+    "context": "Present tense of 'assistir' for 'nós' (we)."
+  },
+  {
+    "id": "br-669",
+    "front": "Eu cumpro minhas tarefas básicas.",
+    "pronunciation": "ew KOOM-proo MEENG-yahs tah-RAY-fahs BAH-zee-kahs.",
+    "back": "I complete/fulfill my basic tasks.",
+    "context": "Present tense of the -IR verb 'cumprir' (to fulfill/comply) for 'eu' (I)."
+  },
+  {
+    "id": "br-670",
+    "front": "Eles cumprem o prazo do projeto.",
+    "pronunciation": "EH-leys KOOM-prehng oo PRAH-zoo doo proo-ZHEH-too.",
+    "back": "They meet the project deadline.",
+    "context": "Present tense of 'cumprir' for 'eles/elas' (they) in a professional or execution context."
+  }
+]

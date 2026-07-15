@@ -1,0 +1,212 @@
+[
+  {
+    "id": "br-736",
+    "front": "Abra a porta, por favor.",
+    "pronunciation": "AH-brah ah POHR-tah, poor fah-VOHR.",
+    "back": "Open the door, please.",
+    "context": "Imperative form of 'abrir' (to open) for a polite request using 'você'."
+  },
+  {
+    "id": "br-737",
+    "front": "Por favor, feche a janela.",
+    "pronunciation": "poor fah-VOHR, FEH-shee ah zhah-NEH-lah.",
+    "back": "Please, close the window.",
+    "context": "Imperative form of 'fechar' (to close) for a polite command."
+  },
+  {
+    "id": "br-738",
+    "front": "Fale mais devagar, por favor.",
+    "pronunciation": "FAH-lee mays jey-vah-GAHR, poor fah-VOHR.",
+    "back": "Speak slower, please.",
+    "context": "Crucial learning phrase using the imperative form of 'falar' (to speak)."
+  },
+  {
+    "id": "br-739",
+    "front": "Escreva seu nome aqui.",
+    "pronunciation": "ees-KRAY-vah sew NOH-mee ah-KEE.",
+    "back": "Write your name here.",
+    "context": "Functional instruction using the imperative of 'escrever' (to write)."
+  },
+  {
+    "id": "br-740",
+    "front": "Espere um momento, por favor.",
+    "pronunciation": "ees-PEH-ree oong moo-MEHN-too, poor fah-VOHR.",
+    "back": "Wait a moment, please.",
+    "context": "Polite request using the command form of 'esperar' (to wait)."
+  },
+  {
+    "id": "br-741",
+    "front": "Entre, por favor! Fique à vontade.",
+    "pronunciation": "EHN-tree, poor fah-VOHR! FEE-kee ah voohn-TAH-jee.",
+    "back": "Come in, please! Make yourself at home.",
+    "context": "Standard welcoming hospitality commands using 'entrar' and 'ficar'."
+  },
+  {
+    "id": "br-742",
+    "front": "Sente-se aqui.",
+    "pronunciation": "SEHN-chee-see ah-KEE.",
+    "back": "Sit here.",
+    "context": "Reflexive command using the verb 'sentar-se' (to sit down)."
+  },
+  {
+    "id": "br-743",
+    "front": "Me ajude com isso, por favor.",
+    "pronunciation": "mee ah-ZHOO-jee koong EES-oo, poor fah-VOHR.",
+    "back": "Help me with this, please.",
+    "context": "Spoken request placing the pronoun 'me' before the command form of 'ajudar'."
+  },
+  {
+    "id": "br-744",
+    "front": "Ligue para mim mais tarde.",
+    "pronunciation": "LEE-gee PAH-rah meeng mays TAHR-jee.",
+    "back": "Call me later.",
+    "context": "Instruction using the imperative form of 'ligar' (to call/phone)."
+  },
+  {
+    "id": "br-745",
+    "front": "Envie o e-mail agora.",
+    "pronunciation": "ehng-VEE-ee oo ee-MAY-oo ah-GOH-rah.",
+    "back": "Send the email now.",
+    "context": "Workplace directive using the command form of 'enviar' (to send)."
+  },
+  {
+    "id": "br-746",
+    "front": "Faça uma pausa.",
+    "pronunciation": "FAH-sah OO-mah POW-zah.",
+    "back": "Take a break.",
+    "context": "Irregular imperative form of the verb 'fazer' (to do/make)."
+  },
+  {
+    "id": "br-747",
+    "front": "Traga a conta, por favor.",
+    "pronunciation": "TRAH-gah ah KOHN-tah, poor fah-VOHR.",
+    "back": "Bring the bill, please.",
+    "context": "Irregular imperative form of 'trazer' (to bring), essential for restaurants."
+  },
+  {
+    "id": "br-748",
+    "front": "Diga a verdade.",
+    "pronunciation": "JEE-gah ah vehr-DAH-jee.",
+    "back": "Tell the truth.",
+    "context": "Irregular imperative form of the verb 'dizer' (to say/tell)."
+  },
+  {
+    "id": "br-749",
+    "front": "Não faça isso.",
+    "pronunciation": "nohng FAH-sah EES-oo.",
+    "back": "Don't do that.",
+    "context": "Negative command structure using 'não' followed by the subjunctive/imperative."
+  },
+  {
+    "id": "br-750",
+    "front": "Não fale alto aqui dentro.",
+    "pronunciation": "nohng FAH-lee AW-too ah-KEE DEHN-troo.",
+    "back": "Don't speak loudly inside here.",
+    "context": "Negative command using 'não' with 'falar'."
+  },
+  {
+    "id": "br-751",
+    "front": "Olhe para a tela.",
+    "pronunciation": "OH-lyee PAH-rah ah TEH-lah.",
+    "back": "Look at the screen.",
+    "context": "Instruction using the imperative of 'olhar' (to look)."
+  },
+  {
+    "id": "br-752",
+    "front": "Escute esta música.",
+    "pronunciation": "ees-KOO-chee EHS-tah MOO-zee-kah.",
+    "back": "Listen to this song.",
+    "context": "Command form of 'escutar' (to listen)."
+  },
+  {
+    "id": "br-753",
+    "front": "Vire à direita no semáforo.",
+    "pronunciation": "VEE-ree ah jee-RAY-tah noo seh-MAH-foo-roo.",
+    "back": "Turn right at the traffic light.",
+    "context": "Directional instruction using the command form of 'virar' (to turn)."
+  },
+  {
+    "id": "br-754",
+    "front": "Siga direto por duas quadras.",
+    "pronunciation": "SEE-gah jee-REH-too poor DOO-ahs KWAH-drahs.",
+    "back": "Go straight for two blocks.",
+    "context": "Directional instruction using the irregular command form of 'seguir' (to follow/go on)."
+  },
+  {
+    "id": "br-755",
+    "front": "Suba as escadas, por favor.",
+    "pronunciation": "SOO-bah ahs ees-KAH-dahs, poor fah-VOHR.",
+    "back": "Go up the stairs, please.",
+    "context": "Instruction using the command form of 'subir' (to go up/ascend)."
+  },
+  {
+    "id": "br-756",
+    "front": "Desça até o térreo.",
+    "pronunciation": "DEHS-sah ah-TEH oo TEH-hehoo.",
+    "back": "Go down to the ground floor.",
+    "context": "Instruction using the command form of 'descer' (to go down/descend)."
+  },
+  {
+    "id": "br-757",
+    "front": "Compre o ingresso com antecedência.",
+    "pronunciation": "KOHM-pree oo een-GREH-soo koong ahn-chee-seh-DEHN-syah.",
+    "back": "Buy the ticket in advance.",
+    "context": "Recommendation or directive using 'comprar'."
+  },
+  {
+    "id": "br-758",
+    "front": "Beba bastante água hoje.",
+    "pronunciation": "BEH-bah bahs-TAHN-chee AH-gwah OH-zhee.",
+    "back": "Drink plenty of water today.",
+    "context": "Health advice statement using the command form of 'beber'."
+  },
+  {
+    "id": "br-759",
+    "front": "Coma mais frutas e verduras.",
+    "pronunciation": "KOH-mah mays FROO-tahs ee vehr-DOO-rahs.",
+    "back": "Eat more fruits and vegetables.",
+    "context": "Dietary advice using the command form of 'comer'."
+  },
+  {
+    "id": "br-760",
+    "front": "Termine o relatório até sexta-feira.",
+    "pronunciation": "tehr-MEE-nee oo heh-lah-TOH-ryoo ah-TEH SEKS-tah FAY-rah.",
+    "back": "Finish the report by Friday.",
+    "context": "Deadline assignment instruction using 'terminar'."
+  },
+  {
+    "id": "br-761",
+    "front": "Pague a conta no aplicativo.",
+    "pronunciation": "PAH-gee ah KOHN-tah noo ah-plee-kah-CHEE-voo.",
+    "back": "Pay the bill on the app.",
+    "context": "Instruction using the regular command form of 'pagar' (to pay)."
+  },
+  {
+    "id": "br-762",
+    "front": "Não se esqueça do documento.",
+    "pronunciation": "nohng see ees-KAY-sah doo doo-koo-MEHN-too.",
+    "back": "Don't forget the document.",
+    "context": "Negative reflexive command using 'esquecer-se' (to forget)."
+  },
+  {
+    "id": "br-763",
+    "front": "Verifique o código novamente.",
+    "pronunciation": "veh-ree-FEE-kee oo KOH-jee-goo noo-vah-MEHN-chee.",
+    "back": "Check the code again.",
+    "context": "Technical validation instruction using 'verificar' (to check/verify)."
+  },
+  {
+    "id": "br-764",
+    "front": "Pense bem antes de decidir.",
+    "pronunciation": "PEHN-see bayng AHN-chees jee jee-see-DEER.",
+    "back": "Think carefully before deciding.",
+    "context": "Advice statement using the command form of 'pensar' (to think)."
+  },
+  {
+    "id": "br-765",
+    "front": "Tenha um bom dia!",
+    "pronunciation": "TEYNG-yah oong boong JEE-ah!",
+    "back": "Have a good day!",
+    "context": "Common polite expression using the irregular command form of 'ter' (to have)."
+  }
+]
