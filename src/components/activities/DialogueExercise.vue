@@ -5,16 +5,18 @@
       <p class="game-translation"><em>Complete a conversa escolhendo a resposta mais adequada.</em></p>
     </div>
 
+    <p v-if="data?.context" class="dialogue-context">{{ data.context }}</p>
+
     <div class="dialogue-chat-thread">
+      <!-- Lines said by the other characters; the learner's reply is the slot below -->
       <div 
-        v-for="(message, idx) in data?.history" 
+        v-for="(message, idx) in data?.turns" 
         :key="idx" 
-        class="chat-bubble-row"
-        :class="message.role === 'left' ? 'role-left' : 'role-right'"
+        class="chat-bubble-row role-left"
       >
-        <div class="character-avatar-badge">{{ message.character?.[0] }}</div>
+        <div class="character-avatar-badge">{{ message.speaker?.[0] }}</div>
         <div class="chat-bubble-content">
-          <span class="character-name-label">{{ message.character }}</span>
+          <span class="character-name-label">{{ message.speaker }}</span>
           <p class="character-text-phrase">{{ message.text }}</p>
           <span v-if="message.translation" class="character-text-translation">
             {{ message.translation }}
@@ -87,7 +89,8 @@ const evaluateSubmission = () => {
     exerciseId: props.data.id,
     isCorrect,
     provided: selectedOption?.text,
-    expected: props.data?.options?.find(o => o.isCorrect)?.text
+    expected: props.data?.options?.find(o => o.isCorrect)?.text,
+    feedback: selectedOption?.feedback
   })
 }
 

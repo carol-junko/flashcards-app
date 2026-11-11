@@ -448,6 +448,13 @@
    7. INTERACTIVE DIALOGUE THREAD WORKSPACE
    ========================================================================== */
 
+/* Scene line above the chat, e.g. "Na padaria:" */
+.dialogue-context {
+  margin: 0 0 0.75rem;
+  font-weight: 600;
+  color: var(--text-muted, #64748b);
+}
+
 .dialogue-chat-thread {
   display: flex;
   flex-direction: column;
