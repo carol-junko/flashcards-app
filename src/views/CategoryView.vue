@@ -102,18 +102,20 @@ function goBack() {
             v-for="deck in levelDecks" 
             :key="deck.id" 
             class="deck-card"
-            @click="selectDeck(deck.id)"
+            :class="{ 'is-locked': deck.comingSoon }"
+            :aria-disabled="deck.comingSoon ? 'true' : null"
+            @click="!deck.comingSoon && selectDeck(deck.id)"
           >
             <div class="deck-top-meta">
               <span class="category-tag">{{ deck.category }}</span>
-              <span class="card-counter">{{ deck.cardCount }} Cards</span>
+              <span class="card-counter">{{ deck.comingSoon ? 'Coming soon' : `${deck.cardCount} Cards` }}</span>
             </div>
             
             <h4 class="deck-title">{{ deck.title }}</h4>
             <p class="deck-description">{{ deck.description }}</p>
             
             <div class="deck-action-row">
-              <span class="action-prompt">Open Deck Dashboard</span>
+              <span class="action-prompt">{{ deck.comingSoon ? 'Content in preparation' : 'Open Deck Dashboard' }}</span>
               <span class="action-arrow">→</span>
             </div>
           </div>

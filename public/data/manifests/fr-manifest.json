@@ -1,11 +1,12 @@
 [
   {
     "id": "fr-basics",
-    "languageId": "es",
+    "languageId": "fr",
     "level": "Beginner",
     "category": "Essentials",
     "title": "French Survival Phrases",
     "description": "Essential introductory vocabulary for navigating everyday interactions seamlessly.",
-    "cardCount": 20
+    "cardCount": 20,
+    "comingSoon": true
   }
 ]

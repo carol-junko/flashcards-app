@@ -439,6 +439,24 @@ header.app-navigation-header {
   transform: translateX(3px);
 }
 
+/* Decks whose content isn't published yet (manifest "comingSoon": true) */
+.deck-card.is-locked {
+  cursor: not-allowed;
+  opacity: 0.55;
+}
+
+.deck-card.is-locked:hover {
+  border-color: #e2e8f0;
+  transform: none;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.01);
+}
+
+.deck-card.is-locked:hover .action-prompt,
+.deck-card.is-locked:hover .action-arrow {
+  color: inherit;
+  transform: none;
+}
+
 /* Modes Selection Layout Framework */
 .modes-grid {
   display: grid;
