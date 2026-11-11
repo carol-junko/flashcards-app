@@ -51,7 +51,7 @@ function selectDeck(deckId) {
 
   router.push({
     name: 'ExerciseHub',    // Matches the exact 'name' key in your routes array
-    params: { deckId: deckId } // Safely injects your dynamic property
+    params: { langId: langId.value, deckId }, // language + deck live in the URL now
   })
 }
 

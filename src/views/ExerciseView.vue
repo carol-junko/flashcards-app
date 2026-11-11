@@ -40,12 +40,8 @@ const deckId = computed(() => route.params.deckId)
 function launchMode(routeName) {
   router.push({
     name: routeName,
-    // Passes the deckId so the dashboard can load the correct deck profile later
-    params: { deckId: deckId.value },
-    state: {
-      lang: history.state?.lang || 'br',
-      level: history.state?.level || 'beginner'
-    }
+    // Language and deck travel in the URL, so refresh and shared links keep working
+    params: { langId: route.params.langId, deckId: deckId.value },
   })
 }
 

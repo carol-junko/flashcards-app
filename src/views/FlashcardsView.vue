@@ -113,6 +113,7 @@
 <script setup>
 import { ref, onMounted, onBeforeUnmount, computed } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
+import { deckDataPath } from '@/utils/deckPaths'
 
 const route = useRoute()
 const router = useRouter()
@@ -126,16 +127,6 @@ const fetchError = ref(null)
 // Native Speech Synthesis System Voices
 const availableVoices = ref([])
 const selectedVoiceIndex = ref(0)
-
-const lang = computed(() => {
-  const rawLang = route.params.lang || history.state?.lang || 'br'
-  return String(rawLang).toLowerCase()
-})
-
-const level = computed(() => {
-  const rawLevel = route.params.level || history.state?.level || 'beginner'
-  return String(rawLevel).toLowerCase()
-})
 
 const deckId = computed(() => route.params.deckId || '')
 
@@ -183,7 +174,7 @@ onMounted(async () => {
       throw new Error("Missing structural identification parameters.")
     }
 
-    const jsonPath = `/data/${lang.value}/${level.value}/${deckId.value}/flashcards.json`
+    const jsonPath = `${deckDataPath(route.params.langId, deckId.value)}/flashcards.json`
     
     const response = await fetch(jsonPath)
     if (!response.ok) {

@@ -22,17 +22,17 @@ const routes = [
     component: CategoryView,
   },
   {
-    path: '/hub/:deckId',
+    path: '/learn/:langId/:deckId',
     name: 'ExerciseHub',
     component: ExerciseView,
   },
   {
-    path: '/hub/:deckId/flashcards',
+    path: '/learn/:langId/:deckId/flashcards',
     name: 'Flashcards',
     component: FlashcardsView,
   },
   {
-    path: '/exercises/:deckId/exercises',
+    path: '/learn/:langId/:deckId/exercises',
     name: 'Exercises',
     component: ExerciseDashboard,
   },

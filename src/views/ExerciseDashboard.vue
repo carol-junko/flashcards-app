@@ -1,6 +1,7 @@
 <script setup>
 import { ref, computed, onMounted } from 'vue'
 import { useRoute } from 'vue-router'
+import { deckDataPath } from '@/utils/deckPaths'
 
 // 1. Import the complete fleet of 8 gamified components
 import ClozeExercise from '@/components/activities/ClozeExercise.vue'
@@ -23,8 +24,6 @@ const errorMessage = ref(null)
 
 // Map routing parameters to build our dynamic public path structure
 const deckId = computed(() => route.params.deckId)
-const lang = computed(() => history.state?.lang || 'br')
-const level = computed(() => history.state?.level || 'beginner')
 
 // 2. Comprehensive Component Mapping Registry
 const componentMapping = {
@@ -40,8 +39,8 @@ const componentMapping = {
 
 // Asynchronous Data Fetching Initialization
 onMounted(async () => {
-  const targetPath = `/data/${lang.value}/${level.value}/${deckId.value}/exercises.json`
   try {
+    const targetPath = `${deckDataPath(route.params.langId, deckId.value)}/exercises.json`
     isLoading.value = true
     errorMessage.value = null
     
