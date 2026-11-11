@@ -17,7 +17,7 @@
     "type": "scramble",
     "payload": {
       "instruction": "Organize as palavras para formar uma saudação correta:",
-      "wordsPool": ["muito", "Olá!", "Tudo", "bem?", "bom"],
+      "wordsPool": ["Tudo", "Olá!", "Tudo", "bem?", "bom"],
       "correctSentence": "Olá! Tudo bem? Tudo bom"
     }
   },
