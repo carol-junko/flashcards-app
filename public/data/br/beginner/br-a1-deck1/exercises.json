@@ -84,7 +84,6 @@
     "type": "listening",
     "payload": {
       "instruction": "Ouça o áudio com atenção e digite exatamente o que foi dito:",
-      "audioUrl": "/audio/br-basics/bom-dia.mp3",
       "transcript": "Bom dia, como você está hoje?",
       "acceptedVariations": ["bom dia como voce esta hoje", "bom dia, como voce esta hoje?"]
     }

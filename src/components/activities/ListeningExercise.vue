@@ -75,12 +75,12 @@ const stopAudioPlayback = () => {
 }
 
 const playAudioTrack = () => {
-  if (!props.data?.audioText || isPlaying.value) return
+  if (!props.data?.transcript || isPlaying.value) return
 
   stopAudioPlayback()
   isPlaying.value = true
 
-  currentUtterance = new SpeechSynthesisUtterance(props.data.audioText)
+  currentUtterance = new SpeechSynthesisUtterance(props.data.transcript)
   currentUtterance.lang = props.data?.audioLang || 'pt-BR'
   currentUtterance.rate = props.data?.playbackRate || 0.85
 
@@ -97,23 +97,29 @@ const playAudioTrack = () => {
   window.speechSynthesis.speak(currentUtterance)
 }
 
+// Lowercase, drop punctuation and collapse spaces so "Bom dia, como..." and
+// "bom dia como..." compare equal. Accents are kept here on purpose.
 const sanitizeText = (str) => {
   return str
     .toLowerCase()
-    .replace(/[.,\/#!$%\^&\*;:{}=\-_`~()?]/g, '')
+    .replace(/[.,/#!¡?¿$%^&*;:{}=\-_`~()"'«»]/g, '')
     .replace(/\s+/g, ' ')
     .trim()
 }
 
 const evaluateSubmission = () => {
   const cleanInput = sanitizeText(userTranscript.value)
-  const cleanExpected = sanitizeText(props.data?.audioText || '')
+  // The exact transcript plus any variations the deck author accepts
+  // (e.g. the same sentence typed without accents).
+  const acceptedAnswers = [props.data?.transcript || '', ...(props.data?.acceptedVariations || [])]
+    .map(sanitizeText)
+    .filter(Boolean)
 
   emit('answered', {
     exerciseId: props.data.id,
-    isCorrect: cleanInput === cleanExpected,
+    isCorrect: acceptedAnswers.includes(cleanInput),
     provided: userTranscript.value.trim(),
-    expected: props.data.audioText
+    expected: props.data?.transcript
   })
 }
 
