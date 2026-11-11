@@ -113,8 +113,11 @@ const evaluateSubmission = () => {
   let isCorrect = true
   const mistakes = []
   const expectedMap = props.data?.truthMap || {}
+  // Name the array instead of starting a line with "[": without semicolons,
+  // JavaScript would glue that line onto the previous one ({}[...].forEach).
+  const categories = ['masculine', 'feminine']
 
-  ['masculine', 'feminine'].forEach(category => {
+  categories.forEach(category => {
     allocatedLists.value[category].forEach(noun => {
       if (expectedMap[noun] !== category) {
         isCorrect = false
