@@ -74,6 +74,10 @@ function goBack() {
       <button @click="goBack" class="back-link">← Choose a different language</button>
       <h2>Study Tracks</h2>
       <p class="subtitle">Select a subject deck below to begin parsing vocabulary and grammar rules</p>
+      <div class="category-actions">
+        <RouterLink class="btn btn-secondary" :to="`/placement/${langId}`">🎯 Find my level</RouterLink>
+        <RouterLink class="btn btn-primary" :to="`/plan/${langId}`">🗓️ Build my study plan</RouterLink>
+      </div>
     </header>
 
     <!-- Loading Placeholder view -->

@@ -1,4 +1,5 @@
 @import "./exercises.css"; /* <-- Seamlessly injects your 8-type engine styles */
+@import "./plan.css"; /* study plan, placement test and home "today" card */
 
 /* ==========================================================================
    1. Core Base Layout Reset

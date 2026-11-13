@@ -5,6 +5,8 @@ import CategoryView from '../views/CategoryView.vue'
 import ExerciseView from '../views/ExerciseView.vue'
 import FlashcardsView from '../views/FlashcardsView.vue'
 import ExerciseDashboard from '@/views/ExerciseDashboard.vue'
+import PlacementView from '@/views/PlacementView.vue'
+import StudyPlanView from '@/views/StudyPlanView.vue'
 const routes = [
   {
     path: '/',
@@ -35,6 +37,16 @@ const routes = [
     path: '/learn/:langId/:deckId/exercises',
     name: 'Exercises',
     component: ExerciseDashboard,
+  },
+  {
+    path: '/placement/:langId',
+    name: 'Placement',
+    component: PlacementView,
+  },
+  {
+    path: '/plan/:langId',
+    name: 'StudyPlan',
+    component: StudyPlanView,
   },
 ]
 

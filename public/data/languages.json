@@ -5,7 +5,44 @@
     "nativeName": "Português",
     "flag": "🇧🇷",
     "speechLang": "pt-BR",
-    "preferredVoice": "luciana"
+    "preferredVoice": "luciana",
+    "exams": "Celpe-Bras",
+    "grammarByLevel": {
+      "A1": [
+        "Ser vs estar (basic uses)",
+        "Present tense of regular -ar / -er / -ir verbs",
+        "Articles, noun gender and plural",
+        "Contractions: no, na, do, da, ao, à",
+        "Questions, numbers, days and time"
+      ],
+      "A2": [
+        "Pretérito perfeito (completed past)",
+        "Common irregular verbs: ir, ter, fazer, poder, querer",
+        "Near future: ir + infinitive",
+        "Possessives and demonstratives",
+        "Direct object pronouns in spoken Brazilian Portuguese"
+      ],
+      "B1": [
+        "Imperfeito vs perfeito (background vs event)",
+        "Futuro do presente and futuro do pretérito (conditional)",
+        "Por vs para",
+        "Reflexive verbs and comparatives",
+        "Introduction to the present subjunctive (espero que…)"
+      ],
+      "B2": [
+        "Present and imperfect subjunctive",
+        "Future subjunctive (quando, se, assim que…)",
+        "Personal infinitive",
+        "Passive voice and impersonal 'se'",
+        "Idiomatic expressions and connectors"
+      ],
+      "C1": [
+        "Compound tenses (mais-que-perfeito, futuro composto)",
+        "Formal register, written norms and mesóclise awareness",
+        "Advanced connectors and argumentation",
+        "Regional variation and colloquial speech"
+      ]
+    }
   },
   {
     "id": "fr",
@@ -13,6 +50,43 @@
     "nativeName": "Français",
     "flag": "🇫🇷",
     "speechLang": "fr-FR",
-    "preferredVoice": "thomas"
+    "preferredVoice": "thomas",
+    "exams": "DELF / DALF / TCF",
+    "grammarByLevel": {
+      "A1": [
+        "Être and avoir, present tense of -er verbs",
+        "Articles, noun gender and plural",
+        "Negation ne… pas",
+        "Asking questions (est-ce que, intonation)",
+        "Numbers, days and time"
+      ],
+      "A2": [
+        "Passé composé with avoir and être",
+        "Futur proche (aller + infinitive)",
+        "Partitive articles (du, de la, des)",
+        "Direct and indirect object pronouns",
+        "Reflexive verbs"
+      ],
+      "B1": [
+        "Imparfait vs passé composé",
+        "Futur simple and conditionnel présent",
+        "Pronouns y and en",
+        "Relative pronouns qui, que, où, dont",
+        "Introduction to the subjonctif présent"
+      ],
+      "B2": [
+        "Subjonctif présent (wishes, doubt, emotion)",
+        "Plus-que-parfait and conditionnel passé",
+        "Passive voice",
+        "Reported speech",
+        "Discourse connectors for argumentation"
+      ],
+      "C1": [
+        "Subjonctif passé and nuanced mood choice",
+        "Passé simple (recognition for reading)",
+        "Register: formal vs familiar French",
+        "Complex connectors and idiomatic expressions"
+      ]
+    }
   }
 ]
