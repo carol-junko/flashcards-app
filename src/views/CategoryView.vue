@@ -1,6 +1,7 @@
 <script setup>
 import { ref, onMounted, computed } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
+import { createProgressStore, deckStats } from '@/utils/srs'
 
 const route = useRoute()
 const router = useRouter()
@@ -9,6 +10,12 @@ const langId = computed(() => route.params.langId)
 const decks = ref([])
 const isLoading = ref(true)
 const fetchError = ref(null)
+const store = createProgressStore()
+
+// Due / new / mastered counts for a deck, from progress saved in this browser
+function studyStats(deck) {
+  return deckStats(store.getDeck(`${langId.value}/${deck.id}`), deck.cardCount)
+}
 
 
 // 🔄 Syncing the fetching logic with your file naming scheme
@@ -113,6 +120,14 @@ function goBack() {
             
             <h4 class="deck-title">{{ deck.title }}</h4>
             <p class="deck-description">{{ deck.description }}</p>
+
+            <div v-if="!deck.comingSoon" class="deck-srs-stats">
+              <span v-if="studyStats(deck).due" class="stat-due">{{ studyStats(deck).due }} due</span>
+              <span>{{ studyStats(deck).unseen }} new</span>
+              <span v-if="studyStats(deck).mastered" class="stat-mastered">
+                {{ studyStats(deck).mastered }} mastered
+              </span>
+            </div>
             
             <div class="deck-action-row">
               <span class="action-prompt">{{ deck.comingSoon ? 'Content in preparation' : 'Open Deck Dashboard' }}</span>
