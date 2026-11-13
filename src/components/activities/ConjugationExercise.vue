@@ -2,13 +2,13 @@
   <div class="conjugation-exercise-container">
     <div class="exercise-instruction-block">
       <h3 class="game-instruction">{{ data?.instruction }}</h3>
-      <p class="game-translation"><em>Conjugue o verbo entre parênteses no tempo correto.</em></p>
+      <p class="game-translation"><em>Write the correct form of the verb for each person.</em></p>
     </div>
 
     <!-- Active Grid Table Interface -->
     <div class="conjugation-matrix-card">
       <div class="conjugation-verb-banner">
-        Verbo: <span class="highlight-verb-text">{{ data?.verbTarget }}</span>
+        Verb: <span class="highlight-verb-text">{{ data?.verbTarget }}</span>
       </div>
       
       <div class="conjugation-input-table-grid">
@@ -24,7 +24,7 @@
               v-model="userConjugations[row.rowId]"
               type="text"
               class="form-control conjugation-field"
-              placeholder="Digite a conjugação..."
+              placeholder="Type the verb form..."
               autocomplete="off"
             />
           </div>
@@ -38,7 +38,7 @@
         :disabled="!isMatrixFormComplete" 
         @click="evaluateSubmission"
       >
-        Verificar Resposta
+        Check answer
       </button>
     </div>
   </div>

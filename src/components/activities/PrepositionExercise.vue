@@ -2,7 +2,7 @@
   <div class="preposition-exercise-container">
     <div class="exercise-instruction-block">
       <h3 class="game-instruction">{{ data?.instruction }}</h3>
-      <p class="game-translation"><em>Combine a preposição e o artigo para formar a contração correta.</em></p>
+      <p class="game-translation"><em>Combine a preposition and an article to form the right contraction.</em></p>
     </div>
 
     <div class="sentence-preview-box">
@@ -16,7 +16,7 @@
     <div class="contraction-forge-workspace">
       <!-- Left Element: Base Prepositions -->
       <div class="forge-selector-group">
-        <span class="selector-group-label">Preposição</span>
+        <span class="selector-group-label">Preposition</span>
         <div class="forge-options-grid">
           <button 
             v-for="prep in localPrepositions" 
@@ -34,7 +34,7 @@
 
       <!-- Right Element: Target Articles / Pronouns -->
       <div class="forge-selector-group">
-        <span class="selector-group-label">Artigo / Pronome</span>
+        <span class="selector-group-label">Article / pronoun</span>
         <div class="forge-options-grid">
           <button 
             v-for="art in localArticles" 
@@ -55,7 +55,7 @@
         :disabled="!selectedPrep || !selectedArticle" 
         @click="evaluateSubmission"
       >
-        Verificar Resposta
+        Check answer
       </button>
     </div>
   </div>

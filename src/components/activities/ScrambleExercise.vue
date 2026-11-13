@@ -2,13 +2,13 @@
   <div class="scramble-exercise-container">
     <div class="exercise-instruction-block">
       <h3 class="game-instruction">{{ data?.instruction }}</h3>
-      <p class="game-translation"><em>Ordene as palavras para formar a frase correta.</em></p>
+      <p class="game-translation"><em>Put the words in the right order.</em></p>
     </div>
 
     <!-- Target Assembly Area Grid -->
     <div class="scramble-assembly-board">
       <div v-if="assembledWords.length === 0" class="assembly-placeholder">
-        Toque nos blocos de palavras para construir a frase...
+        Tap the words to build the sentence...
       </div>
       <button 
         v-for="(word, idx) in assembledWords" 
@@ -39,7 +39,7 @@
         :disabled="hasRemainingPoolWords" 
         @click="evaluateSubmission"
       >
-        Verificar Resposta
+        Check answer
       </button>
     </div>
   </div>

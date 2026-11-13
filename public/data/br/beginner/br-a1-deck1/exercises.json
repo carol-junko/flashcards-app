@@ -122,6 +122,7 @@
     "type": "nounArticle",
     "payload": {
       "instruction": "Classifique cada substantivo pelo gênero: bom dia, boa tarde, boa noite...",
+      "labels": { "masculine": "o / um", "feminine": "a / uma" },
       "nounsList": ["dia", "tarde", "noite", "água", "pão", "café"],
       "truthMap": {
         "dia": "masculine",

@@ -1,12 +1,18 @@
 [
-    {
+  {
     "id": "br",
     "name": "Brazilian Portuguese",
-    "flag": "🇧🇷"  
-    },
-    {
+    "nativeName": "Português",
+    "flag": "🇧🇷",
+    "speechLang": "pt-BR",
+    "preferredVoice": "luciana"
+  },
+  {
     "id": "fr",
     "name": "French",
-    "flag": "🇫🇷"  
-    }
+    "nativeName": "Français",
+    "flag": "🇫🇷",
+    "speechLang": "fr-FR",
+    "preferredVoice": "thomas"
+  }
 ]

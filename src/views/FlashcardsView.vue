@@ -57,19 +57,19 @@
                 <h1 class="meaning-display">{{ currentCard?.back }}</h1>
               </div>
               
-              <span class="interaction-hint">Tap card interface to reveal Portuguese</span>
+              <span class="interaction-hint">Tap the card to reveal the {{ language?.name || 'answer' }}</span>
             </div>
 
-            <!-- BACK FACE PANEL: Displays Portuguese Translation (Audio Core) -->
+            <!-- BACK FACE PANEL: target-language side, read aloud on flip -->
             <div class="face back-face">
               <div class="face-header">
-                <span class="badge badge-back">Português (Target)</span>
+                <span class="badge badge-back">{{ language?.nativeName || 'Target' }}</span>
                 <!-- Replay option allows endless practice loops -->
                 <button 
                   @click.stop="triggerAudioVoice(currentCard?.front || '')" 
                   class="btn-speak-icon"
                 >
-                  🔊 Ouvir de novo
+                  🔊 Play again
                 </button>
               </div>
               
@@ -114,6 +114,7 @@
 import { ref, onMounted, onBeforeUnmount, computed } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { deckDataPath } from '@/utils/deckPaths'
+import { getLanguage, pickVoices } from '@/utils/languages'
 
 const route = useRoute()
 const router = useRouter()
@@ -123,6 +124,7 @@ const currentIndex = ref(0)
 const isFlipped = ref(false)
 const isLoading = ref(true)
 const fetchError = ref(null)
+const language = ref(null) // entry from languages.json (name, speechLang, preferredVoice)
 
 // Native Speech Synthesis System Voices
 const availableVoices = ref([])
@@ -149,22 +151,14 @@ function shuffleDeck(array) {
 
 function loadSystemVoices() {
   if ('speechSynthesis' in window) {
-    const allVoices = window.speechSynthesis.getVoices()
-    
-    // Filters to isolate target language options (Portuguese / pt-BR)
-    availableVoices.value = allVoices.filter(v => v.lang.startsWith('pt'))
-    
-    // 👑 Target Luciana explicitly by checking system voice identifiers
-    const lucianaIdx = availableVoices.value.findIndex(v => 
-      v.name.toLowerCase().includes('luciana')
+    if (!language.value) return
+    // Best voices for this language come first (preferred voice, then exact locale)
+    availableVoices.value = pickVoices(
+      window.speechSynthesis.getVoices(),
+      language.value.speechLang,
+      language.value.preferredVoice
     )
-    
-    if (lucianaIdx !== -1) {
-      selectedVoiceIndex.value = lucianaIdx
-    } else if (availableVoices.value.length > 0) {
-      // Fallback to whatever premium pt-BR speaker is active if Luciana isn't installed
-      selectedVoiceIndex.value = 0
-    }
+    selectedVoiceIndex.value = 0
   }
 }
 
@@ -174,6 +168,7 @@ onMounted(async () => {
       throw new Error("Missing structural identification parameters.")
     }
 
+    language.value = await getLanguage(route.params.langId)
     const jsonPath = `${deckDataPath(route.params.langId, deckId.value)}/flashcards.json`
     
     const response = await fetch(jsonPath)
@@ -237,7 +232,7 @@ function triggerAudioVoice(text) {
     if (activeVoice) {
       utterance.voice = activeVoice
     } else {
-      utterance.lang = 'pt-BR'
+      utterance.lang = language.value?.speechLang || 'en-US'
     }
     
     utterance.rate = 0.82 // Slightly adjusted for beautiful, crisp pronounciation timing

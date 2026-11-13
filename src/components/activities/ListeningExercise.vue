@@ -2,7 +2,7 @@
   <div class="listening-exercise-container">
     <div class="exercise-instruction-block">
       <h3 class="game-instruction">{{ data?.instruction }}</h3>
-      <p class="game-translation"><em>Ouça o áudio com atenção e escreva o que ouviu.</em></p>
+      <p class="game-translation"><em>Listen carefully and type what you hear.</em></p>
     </div>
 
     <div class="audio-playback-deck">
@@ -18,17 +18,17 @@
             <path v-if="isPlaying" d="M18.5 12c0-2.185-1.143-4.103-2.857-5.183a.75.75 0 00-.786 1.28c1.233.778 2.043 2.155 2.043 3.722a4.391 4.391 0 01-2.043 3.722.75.75 0 00.786 1.28c1.714-1.08 2.857-2.998 2.857-5.183z" />
           </svg>
         </span>
-        <span class="btn-audio-label">{{ isPlaying ? 'Ouvindo...' : 'Ouvir Áudio' }}</span>
+        <span class="btn-audio-label">{{ isPlaying ? 'Playing...' : 'Play audio' }}</span>
       </button>
     </div>
 
     <div class="transcript-entry-zone">
-      <label for="transcript-input" class="input-field-label">Sua resposta:</label>
+      <label for="transcript-input" class="input-field-label">Your answer:</label>
       <textarea
         id="transcript-input"
         v-model="userTranscript"
         class="form-control transcript-textarea"
-        placeholder="Digite aqui exatamente o que você ouviu..."
+        placeholder="Type exactly what you heard..."
         rows="3"
         :disabled="isPlaying"
       ></textarea>
@@ -40,19 +40,21 @@
         :disabled="!userTranscript.trim() || isPlaying" 
         @click="evaluateSubmission"
       >
-        Verificar Resposta
+        Check answer
       </button>
     </div>
   </div>
 </template>
 
 <script setup>
-import { ref, watch, onMounted, onBeforeUnmount } from 'vue'
+import { ref, watch, onMounted, onBeforeUnmount, inject } from 'vue'
 
 const props = defineProps({
   data: { type: Object, required: true }
 })
 const emit = defineEmits(['answered'])
+// Provided by ExerciseDashboard from languages.json (e.g. 'pt-BR', 'fr-FR')
+const speechLang = inject('speechLang', null)
 
 const userTranscript = ref('')
 const isPlaying = ref(false)
@@ -81,7 +83,7 @@ const playAudioTrack = () => {
   isPlaying.value = true
 
   currentUtterance = new SpeechSynthesisUtterance(props.data.transcript)
-  currentUtterance.lang = props.data?.audioLang || 'pt-BR'
+  currentUtterance.lang = props.data?.audioLang || speechLang?.value || 'en-US'
   currentUtterance.rate = props.data?.playbackRate || 0.85
 
   currentUtterance.onend = () => {

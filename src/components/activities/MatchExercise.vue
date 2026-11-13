@@ -2,7 +2,7 @@
   <div class="match-exercise-container">
     <div class="exercise-instruction-block">
       <h3 class="game-instruction">{{ data?.instruction }}</h3>
-      <p class="game-translation"><em>Combine os pares corretos.</em></p>
+      <p class="game-translation"><em>Match each item with its pair.</em></p>
     </div>
 
     <div class="match-columns-grid">
@@ -47,7 +47,7 @@
         :disabled="!hasCompletedAllMatches" 
         @click="evaluateSubmission"
       >
-        Verificar Resposta
+        Check answer
       </button>
     </div>
   </div>

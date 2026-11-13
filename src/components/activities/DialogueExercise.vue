@@ -2,7 +2,7 @@
   <div class="dialogue-exercise-container">
     <div class="exercise-instruction-block">
       <h3 class="game-instruction">{{ data?.instruction }}</h3>
-      <p class="game-translation"><em>Complete a conversa escolhendo a resposta mais adequada.</em></p>
+      <p class="game-translation"><em>Choose the most natural reply.</em></p>
     </div>
 
     <p v-if="data?.context" class="dialogue-context">{{ data.context }}</p>
@@ -26,11 +26,11 @@
 
       <!-- The Dynamic User Target Option Slot -->
       <div class="chat-bubble-row role-right user-target-slot">
-        <div class="character-avatar-badge user-avatar">Você</div>
+        <div class="character-avatar-badge user-avatar">You</div>
         <div class="chat-bubble-content user-bubble">
-          <span class="character-name-label">Sua Resposta</span>
+          <span class="character-name-label">Your reply</span>
           <p class="character-text-phrase" :class="{ 'pending-selection-text': !selectedOptionText }">
-            {{ selectedOptionText || 'Selecione uma opção abaixo...' }}
+            {{ selectedOptionText || 'Pick an option below...' }}
           </p>
         </div>
       </div>
@@ -58,7 +58,7 @@
         :disabled="selectedIndex === null" 
         @click="evaluateSubmission"
       >
-        Verificar Resposta
+        Check answer
       </button>
     </div>
   </div>

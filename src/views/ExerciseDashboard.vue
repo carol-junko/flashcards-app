@@ -1,7 +1,8 @@
 <script setup>
-import { ref, computed, onMounted } from 'vue'
+import { ref, computed, onMounted, provide } from 'vue'
 import { useRoute } from 'vue-router'
 import { deckDataPath } from '@/utils/deckPaths'
+import { getLanguage } from '@/utils/languages'
 
 // 1. Import the complete fleet of 8 gamified components
 import ClozeExercise from '@/components/activities/ClozeExercise.vue'
@@ -24,6 +25,13 @@ const errorMessage = ref(null)
 
 // Map routing parameters to build our dynamic public path structure
 const deckId = computed(() => route.params.deckId)
+
+// Exercises that speak (listening) read the voice language from here
+const speechLang = ref(null)
+provide('speechLang', speechLang)
+getLanguage(route.params.langId)
+  .then((language) => { speechLang.value = language.speechLang })
+  .catch(() => { /* unknown language: components fall back to a default voice */ })
 
 // 2. Comprehensive Component Mapping Registry
 const componentMapping = {
