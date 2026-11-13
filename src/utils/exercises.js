@@ -1,4 +1,5 @@
 import { deckDataPath } from './deckPaths.js'
+import { generateExercises } from './exerciseGenerator.js'
 
 // Fetch a JSON file, returning null when it doesn't exist.
 // Careful: single-page-app hosts (Vite preview, Netlify...) answer a missing
@@ -11,9 +12,14 @@ export async function fetchJsonIfExists(url) {
   return response.json()
 }
 
-// Hand-written exercises for a deck (exercises.json), or [] if it has none.
+// A deck's exercises: the hand-written exercises.json when the deck has one,
+// otherwise a fresh set generated from the deck's own flashcards.
 export async function loadExercises(langId, deckId) {
-  const data = await fetchJsonIfExists(`${deckDataPath(langId, deckId)}/exercises.json`)
-  if (!data) return []
-  return Array.isArray(data) ? data : data.exercises || []
+  const folder = deckDataPath(langId, deckId)
+  const data = await fetchJsonIfExists(`${folder}/exercises.json`)
+  const handWritten = data ? (Array.isArray(data) ? data : data.exercises || []) : []
+  if (handWritten.length) return handWritten
+
+  const cards = await fetchJsonIfExists(`${folder}/flashcards.json`)
+  return Array.isArray(cards) ? generateExercises(cards) : []
 }
