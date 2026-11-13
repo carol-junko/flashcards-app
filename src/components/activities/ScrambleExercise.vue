@@ -101,7 +101,8 @@ const evaluateSubmission = () => {
     exerciseId: props.data.id,
     isCorrect,
     provided: rawProvided,
-    expected: rawExpected
+    expected: rawExpected,
+    correctAnswer: rawExpected
   })
 }
 

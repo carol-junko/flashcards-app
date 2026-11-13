@@ -87,7 +87,11 @@ const evaluateSubmission = () => {
     }
   })
 
-  emit('answered', { exerciseId: props.data.id, isCorrect, mistakes })
+  // Full sentence with every blank filled in, shown after a mistake
+  const correctAnswer = sentenceChunks.value
+    .map((c) => (c.type === 'blank' ? expectedMap[c.blankId] : c.value))
+    .join('')
+  emit('answered', { exerciseId: props.data.id, isCorrect, mistakes, correctAnswer })
 }
 
 watch(() => props.data, initializeClozeWorkspace, { deep: true })

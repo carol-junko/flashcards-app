@@ -121,7 +121,8 @@ const evaluateSubmission = () => {
     exerciseId: props.data.id,
     isCorrect: acceptedAnswers.includes(cleanInput),
     provided: userTranscript.value.trim(),
-    expected: props.data?.transcript
+    expected: props.data?.transcript,
+    correctAnswer: props.data?.transcript
   })
 }
 

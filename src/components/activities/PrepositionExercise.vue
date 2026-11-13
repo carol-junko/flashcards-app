@@ -110,7 +110,8 @@ const evaluateSubmission = () => {
       article: selectedArticle.value,
       contraction: currentContraction.value
     },
-    expected: { contraction: correctContraction }
+    expected: { contraction: correctContraction },
+    correctAnswer: `${props.data?.sentenceBefore || ''}${correctContraction}${props.data?.sentenceAfter || ''}`.trim()
   })
 }
 

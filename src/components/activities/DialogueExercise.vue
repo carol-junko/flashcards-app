@@ -90,6 +90,7 @@ const evaluateSubmission = () => {
     isCorrect,
     provided: selectedOption?.text,
     expected: props.data?.options?.find(o => o.isCorrect)?.text,
+    correctAnswer: props.data?.options?.find(o => o.isCorrect)?.text,
     feedback: selectedOption?.feedback
   })
 }

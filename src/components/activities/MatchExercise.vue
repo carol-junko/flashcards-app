@@ -116,7 +116,11 @@ const evaluateSubmission = () => {
     }
   })
 
-  emit('answered', { exerciseId: props.data.id, isCorrect, mistakes })
+  const textOf = (list, id) => list.find((item) => String(item.id) === String(id))?.text
+  const correctAnswer = (props.data?.sources || [])
+    .map((s) => `${s.text} → ${textOf(props.data.targets, expectedMap[s.id])}`)
+    .join(' · ')
+  emit('answered', { exerciseId: props.data.id, isCorrect, mistakes, correctAnswer })
 }
 
 watch(() => props.data, initializeMatchDeck, { deep: true })

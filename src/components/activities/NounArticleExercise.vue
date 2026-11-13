@@ -128,7 +128,9 @@ const evaluateSubmission = () => {
     })
   })
 
-  emit('answered', { exerciseId: props.data.id, isCorrect, mistakes })
+  const nounsOf = (gender) => Object.keys(expectedMap).filter((n) => expectedMap[n] === gender).join(', ')
+  const correctAnswer = `Masculine: ${nounsOf('masculine')} · Feminine: ${nounsOf('feminine')}`
+  emit('answered', { exerciseId: props.data.id, isCorrect, mistakes, correctAnswer })
 }
 
 watch(() => props.data, initializeSortingDeck, { deep: true })
