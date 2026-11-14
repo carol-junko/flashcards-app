@@ -627,8 +627,7 @@
     "category": "Psychology",
     "title": "Psychology & Philosophy",
     "description": "Deconstruct cognitive habits, defense mechanisms, existential questions, and identity models.",
-    "cardCount": 45,
-    "comingSoon": true
+    "cardCount": 45
   },
   {
     "id": "br-c1-deck71",
@@ -637,6 +636,6 @@
     "title": "The Native Integration Exam",
     "description": "The ultimate test containing highly obscure idioms and rapid-fire conversational scenarios.",
     "cardCount": 50,
-    "comingSoon": true
+    "category": "Final Challenge"
   }
 ]
