@@ -76,6 +76,7 @@ its manifest.
 
 ## Deploying
 
-The app uses clean URLs such as `/learn/br/br-a1-deck1/flashcards`. The host must serve
-`index.html` for any unknown path (single-page app fallback). Otherwise refreshing a page
-or opening a shared link gives a 404.
+Hosted on **Netlify**. The app uses clean URLs such as `/learn/br/br-a1-deck1/flashcards`,
+so `public/_redirects` tells Netlify to serve `index.html` for any path that isn't a real file;
+without it, refreshing a page or opening a shared link gives a 404.
+Netlify build settings: build command `npm run build`, publish directory `dist`.
