@@ -37,7 +37,12 @@ test('a feasible plan schedules every deck of the levels to study, in order', ()
 })
 
 test('levels without published content are reported', () => {
-  const plan = buildPlan({ currentLevel: 'B2', targetLevel: 'C1', weeks: 52, minutesPerDay: 60, decks })
+  // Fixture: the C1 decks are still locked
+  const lockedC1 = [
+    { id: 'br-b2-deck1', cardCount: 40 },
+    { id: 'br-c1-deck2', cardCount: 40, comingSoon: true },
+  ]
+  const plan = buildPlan({ currentLevel: 'B2', targetLevel: 'C1', weeks: 52, minutesPerDay: 60, decks: lockedC1 })
   assert.deepEqual(plan.missingLevels, ['C1'])
 })
 
