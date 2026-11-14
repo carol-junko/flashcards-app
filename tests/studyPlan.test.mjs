@@ -79,3 +79,10 @@ test('currentWeek', () => {
   assert.equal(currentWeek('2026-11-01T00:00:00Z', '2026-11-03T00:00:00Z'), 1)
   assert.equal(currentWeek('2026-11-01T00:00:00Z', '2026-11-15T12:00:00Z'), 3)
 })
+
+test('week 1 of a plan always has a deck, even with few big decks over many weeks', () => {
+  const plan = buildPlan({ currentLevel: 'B2', targetLevel: 'C1', weeks: 52, minutesPerDay: 60, decks })
+  assert.ok(plan.schedule[0].decks.length > 0, 'week 1 is empty')
+  const scheduled = plan.schedule.flatMap((w) => w.decks.map((d) => d.id))
+  assert.deepEqual(scheduled, decks.filter((d) => cefrOfDeck(d.id) === 'C1').map((d) => d.id))
+})

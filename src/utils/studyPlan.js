@@ -88,9 +88,9 @@ export function scheduleDecks(decks, weeks) {
   const schedule = Array.from({ length: weeks }, (_, i) => ({ week: i + 1, decks: [], cards: 0 }))
   let assigned = 0
   for (const deck of decks) {
-    // Put each deck in the week where its midpoint falls
-    const midpoint = assigned + deck.cardCount / 2
-    const week = Math.min(weeks - 1, Math.floor(midpoint / perWeek))
+    // Put each deck in the week where it starts, so week 1 always has a deck
+    // (placing by midpoint left week 1 empty when decks are big and weeks many)
+    const week = Math.min(weeks - 1, Math.floor(assigned / perWeek))
     schedule[week].decks.push(deck)
     schedule[week].cards += deck.cardCount
     assigned += deck.cardCount
