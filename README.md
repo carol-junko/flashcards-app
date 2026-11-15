@@ -19,6 +19,9 @@ learner's progress is saved in their browser (localStorage).
 - **Study plan.** Current level → target level, deadline, minutes per day, goal. Gives an honest
   feasibility check (hours from Cambridge CEFR estimates), a daily routine, grammar focus per
   level and a week-by-week deck schedule. A saved plan shows on the home page.
+- **Installable app (PWA).** Works offline after the first visit; "Download for offline" on the
+  deck list saves a whole language. Install from the "📲 Install app" button (Chrome, Edge,
+  Android) or, on iPhone, Safari's Share menu → "Add to Home Screen".
 - **Languages:** Brazilian Portuguese (A1–B2, C1 in preparation) and French (A1 starter deck).
 
 ## Getting started
@@ -80,3 +83,7 @@ Hosted on **Netlify**. The app uses clean URLs such as `/learn/br/br-a1-deck1/fl
 so `public/_redirects` tells Netlify to serve `index.html` for any path that isn't a real file;
 without it, refreshing a page or opening a shared link gives a 404.
 Netlify build settings: build command `npm run build`, publish directory `dist`.
+
+Offline support lives in `public/sw.js` (service worker) and `public/manifest.webmanifest`.
+When you change how the service worker caches files, bump its `VERSION` constant so every
+installed copy drops its old cache.

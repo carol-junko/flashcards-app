@@ -16,7 +16,9 @@ export async function fetchJsonIfExists(url) {
 // otherwise a fresh set generated from the deck's own flashcards.
 export async function loadExercises(langId, deckId) {
   const folder = deckDataPath(langId, deckId)
-  const data = await fetchJsonIfExists(`${folder}/exercises.json`)
+  // Offline, a deck without exercises.json fails to fetch (nothing was cached):
+  // treat that as "no hand-written exercises" and generate them from the cards.
+  const data = await fetchJsonIfExists(`${folder}/exercises.json`).catch(() => null)
   const handWritten = data ? (Array.isArray(data) ? data : data.exercises || []) : []
   if (handWritten.length) return handWritten
 
