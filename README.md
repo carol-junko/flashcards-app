@@ -12,9 +12,9 @@ learner's progress is saved in their browser (localStorage).
 - **Flashcards with spaced repetition (FSRS).** After each card, rate Again / Hard / Good /
   Easy; the app schedules the next review. Up to 20 new cards per deck per day. Keyboard:
   `Space` to flip, `1`–`4` to rate. A card is "mastered" once it is remembered for 3+ weeks.
-- **Activities.** Decks with a hand-written `exercises.json` use it (8 exercise types).
-  Every other deck gets exercises generated from its own cards: match, fill in the blank,
-  build the sentence, dictation. Mistakes show the correct answer; a summary ends each session.
+- **Activities.** Every deck gets exercises generated from its own cards: match, fill in
+  the blank, build the sentence, dictation. A deck can optionally use a hand-written
+  `exercises.json` instead (examples in `docs/exercise-examples/`). Mistakes show the correct answer; a summary ends each session.
 - **Placement test.** Adaptive, about 5 minutes; estimates the learner's CEFR level.
 - **Study plan.** Current level → target level, deadline, minutes per day, goal. Gives an honest
   feasibility check (hours from Cambridge CEFR estimates), a daily routine, grammar focus per

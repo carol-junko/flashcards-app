@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-321",
+    "front": "C'est combien, ce pull ?",
+    "pronunciation": "[seh kohm-BYAN, suh PÜL]",
+    "back": "How much is this sweater?",
+    "context": "'Ce pull' = this sweater. Point and ask. More formal: 'Combien coûte ce pull ?'"
+  },
+  {
+    "id": "fr-322",
+    "front": "Il coûte quarante-neuf euros.",
+    "pronunciation": "[eel koot kah-rahnt-nuh vuh-ROH]",
+    "back": "It costs forty-nine euros.",
+    "context": "'Coûter' = to cost. Liaison: neuf euros [nuh-vuh-ROH]."
+  },
+  {
+    "id": "fr-323",
+    "front": "C'est un peu trop cher pour moi.",
+    "pronunciation": "[seh tan puh troh SHEHR poor MWAH]",
+    "back": "It's a bit too expensive for me.",
+    "context": "A polite way to say no to a price."
+  },
+  {
+    "id": "fr-324",
+    "front": "Vous avez quelque chose de moins cher ?",
+    "pronunciation": "[voo zah-vay kel-kuh shohz duh mwan SHEHR]",
+    "back": "Do you have anything cheaper?",
+    "context": "'Quelque chose de' + adjective: quelque chose de plus grand, de moins cher."
+  },
+  {
+    "id": "fr-325",
+    "front": "Je peux l'essayer ?",
+    "pronunciation": "[zhuh puh leh-seh-YAY]",
+    "back": "Can I try it on?",
+    "context": "'Essayer' = to try (on). 'La cabine d'essayage' = the fitting room."
+  },
+  {
+    "id": "fr-326",
+    "front": "Où sont les cabines d'essayage ?",
+    "pronunciation": "[oo sohn lay kah-BEEN deh-seh-YAZH]",
+    "back": "Where are the fitting rooms?",
+    "context": "Often limited to a few items: 'trois articles maximum'."
+  },
+  {
+    "id": "fr-327",
+    "front": "Quelle est votre taille ?",
+    "pronunciation": "[kel eh voh-truh TAHY]",
+    "back": "What's your size?",
+    "context": "'La taille' = clothing size (also height and waist). For shoes: 'la pointure'."
+  },
+  {
+    "id": "fr-328",
+    "front": "Je fais du trente-huit.",
+    "pronunciation": "[zhuh feh dü trahnt-WEET]",
+    "back": "I'm a size 38.",
+    "context": "'Faire du' + size. European sizes: a women's 38 is roughly a US 8."
+  },
+  {
+    "id": "fr-329",
+    "front": "Vous l'avez en plus grand ?",
+    "pronunciation": "[voo lah-vay ahn plü GRAHN]",
+    "back": "Do you have it in a bigger size?",
+    "context": "Also: en plus petit, en bleu, en noir."
+  },
+  {
+    "id": "fr-330",
+    "front": "Il est trop petit, il me serre.",
+    "pronunciation": "[eel eh troh puh-TEE, eel muh SEHR]",
+    "back": "It's too small, it's tight.",
+    "context": "'Serrer' = to be tight. 'C'est trop large' = it's too loose."
+  },
+  {
+    "id": "fr-331",
+    "front": "Ça vous va très bien !",
+    "pronunciation": "[sah voo vah treh BYAN]",
+    "back": "It really suits you!",
+    "context": "'Aller à quelqu'un' = to suit someone. Sales assistants say it a lot!"
+  },
+  {
+    "id": "fr-332",
+    "front": "Je regarde seulement, merci.",
+    "pronunciation": "[zhuh ruh-GARD suhl-MAHN, mehr-SEE]",
+    "back": "I'm just looking, thanks.",
+    "context": "The answer to 'Je peux vous aider ?' when you don't need help."
+  },
+  {
+    "id": "fr-333",
+    "front": "Je le prends.",
+    "pronunciation": "[zhuh luh PRAHN]",
+    "back": "I'll take it.",
+    "context": "'Le' replaces the item (le pull). For a feminine item: 'Je la prends.'"
+  },
+  {
+    "id": "fr-334",
+    "front": "Vous payez comment ?",
+    "pronunciation": "[voo peh-YAY koh-MAHN]",
+    "back": "How would you like to pay?",
+    "context": "The cashier's question. 'Par carte' (by card), 'en espèces' (in cash)."
+  },
+  {
+    "id": "fr-335",
+    "front": "Je peux payer par carte ?",
+    "pronunciation": "[zhuh puh peh-YAY par KART]",
+    "back": "Can I pay by card?",
+    "context": "Small shops sometimes require a minimum: 'à partir de 10 euros'."
+  },
+  {
+    "id": "fr-336",
+    "front": "Vous avez la monnaie ?",
+    "pronunciation": "[voo zah-vay lah moh-NEH]",
+    "back": "Do you have change?",
+    "context": "'La monnaie' = change or coins. Not 'money', which is 'l'argent'."
+  },
+  {
+    "id": "fr-337",
+    "front": "Je peux avoir un sac, s'il vous plaît ?",
+    "pronunciation": "[zhuh puh ah-vwahr an SAK, seel voo PLEH]",
+    "back": "Can I have a bag, please?",
+    "context": "Plastic bags are banned in French shops; paper or reusable bags often cost a little."
+  },
+  {
+    "id": "fr-338",
+    "front": "C'est en solde ?",
+    "pronunciation": "[seh tahn SOLD]",
+    "back": "Is it on sale?",
+    "context": "'Les soldes' are the official sales periods in France, in January and in summer."
+  },
+  {
+    "id": "fr-339",
+    "front": "Il y a moins vingt pour cent sur tous les manteaux.",
+    "pronunciation": "[eel yah mwan van poor SAHN sür too lay mahn-TOH]",
+    "back": "There's twenty percent off all coats.",
+    "context": "'Moins 20 %' = 20% off. 'Le manteau' (coat) has the plural 'manteaux'."
+  },
+  {
+    "id": "fr-340",
+    "front": "Je voudrais échanger cette chemise.",
+    "pronunciation": "[zhuh voo-dreh ay-shahn-ZHAY set shuh-MEEZ]",
+    "back": "I'd like to exchange this shirt.",
+    "context": "'Échanger' = to exchange; 'se faire rembourser' = to get a refund. Keep 'le ticket de caisse' (receipt)."
+  },
+  {
+    "id": "fr-341",
+    "front": "Vous avez le ticket de caisse ?",
+    "pronunciation": "[voo zah-vay luh tee-KAY duh KES]",
+    "back": "Do you have the receipt?",
+    "context": "'La caisse' = the checkout/till; 'le caissier, la caissière' = cashier."
+  },
+  {
+    "id": "fr-342",
+    "front": "un pantalon / un jean / une jupe",
+    "pronunciation": "[an pahn-tah-LOHN / an DJEEN / ün ZHÜP]",
+    "back": "trousers / jeans / skirt",
+    "context": "'Un pantalon' is singular in French (one pair of trousers)."
+  },
+  {
+    "id": "fr-343",
+    "front": "une chemise / un tee-shirt / une veste",
+    "pronunciation": "[ün shuh-MEEZ / an tee-SHURT / ün VEST]",
+    "back": "shirt / T-shirt / jacket",
+    "context": "'Une veste' = jacket; 'un gilet' = cardigan or vest."
+  },
+  {
+    "id": "fr-344",
+    "front": "des chaussures / des baskets / des bottes",
+    "pronunciation": "[day shoh-SÜR / day bas-KET / day BUT]",
+    "back": "shoes / sneakers / boots",
+    "context": "'Les baskets' (sneakers) is everyday French; 'les tennis' is also heard."
+  },
+  {
+    "id": "fr-345",
+    "front": "un manteau / une écharpe / un bonnet",
+    "pronunciation": "[an mahn-TOH / ün ay-SHARP / an boh-NEH]",
+    "back": "coat / scarf / beanie",
+    "context": "Winter essentials. 'Des gants' = gloves."
+  },
+  {
+    "id": "fr-346",
+    "front": "Je cherche un cadeau pour ma mère.",
+    "pronunciation": "[zhuh shersh an kah-DOH poor mah MEHR]",
+    "back": "I'm looking for a present for my mother.",
+    "context": "'Vous pouvez me faire un paquet cadeau ?' = Can you gift-wrap it?"
+  },
+  {
+    "id": "fr-347",
+    "front": "Le marché a lieu tous les mardis matin.",
+    "pronunciation": "[luh mar-SHAY ah lyuh too lay mar-dee mah-TAN]",
+    "back": "The market is held every Tuesday morning.",
+    "context": "'Avoir lieu' = to take place. Open-air markets are a central part of French life."
+  },
+  {
+    "id": "fr-348",
+    "front": "Un kilo de tomates, s'il vous plaît.",
+    "pronunciation": "[an kee-loh duh toh-MAHT, seel voo PLEH]",
+    "back": "A kilo of tomatoes, please.",
+    "context": "At the market, the seller usually picks the produce for you: don't touch!"
+  },
+  {
+    "id": "fr-349",
+    "front": "Et avec ceci ?",
+    "pronunciation": "[ay ah-vek suh-SEE]",
+    "back": "Anything else?",
+    "context": "What every French shopkeeper asks. Answer: 'Ce sera tout, merci.'"
+  },
+  {
+    "id": "fr-350",
+    "front": "Ce sera tout, merci.",
+    "pronunciation": "[suh suh-RAH TOO, mehr-SEE]",
+    "back": "That'll be all, thanks.",
+    "context": "Also: 'C'est tout.' Then: 'Ça fait combien ?'"
+  },
+  {
+    "id": "fr-351",
+    "front": "la boulangerie, la boucherie, la pharmacie",
+    "pronunciation": "[lah boo-lahn-zhuh-REE, lah boosh-REE, lah far-mah-SEE]",
+    "back": "bakery, butcher's, pharmacy",
+    "context": "Many shop names end in -erie: la fromagerie, la poissonnerie, la librairie (bookshop!)."
+  },
+  {
+    "id": "fr-352",
+    "front": "La librairie est à côté de la poste.",
+    "pronunciation": "[lah lee-breh-REE eh tah koh-TAY duh lah POST]",
+    "back": "The bookshop is next to the post office.",
+    "context": "False friend: 'une librairie' sells books; a library is 'une bibliothèque'."
+  },
+  {
+    "id": "fr-353",
+    "front": "Le magasin ferme à dix-neuf heures.",
+    "pronunciation": "[luh mah-gah-ZAN fehrm ah deez-nuh-VUHR]",
+    "back": "The shop closes at 7 p.m.",
+    "context": "Many small shops close for lunch and on Sundays."
+  },
+  {
+    "id": "fr-354",
+    "front": "On fait du lèche-vitrines ?",
+    "pronunciation": "[ohn feh dü lesh-vee-TREEN]",
+    "back": "Shall we go window-shopping?",
+    "context": "Literally 'window-licking'! A fun everyday expression."
+  },
+  {
+    "id": "fr-355",
+    "front": "Je n'ai pas assez d'argent sur moi.",
+    "pronunciation": "[zhuh neh pah zah-SAY dar-ZHAHN sür MWAH]",
+    "back": "I don't have enough money on me.",
+    "context": "'Assez de' = enough. 'L'argent' = money (also silver)."
+  }
+]

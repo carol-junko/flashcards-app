@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-391",
+    "front": "Excusez-moi, où est la station de métro la plus proche ?",
+    "pronunciation": "[ex-kü-zay-MWAH, oo eh lah stah-SYOHN duh may-TROH lah plü PROSH]",
+    "back": "Excuse me, where's the nearest metro station?",
+    "context": "Always start with 'Excusez-moi' or 'Bonjour' before asking a stranger anything."
+  },
+  {
+    "id": "fr-392",
+    "front": "Allez tout droit, puis tournez à gauche.",
+    "pronunciation": "[ah-lay too DRWAH, pwee toor-nay ah GOHSH]",
+    "back": "Go straight ahead, then turn left.",
+    "context": "Careful: 'tout droit' = straight ahead, but 'à droite' = to the right."
+  },
+  {
+    "id": "fr-393",
+    "front": "C'est la deuxième rue à droite.",
+    "pronunciation": "[seh lah duh-zyem rü ah DRWAHT]",
+    "back": "It's the second street on the right.",
+    "context": "Ordinals: premier/première, deuxième, troisième…"
+  },
+  {
+    "id": "fr-394",
+    "front": "C'est loin d'ici ?",
+    "pronunciation": "[seh lwan dee-SEE]",
+    "back": "Is it far from here?",
+    "context": "Answer: 'C'est à cinq minutes à pied' = it's a five-minute walk."
+  },
+  {
+    "id": "fr-395",
+    "front": "C'est à dix minutes à pied.",
+    "pronunciation": "[seh tah dee mee-nüt ah PYAY]",
+    "back": "It's a ten-minute walk.",
+    "context": "'À pied' (on foot) but 'en voiture', 'en bus', 'en train', 'à vélo'."
+  },
+  {
+    "id": "fr-396",
+    "front": "Je me suis perdu, vous pouvez m'aider ?",
+    "pronunciation": "[zhuh muh swee pehr-DÜ, voo poo-vay meh-DAY]",
+    "back": "I'm lost, can you help me?",
+    "context": "'Se perdre' = to get lost. A woman says 'perdue'."
+  },
+  {
+    "id": "fr-397",
+    "front": "Vous pouvez me montrer sur le plan ?",
+    "pronunciation": "[voo poo-vay muh mohn-tray sür luh PLAHN]",
+    "back": "Can you show me on the map?",
+    "context": "'Le plan' = city or metro map; 'la carte' = a larger map (country, region)."
+  },
+  {
+    "id": "fr-398",
+    "front": "Un billet pour Lyon, s'il vous plaît.",
+    "pronunciation": "[an bee-YEH poor lee-OHN, seel voo PLEH]",
+    "back": "A ticket to Lyon, please.",
+    "context": "'Un billet' = ticket. Most train tickets are bought online or in the SNCF app."
+  },
+  {
+    "id": "fr-399",
+    "front": "Un aller simple ou un aller-retour ?",
+    "pronunciation": "[an nah-lay SAN-pluh oo an nah-lay-ruh-TOOR]",
+    "back": "One way or return?",
+    "context": "'Aller simple' = one way; 'aller-retour' = round trip."
+  },
+  {
+    "id": "fr-400",
+    "front": "Le train part de quel quai ?",
+    "pronunciation": "[luh tran par duh kel KAY]",
+    "back": "Which platform does the train leave from?",
+    "context": "'Le quai' = platform. The platform is often announced only 20 minutes before departure."
+  },
+  {
+    "id": "fr-401",
+    "front": "Le train a vingt minutes de retard.",
+    "pronunciation": "[luh tran ah van mee-nüt duh ruh-TAR]",
+    "back": "The train is twenty minutes late.",
+    "context": "'Avoir du retard' = to be delayed. 'Le train est supprimé' = the train is cancelled."
+  },
+  {
+    "id": "fr-402",
+    "front": "Est-ce qu'il faut changer ?",
+    "pronunciation": "[es-keel foh shahn-ZHAY]",
+    "back": "Do I need to change?",
+    "context": "'Changer' (de train, de ligne) = to transfer. 'Une correspondance' = a connection."
+  },
+  {
+    "id": "fr-403",
+    "front": "Prenez la ligne quatre, direction Porte de Clignancourt.",
+    "pronunciation": "[pruh-nay lah leen KAT, dee-rek-SYOHN port duh klee-nyahn-KOOR]",
+    "back": "Take line 4, towards Porte de Clignancourt.",
+    "context": "In the Paris metro you follow lines by number and by their final stop ('direction')."
+  },
+  {
+    "id": "fr-404",
+    "front": "Descendez au prochain arrêt.",
+    "pronunciation": "[day-sahn-day oh proh-shan nah-REH]",
+    "back": "Get off at the next stop.",
+    "context": "'Descendre' = to get off; 'monter' = to get on. 'L'arrêt' = (bus) stop."
+  },
+  {
+    "id": "fr-405",
+    "front": "Ce bus va à la gare ?",
+    "pronunciation": "[suh büs vah ah lah GAR]",
+    "back": "Does this bus go to the train station?",
+    "context": "'La gare' = train station; 'la gare routière' = bus station."
+  },
+  {
+    "id": "fr-406",
+    "front": "Il faut composter le billet ?",
+    "pronunciation": "[eel foh kohm-pos-TAY luh bee-YEH]",
+    "back": "Do I need to validate the ticket?",
+    "context": "On many buses and regional trains you must validate your ticket, or risk a fine."
+  },
+  {
+    "id": "fr-407",
+    "front": "Je voudrais louer une voiture pour une semaine.",
+    "pronunciation": "[zhuh voo-dreh loo-ay ün vwah-TÜR poor ün suh-MEN]",
+    "back": "I'd like to rent a car for a week.",
+    "context": "'Louer' = to rent. Manual cars are still common: ask for 'une boîte automatique' if needed."
+  },
+  {
+    "id": "fr-408",
+    "front": "Le plein, s'il vous plaît.",
+    "pronunciation": "[luh PLAN, seel voo PLEH]",
+    "back": "Fill it up, please.",
+    "context": "'Faire le plein' = to fill the tank. 'Gazole' or 'diesel', 'sans plomb' = unleaded."
+  },
+  {
+    "id": "fr-409",
+    "front": "Il y a des bouchons sur le périphérique.",
+    "pronunciation": "[eel yah day boo-SHOHN sür luh pay-ree-fay-REEK]",
+    "back": "There are traffic jams on the ring road.",
+    "context": "'Un bouchon' (cork) = traffic jam. Le périphérique is the ring road around Paris."
+  },
+  {
+    "id": "fr-410",
+    "front": "Où est-ce que je peux garer la voiture ?",
+    "pronunciation": "[oo es-kuh zhuh puh gah-ray lah vwah-TÜR]",
+    "back": "Where can I park the car?",
+    "context": "'Se garer' = to park. 'Le parking' = car park."
+  },
+  {
+    "id": "fr-411",
+    "front": "Je prends le vélo pour aller au travail.",
+    "pronunciation": "[zhuh prahn luh vay-LOH poor ah-lay oh trah-VAHY]",
+    "back": "I bike to work.",
+    "context": "'Prendre' + transport: prendre le bus, prendre le métro, prendre le train."
+  },
+  {
+    "id": "fr-412",
+    "front": "Le vol pour Montréal est à quelle heure ?",
+    "pronunciation": "[luh vol poor mohn-ray-AHL eh tah kel UHR]",
+    "back": "What time is the flight to Montreal?",
+    "context": "'Le vol' = flight (also theft!)."
+  },
+  {
+    "id": "fr-413",
+    "front": "Où est l'enregistrement ?",
+    "pronunciation": "[oo eh lahn-ruh-zhees-truh-MAHN]",
+    "back": "Where is check-in?",
+    "context": "'Enregistrer ses bagages' = to check in your luggage."
+  },
+  {
+    "id": "fr-414",
+    "front": "J'ai seulement un bagage à main.",
+    "pronunciation": "[zhay suhl-mahn an bah-gahzh ah MAN]",
+    "back": "I only have hand luggage.",
+    "context": "'Un bagage à main' / 'un bagage cabine' = carry-on."
+  },
+  {
+    "id": "fr-415",
+    "front": "Mon vol a été annulé.",
+    "pronunciation": "[mohn vol ah ay-TAY ah-nü-LAY]",
+    "back": "My flight was cancelled.",
+    "context": "Passé composé passive: 'a été' + participle."
+  },
+  {
+    "id": "fr-416",
+    "front": "Un taxi pour l'aéroport, c'est combien ?",
+    "pronunciation": "[an tak-SEE poor lah-ay-roh-POR, seh kohm-BYAN]",
+    "back": "How much is a taxi to the airport?",
+    "context": "Paris airport taxis have fixed fares into the city."
+  },
+  {
+    "id": "fr-417",
+    "front": "Vous pouvez m'appeler un taxi ?",
+    "pronunciation": "[voo poo-vay mah-puh-lay an tak-SEE]",
+    "back": "Can you call me a taxi?",
+    "context": "'Appeler un taxi' = to call a taxi. 'Un VTC' = a ride-hailing car."
+  },
+  {
+    "id": "fr-418",
+    "front": "En voiture, ça prend combien de temps ?",
+    "pronunciation": "[ahn vwah-TÜR, sah prahn kohm-byan duh TAHN]",
+    "back": "How long does it take by car?",
+    "context": "'Ça prend' + time = it takes."
+  },
+  {
+    "id": "fr-419",
+    "front": "Il faut environ deux heures en TGV.",
+    "pronunciation": "[eel foh ahn-vee-ROHN duh zuhr ahn teh-zheh-VEH]",
+    "back": "It takes about two hours by TGV.",
+    "context": "The TGV is France's high-speed train."
+  },
+  {
+    "id": "fr-420",
+    "front": "Attention à la marche en descendant du train.",
+    "pronunciation": "[ah-tahn-SYOHN ah lah MARSH ahn day-sahn-dahn dü TRAN]",
+    "back": "Mind the step when getting off the train.",
+    "context": "A familiar station announcement. 'En descendant' = while getting off (gerund)."
+  },
+  {
+    "id": "fr-421",
+    "front": "Le guichet est fermé, utilisez la borne automatique.",
+    "pronunciation": "[luh ghee-SHEH eh fehr-MAY, ü-tee-lee-zay lah born oh-toh-mah-TEEK]",
+    "back": "The ticket office is closed; use the ticket machine.",
+    "context": "'Le guichet' = counter/window; 'la borne' = kiosk/machine."
+  },
+  {
+    "id": "fr-422",
+    "front": "C'est en face de la mairie.",
+    "pronunciation": "[seh tahn fas duh lah meh-REE]",
+    "back": "It's opposite the town hall.",
+    "context": "'En face de' = opposite; 'à côté de' = next to; 'au coin de' = on the corner of."
+  },
+  {
+    "id": "fr-423",
+    "front": "Traversez le pont et continuez jusqu'au feu.",
+    "pronunciation": "[trah-vehr-say luh POHN ay kohn-tee-nü-ay zhüs-koh FUH]",
+    "back": "Cross the bridge and keep going until the traffic light.",
+    "context": "'Le feu (rouge)' = traffic light. 'Jusqu'à' = until, as far as."
+  },
+  {
+    "id": "fr-424",
+    "front": "Le prochain train pour Bordeaux part à quatorze heures dix.",
+    "pronunciation": "[luh proh-shan tran poor bor-DOH par ah kah-tor-zuhr DEES]",
+    "back": "The next train to Bordeaux leaves at 2:10 p.m.",
+    "context": "Train times use the 24-hour clock."
+  },
+  {
+    "id": "fr-425",
+    "front": "Bon voyage !",
+    "pronunciation": "[bohn vwah-YAZH]",
+    "back": "Have a good trip!",
+    "context": "Also: 'Bonne route !' (to someone driving)."
+  }
+]

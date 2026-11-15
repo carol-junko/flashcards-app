@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-566",
+    "front": "Ça marche !",
+    "pronunciation": "[sah MARSH]",
+    "back": "Sounds good! / Deal!",
+    "context": "Literally 'it works'. Used to agree to a plan or an order: very common everywhere."
+  },
+  {
+    "id": "fr-567",
+    "front": "D'accord, pas de souci.",
+    "pronunciation": "[dah-KOR, pahd SOO-see]",
+    "back": "OK, no problem.",
+    "context": "'Pas de souci' is extremely common, though some consider it a cliché; 'pas de problème' works too."
+  },
+  {
+    "id": "fr-568",
+    "front": "Bof, le film était pas terrible.",
+    "pronunciation": "[BOF, luh feelm ay-teh pah teh-REE-bluh]",
+    "back": "Meh, the film wasn't great.",
+    "context": "'Bof' = meh. 'Pas terrible' = not great (careful: 'terrible' alone can mean amazing!)."
+  },
+  {
+    "id": "fr-569",
+    "front": "C'est sympa !",
+    "pronunciation": "[seh san-PAH]",
+    "back": "That's nice!",
+    "context": "'Sympa' (short for sympathique) = nice, friendly, pleasant. 'Il est sympa' = he's nice."
+  },
+  {
+    "id": "fr-570",
+    "front": "Passe-moi le truc, là.",
+    "pronunciation": "[pas-mwah luh TRÜK, LAH]",
+    "back": "Pass me that thing there.",
+    "context": "'Un truc' / 'un machin' = a thing, a thingamajig. Indispensable in speech."
+  },
+  {
+    "id": "fr-571",
+    "front": "Je suis crevé.",
+    "pronunciation": "[zhuh swee kruh-VAY]",
+    "back": "I'm exhausted.",
+    "context": "Informal for 'très fatigué'. Also: 'je suis naze'."
+  },
+  {
+    "id": "fr-572",
+    "front": "J'ai la flemme d'aller courir.",
+    "pronunciation": "[zhay lah FLEM dah-lay koo-REER]",
+    "back": "I can't be bothered to go running.",
+    "context": "'Avoir la flemme (de)' = to feel too lazy to."
+  },
+  {
+    "id": "fr-573",
+    "front": "Il bosse dans une banque.",
+    "pronunciation": "[eel BOS dahn zün BAHNK]",
+    "back": "He works at a bank.",
+    "context": "'Bosser' = to work (informal); 'le boulot' = job/work."
+  },
+  {
+    "id": "fr-574",
+    "front": "J'ai trouvé un nouveau boulot.",
+    "pronunciation": "[zhay troo-vay an noo-voh boo-LOH]",
+    "back": "I found a new job.",
+    "context": "'Le boulot' = job (informal for 'le travail', 'l'emploi')."
+  },
+  {
+    "id": "fr-575",
+    "front": "T'inquiète, c'est rien.",
+    "pronunciation": "[tan-KYET, seh RYAN]",
+    "back": "Don't worry, it's nothing.",
+    "context": "Short for 'ne t'inquiète pas'. Spoken French drops 'ne' and sometimes more."
+  },
+  {
+    "id": "fr-576",
+    "front": "Je sais pas.",
+    "pronunciation": "[shay PAH]",
+    "back": "I dunno.",
+    "context": "Standard: 'je ne sais pas'. In fast speech it sounds like 'chais pas'."
+  },
+  {
+    "id": "fr-577",
+    "front": "Il y a pas de quoi.",
+    "pronunciation": "[yah pahd KWAH]",
+    "back": "Don't mention it.",
+    "context": "Reply to 'merci'. Often pronounced 'y a pas de quoi'."
+  },
+  {
+    "id": "fr-578",
+    "front": "C'est génial !",
+    "pronunciation": "[seh zhay-NYAL]",
+    "back": "That's great!",
+    "context": "Also: 'C'est super !', 'C'est top !', 'C'est trop bien !'"
+  },
+  {
+    "id": "fr-579",
+    "front": "C'est trop bien, ce resto !",
+    "pronunciation": "[seh troh BYAN, suh res-TOH]",
+    "back": "This restaurant is so good!",
+    "context": "'Trop' in speech = very/so (not 'too much'). 'Le resto' = le restaurant."
+  },
+  {
+    "id": "fr-580",
+    "front": "On se fait un ciné ?",
+    "pronunciation": "[ohn suh feh tan see-NAY]",
+    "back": "Shall we catch a movie?",
+    "context": "'Se faire' + activity = to treat yourselves to. 'Le ciné' = le cinéma."
+  },
+  {
+    "id": "fr-581",
+    "front": "Je te file mon numéro.",
+    "pronunciation": "[zhuh tuh feel mohn nü-may-ROH]",
+    "back": "I'll give you my number.",
+    "context": "'Filer' = to give (informal). Also means to rush off: 'je file !'"
+  },
+  {
+    "id": "fr-582",
+    "front": "Bon, je file, à plus !",
+    "pronunciation": "[BOHN, zhuh FEEL, ah PLÜS]",
+    "back": "Right, I'm off, see you!",
+    "context": "'À plus' (often written 'A+') = see you later. The s is pronounced."
+  },
+  {
+    "id": "fr-583",
+    "front": "Salut, ça roule ?",
+    "pronunciation": "[sah-LÜ, sah ROOL]",
+    "back": "Hi, how's it going?",
+    "context": "Casual alternative to 'ça va ?'. Answer: 'Ça roule !'"
+  },
+  {
+    "id": "fr-584",
+    "front": "Il pleut, c'est relou.",
+    "pronunciation": "[eel PLUH, seh ruh-LOO]",
+    "back": "It's raining, it's annoying.",
+    "context": "'Relou' is verlan (reversed syllables) for 'lourd' = annoying."
+  },
+  {
+    "id": "fr-585",
+    "front": "Ce mec est vraiment cool.",
+    "pronunciation": "[suh MEK eh vreh-mahn KOOL]",
+    "back": "That guy is really cool.",
+    "context": "'Un mec' = a guy; 'une nana' or 'une meuf' = a girl (informal)."
+  },
+  {
+    "id": "fr-586",
+    "front": "C'est la galère pour trouver un appart à Paris.",
+    "pronunciation": "[seh lah gah-LEHR poor troo-vay an nah-PAR ah pah-REE]",
+    "back": "Finding an apartment in Paris is a nightmare.",
+    "context": "'C'est la galère' = it's a real hassle. 'Un appart' = un appartement."
+  },
+  {
+    "id": "fr-587",
+    "front": "Je suis fauché ce mois-ci.",
+    "pronunciation": "[zhuh swee foh-SHAY suh mwah-SEE]",
+    "back": "I'm broke this month.",
+    "context": "'Fauché' = broke (informal). 'Le fric', 'la thune' = money (slang)."
+  },
+  {
+    "id": "fr-588",
+    "front": "On mange un morceau ?",
+    "pronunciation": "[ohn mahnzh an mor-SOH]",
+    "back": "Shall we grab a bite?",
+    "context": "'Manger un morceau' (eat a piece) = to have a quick bite."
+  },
+  {
+    "id": "fr-589",
+    "front": "J'ai trop la dalle !",
+    "pronunciation": "[zhay troh lah DAL]",
+    "back": "I'm starving!",
+    "context": "'Avoir la dalle' = to be very hungry (slang). Neutral: 'j'ai très faim'."
+  },
+  {
+    "id": "fr-590",
+    "front": "Ouais, grave !",
+    "pronunciation": "[WEH, GRAV]",
+    "back": "Yeah, totally!",
+    "context": "'Ouais' = yeah. 'Grave' (serious) as slang = totally, absolutely."
+  },
+  {
+    "id": "fr-591",
+    "front": "N'importe quoi !",
+    "pronunciation": "[nan-port KWAH]",
+    "back": "Nonsense!",
+    "context": "Also means 'anything': 'mange n'importe quoi' = eat anything."
+  },
+  {
+    "id": "fr-592",
+    "front": "Laisse tomber.",
+    "pronunciation": "[les tohm-BAY]",
+    "back": "Forget it.",
+    "context": "Literally 'let it fall'. Ends a pointless discussion."
+  },
+  {
+    "id": "fr-593",
+    "front": "Il est super chiant.",
+    "pronunciation": "[eel eh sü-pehr SHYAHN]",
+    "back": "He's really annoying.",
+    "context": "'Chiant' is vulgar-ish but very common among friends. Avoid it at work."
+  },
+  {
+    "id": "fr-594",
+    "front": "Ça me saoule.",
+    "pronunciation": "[sah muh SOOL]",
+    "back": "That gets on my nerves.",
+    "context": "'Saouler' (or 'soûler') literally means to make drunk; here, to tire or annoy."
+  },
+  {
+    "id": "fr-595",
+    "front": "Tu me fais marcher ?",
+    "pronunciation": "[tü muh feh mar-SHAY]",
+    "back": "Are you pulling my leg?",
+    "context": "'Faire marcher quelqu'un' = to tease, fool someone."
+  },
+  {
+    "id": "fr-596",
+    "front": "Je kiffe cette chanson.",
+    "pronunciation": "[zhuh KEEF set shahn-SOHN]",
+    "back": "I love this song.",
+    "context": "'Kiffer' (from Arabic) = to love, really like. Very common among young people."
+  },
+  {
+    "id": "fr-597",
+    "front": "Il est où, le resto dont tu m'as parlé ?",
+    "pronunciation": "[ee leh OO, luh res-TOH dohn tü mah par-LAY]",
+    "back": "Where's that restaurant you told me about?",
+    "context": "Spoken French often puts the question word at the end and repeats the subject."
+  },
+  {
+    "id": "fr-598",
+    "front": "Ah bon ?",
+    "pronunciation": "[ah BOHN]",
+    "back": "Really?",
+    "context": "Expresses surprise or mild doubt. Also: 'C'est vrai ?', 'Sérieux ?'"
+  },
+  {
+    "id": "fr-599",
+    "front": "Bref, on s'en fiche.",
+    "pronunciation": "[BREF, ohn sahn FEESH]",
+    "back": "Anyway, who cares.",
+    "context": "'Bref' = anyway, in short. 'S'en ficher' = not to care (informal)."
+  },
+  {
+    "id": "fr-600",
+    "front": "Bisous, à demain !",
+    "pronunciation": "[bee-ZOO, ah duh-MAN]",
+    "back": "Kisses, see you tomorrow!",
+    "context": "A friendly sign-off for messages and goodbyes. 'Faire la bise' = to greet with cheek kisses."
+  }
+]

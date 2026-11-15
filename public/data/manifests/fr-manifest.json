@@ -96,8 +96,7 @@
     "category": "Shopping & Money",
     "title": "Prices, Shops & Clothes",
     "description": "Ask for prices and sizes, shop at the market and talk about clothes.",
-    "cardCount": 35,
-    "comingSoon": true
+    "cardCount": 35
   },
   {
     "id": "fr-a2-deck12",
@@ -106,8 +105,7 @@
     "category": "Dining Out",
     "title": "Ordering at a Restaurant & Café",
     "description": "Book a table, order, ask for the bill and understand French dining etiquette.",
-    "cardCount": 35,
-    "comingSoon": true
+    "cardCount": 35
   },
   {
     "id": "fr-a2-deck13",
@@ -116,8 +114,7 @@
     "category": "Directions & Travel",
     "title": "Getting Around & Transport",
     "description": "Metro, train and bus, buying tickets and asking for directions.",
-    "cardCount": 35,
-    "comingSoon": true
+    "cardCount": 35
   },
   {
     "id": "fr-a2-deck14",
@@ -126,8 +123,7 @@
     "category": "Weather & Climate",
     "title": "Talking About the Weather",
     "description": "Weather expressions with faire and il y a, seasons and forecasts.",
-    "cardCount": 35,
-    "comingSoon": true
+    "cardCount": 35
   },
   {
     "id": "fr-a2-deck15",
@@ -136,8 +132,7 @@
     "category": "Workplace Basics",
     "title": "Professions & Office Life",
     "description": "Jobs, the workplace, colleagues and polite professional exchanges.",
-    "cardCount": 35,
-    "comingSoon": true
+    "cardCount": 35
   },
   {
     "id": "fr-a2-deck16",
@@ -146,8 +141,7 @@
     "category": "Health & Body",
     "title": "Body Parts & Wellness",
     "description": "Say where it hurts, see a doctor and talk about healthy habits.",
-    "cardCount": 35,
-    "comingSoon": true
+    "cardCount": 35
   },
   {
     "id": "fr-a2-deck17",
@@ -156,8 +150,7 @@
     "category": "Hobbies & Leisure",
     "title": "Sports, Music & Free Time",
     "description": "Talk about hobbies with jouer à / jouer de and faire du.",
-    "cardCount": 35,
-    "comingSoon": true
+    "cardCount": 35
   },
   {
     "id": "fr-a2-deck18",
@@ -166,8 +159,7 @@
     "category": "Local Slang",
     "title": "Essential Everyday French",
     "description": "The informal French people really speak: ça marche, bof, truc, sympa and more.",
-    "cardCount": 35,
-    "comingSoon": true
+    "cardCount": 35
   },
   {
     "id": "fr-a2-deck19",
@@ -176,8 +168,7 @@
     "category": "Grammar Verbs",
     "title": "Regular -ER Verbs (Present)",
     "description": "Conjugate the largest verb family, with spelling changes like manger and appeler.",
-    "cardCount": 35,
-    "comingSoon": true
+    "cardCount": 35
   },
   {
     "id": "fr-a2-deck20",
@@ -186,8 +177,7 @@
     "category": "Grammar Verbs",
     "title": "-IR & -RE Verbs (Present)",
     "description": "Finir, partir, prendre, attendre and other key verbs in the present.",
-    "cardCount": 35,
-    "comingSoon": true
+    "cardCount": 35
   },
   {
     "id": "fr-a2-deck21",
@@ -196,8 +186,7 @@
     "category": "Grammar Basics",
     "title": "Past Tense: Le Passé Composé",
     "description": "Talk about completed actions with avoir and être, and past participle agreement.",
-    "cardCount": 35,
-    "comingSoon": true
+    "cardCount": 35
   },
   {
     "id": "fr-a2-deck22",
@@ -206,8 +195,7 @@
     "category": "Grammar Basics",
     "title": "Prepositions of Place",
     "description": "À, en, au, chez, dans, sur, sous and prepositions with countries and cities.",
-    "cardCount": 30,
-    "comingSoon": true
+    "cardCount": 30
   },
   {
     "id": "fr-a2-deck23",
@@ -216,8 +204,7 @@
     "category": "Grammar Basics",
     "title": "Making Requests & Commands",
     "description": "The imperative, polite requests with pouvoir and vouloir, and the conditional of politeness.",
-    "cardCount": 30,
-    "comingSoon": true
+    "cardCount": 30
   },
   {
     "id": "fr-a2-deck24",
@@ -226,8 +213,7 @@
     "category": "Daily Routine",
     "title": "From Morning to Night",
     "description": "Pronominal verbs (se lever, se coucher) to describe your day.",
-    "cardCount": 30,
-    "comingSoon": true
+    "cardCount": 30
   },
   {
     "id": "fr-a2-deck25",
@@ -236,8 +222,7 @@
     "category": "Socializing",
     "title": "Invitations & Planning",
     "description": "Invite, accept, decline politely and make plans with friends.",
-    "cardCount": 35,
-    "comingSoon": true
+    "cardCount": 35
   },
   {
     "id": "fr-b1-deck26",

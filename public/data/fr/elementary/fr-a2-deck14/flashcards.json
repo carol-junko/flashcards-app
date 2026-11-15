@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-426",
+    "front": "Quel temps fait-il aujourd'hui ?",
+    "pronunciation": "[kel tahn feh-TEEL oh-zhoor-DWEE]",
+    "back": "What's the weather like today?",
+    "context": "Casual: 'Il fait quel temps ?'"
+  },
+  {
+    "id": "fr-427",
+    "front": "Il fait froid ce matin.",
+    "pronunciation": "[eel feh FRWAH suh mah-TAN]",
+    "back": "It's cold this morning.",
+    "context": "Weather with 'il fait' + adjective: chaud, froid, bon, doux, frais."
+  },
+  {
+    "id": "fr-428",
+    "front": "Il fait doux pour la saison.",
+    "pronunciation": "[eel feh DOO poor lah seh-ZOHN]",
+    "back": "It's mild for the time of year.",
+    "context": "'Doux' = mild (also soft, sweet)."
+  },
+  {
+    "id": "fr-429",
+    "front": "Il fait un temps magnifique !",
+    "pronunciation": "[eel feh tan tahn mah-nyee-FEEK]",
+    "back": "The weather is gorgeous!",
+    "context": "'Faire un temps' + adjective. Also: 'Il fait un temps de chien' = terrible weather."
+  },
+  {
+    "id": "fr-430",
+    "front": "Il pleut depuis ce matin.",
+    "pronunciation": "[eel pluh duh-pwee suh mah-TAN]",
+    "back": "It's been raining since this morning.",
+    "context": "'Pleuvoir' only exists in the 'il' form: il pleut, il a plu, il va pleuvoir."
+  },
+  {
+    "id": "fr-431",
+    "front": "Il neige à la montagne.",
+    "pronunciation": "[eel nezh ah lah mohn-TAN-yuh]",
+    "back": "It's snowing in the mountains.",
+    "context": "'Neiger' = to snow; 'la neige' = snow."
+  },
+  {
+    "id": "fr-432",
+    "front": "Il y a du vent.",
+    "pronunciation": "[eel yah dü VAHN]",
+    "back": "It's windy.",
+    "context": "Some weather uses 'il y a': il y a du vent, du soleil, des nuages, du brouillard."
+  },
+  {
+    "id": "fr-433",
+    "front": "Il y a du soleil, mais il fait frais.",
+    "pronunciation": "[eel yah dü soh-LAY, meh eel feh FREH]",
+    "back": "It's sunny, but it's chilly.",
+    "context": "'Frais' = cool, chilly (also fresh)."
+  },
+  {
+    "id": "fr-434",
+    "front": "Il y a de l'orage ce soir.",
+    "pronunciation": "[eel yah duh loh-RAZH suh SWAHR]",
+    "back": "There's a thunderstorm tonight.",
+    "context": "'Un orage' = a storm with thunder; 'une tempête' = a windstorm."
+  },
+  {
+    "id": "fr-435",
+    "front": "Le ciel est couvert.",
+    "pronunciation": "[luh syel eh koo-VEHR]",
+    "back": "The sky is overcast.",
+    "context": "'Couvert' = covered. 'Le ciel est dégagé' = the sky is clear."
+  },
+  {
+    "id": "fr-436",
+    "front": "Il fait trente degrés à l'ombre !",
+    "pronunciation": "[eel feh trahnt duh-GRAY ah LOHM-bruh]",
+    "back": "It's thirty degrees in the shade!",
+    "context": "France uses Celsius. 30 °C is about 86 °F."
+  },
+  {
+    "id": "fr-437",
+    "front": "Il fait moins cinq cette nuit.",
+    "pronunciation": "[eel feh mwan SANK set NWEE]",
+    "back": "It's minus five tonight.",
+    "context": "'Moins' = minus. 'Il gèle' = it's freezing."
+  },
+  {
+    "id": "fr-438",
+    "front": "Quelle chaleur !",
+    "pronunciation": "[kel shah-LUHR]",
+    "back": "It's so hot!",
+    "context": "'La chaleur' = heat. 'Une canicule' = a heatwave."
+  },
+  {
+    "id": "fr-439",
+    "front": "J'ai trop chaud.",
+    "pronunciation": "[zhay troh SHOH]",
+    "back": "I'm too hot.",
+    "context": "For your body, use avoir: j'ai chaud, j'ai froid. 'Je suis chaud' means something else entirely!"
+  },
+  {
+    "id": "fr-440",
+    "front": "Prends ton parapluie, il va pleuvoir.",
+    "pronunciation": "[prahn tohn pah-rah-PLWEE, eel vah pluh-VWAHR]",
+    "back": "Take your umbrella, it's going to rain.",
+    "context": "Futur proche for weather forecasts in conversation."
+  },
+  {
+    "id": "fr-441",
+    "front": "La météo annonce de la pluie pour demain.",
+    "pronunciation": "[lah may-tay-OH ah-nohns duh lah PLWEE poor duh-MAN]",
+    "back": "The forecast says rain tomorrow.",
+    "context": "'La météo' = the weather forecast. 'Annoncer' = to forecast, announce."
+  },
+  {
+    "id": "fr-442",
+    "front": "Il fera beau ce week-end.",
+    "pronunciation": "[eel fuh-rah BOH suh wee-KEND]",
+    "back": "The weather will be nice this weekend.",
+    "context": "Futur simple of faire: il fera."
+  },
+  {
+    "id": "fr-443",
+    "front": "Il a fait très chaud cet été.",
+    "pronunciation": "[eel ah feh treh SHOH set ay-TAY]",
+    "back": "It was very hot this summer.",
+    "context": "Passé composé: il a fait. Imparfait for description: 'il faisait chaud'."
+  },
+  {
+    "id": "fr-444",
+    "front": "Je suis trempé !",
+    "pronunciation": "[zhuh swee trahm-PAY]",
+    "back": "I'm soaked!",
+    "context": "'Trempé jusqu'aux os' = soaked to the bone."
+  },
+  {
+    "id": "fr-445",
+    "front": "Il tombe des cordes !",
+    "pronunciation": "[eel tohmb day KORD]",
+    "back": "It's raining cats and dogs!",
+    "context": "Literally 'it's falling ropes'. Also: 'il pleut à verse'."
+  },
+  {
+    "id": "fr-446",
+    "front": "Il fait un froid de canard.",
+    "pronunciation": "[eel feh tan frwah duh kah-NAR]",
+    "back": "It's freezing cold.",
+    "context": "Literally 'a duck's cold', from duck hunting in winter."
+  },
+  {
+    "id": "fr-447",
+    "front": "Au printemps, il fait souvent beau.",
+    "pronunciation": "[oh pran-TAHN, eel feh soo-vahn BOH]",
+    "back": "In spring, the weather is often nice.",
+    "context": "'Au printemps' but 'en été, en automne, en hiver'."
+  },
+  {
+    "id": "fr-448",
+    "front": "En hiver, les jours sont courts.",
+    "pronunciation": "[ahn nee-VEHR, lay zhoor sohn KOOR]",
+    "back": "In winter, the days are short.",
+    "context": "Liaison: en hiver [ahn nee-VEHR]."
+  },
+  {
+    "id": "fr-449",
+    "front": "En automne, les feuilles tombent.",
+    "pronunciation": "[ahn noh-TUN, lay fuhy TOHMB]",
+    "back": "In autumn, the leaves fall.",
+    "context": "'L'automne' is pronounced [oh-TUN]: the m is silent."
+  },
+  {
+    "id": "fr-450",
+    "front": "Le climat est plus sec dans le sud.",
+    "pronunciation": "[luh klee-MAH eh plü SEK dahn luh SÜD]",
+    "back": "The climate is drier in the south.",
+    "context": "'Le Midi' = the south of France, known for its Mediterranean climate."
+  },
+  {
+    "id": "fr-451",
+    "front": "Il y a du brouillard sur la route, sois prudent.",
+    "pronunciation": "[eel yah dü broo-YAR sür lah ROOT, swah prü-DAHN]",
+    "back": "There's fog on the road, be careful.",
+    "context": "'Sois' = imperative of être (tu form). 'Soyez prudents' (vous)."
+  },
+  {
+    "id": "fr-452",
+    "front": "Le soleil se couche vers vingt et une heures en juin.",
+    "pronunciation": "[luh soh-LAY suh koosh vehr van tay ün UHR ahn ZHWAN]",
+    "back": "The sun sets around 9 p.m. in June.",
+    "context": "'Le coucher du soleil' = sunset; 'le lever du soleil' = sunrise."
+  },
+  {
+    "id": "fr-453",
+    "front": "Il fait lourd, il va y avoir un orage.",
+    "pronunciation": "[eel feh LOOR, eel vah yah-vwahr an noh-RAZH]",
+    "back": "It's muggy, there's going to be a storm.",
+    "context": "'Il fait lourd' (it's heavy) = humid and oppressive before a storm."
+  },
+  {
+    "id": "fr-454",
+    "front": "Les températures vont baisser cette semaine.",
+    "pronunciation": "[lay tahm-pay-rah-TÜR vohn beh-SAY set suh-MEN]",
+    "back": "Temperatures are going to drop this week.",
+    "context": "'Baisser' = to drop; 'monter' = to rise."
+  },
+  {
+    "id": "fr-455",
+    "front": "On annonce une vague de froid.",
+    "pronunciation": "[ohn nah-nohns ün vahg duh FRWAH]",
+    "back": "A cold snap is forecast.",
+    "context": "'On annonce' = they're forecasting. 'Une vague de chaleur' = a heatwave."
+  },
+  {
+    "id": "fr-456",
+    "front": "Il y a un arc-en-ciel !",
+    "pronunciation": "[eel yah an nar-kahn-SYEL]",
+    "back": "There's a rainbow!",
+    "context": "Literally 'arc in the sky'."
+  },
+  {
+    "id": "fr-457",
+    "front": "Quel temps fait-il chez toi en ce moment ?",
+    "pronunciation": "[kel tahn feh-teel shay TWAH ahn suh moh-MAHN]",
+    "back": "What's the weather like where you are right now?",
+    "context": "A classic way to start a call or a chat."
+  },
+  {
+    "id": "fr-458",
+    "front": "Après la pluie, le beau temps.",
+    "pronunciation": "[ah-preh lah PLWEE, luh boh TAHN]",
+    "back": "After the rain comes sunshine.",
+    "context": "Proverb: good times follow bad ones."
+  },
+  {
+    "id": "fr-459",
+    "front": "Le réchauffement climatique inquiète beaucoup de gens.",
+    "pronunciation": "[luh ray-shohf-mahn klee-mah-TEEK an-KYET boh-koo duh ZHAHN]",
+    "back": "Global warming worries a lot of people.",
+    "context": "'Inquiéter' = to worry (someone). 'Le changement climatique' is also common."
+  },
+  {
+    "id": "fr-460",
+    "front": "Il faisait beau quand nous sommes arrivés.",
+    "pronunciation": "[eel fuh-zeh BOH kahn noo sum zah-ree-VAY]",
+    "back": "The weather was nice when we arrived.",
+    "context": "Imparfait (faisait) for the background, passé composé (sommes arrivés) for the event."
+  }
+]

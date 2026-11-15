@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-671",
+    "front": "Hier, j'ai mangé au restaurant.",
+    "pronunciation": "[yehr, zhay mahn-ZHAY oh res-toh-RAHN]",
+    "back": "Yesterday, I ate at a restaurant.",
+    "context": "Passé composé = avoir/être in the present + past participle. -ER verbs: -é (mangé, parlé)."
+  },
+  {
+    "id": "fr-672",
+    "front": "J'ai fini mes devoirs.",
+    "pronunciation": "[zhay fee-NEE may duh-VWAHR]",
+    "back": "I've finished my homework.",
+    "context": "-IR verbs: past participle in -i (fini, choisi, dormi)."
+  },
+  {
+    "id": "fr-673",
+    "front": "Nous avons attendu une heure.",
+    "pronunciation": "[noo zah-vohn ah-tahn-DÜ ün UHR]",
+    "back": "We waited for an hour.",
+    "context": "-RE verbs: past participle in -u (attendu, vendu, répondu)."
+  },
+  {
+    "id": "fr-674",
+    "front": "Tu as vu ce film ?",
+    "pronunciation": "[tü ah VÜ suh FEELM]",
+    "back": "Have you seen this film?",
+    "context": "Irregular participles: voir → vu, lire → lu, boire → bu, pouvoir → pu."
+  },
+  {
+    "id": "fr-675",
+    "front": "J'ai pris le train de huit heures.",
+    "pronunciation": "[zhay pree luh tran duh wee-TUHR]",
+    "back": "I took the eight o'clock train.",
+    "context": "prendre → pris, mettre → mis, apprendre → appris."
+  },
+  {
+    "id": "fr-676",
+    "front": "Qu'est-ce que tu as fait ce week-end ?",
+    "pronunciation": "[kehs-kuh tü ah FEH suh wee-KEND]",
+    "back": "What did you do this weekend?",
+    "context": "faire → fait, dire → dit, écrire → écrit."
+  },
+  {
+    "id": "fr-677",
+    "front": "J'ai eu de la chance.",
+    "pronunciation": "[zhay Ü duh lah SHAHNS]",
+    "back": "I was lucky.",
+    "context": "avoir → eu (pronounced [Ü]), être → été."
+  },
+  {
+    "id": "fr-678",
+    "front": "Il a été malade toute la semaine.",
+    "pronunciation": "[eel ah ay-TAY mah-LAD toot lah suh-MEN]",
+    "back": "He was ill all week.",
+    "context": "'Être' itself uses avoir in the passé composé: j'ai été."
+  },
+  {
+    "id": "fr-679",
+    "front": "Je suis allé à Paris l'année dernière.",
+    "pronunciation": "[zhuh swee zah-LAY ah pah-REE lah-nay dehr-NYEHR]",
+    "back": "I went to Paris last year.",
+    "context": "About 15 verbs of movement and change of state use être: aller, venir, partir, arriver, entrer, sortir, naître, mourir…"
+  },
+  {
+    "id": "fr-680",
+    "front": "Elle est arrivée en retard.",
+    "pronunciation": "[el eh tah-ree-VAY ahn ruh-TAR]",
+    "back": "She arrived late.",
+    "context": "With être, the participle agrees with the subject: elle est arrivée (+e)."
+  },
+  {
+    "id": "fr-681",
+    "front": "Nous sommes partis à six heures.",
+    "pronunciation": "[noo sum par-TEE ah see ZUHR]",
+    "back": "We left at six.",
+    "context": "Agreement in the plural: partis (+s). A group of women: parties."
+  },
+  {
+    "id": "fr-682",
+    "front": "Ils sont restés chez eux.",
+    "pronunciation": "[eel sohn res-TAY shay ZUH]",
+    "back": "They stayed at home.",
+    "context": "'Rester' (to stay) uses être."
+  },
+  {
+    "id": "fr-683",
+    "front": "Je suis né en 1990.",
+    "pronunciation": "[zhuh swee NAY ahn meel nuhf sahn kah-truh-van-DEES]",
+    "back": "I was born in 1990.",
+    "context": "'Naître' → né(e), 'mourir' → mort(e). Both use être."
+  },
+  {
+    "id": "fr-684",
+    "front": "Elle est tombée dans l'escalier.",
+    "pronunciation": "[el eh tohm-BAY dahn les-kah-LYAY]",
+    "back": "She fell on the stairs.",
+    "context": "'Tomber' uses être."
+  },
+  {
+    "id": "fr-685",
+    "front": "Je me suis levé tôt ce matin.",
+    "pronunciation": "[zhuh muh swee luh-VAY TOH suh mah-TAN]",
+    "back": "I got up early this morning.",
+    "context": "All reflexive verbs use être: je me suis levé(e), elle s'est couchée."
+  },
+  {
+    "id": "fr-686",
+    "front": "On s'est bien amusés !",
+    "pronunciation": "[ohn seh byan nah-mü-ZAY]",
+    "back": "We had a great time!",
+    "context": "'S'amuser' = to have fun. With 'on' = we, the participle often agrees in the plural."
+  },
+  {
+    "id": "fr-687",
+    "front": "Je n'ai pas compris la question.",
+    "pronunciation": "[zhuh neh pah kohm-PREE lah kes-TYOHN]",
+    "back": "I didn't understand the question.",
+    "context": "Negation wraps the auxiliary: je n'ai pas compris, elle n'est pas venue."
+  },
+  {
+    "id": "fr-688",
+    "front": "Tu n'es jamais allé au Japon ?",
+    "pronunciation": "[tü neh zhah-meh zah-LAY oh zhah-POHN]",
+    "back": "Have you never been to Japan?",
+    "context": "'Ne… jamais' around the auxiliary."
+  },
+  {
+    "id": "fr-689",
+    "front": "J'ai déjà visité ce musée.",
+    "pronunciation": "[zhay day-ZHAH vee-zee-TAY suh mü-ZAY]",
+    "back": "I've already visited this museum.",
+    "context": "Short adverbs (déjà, bien, mal, beaucoup) go between auxiliary and participle."
+  },
+  {
+    "id": "fr-690",
+    "front": "Il a beaucoup plu cet hiver.",
+    "pronunciation": "[eel ah boh-koo PLÜ set ee-VEHR]",
+    "back": "It rained a lot this winter.",
+    "context": "'Pleuvoir' → plu. Same participle as 'plaire' (to please)!"
+  },
+  {
+    "id": "fr-691",
+    "front": "Elle a lu ce livre en deux jours.",
+    "pronunciation": "[el ah LÜ suh LEE-vruh ahn duh ZHOOR]",
+    "back": "She read this book in two days.",
+    "context": "lire → lu."
+  },
+  {
+    "id": "fr-692",
+    "front": "Nous avons bu du champagne pour fêter ça.",
+    "pronunciation": "[noo zah-vohn BÜ dü shahm-PAN-yuh poor feh-tay SAH]",
+    "back": "We drank champagne to celebrate.",
+    "context": "boire → bu. 'Fêter' = to celebrate."
+  },
+  {
+    "id": "fr-693",
+    "front": "Ils ont ouvert un nouveau café en ville.",
+    "pronunciation": "[eel zohn oo-VEHR an noo-voh kah-FAY ahn VEEL]",
+    "back": "They opened a new café in town.",
+    "context": "ouvrir → ouvert, offrir → offert, découvrir → découvert."
+  },
+  {
+    "id": "fr-694",
+    "front": "J'ai dû partir plus tôt.",
+    "pronunciation": "[zhay DÜ par-teer plü TOH]",
+    "back": "I had to leave earlier.",
+    "context": "devoir → dû (with a circumflex to distinguish it from 'du')."
+  },
+  {
+    "id": "fr-695",
+    "front": "Je n'ai pas pu venir, désolé.",
+    "pronunciation": "[zhuh neh pah PÜ vuh-NEER, day-zoh-LAY]",
+    "back": "I couldn't come, sorry.",
+    "context": "pouvoir → pu."
+  },
+  {
+    "id": "fr-696",
+    "front": "Il est monté au sixième étage à pied.",
+    "pronunciation": "[eel eh mohn-TAY oh see-zyem ay-TAZH ah PYAY]",
+    "back": "He walked up to the sixth floor.",
+    "context": "'Monter' uses être when it has no direct object (il est monté). With a direct object it uses avoir: 'il a monté les valises'. Same for descendre, sortir, rentrer, passer."
+  },
+  {
+    "id": "fr-697",
+    "front": "Il a monté les valises dans la chambre.",
+    "pronunciation": "[eel ah mohn-TAY lay vah-LEEZ dahn lah SHAHM-bruh]",
+    "back": "He carried the suitcases up to the room.",
+    "context": "With a direct object (les valises), 'monter' uses avoir. Without one it uses être: 'il est monté au sixième'. Same for descendre, sortir, rentrer, passer."
+  },
+  {
+    "id": "fr-698",
+    "front": "Il y a deux ans, j'ai déménagé à Bordeaux.",
+    "pronunciation": "[eel yah duh ZAHN, zhay day-may-nah-ZHAY ah bor-DOH]",
+    "back": "Two years ago, I moved to Bordeaux.",
+    "context": "'Il y a' + time = ago. 'Déménager' = to move house."
+  },
+  {
+    "id": "fr-699",
+    "front": "La semaine dernière, j'ai rencontré ses parents.",
+    "pronunciation": "[lah suh-men dehr-NYEHR, zhay rahn-kohn-TRAY say pah-RAHN]",
+    "back": "Last week, I met his parents.",
+    "context": "'Rencontrer' = to meet (for the first time)."
+  },
+  {
+    "id": "fr-700",
+    "front": "Les lettres que j'ai écrites sont sur la table.",
+    "pronunciation": "[lay LEH-truh kuh zhay ay-KREET sohn sür lah TAH-bluh]",
+    "back": "The letters I wrote are on the table.",
+    "context": "Advanced rule: with avoir, the participle agrees with a direct object placed BEFORE it (les lettres → écrites)."
+  },
+  {
+    "id": "fr-701",
+    "front": "Tu as passé de bonnes vacances ?",
+    "pronunciation": "[tü ah pah-SAY duh bun vah-KAHNS]",
+    "back": "Did you have a good vacation?",
+    "context": "'Passer de bonnes vacances' = to have a good holiday."
+  },
+  {
+    "id": "fr-702",
+    "front": "Ça s'est bien passé ?",
+    "pronunciation": "[sah seh byan pah-SAY]",
+    "back": "Did it go well?",
+    "context": "'Se passer' = to happen, go. Asked after an exam, an interview, a trip…"
+  },
+  {
+    "id": "fr-703",
+    "front": "Qu'est-ce qui s'est passé ?",
+    "pronunciation": "[kes-kee seh pah-SAY]",
+    "back": "What happened?",
+    "context": "The standard question when something went wrong."
+  },
+  {
+    "id": "fr-704",
+    "front": "Je suis sorti avec des amis samedi soir.",
+    "pronunciation": "[zhuh swee sor-TEE ah-vek day zah-MEE sahm-dee SWAHR]",
+    "back": "I went out with friends on Saturday night.",
+    "context": "'Sortir' (to go out) uses être."
+  },
+  {
+    "id": "fr-705",
+    "front": "Nous sommes rentrés très tard.",
+    "pronunciation": "[noo sum rahn-TRAY treh TAR]",
+    "back": "We got home very late.",
+    "context": "'Rentrer' uses être here (no direct object)."
+  }
+]

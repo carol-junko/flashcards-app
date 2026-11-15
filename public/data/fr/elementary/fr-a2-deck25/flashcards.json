@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-796",
+    "front": "Tu es libre samedi soir ?",
+    "pronunciation": "[tü eh LEE-bruh sahm-dee SWAHR]",
+    "back": "Are you free on Saturday night?",
+    "context": "The classic first step before an invitation."
+  },
+  {
+    "id": "fr-797",
+    "front": "Ça te dirait de venir dîner à la maison ?",
+    "pronunciation": "[sah tuh dee-reh duh vuh-neer dee-nay ah lah meh-ZOHN]",
+    "back": "Would you like to come for dinner at our place?",
+    "context": "'Ça te dirait de…?' = would you like to…? Friendly and polite."
+  },
+  {
+    "id": "fr-798",
+    "front": "On pourrait aller au cinéma.",
+    "pronunciation": "[ohn poo-reh ah-lay oh see-nay-MAH]",
+    "back": "We could go to the cinema.",
+    "context": "Conditional to suggest: on pourrait, on devrait."
+  },
+  {
+    "id": "fr-799",
+    "front": "Et si on allait à la plage ?",
+    "pronunciation": "[ay see ohn nah-leh ah lah PLAZH]",
+    "back": "How about going to the beach?",
+    "context": "'Et si on' + imparfait = how about…? Very common suggestion structure."
+  },
+  {
+    "id": "fr-800",
+    "front": "Avec plaisir !",
+    "pronunciation": "[ah-vek pleh-ZEER]",
+    "back": "With pleasure!",
+    "context": "Warm acceptance. Also: 'Volontiers !'"
+  },
+  {
+    "id": "fr-801",
+    "front": "Volontiers, c'est gentil.",
+    "pronunciation": "[voh-lohn-TYAY, seh zhahn-TEE]",
+    "back": "Gladly, that's kind of you.",
+    "context": "'Volontiers' = gladly, willingly."
+  },
+  {
+    "id": "fr-802",
+    "front": "Bonne idée, je suis partant !",
+    "pronunciation": "[bun ee-DAY, zhuh swee par-TAHN]",
+    "back": "Good idea, count me in!",
+    "context": "'Être partant(e)' = to be up for it."
+  },
+  {
+    "id": "fr-803",
+    "front": "Désolé, je ne peux pas, j'ai déjà quelque chose de prévu.",
+    "pronunciation": "[day-zoh-LAY, zhuh nuh puh PAH, zhay day-zhah kel-kuh shohz duh pray-VÜ]",
+    "back": "Sorry, I can't, I already have plans.",
+    "context": "'Avoir quelque chose de prévu' = to have something planned. A polite way to decline."
+  },
+  {
+    "id": "fr-804",
+    "front": "Ce week-end, ça ne va pas être possible.",
+    "pronunciation": "[suh wee-KEND, sah nuh vah pah zeh-truh poh-SEE-bluh]",
+    "back": "This weekend won't be possible.",
+    "context": "A softer refusal than 'je ne peux pas'."
+  },
+  {
+    "id": "fr-805",
+    "front": "Une autre fois, peut-être ?",
+    "pronunciation": "[ün oh-truh FWAH, puh-TEH-truh]",
+    "back": "Another time, maybe?",
+    "context": "Softens a refusal and keeps the door open."
+  },
+  {
+    "id": "fr-806",
+    "front": "Je te dis ça demain, d'accord ?",
+    "pronunciation": "[zhuh tuh dee SAH duh-MAN, dah-KOR]",
+    "back": "I'll let you know tomorrow, OK?",
+    "context": "Like 'je vais voir', it can be a polite way of not committing."
+  },
+  {
+    "id": "fr-807",
+    "front": "On se retrouve où ?",
+    "pronunciation": "[ohn suh ruh-troov OO]",
+    "back": "Where shall we meet?",
+    "context": "'Se retrouver' = to meet (as planned)."
+  },
+  {
+    "id": "fr-808",
+    "front": "Rendez-vous devant la gare à dix-neuf heures.",
+    "pronunciation": "[rahn-day-VOO duh-vahn lah GAR ah deez-nuh-VUHR]",
+    "back": "Let's meet in front of the station at 7 p.m.",
+    "context": "'Rendez-vous' = meeting point/time (also a date or an appointment)."
+  },
+  {
+    "id": "fr-809",
+    "front": "À quelle heure on se voit ?",
+    "pronunciation": "[ah kel UHR ohn suh VWAH]",
+    "back": "What time shall we meet?",
+    "context": "'Se voir' = to see each other."
+  },
+  {
+    "id": "fr-810",
+    "front": "Ça te va, vingt heures ?",
+    "pronunciation": "[sah tuh VAH, van TUHR]",
+    "back": "Does 8 p.m. work for you?",
+    "context": "'Ça te va ?' = does that suit you?"
+  },
+  {
+    "id": "fr-811",
+    "front": "Parfait, ça me va très bien.",
+    "pronunciation": "[par-FEH, sah muh vah treh BYAN]",
+    "back": "Perfect, that suits me fine.",
+    "context": "'Ça me va' = that works for me."
+  },
+  {
+    "id": "fr-812",
+    "front": "Je t'envoie l'adresse par message.",
+    "pronunciation": "[zhuh tahn-vwah lah-DRES par meh-SAHZH]",
+    "back": "I'll text you the address.",
+    "context": "'Un message', 'un texto', 'un SMS'. On WhatsApp: 'je t'envoie un message sur WhatsApp'."
+  },
+  {
+    "id": "fr-813",
+    "front": "J'organise une fête pour mon anniversaire.",
+    "pronunciation": "[zhor-gah-neez ün FET poor mohn nah-nee-vehr-SEHR]",
+    "back": "I'm throwing a party for my birthday.",
+    "context": "'Une fête' or 'une soirée' = a party."
+  },
+  {
+    "id": "fr-814",
+    "front": "Tu veux que j'apporte quelque chose ?",
+    "pronunciation": "[tü vuh kuh zhah-port kel-kuh SHOHZ]",
+    "back": "Do you want me to bring something?",
+    "context": "Polite guests offer to bring something: a bottle of wine, a dessert, flowers."
+  },
+  {
+    "id": "fr-815",
+    "front": "Apporte juste ta bonne humeur !",
+    "pronunciation": "[ah-port zhüst tah bun ü-MUHR]",
+    "back": "Just bring your good mood!",
+    "context": "A friendly reply meaning 'nothing needed'."
+  },
+  {
+    "id": "fr-816",
+    "front": "Désolé, je vais être un peu en retard.",
+    "pronunciation": "[day-zoh-LAY, zhuh veh zeh-truh an puh ahn ruh-TAR]",
+    "back": "Sorry, I'm going to be a bit late.",
+    "context": "Arriving 10–15 minutes late to a dinner at someone's home is normal in France ('le quart d'heure de politesse')."
+  },
+  {
+    "id": "fr-817",
+    "front": "On remet ça à la semaine prochaine ?",
+    "pronunciation": "[ohn ruh-meh SAH ah lah suh-men proh-SHEN]",
+    "back": "Shall we postpone it to next week?",
+    "context": "'Remettre' = to postpone. Also 'reporter'."
+  },
+  {
+    "id": "fr-818",
+    "front": "J'ai un empêchement, on peut décaler ?",
+    "pronunciation": "[zhay an nahn-pesh-MAHN, ohn puh day-kah-LAY]",
+    "back": "Something's come up, can we reschedule?",
+    "context": "'Un empêchement' = something that prevents you. 'Décaler' = to move (a time)."
+  },
+  {
+    "id": "fr-819",
+    "front": "Merci pour l'invitation !",
+    "pronunciation": "[mehr-SEE poor lan-vee-tah-SYOHN]",
+    "back": "Thanks for the invitation!",
+    "context": "Say it when accepting and again when leaving."
+  },
+  {
+    "id": "fr-820",
+    "front": "Ça me ferait très plaisir de te voir.",
+    "pronunciation": "[sah muh fuh-reh treh pleh-ZEER duh tuh VWAHR]",
+    "back": "I'd love to see you.",
+    "context": "'Faire plaisir à quelqu'un' = to make someone happy."
+  },
+  {
+    "id": "fr-821",
+    "front": "On se fait un resto ce week-end ?",
+    "pronunciation": "[ohn suh feh tan res-TOH suh wee-KEND]",
+    "back": "Shall we go out for a meal this weekend?",
+    "context": "Informal: 'se faire un resto / un ciné' = to treat yourselves to a meal / a film."
+  },
+  {
+    "id": "fr-822",
+    "front": "Je suis dispo jeudi, et toi ?",
+    "pronunciation": "[zhuh swee dees-POH zhuh-DEE, ay TWAH]",
+    "back": "I'm free on Thursday, what about you?",
+    "context": "'Dispo' = disponible (available), informal."
+  },
+  {
+    "id": "fr-823",
+    "front": "On fait un apéro chez moi vendredi ?",
+    "pronunciation": "[ohn feh tan nah-pay-ROH shay MWAH vahn-druh-DEE]",
+    "back": "Shall we have drinks at my place on Friday?",
+    "context": "'L'apéro' (apéritif) = early-evening drinks and snacks: a French institution."
+  },
+  {
+    "id": "fr-824",
+    "front": "Viens avec qui tu veux.",
+    "pronunciation": "[vyan ah-vek kee tü VUH]",
+    "back": "Bring whoever you want.",
+    "context": "'Qui tu veux' = whoever you want."
+  },
+  {
+    "id": "fr-825",
+    "front": "C'est une soirée déguisée, n'oublie pas ton costume !",
+    "pronunciation": "[seh tün swah-ray day-ghee-ZAY, noo-blee pah tohn kos-TÜM]",
+    "back": "It's a costume party, don't forget your costume!",
+    "context": "'Se déguiser' = to dress up."
+  },
+  {
+    "id": "fr-826",
+    "front": "Je vous invite au restaurant pour fêter ma promotion.",
+    "pronunciation": "[zhuh voo zan-veet oh res-toh-RAHN poor feh-tay mah proh-moh-SYOHN]",
+    "back": "I'm taking you to a restaurant to celebrate my promotion.",
+    "context": "'Inviter' implies you're paying."
+  },
+  {
+    "id": "fr-827",
+    "front": "Ça tient toujours pour demain ?",
+    "pronunciation": "[sah tyan too-zhoor poor duh-MAN]",
+    "back": "Are we still on for tomorrow?",
+    "context": "'Ça tient toujours ?' = is it still on?"
+  },
+  {
+    "id": "fr-828",
+    "front": "Oui, c'est toujours d'actualité.",
+    "pronunciation": "[WEE, seh too-zhoor dak-tü-ah-lee-TAY]",
+    "back": "Yes, it's still on.",
+    "context": "'Être d'actualité' = to still be relevant/on."
+  },
+  {
+    "id": "fr-829",
+    "front": "On a passé une super soirée, merci encore !",
+    "pronunciation": "[ohn nah pah-say ün sü-pehr swah-RAY, mehr-see ahn-KOR]",
+    "back": "We had a great evening, thanks again!",
+    "context": "A message the next day is a nice touch."
+  },
+  {
+    "id": "fr-830",
+    "front": "La prochaine fois, c'est chez nous !",
+    "pronunciation": "[lah proh-shen FWAH, seh shay NOO]",
+    "back": "Next time, it's at our place!",
+    "context": "Returning the invitation is expected in French social life."
+  }
+]

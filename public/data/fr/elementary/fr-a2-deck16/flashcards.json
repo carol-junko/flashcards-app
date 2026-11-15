@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-496",
+    "front": "la tête / le cou / l'épaule",
+    "pronunciation": "[lah TET / luh KOO / lay-POHL]",
+    "back": "head / neck / shoulder",
+    "context": "Body parts usually take le/la, not my/your: 'J'ai mal à la tête'."
+  },
+  {
+    "id": "fr-497",
+    "front": "le bras / la main / le doigt",
+    "pronunciation": "[luh BRAH / lah MAN / luh DWAH]",
+    "back": "arm / hand / finger",
+    "context": "'Le doigt' is pronounced [DWAH]: the g and t are silent."
+  },
+  {
+    "id": "fr-498",
+    "front": "la jambe / le genou / le pied",
+    "pronunciation": "[lah ZHAHMB / luh zhuh-NOO / luh PYAY]",
+    "back": "leg / knee / foot",
+    "context": "Plural: les genoux (with an x)."
+  },
+  {
+    "id": "fr-499",
+    "front": "le dos / le ventre / la gorge",
+    "pronunciation": "[luh DOH / luh VAHN-truh / lah GORZH]",
+    "back": "back / stomach / throat",
+    "context": "'Le ventre' = belly/stomach; 'l'estomac' is the organ."
+  },
+  {
+    "id": "fr-500",
+    "front": "les yeux / le nez / la bouche / les dents",
+    "pronunciation": "[lay ZYUH / luh NAY / lah BOOSH / lay DAHN]",
+    "back": "eyes / nose / mouth / teeth",
+    "context": "Irregular plural: un œil → des yeux."
+  },
+  {
+    "id": "fr-501",
+    "front": "J'ai mal au dos.",
+    "pronunciation": "[zhay mahl oh DOH]",
+    "back": "My back hurts.",
+    "context": "'Avoir mal à' + body part: au dos, à la tête, aux dents."
+  },
+  {
+    "id": "fr-502",
+    "front": "Où est-ce que vous avez mal ?",
+    "pronunciation": "[oo es-kuh voo zah-vay MAHL]",
+    "back": "Where does it hurt?",
+    "context": "The doctor's first question."
+  },
+  {
+    "id": "fr-503",
+    "front": "J'ai de la fièvre depuis hier.",
+    "pronunciation": "[zhay duh lah FYEH-vruh duh-pwee YEHR]",
+    "back": "I've had a fever since yesterday.",
+    "context": "'Depuis' + present tense = since/for (still ongoing)."
+  },
+  {
+    "id": "fr-504",
+    "front": "J'ai le nez qui coule.",
+    "pronunciation": "[zhay luh nay kee KOOL]",
+    "back": "I have a runny nose.",
+    "context": "Literally 'I have the nose that runs'."
+  },
+  {
+    "id": "fr-505",
+    "front": "Je tousse beaucoup la nuit.",
+    "pronunciation": "[zhuh toos boh-KOO lah NWEE]",
+    "back": "I cough a lot at night.",
+    "context": "'Tousser' = to cough; 'la toux' = a cough."
+  },
+  {
+    "id": "fr-506",
+    "front": "Je crois que j'ai attrapé la grippe.",
+    "pronunciation": "[zhuh krwah kuh zhay ah-trah-pay lah GREEP]",
+    "back": "I think I've caught the flu.",
+    "context": "'Attraper' = to catch. 'Un rhume' = a cold."
+  },
+  {
+    "id": "fr-507",
+    "front": "Je me sens mal, j'ai la nausée.",
+    "pronunciation": "[zhuh muh sahn MAHL, zhay lah noh-ZAY]",
+    "back": "I feel ill, I'm nauseous.",
+    "context": "'Se sentir' + adverb: je me sens bien / mal / mieux."
+  },
+  {
+    "id": "fr-508",
+    "front": "Je voudrais prendre rendez-vous chez le médecin.",
+    "pronunciation": "[zhuh voo-dreh prahn-druh rahn-day-VOO shay luh mayd-SAN]",
+    "back": "I'd like to make an appointment with the doctor.",
+    "context": "Many appointments are booked online in France (for example on Doctolib)."
+  },
+  {
+    "id": "fr-509",
+    "front": "Vous avez votre carte Vitale ?",
+    "pronunciation": "[voo zah-vay voh-truh kart vee-TAHL]",
+    "back": "Do you have your Carte Vitale?",
+    "context": "The green health insurance card used in France to get reimbursed."
+  },
+  {
+    "id": "fr-510",
+    "front": "Le médecin m'a fait une ordonnance.",
+    "pronunciation": "[luh mayd-SAN mah feh tün or-doh-NAHNS]",
+    "back": "The doctor wrote me a prescription.",
+    "context": "'Une ordonnance' = prescription. Take it to 'la pharmacie'."
+  },
+  {
+    "id": "fr-511",
+    "front": "Prenez ce médicament trois fois par jour.",
+    "pronunciation": "[pruh-nay suh may-dee-kah-MAHN trwah fwah par ZHOOR]",
+    "back": "Take this medicine three times a day.",
+    "context": "'Un médicament' = medicine (the product); 'la médecine' = the science."
+  },
+  {
+    "id": "fr-512",
+    "front": "Je me suis cassé le bras en skiant.",
+    "pronunciation": "[zhuh muh swee kah-SAY luh BRAH ahn skee-YAHN]",
+    "back": "I broke my arm skiing.",
+    "context": "Reflexive with body parts: 'se casser le bras' (not 'mon bras')."
+  },
+  {
+    "id": "fr-513",
+    "front": "Je me suis coupé le doigt.",
+    "pronunciation": "[zhuh muh swee koo-PAY luh DWAH]",
+    "back": "I cut my finger.",
+    "context": "'Se couper' = to cut oneself. 'Un pansement' = a bandage/plaster."
+  },
+  {
+    "id": "fr-514",
+    "front": "Il faut aller aux urgences.",
+    "pronunciation": "[eel foh ah-lay oh zür-ZHAHNS]",
+    "back": "We need to go to the emergency room.",
+    "context": "'Les urgences' = ER. Emergency numbers: 15 (medical), 112 (Europe-wide)."
+  },
+  {
+    "id": "fr-515",
+    "front": "Je suis allergique à la pénicilline.",
+    "pronunciation": "[zhuh swee zah-lehr-ZHEEK ah lah pay-nee-see-LEEN]",
+    "back": "I'm allergic to penicillin.",
+    "context": "Always mention allergies to doctors and pharmacists."
+  },
+  {
+    "id": "fr-516",
+    "front": "Ça va mieux aujourd'hui ?",
+    "pronunciation": "[sah vah MYUH oh-zhoor-DWEE]",
+    "back": "Are you feeling better today?",
+    "context": "'Mieux' = better (adverb). 'Je vais mieux' = I'm feeling better."
+  },
+  {
+    "id": "fr-517",
+    "front": "Prompt rétablissement !",
+    "pronunciation": "[prohn ray-tah-blees-MAHN]",
+    "back": "Get well soon!",
+    "context": "Formal. Informally: 'Soigne-toi bien !' (take care of yourself)."
+  },
+  {
+    "id": "fr-518",
+    "front": "Je fais attention à ce que je mange.",
+    "pronunciation": "[zhuh feh zah-tahn-SYOHN ah suh kuh zhuh MAHNZH]",
+    "back": "I watch what I eat.",
+    "context": "'Faire attention à' = to be careful about, pay attention to."
+  },
+  {
+    "id": "fr-519",
+    "front": "Il faut boire au moins un litre et demi d'eau par jour.",
+    "pronunciation": "[eel foh bwahr oh mwan an lee-truh ay duh-MEE DOH par ZHOOR]",
+    "back": "You should drink at least one and a half liters of water a day.",
+    "context": "'Il faut' + infinitive = one must. 'Au moins' = at least."
+  },
+  {
+    "id": "fr-520",
+    "front": "Je dors mal depuis quelques semaines.",
+    "pronunciation": "[zhuh dor MAHL duh-pwee kel-kuh suh-MEN]",
+    "back": "I haven't been sleeping well for a few weeks.",
+    "context": "'Dormir' (je dors) is irregular. 'L'insomnie' = insomnia."
+  },
+  {
+    "id": "fr-521",
+    "front": "Je suis stressé à cause du travail.",
+    "pronunciation": "[zhuh swee streh-SAY ah kohz dü trah-VAHY]",
+    "back": "I'm stressed because of work.",
+    "context": "'À cause de' + noun = because of (negative cause). 'Grâce à' = thanks to (positive)."
+  },
+  {
+    "id": "fr-522",
+    "front": "Je fais du yoga pour me détendre.",
+    "pronunciation": "[zhuh feh dü yoh-GAH poor muh day-TAHN-druh]",
+    "back": "I do yoga to relax.",
+    "context": "'Se détendre' = to relax."
+  },
+  {
+    "id": "fr-523",
+    "front": "J'ai arrêté de fumer il y a un an.",
+    "pronunciation": "[zhay ah-reh-tay duh fü-MAY eel yah an NAHN]",
+    "back": "I quit smoking a year ago.",
+    "context": "'Arrêter de' + infinitive = to stop doing. 'Il y a' + time = ago."
+  },
+  {
+    "id": "fr-524",
+    "front": "Tu as mauvaise mine, tu es fatigué ?",
+    "pronunciation": "[tü ah moh-vez MEEN, tü eh fah-tee-GAY]",
+    "back": "You don't look well, are you tired?",
+    "context": "'Avoir bonne mine / mauvaise mine' = to look well / unwell."
+  },
+  {
+    "id": "fr-525",
+    "front": "Je me suis tordu la cheville.",
+    "pronunciation": "[zhuh muh swee tor-DÜ lah shuh-VEE]",
+    "back": "I twisted my ankle.",
+    "context": "'La cheville' = ankle; 'le poignet' = wrist."
+  },
+  {
+    "id": "fr-526",
+    "front": "Le dentiste m'a dit de revenir dans six mois.",
+    "pronunciation": "[luh dahn-TEEST mah dee duh ruh-vuh-NEER dahn see MWAH]",
+    "back": "The dentist told me to come back in six months.",
+    "context": "'Dire de' + infinitive = to tell (someone) to do."
+  },
+  {
+    "id": "fr-527",
+    "front": "La pharmacie de garde est ouverte toute la nuit.",
+    "pronunciation": "[lah far-mah-SEE duh GARD eh too-vehrt toot lah NWEE]",
+    "back": "The on-duty pharmacy is open all night.",
+    "context": "Look for the green cross. 'De garde' = on duty."
+  },
+  {
+    "id": "fr-528",
+    "front": "Il faut que tu te reposes.",
+    "pronunciation": "[eel foh kuh tü tuh ruh-POHZ]",
+    "back": "You need to rest.",
+    "context": "'Il faut que' + subjunctive. Here 'reposes' looks like the present."
+  },
+  {
+    "id": "fr-529",
+    "front": "Je n'ai pas de mutuelle.",
+    "pronunciation": "[zhuh neh pah duh mü-TÜEL]",
+    "back": "I don't have supplementary health insurance.",
+    "context": "'La mutuelle' tops up what the Sécurité sociale reimburses. Most employees get one through work."
+  },
+  {
+    "id": "fr-530",
+    "front": "Elle est enceinte de six mois.",
+    "pronunciation": "[el eh tahn-SANT duh see MWAH]",
+    "back": "She's six months pregnant.",
+    "context": "'Enceinte' = pregnant. False friend: 'pregnant' is never 'prégnante'."
+  }
+]

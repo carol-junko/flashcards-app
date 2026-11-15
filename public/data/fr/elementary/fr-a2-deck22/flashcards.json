@@ -1,0 +1,212 @@
+[
+  {
+    "id": "fr-706",
+    "front": "J'habite à Marseille.",
+    "pronunciation": "[zhah-beet ah mar-SAY]",
+    "back": "I live in Marseille.",
+    "context": "Cities take 'à': à Paris, à Montréal, à Bruxelles."
+  },
+  {
+    "id": "fr-707",
+    "front": "Je vais en France cet été.",
+    "pronunciation": "[zhuh veh ahn FRAHNS set ay-TAY]",
+    "back": "I'm going to France this summer.",
+    "context": "Feminine countries (mostly ending in -e) take 'en': en France, en Italie, en Espagne."
+  },
+  {
+    "id": "fr-708",
+    "front": "Il travaille au Canada.",
+    "pronunciation": "[eel trah-vahy oh kah-nah-DAH]",
+    "back": "He works in Canada.",
+    "context": "Masculine countries take 'au': au Canada, au Brésil, au Japon, au Mexique."
+  },
+  {
+    "id": "fr-709",
+    "front": "Elle est née aux États-Unis.",
+    "pronunciation": "[el eh nay oh zay-tah-zü-NEE]",
+    "back": "She was born in the United States.",
+    "context": "Plural countries take 'aux': aux États-Unis, aux Pays-Bas."
+  },
+  {
+    "id": "fr-710",
+    "front": "Nous partons en Iran le mois prochain.",
+    "pronunciation": "[noo par-tohn ahn nee-RAHN luh mwah proh-SHAN]",
+    "back": "We're going to Iran next month.",
+    "context": "Masculine countries starting with a vowel take 'en' too: en Iran, en Israël."
+  },
+  {
+    "id": "fr-711",
+    "front": "Je reviens du Portugal.",
+    "pronunciation": "[zhuh ruh-vyan dü por-tü-GAL]",
+    "back": "I'm coming back from Portugal.",
+    "context": "'From': de + feminine country (de France), du + masculine (du Portugal), des + plural (des États-Unis)."
+  },
+  {
+    "id": "fr-712",
+    "front": "Le livre est sur la table.",
+    "pronunciation": "[luh LEE-vruh eh sür lah TAH-bluh]",
+    "back": "The book is on the table.",
+    "context": "'Sur' = on (top of)."
+  },
+  {
+    "id": "fr-713",
+    "front": "Le chat est sous le lit.",
+    "pronunciation": "[luh shah eh soo luh LEE]",
+    "back": "The cat is under the bed.",
+    "context": "'Sous' = under. Pronounce sur [sür] and sous [soo] carefully."
+  },
+  {
+    "id": "fr-714",
+    "front": "Les clés sont dans le tiroir.",
+    "pronunciation": "[lay klay sohn dahn luh tee-RWAHR]",
+    "back": "The keys are in the drawer.",
+    "context": "'Dans' = inside."
+  },
+  {
+    "id": "fr-715",
+    "front": "La pharmacie est à côté de la banque.",
+    "pronunciation": "[lah far-mah-SEE eh tah koh-TAY duh lah BAHNK]",
+    "back": "The pharmacy is next to the bank.",
+    "context": "'À côté de' = next to. De + le = du: à côté du cinéma."
+  },
+  {
+    "id": "fr-716",
+    "front": "Il y a un parc en face de l'école.",
+    "pronunciation": "[eel yah an park ahn fas duh lay-KOL]",
+    "back": "There's a park opposite the school.",
+    "context": "'En face de' = opposite, across from."
+  },
+  {
+    "id": "fr-717",
+    "front": "La boulangerie est entre le café et la poste.",
+    "pronunciation": "[lah boo-lahn-zhuh-REE eh tahn-truh luh kah-FAY ay lah POST]",
+    "back": "The bakery is between the café and the post office.",
+    "context": "'Entre' = between."
+  },
+  {
+    "id": "fr-718",
+    "front": "Je t'attends devant le cinéma.",
+    "pronunciation": "[zhuh tah-tahn duh-vahn luh see-nay-MAH]",
+    "back": "I'll wait for you in front of the cinema.",
+    "context": "'Devant' = in front of; 'derrière' = behind."
+  },
+  {
+    "id": "fr-719",
+    "front": "Le jardin est derrière la maison.",
+    "pronunciation": "[luh zhar-DAN eh deh-ryehr lah meh-ZOHN]",
+    "back": "The garden is behind the house.",
+    "context": "'Derrière' = behind."
+  },
+  {
+    "id": "fr-720",
+    "front": "La gare est près d'ici.",
+    "pronunciation": "[lah gar eh preh dee-SEE]",
+    "back": "The station is near here.",
+    "context": "'Près de' = near; 'loin de' = far from."
+  },
+  {
+    "id": "fr-721",
+    "front": "L'aéroport est loin du centre-ville.",
+    "pronunciation": "[lah-ay-roh-POR eh lwan dü sahn-truh-VEEL]",
+    "back": "The airport is far from the city center.",
+    "context": "'Loin de' + le = loin du."
+  },
+  {
+    "id": "fr-722",
+    "front": "Le restaurant est au coin de la rue.",
+    "pronunciation": "[luh res-toh-RAHN eh toh kwan duh lah RÜ]",
+    "back": "The restaurant is on the corner of the street.",
+    "context": "'Au coin de' = on the corner of."
+  },
+  {
+    "id": "fr-723",
+    "front": "La salle de bain est au bout du couloir.",
+    "pronunciation": "[lah sal duh BAN eh toh boo dü koo-LWAHR]",
+    "back": "The bathroom is at the end of the corridor.",
+    "context": "'Au bout de' = at the end of."
+  },
+  {
+    "id": "fr-724",
+    "front": "Je suis chez moi ce soir.",
+    "pronunciation": "[zhuh swee shay MWAH suh SWAHR]",
+    "back": "I'm at home tonight.",
+    "context": "'Chez' + person = at someone's place: chez moi, chez Paul, chez le dentiste."
+  },
+  {
+    "id": "fr-725",
+    "front": "On dîne chez mes parents dimanche.",
+    "pronunciation": "[ohn deen shay may pah-RAHN dee-MAHNSH]",
+    "back": "We're having dinner at my parents' on Sunday.",
+    "context": "'Chez' has no direct English equivalent: it means 'at/to the home or business of'."
+  },
+  {
+    "id": "fr-726",
+    "front": "Je suis au bureau jusqu'à dix-huit heures.",
+    "pronunciation": "[zhuh swee zoh bü-ROH zhüs-kah dee-zwee-TUHR]",
+    "back": "I'm at the office until 6 p.m.",
+    "context": "À + le = au. À + les = aux."
+  },
+  {
+    "id": "fr-727",
+    "front": "Il est à la piscine.",
+    "pronunciation": "[eel eh tah lah pee-SEEN]",
+    "back": "He's at the swimming pool.",
+    "context": "À + la stays à la."
+  },
+  {
+    "id": "fr-728",
+    "front": "Elle est à l'hôpital.",
+    "pronunciation": "[el eh tah loh-pee-TAL]",
+    "back": "She's in the hospital.",
+    "context": "À + l' before a vowel or silent h."
+  },
+  {
+    "id": "fr-729",
+    "front": "Il y a beaucoup de monde dans la rue.",
+    "pronunciation": "[eel yah boh-koo duh MOHND dahn lah RÜ]",
+    "back": "There are a lot of people in the street.",
+    "context": "'Dans la rue' = in the street. 'Beaucoup de monde' = a lot of people."
+  },
+  {
+    "id": "fr-730",
+    "front": "J'ai trouvé mon portefeuille par terre.",
+    "pronunciation": "[zhay troo-vay mohn port-fuhy par TEHR]",
+    "back": "I found my wallet on the ground.",
+    "context": "'Par terre' = on the ground/floor."
+  },
+  {
+    "id": "fr-731",
+    "front": "Les toilettes sont en haut, à gauche.",
+    "pronunciation": "[lay twah-LET sohn tahn OH, ah GOHSH]",
+    "back": "The toilets are upstairs, on the left.",
+    "context": "'En haut' = upstairs; 'en bas' = downstairs."
+  },
+  {
+    "id": "fr-732",
+    "front": "Mets ton manteau sur le portemanteau.",
+    "pronunciation": "[meh tohn mahn-TOH sür luh port-mahn-TOH]",
+    "back": "Put your coat on the coat rack.",
+    "context": "'Mets' = imperative of mettre (tu form)."
+  },
+  {
+    "id": "fr-733",
+    "front": "Je passe mes vacances en Bretagne.",
+    "pronunciation": "[zhuh pas may vah-KAHNS ahn bruh-TAN-yuh]",
+    "back": "I spend my holidays in Brittany.",
+    "context": "Feminine regions take 'en' like countries: en Bretagne, en Provence, en Normandie."
+  },
+  {
+    "id": "fr-734",
+    "front": "Nous sommes à Lyon, en Auvergne-Rhône-Alpes.",
+    "pronunciation": "[noo sum ah lee-OHN, ahn noh-vehrn-yuh-rohn-ALP]",
+    "back": "We're in Lyon, in the Auvergne-Rhône-Alpes region.",
+    "context": "City: à. Region: en (for most regions)."
+  },
+  {
+    "id": "fr-735",
+    "front": "Il habite à la campagne, loin de tout.",
+    "pronunciation": "[eel ah-beet ah lah kahm-PAN-yuh, lwan duh TOO]",
+    "back": "He lives in the countryside, far from everything.",
+    "context": "'À la campagne' = in the countryside; 'en ville' = in town; 'à la montagne', 'à la mer'."
+  }
+]

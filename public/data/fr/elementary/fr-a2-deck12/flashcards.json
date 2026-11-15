@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-356",
+    "front": "Je voudrais réserver une table pour quatre personnes.",
+    "pronunciation": "[zhuh voo-dreh ray-zehr-VAY ün TAH-bluh poor kah-truh pehr-SUN]",
+    "back": "I'd like to book a table for four people.",
+    "context": "Popular restaurants fill up: booking is common, even for lunch."
+  },
+  {
+    "id": "fr-357",
+    "front": "Pour ce soir, vers vingt heures ?",
+    "pronunciation": "[poor suh SWAHR, vehr van TUHR]",
+    "back": "For tonight, around 8 p.m.?",
+    "context": "'Vers' = around (a time). French people dine relatively late, often from 7:30 or 8 p.m."
+  },
+  {
+    "id": "fr-358",
+    "front": "Bonsoir, vous avez une réservation ?",
+    "pronunciation": "[bohn-SWAHR, voo zah-vay ün ray-zehr-vah-SYOHN]",
+    "back": "Good evening, do you have a reservation?",
+    "context": "Wait to be seated in restaurants; in cafés you can usually sit anywhere."
+  },
+  {
+    "id": "fr-359",
+    "front": "Une table pour deux, en terrasse si possible.",
+    "pronunciation": "[ün TAH-bluh poor DUH, ahn teh-RAS see poh-SEE-bluh]",
+    "back": "A table for two, outside if possible.",
+    "context": "'La terrasse' = outdoor seating, an institution in France."
+  },
+  {
+    "id": "fr-360",
+    "front": "Je peux avoir la carte, s'il vous plaît ?",
+    "pronunciation": "[zhuh puh ah-vwahr lah KART, seel voo PLEH]",
+    "back": "Can I have the menu, please?",
+    "context": "False friend: 'la carte' is the full menu; 'le menu' is a fixed-price set meal."
+  },
+  {
+    "id": "fr-361",
+    "front": "Vous avez choisi ?",
+    "pronunciation": "[voo zah-vay shwah-ZEE]",
+    "back": "Have you decided?",
+    "context": "The waiter's question when taking your order. 'Pas encore' = not yet."
+  },
+  {
+    "id": "fr-362",
+    "front": "Qu'est-ce que vous me conseillez ?",
+    "pronunciation": "[kehs-kuh voo muh kohn-seh-YAY]",
+    "back": "What do you recommend?",
+    "context": "'Conseiller' = to advise, recommend."
+  },
+  {
+    "id": "fr-363",
+    "front": "Je vais prendre le menu à vingt-deux euros.",
+    "pronunciation": "[zhuh veh prahn-druh luh muh-NÜ ah vant-duh zuh-ROH]",
+    "back": "I'll have the 22-euro set menu.",
+    "context": "A 'menu' usually includes starter + main or main + dessert ('entrée-plat' or 'plat-dessert')."
+  },
+  {
+    "id": "fr-364",
+    "front": "En entrée, je prends la soupe à l'oignon.",
+    "pronunciation": "[ahn nahn-TRAY, zhuh prahn lah soop ah loh-NYOHN]",
+    "back": "As a starter, I'll have the onion soup.",
+    "context": "False friend: 'l'entrée' is the starter, not the main course."
+  },
+  {
+    "id": "fr-365",
+    "front": "Comme plat principal, le poulet rôti avec des frites.",
+    "pronunciation": "[kum plah pran-see-PAHL, luh poo-leh roh-TEE ah-vek day FREET]",
+    "back": "As a main course, the roast chicken with fries.",
+    "context": "'Le plat (principal)' = the main course."
+  },
+  {
+    "id": "fr-366",
+    "front": "La cuisson de la viande ?",
+    "pronunciation": "[lah kwee-SOHN duh lah VYAHND]",
+    "back": "How would you like your meat cooked?",
+    "context": "Answers: bleu (very rare), saignant (rare), à point (medium), bien cuit (well done). French 'à point' is pinker than many expect."
+  },
+  {
+    "id": "fr-367",
+    "front": "À point, s'il vous plaît.",
+    "pronunciation": "[ah PWAN, seel voo PLEH]",
+    "back": "Medium, please.",
+    "context": "If you like it well done, say 'bien cuit'."
+  },
+  {
+    "id": "fr-368",
+    "front": "Je suis allergique aux fruits à coque.",
+    "pronunciation": "[zhuh swee zah-lehr-ZHEEK oh frwee ah KOK]",
+    "back": "I'm allergic to nuts.",
+    "context": "'Fruits à coque' = tree nuts; 'les arachides' = peanuts. Allergens must be listed on request."
+  },
+  {
+    "id": "fr-369",
+    "front": "Il y a de la viande dans ce plat ?",
+    "pronunciation": "[eel yah duh lah VYAHND dahn suh PLAH]",
+    "back": "Is there meat in this dish?",
+    "context": "Useful for vegetarians: many French dishes use meat stock or lardons."
+  },
+  {
+    "id": "fr-370",
+    "front": "Une carafe d'eau, s'il vous plaît.",
+    "pronunciation": "[ün kah-RAF DOH, seel voo PLEH]",
+    "back": "A jug of tap water, please.",
+    "context": "Tap water is free in French restaurants by law."
+  },
+  {
+    "id": "fr-371",
+    "front": "Qu'est-ce que vous prenez comme boisson ?",
+    "pronunciation": "[kehs-kuh voo pruh-NAY kum bwah-SOHN]",
+    "back": "What would you like to drink?",
+    "context": "'Comme' + noun = as / for: 'comme dessert', 'comme boisson'."
+  },
+  {
+    "id": "fr-372",
+    "front": "Un verre de vin rouge de la maison.",
+    "pronunciation": "[an vehr duh van ROOZH duh lah meh-ZOHN]",
+    "back": "A glass of the house red wine.",
+    "context": "'Le vin de la maison' = house wine, usually good value. 'Un pichet' = a small jug."
+  },
+  {
+    "id": "fr-373",
+    "front": "Je pourrais avoir encore un peu de pain ?",
+    "pronunciation": "[zhuh poo-reh ah-vwahr ahn-kor an puh duh PAN]",
+    "back": "Could I have a little more bread?",
+    "context": "Bread is free and refilled in French restaurants. 'Je pourrais' (conditional) is extra polite."
+  },
+  {
+    "id": "fr-374",
+    "front": "Tout se passe bien ?",
+    "pronunciation": "[toot suh pas BYAN]",
+    "back": "Is everything all right?",
+    "context": "The waiter's check-in. Answer: 'Oui, c'est délicieux, merci !'"
+  },
+  {
+    "id": "fr-375",
+    "front": "Excusez-moi, ce n'est pas ce que j'ai commandé.",
+    "pronunciation": "[ex-kü-zay-MWAH, suh neh pah suh kuh zhay koh-mahn-DAY]",
+    "back": "Excuse me, this isn't what I ordered.",
+    "context": "'Commander' = to order. Stay polite: it gets things fixed faster."
+  },
+  {
+    "id": "fr-376",
+    "front": "Vous prendrez un dessert ?",
+    "pronunciation": "[voo prahn-dray an deh-SEHR]",
+    "back": "Will you have dessert?",
+    "context": "Futur simple used politely. Classic desserts: crème brûlée, tarte Tatin, mousse au chocolat."
+  },
+  {
+    "id": "fr-377",
+    "front": "Juste un café, merci.",
+    "pronunciation": "[zhüst an kah-FAY, mehr-SEE]",
+    "back": "Just a coffee, thanks.",
+    "context": "Coffee comes after dessert, not with it, in France. It's an espresso unless you specify."
+  },
+  {
+    "id": "fr-378",
+    "front": "On pourrait avoir l'addition quand vous aurez un moment ?",
+    "pronunciation": "[ohn poo-reh ah-vwahr lah-dee-SYOHN kahn voo zoh-RAY an moh-MAHN]",
+    "back": "Could we have the check when you have a moment?",
+    "context": "A softer way to ask for the bill. 'Quand vous aurez' = future, after 'quand'."
+  },
+  {
+    "id": "fr-379",
+    "front": "Est-ce que le service est compris ?",
+    "pronunciation": "[es-kuh luh sehr-VEES eh kohm-PREE]",
+    "back": "Is service included?",
+    "context": "In France it always is, by law. Leaving a few coins for good service is a nice extra, not an obligation."
+  },
+  {
+    "id": "fr-380",
+    "front": "On peut payer séparément ?",
+    "pronunciation": "[ohn puh peh-YAY say-pah-ray-MAHN]",
+    "back": "Can we pay separately?",
+    "context": "Not always welcome in busy restaurants. 'Partager l'addition' = to split the bill."
+  },
+  {
+    "id": "fr-381",
+    "front": "C'est moi qui invite.",
+    "pronunciation": "[seh mwah kee an-VEET]",
+    "back": "It's my treat.",
+    "context": "'Inviter' also means to treat someone. 'C'est pour moi' means the same."
+  },
+  {
+    "id": "fr-382",
+    "front": "Un café, un crème et un chocolat chaud, s'il vous plaît.",
+    "pronunciation": "[an kah-FAY, an KREM ay an shoh-koh-lah SHOH, seel voo PLEH]",
+    "back": "An espresso, a coffee with milk and a hot chocolate, please.",
+    "context": "Café orders: un café (espresso), un crème (with frothy milk), une noisette (with a dash of milk)."
+  },
+  {
+    "id": "fr-383",
+    "front": "Je prends un croque-monsieur.",
+    "pronunciation": "[zhuh prahn an krok-muh-SYUH]",
+    "back": "I'll have a croque-monsieur.",
+    "context": "A toasted ham and cheese sandwich; with a fried egg on top, it's a croque-madame."
+  },
+  {
+    "id": "fr-384",
+    "front": "C'est à emporter ou sur place ?",
+    "pronunciation": "[seh tah ahn-por-TAY oo sür PLAS]",
+    "back": "Is it to take away or to eat in?",
+    "context": "'À emporter' = takeaway; 'sur place' = eat in."
+  },
+  {
+    "id": "fr-385",
+    "front": "On mange où ce midi ?",
+    "pronunciation": "[ohn mahnzh OO suh mee-DEE]",
+    "back": "Where are we eating for lunch?",
+    "context": "'Ce midi' = today at lunchtime."
+  },
+  {
+    "id": "fr-386",
+    "front": "Le plat du jour, qu'est-ce que c'est ?",
+    "pronunciation": "[luh plah dü ZHOOR, kehs-kuh SEH]",
+    "back": "What's the dish of the day?",
+    "context": "'Le plat du jour' is often the best value and the freshest choice."
+  },
+  {
+    "id": "fr-387",
+    "front": "C'était délicieux, merci beaucoup !",
+    "pronunciation": "[seh-teh day-lee-SYUH, mehr-see boh-KOO]",
+    "back": "That was delicious, thank you very much!",
+    "context": "'C'était' = it was (imparfait of c'est). Always appreciated by the chef."
+  },
+  {
+    "id": "fr-388",
+    "front": "Je n'ai plus faim, je suis plein.",
+    "pronunciation": "[zhuh neh plü FAN, zhuh swee PLAN]",
+    "back": "I'm not hungry anymore, I'm full.",
+    "context": "'Je suis plein(e)' is common, though some find it slightly informal; 'j'ai bien mangé' is a safe alternative."
+  },
+  {
+    "id": "fr-389",
+    "front": "Garçon ! … Non, on dit plutôt « Excusez-moi » ou « S'il vous plaît ».",
+    "pronunciation": "[gar-SOHN … nohn, ohn dee plü-TOH ex-kü-zay-MWAH oo seel voo PLEH]",
+    "back": "Waiter! … No, it's better to say 'Excuse me' or 'Please'.",
+    "context": "Calling 'Garçon !' is considered rude today. Make eye contact and say 'S'il vous plaît'."
+  },
+  {
+    "id": "fr-390",
+    "front": "On a passé une excellente soirée, merci pour tout.",
+    "pronunciation": "[ohn nah pah-SAY ün ek-seh-lahnt swah-RAY, mehr-SEE poor TOO]",
+    "back": "We had a wonderful evening, thank you for everything.",
+    "context": "A warm goodbye to the staff or to your hosts."
+  }
+]

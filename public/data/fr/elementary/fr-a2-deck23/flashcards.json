@@ -1,0 +1,212 @@
+[
+  {
+    "id": "fr-736",
+    "front": "Ferme la porte, s'il te plaît.",
+    "pronunciation": "[fehrm lah PORT, seel tuh PLEH]",
+    "back": "Close the door, please.",
+    "context": "Imperative (tu): the present without 'tu'. For -ER verbs, drop the final s: tu fermes → ferme."
+  },
+  {
+    "id": "fr-737",
+    "front": "Fermez la porte, s'il vous plaît.",
+    "pronunciation": "[fehr-may lah PORT, seel voo PLEH]",
+    "back": "Close the door, please. (formal or plural)",
+    "context": "Imperative (vous): 'vous fermez' → 'fermez'."
+  },
+  {
+    "id": "fr-738",
+    "front": "Allons-y !",
+    "pronunciation": "[ah-lohn-ZEE]",
+    "back": "Let's go!",
+    "context": "Imperative (nous) = let's: 'allons', 'mangeons'. 'Allons-y' = let's go there."
+  },
+  {
+    "id": "fr-739",
+    "front": "Ne touche pas, c'est chaud !",
+    "pronunciation": "[nuh toosh PAH, seh SHOH]",
+    "back": "Don't touch, it's hot!",
+    "context": "Negative imperative: ne + verb + pas."
+  },
+  {
+    "id": "fr-740",
+    "front": "Regarde ça !",
+    "pronunciation": "[ruh-GARD SAH]",
+    "back": "Look at this!",
+    "context": "-ER verbs drop the s in the tu imperative: regarde, écoute, mange."
+  },
+  {
+    "id": "fr-741",
+    "front": "Écoutez bien les instructions.",
+    "pronunciation": "[ay-koo-tay byan lay zan-strük-SYOHN]",
+    "back": "Listen carefully to the instructions.",
+    "context": "Typical classroom instruction (vous imperative)."
+  },
+  {
+    "id": "fr-742",
+    "front": "Prends ton temps.",
+    "pronunciation": "[prahn tohn TAHN]",
+    "back": "Take your time.",
+    "context": "Non -ER verbs keep the s: prends, finis, viens, fais."
+  },
+  {
+    "id": "fr-743",
+    "front": "Viens ici !",
+    "pronunciation": "[vyan ee-SEE]",
+    "back": "Come here!",
+    "context": "'Venir' → viens (tu), venez (vous)."
+  },
+  {
+    "id": "fr-744",
+    "front": "Sois sage !",
+    "pronunciation": "[swah SAHZH]",
+    "back": "Be good!",
+    "context": "Irregular imperatives: être → sois, soyez; avoir → aie, ayez; savoir → sache."
+  },
+  {
+    "id": "fr-745",
+    "front": "Ayez votre passeport à portée de main.",
+    "pronunciation": "[eh-yay voh-truh pas-POR ah por-tay duh MAN]",
+    "back": "Have your passport at hand.",
+    "context": "Avoir → ayez (vous). 'À portée de main' = within reach."
+  },
+  {
+    "id": "fr-746",
+    "front": "Assieds-toi, je t'en prie.",
+    "pronunciation": "[ah-syay-TWAH, zhuh tahn PREE]",
+    "back": "Sit down, please.",
+    "context": "Reflexive imperative: the pronoun goes after, with a hyphen: assieds-toi, lève-toi."
+  },
+  {
+    "id": "fr-747",
+    "front": "Ne t'inquiète pas.",
+    "pronunciation": "[nuh tan-KYET PAH]",
+    "back": "Don't worry.",
+    "context": "Negative reflexive imperative: the pronoun goes before: ne t'inquiète pas."
+  },
+  {
+    "id": "fr-748",
+    "front": "Dépêchez-vous, le train part !",
+    "pronunciation": "[day-peh-shay-VOO, luh tran PAR]",
+    "back": "Hurry up, the train's leaving!",
+    "context": "'Se dépêcher' = to hurry."
+  },
+  {
+    "id": "fr-749",
+    "front": "Donne-moi la main.",
+    "pronunciation": "[dun-mwah lah MAN]",
+    "back": "Give me your hand.",
+    "context": "After an affirmative imperative, me → moi: donne-moi, dis-moi, aide-moi."
+  },
+  {
+    "id": "fr-750",
+    "front": "Dites-moi si vous avez besoin de quelque chose.",
+    "pronunciation": "[deet-mwah see voo zah-vay buh-zwan duh kel-kuh SHOHZ]",
+    "back": "Tell me if you need anything.",
+    "context": "'Dites' = imperative of dire (vous). Never 'disez'."
+  },
+  {
+    "id": "fr-751",
+    "front": "Tu peux m'aider, s'il te plaît ?",
+    "pronunciation": "[tü puh meh-DAY, seel tuh PLEH]",
+    "back": "Can you help me, please?",
+    "context": "'Pouvoir' + infinitive: the most common polite request."
+  },
+  {
+    "id": "fr-752",
+    "front": "Vous pourriez parler moins fort ?",
+    "pronunciation": "[voo poo-ryay par-lay mwan FOR]",
+    "back": "Could you speak more quietly?",
+    "context": "Conditional 'pourriez' = could: more polite than 'pouvez'."
+  },
+  {
+    "id": "fr-753",
+    "front": "Je voudrais un renseignement, s'il vous plaît.",
+    "pronunciation": "[zhuh voo-dreh an rahn-sen-yuh-MAHN, seel voo PLEH]",
+    "back": "I'd like some information, please.",
+    "context": "'Je voudrais' (conditional of vouloir) is the polite form of 'je veux'."
+  },
+  {
+    "id": "fr-754",
+    "front": "Ça vous dérangerait d'ouvrir la fenêtre ?",
+    "pronunciation": "[sah voo day-rahn-zhuh-reh doo-VREER lah fuh-NEH-truh]",
+    "back": "Would you mind opening the window?",
+    "context": "'Ça vous dérangerait de…?' = would you mind…? Very polite."
+  },
+  {
+    "id": "fr-755",
+    "front": "Est-ce que je pourrais avoir un verre d'eau ?",
+    "pronunciation": "[es-kuh zhuh poo-reh ah-vwahr an vehr DOH]",
+    "back": "Could I have a glass of water?",
+    "context": "'Est-ce que' + statement = a neutral, correct question form."
+  },
+  {
+    "id": "fr-756",
+    "front": "Je veux un café !",
+    "pronunciation": "[zhuh vuh an kah-FAY]",
+    "back": "I want a coffee!",
+    "context": "'Je veux' sounds demanding or childish to a waiter. Prefer 'je voudrais' or 'je vais prendre'."
+  },
+  {
+    "id": "fr-757",
+    "front": "Merci de bien vouloir remplir ce formulaire.",
+    "pronunciation": "[mehr-SEE duh byan voo-lwahr rahm-pleer suh for-mü-LEHR]",
+    "back": "Please kindly fill out this form.",
+    "context": "Formal written request: 'Merci de bien vouloir' + infinitive."
+  },
+  {
+    "id": "fr-758",
+    "front": "Prière de ne pas fumer.",
+    "pronunciation": "[pree-yehr duh nuh pah fü-MAY]",
+    "back": "Please do not smoke.",
+    "context": "Formal sign language: 'Prière de' + infinitive."
+  },
+  {
+    "id": "fr-759",
+    "front": "Défense d'entrer.",
+    "pronunciation": "[day-fahns dahn-TRAY]",
+    "back": "No entry.",
+    "context": "'Défense de' = it is forbidden to. Also on signs: 'Interdit de stationner' (no parking)."
+  },
+  {
+    "id": "fr-760",
+    "front": "Ne quittez pas la route.",
+    "pronunciation": "[nuh kee-tay pah lah ROOT]",
+    "back": "Don't leave the road.",
+    "context": "'Quitter' = to leave (a place). Also 'Ne quittez pas' = hold the line (phone)."
+  },
+  {
+    "id": "fr-761",
+    "front": "N'oubliez pas vos affaires.",
+    "pronunciation": "[noo-blee-yay pah voh zah-FEHR]",
+    "back": "Don't forget your belongings.",
+    "context": "Heard on trains and planes. 'Les affaires' = belongings (also business)."
+  },
+  {
+    "id": "fr-762",
+    "front": "Faites comme chez vous !",
+    "pronunciation": "[fet kum shay VOO]",
+    "back": "Make yourself at home!",
+    "context": "A warm welcome for guests."
+  },
+  {
+    "id": "fr-763",
+    "front": "Laisse-moi faire.",
+    "pronunciation": "[les-mwah FEHR]",
+    "back": "Let me do it.",
+    "context": "'Laisser' + infinitive = to let (someone) do."
+  },
+  {
+    "id": "fr-764",
+    "front": "Va voir ce qui se passe.",
+    "pronunciation": "[vah vwahr suh kee suh PAS]",
+    "back": "Go and see what's going on.",
+    "context": "Aller → va (no s in the tu imperative). But 'vas-y' (go ahead) keeps an s before y."
+  },
+  {
+    "id": "fr-765",
+    "front": "Vas-y, je te suis.",
+    "pronunciation": "[vah-ZEE, zhuh tuh SWEE]",
+    "back": "Go ahead, I'm following you.",
+    "context": "'Vas-y' keeps the s for the sound before 'y'. 'Je te suis' = I follow you (from suivre)."
+  }
+]

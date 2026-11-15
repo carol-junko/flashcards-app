@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-461",
+    "front": "Je suis infirmière à l'hôpital.",
+    "pronunciation": "[zhuh swee zan-feer-MYEHR ah loh-pee-TAL]",
+    "back": "I'm a nurse at the hospital.",
+    "context": "No article before professions with être. Masculine: infirmier."
+  },
+  {
+    "id": "fr-462",
+    "front": "Il est ingénieur dans une entreprise de logiciels.",
+    "pronunciation": "[eel eh tan-zhay-NYUHR dahn zün ahn-truh-PREEZ duh loh-zhee-SYEL]",
+    "back": "He's an engineer at a software company.",
+    "context": "'Une entreprise' = company. 'Un logiciel' = software."
+  },
+  {
+    "id": "fr-463",
+    "front": "Elle travaille comme avocate.",
+    "pronunciation": "[el trah-VAHY kum ah-voh-KAT]",
+    "back": "She works as a lawyer.",
+    "context": "'Travailler comme' + profession = to work as."
+  },
+  {
+    "id": "fr-464",
+    "front": "Je suis au chômage en ce moment.",
+    "pronunciation": "[zhuh swee zoh shoh-MAHZH ahn suh moh-MAHN]",
+    "back": "I'm unemployed at the moment.",
+    "context": "'Être au chômage' = to be unemployed. 'Pôle emploi', now 'France Travail', is the job center."
+  },
+  {
+    "id": "fr-465",
+    "front": "Je cherche du travail.",
+    "pronunciation": "[zhuh shersh dü trah-VAHY]",
+    "back": "I'm looking for work.",
+    "context": "'Le travail' = work; 'un emploi', 'un poste' = a job."
+  },
+  {
+    "id": "fr-466",
+    "front": "J'ai un entretien d'embauche demain.",
+    "pronunciation": "[zhay an nahn-truh-TYAN dahm-BOHSH duh-MAN]",
+    "back": "I have a job interview tomorrow.",
+    "context": "'L'embauche' = hiring; 'embaucher' = to hire."
+  },
+  {
+    "id": "fr-467",
+    "front": "J'ai un CDI.",
+    "pronunciation": "[zhay an seh-deh-EE]",
+    "back": "I have a permanent contract.",
+    "context": "CDI (contrat à durée indéterminée) = permanent job; CDD = fixed-term contract. A CDI matters a lot when renting in France."
+  },
+  {
+    "id": "fr-468",
+    "front": "Je travaille à temps partiel.",
+    "pronunciation": "[zhuh trah-vahy ah tahn par-SYEL]",
+    "back": "I work part-time.",
+    "context": "'À temps plein' = full-time. The legal full-time week in France is 35 hours."
+  },
+  {
+    "id": "fr-469",
+    "front": "Je fais du télétravail deux jours par semaine.",
+    "pronunciation": "[zhuh feh dü tay-lay-trah-VAHY duh zhoor par suh-MEN]",
+    "back": "I work from home two days a week.",
+    "context": "'Le télétravail' = remote work."
+  },
+  {
+    "id": "fr-470",
+    "front": "Mon bureau est au cinquième étage.",
+    "pronunciation": "[mohn bü-ROH eh toh san-KYEM ay-TAZH]",
+    "back": "My office is on the fifth floor.",
+    "context": "'Le bureau' = office or desk."
+  },
+  {
+    "id": "fr-471",
+    "front": "Je suis en réunion jusqu'à quinze heures.",
+    "pronunciation": "[zhuh swee zahn ray-ü-NYOHN zhüs-kah kan-ZUHR]",
+    "back": "I'm in a meeting until 3 p.m.",
+    "context": "'Être en réunion' = to be in a meeting."
+  },
+  {
+    "id": "fr-472",
+    "front": "Mon collègue est en congé maladie.",
+    "pronunciation": "[mohn koh-LEG eh tahn kohn-zhay mah-lah-DEE]",
+    "back": "My colleague is on sick leave.",
+    "context": "'Un congé' = leave; 'les congés payés' = paid holidays (five weeks a year in France)."
+  },
+  {
+    "id": "fr-473",
+    "front": "Je pars en vacances la semaine prochaine.",
+    "pronunciation": "[zhuh par ahn vah-KAHNS lah suh-men proh-SHEN]",
+    "back": "I'm going on vacation next week.",
+    "context": "'Partir en vacances' = to go on holiday."
+  },
+  {
+    "id": "fr-474",
+    "front": "Le patron veut nous voir.",
+    "pronunciation": "[luh pah-TROHN vuh noo VWAHR]",
+    "back": "The boss wants to see us.",
+    "context": "'Le patron' or 'le chef' (informal); 'le/la responsable', 'le directeur' (more formal)."
+  },
+  {
+    "id": "fr-475",
+    "front": "Je dois rendre ce rapport avant vendredi.",
+    "pronunciation": "[zhuh dwah rahn-druh suh rah-POR ah-vahn vahn-druh-DEE]",
+    "back": "I have to hand in this report before Friday.",
+    "context": "'Devoir' + infinitive = to have to. 'Rendre' = to hand in."
+  },
+  {
+    "id": "fr-476",
+    "front": "Vous pouvez m'envoyer le document par mail ?",
+    "pronunciation": "[voo poo-vay mahn-vwah-yay luh doh-kü-MAHN par MEL]",
+    "back": "Can you send me the document by email?",
+    "context": "'Un mail' or 'un e-mail' in everyday French; 'un courriel' is the official term, common in Québec."
+  },
+  {
+    "id": "fr-477",
+    "front": "Je vous rappelle dans cinq minutes.",
+    "pronunciation": "[zhuh voo rah-PEL dahn san mee-NÜT]",
+    "back": "I'll call you back in five minutes.",
+    "context": "'Rappeler' = to call back."
+  },
+  {
+    "id": "fr-478",
+    "front": "Ne quittez pas, je vous le passe.",
+    "pronunciation": "[nuh kee-tay PAH, zhuh voo luh PAS]",
+    "back": "Hold the line, I'll put you through.",
+    "context": "Phone formula: 'Ne quittez pas' = please hold."
+  },
+  {
+    "id": "fr-479",
+    "front": "C'est de la part de qui ?",
+    "pronunciation": "[seh duh lah par duh KEE]",
+    "back": "Who's calling, please?",
+    "context": "Asked by receptionists on the phone."
+  },
+  {
+    "id": "fr-480",
+    "front": "Je suis débordé en ce moment.",
+    "pronunciation": "[zhuh swee day-bor-DAY ahn suh moh-MAHN]",
+    "back": "I'm swamped right now.",
+    "context": "'Débordé' = overwhelmed with work (literally overflowing)."
+  },
+  {
+    "id": "fr-481",
+    "front": "On fait une pause café ?",
+    "pronunciation": "[ohn feh tün pohz kah-FAY]",
+    "back": "Shall we take a coffee break?",
+    "context": "The coffee machine is a social hub in French offices."
+  },
+  {
+    "id": "fr-482",
+    "front": "Je commence à neuf heures et je finis à dix-huit heures.",
+    "pronunciation": "[zhuh koh-MAHNS ah nuh-VUHR ay zhuh fee-NEE ah dee-zwee-TUHR]",
+    "back": "I start at nine and finish at six.",
+    "context": "The lunch break in France is often an hour or more."
+  },
+  {
+    "id": "fr-483",
+    "front": "Bonne continuation !",
+    "pronunciation": "[bun kohn-tee-nü-ah-SYOHN]",
+    "back": "Keep up the good work! / All the best!",
+    "context": "Said when parting from someone you won't see for a while."
+  },
+  {
+    "id": "fr-484",
+    "front": "Je vous souhaite une bonne journée.",
+    "pronunciation": "[zhuh voo sweht ün bun zhoor-NAY]",
+    "back": "I wish you a good day.",
+    "context": "Polite formula to end a professional call or meeting."
+  },
+  {
+    "id": "fr-485",
+    "front": "Je suis en stage dans une agence de communication.",
+    "pronunciation": "[zhuh swee zahn STAHZH dahn zün ah-zhahns duh koh-mü-nee-kah-SYOHN]",
+    "back": "I'm doing an internship at a communications agency.",
+    "context": "'Un stage' = internship; 'un/une stagiaire' = intern."
+  },
+  {
+    "id": "fr-486",
+    "front": "Il a été promu directeur commercial.",
+    "pronunciation": "[eel ah ay-tay proh-MÜ dee-rek-tuhr koh-mehr-SYAL]",
+    "back": "He was promoted to sales director.",
+    "context": "'Être promu' = to be promoted; 'une promotion' = a promotion (also a sale or a graduating class)."
+  },
+  {
+    "id": "fr-487",
+    "front": "Elle a démissionné le mois dernier.",
+    "pronunciation": "[el ah day-mee-syoh-NAY luh mwah dehr-NYAY]",
+    "back": "She resigned last month.",
+    "context": "'Démissionner' = to resign; 'être licencié' = to be laid off."
+  },
+  {
+    "id": "fr-488",
+    "front": "Le salaire est de deux mille euros brut par mois.",
+    "pronunciation": "[luh sah-LEHR eh duh duh meel uh-ROH BRÜT par MWAH]",
+    "back": "The salary is two thousand euros gross per month.",
+    "context": "French salaries are given monthly, 'brut' (gross) or 'net' (after deductions)."
+  },
+  {
+    "id": "fr-489",
+    "front": "Vous pouvez m'envoyer votre CV ?",
+    "pronunciation": "[voo poo-vay mahn-vwah-yay voh-truh seh-VEH]",
+    "back": "Can you send me your CV?",
+    "context": "French CVs are usually one page, often with a photo."
+  },
+  {
+    "id": "fr-490",
+    "front": "Quelles sont vos qualités et vos défauts ?",
+    "pronunciation": "[kel sohn voh kah-lee-TAY ay voh day-FOH]",
+    "back": "What are your strengths and weaknesses?",
+    "context": "A classic interview question. 'Un défaut' = a flaw."
+  },
+  {
+    "id": "fr-491",
+    "front": "Je suis organisé et j'aime travailler en équipe.",
+    "pronunciation": "[zhuh swee zor-gah-nee-ZAY ay zhem trah-vah-yay ahn nay-KEEP]",
+    "back": "I'm organized and I like working in a team.",
+    "context": "'Travailler en équipe' = teamwork."
+  },
+  {
+    "id": "fr-492",
+    "front": "Madame, Monsieur, je me permets de vous écrire…",
+    "pronunciation": "[mah-DAM, muh-SYUH, zhuh muh pehr-MEH duh voo zay-KREER]",
+    "back": "Dear Sir or Madam, I am writing to you…",
+    "context": "Standard opening of a formal letter or email to someone whose name you don't know."
+  },
+  {
+    "id": "fr-493",
+    "front": "Bien cordialement.",
+    "pronunciation": "[byan kor-dyahl-MAHN]",
+    "back": "Kind regards.",
+    "context": "The most common professional email sign-off."
+  },
+  {
+    "id": "fr-494",
+    "front": "Ça marche, je m'en occupe.",
+    "pronunciation": "[sah MARSH, zhuh mahn noh-KÜP]",
+    "back": "OK, I'll take care of it.",
+    "context": "'S'occuper de' = to take care of. 'Ça marche' = OK, works for me (informal but common at work)."
+  },
+  {
+    "id": "fr-495",
+    "front": "On se tutoie ou on se vouvoie ?",
+    "pronunciation": "[ohn suh tü-TWAH oo ohn suh voo-VWAH]",
+    "back": "Do we use tu or vous?",
+    "context": "In many French offices colleagues use tu, but vous is safer with managers and clients."
+  }
+]
