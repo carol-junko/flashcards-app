@@ -1,0 +1,177 @@
+[
+  {
+    "id": "fr-241",
+    "front": "Je suis, tu es, il est, nous sommes, vous êtes, ils sont.",
+    "pronunciation": "[zhuh SWEE, tü EH, eel EH, noo SUM, voo ZET, eel SOHN]",
+    "back": "I am, you are, he is, we are, you are, they are.",
+    "context": "The present of être. 'Vous êtes' links: [voo ZET]."
+  },
+  {
+    "id": "fr-242",
+    "front": "J'ai, tu as, il a, nous avons, vous avez, ils ont.",
+    "pronunciation": "[ZHAY, tü AH, eel AH, noo zah-VOHN, voo zah-VAY, eel ZOHN]",
+    "back": "I have, you have, he has, we have, you have, they have.",
+    "context": "The present of avoir. Careful: 'ils sont' [SOHN] (are) vs 'ils ont' [ZOHN] (have)."
+  },
+  {
+    "id": "fr-243",
+    "front": "Je suis fatiguée aujourd'hui.",
+    "pronunciation": "[zhuh swee fah-tee-GAY oh-zhoor-DWEE]",
+    "back": "I'm tired today. (female)",
+    "context": "Être + adjective for states. The adjective agrees with the subject."
+  },
+  {
+    "id": "fr-244",
+    "front": "Nous sommes en retard !",
+    "pronunciation": "[noo sum ahn ruh-TAR]",
+    "back": "We're late!",
+    "context": "'Être en retard' = to be late; 'être en avance' = to be early; 'être à l'heure' = to be on time."
+  },
+  {
+    "id": "fr-245",
+    "front": "Vous êtes d'où ?",
+    "pronunciation": "[voo zet DOO]",
+    "back": "Where are you from?",
+    "context": "'Être de' = to be from. 'Je suis de Montréal.'"
+  },
+  {
+    "id": "fr-246",
+    "front": "Ils sont au bureau.",
+    "pronunciation": "[eel sohn toh bü-ROH]",
+    "back": "They're at the office.",
+    "context": "Être + place: 'être à la maison, au bureau, en vacances'."
+  },
+  {
+    "id": "fr-247",
+    "front": "C'est mon ami Thomas.",
+    "pronunciation": "[seh mohn nah-mee toh-MAH]",
+    "back": "This is my friend Thomas.",
+    "context": "'C'est' introduces a person or thing: c'est + name/noun. 'Il est' + adjective or profession."
+  },
+  {
+    "id": "fr-248",
+    "front": "Il est médecin.",
+    "pronunciation": "[eel eh mayd-SAN]",
+    "back": "He's a doctor.",
+    "context": "With 'il est', no article before the profession. With 'c'est', you need one: 'C'est un médecin.'"
+  },
+  {
+    "id": "fr-249",
+    "front": "J'ai trente ans.",
+    "pronunciation": "[zhay trahnt AHN]",
+    "back": "I'm thirty years old.",
+    "context": "Age = avoir in French. Never 'je suis trente ans'."
+  },
+  {
+    "id": "fr-250",
+    "front": "Tu as des frères et sœurs ?",
+    "pronunciation": "[tü ah day frehr ay SUHR]",
+    "back": "Do you have brothers and sisters?",
+    "context": "Rising intonation makes it a question in everyday speech."
+  },
+  {
+    "id": "fr-251",
+    "front": "J'ai froid, tu peux fermer la fenêtre ?",
+    "pronunciation": "[zhay FRWAH, tü puh fehr-MAY lah fuh-NEH-truh]",
+    "back": "I'm cold, can you close the window?",
+    "context": "Feelings of the body use avoir: avoir froid, avoir chaud, avoir faim, avoir soif, avoir sommeil."
+  },
+  {
+    "id": "fr-252",
+    "front": "Elle a peur des araignées.",
+    "pronunciation": "[el ah PUHR day zah-reh-NYAY]",
+    "back": "She's afraid of spiders.",
+    "context": "'Avoir peur de' = to be afraid of."
+  },
+  {
+    "id": "fr-253",
+    "front": "Tu as raison.",
+    "pronunciation": "[tü ah reh-ZOHN]",
+    "back": "You're right.",
+    "context": "'Avoir raison' = to be right; 'avoir tort' = to be wrong. Avoir, not être!"
+  },
+  {
+    "id": "fr-254",
+    "front": "J'ai mal à la tête.",
+    "pronunciation": "[zhay mahl ah lah TET]",
+    "back": "I have a headache.",
+    "context": "'Avoir mal à' + body part: j'ai mal au dos, j'ai mal aux dents."
+  },
+  {
+    "id": "fr-255",
+    "front": "On a besoin d'aide.",
+    "pronunciation": "[ohn nah buh-ZWAN DED]",
+    "back": "We need help.",
+    "context": "'Avoir besoin de' = to need. 'On a' = nous avons in everyday speech."
+  },
+  {
+    "id": "fr-256",
+    "front": "J'ai envie d'une glace.",
+    "pronunciation": "[zhay ahn-VEE dün GLAS]",
+    "back": "I feel like having an ice cream.",
+    "context": "'Avoir envie de' = to feel like / to want."
+  },
+  {
+    "id": "fr-257",
+    "front": "Il y a un problème.",
+    "pronunciation": "[eel yah an proh-BLEM]",
+    "back": "There's a problem.",
+    "context": "'Il y a' (from avoir) = there is / there are. Also means 'ago': 'il y a deux ans'."
+  },
+  {
+    "id": "fr-258",
+    "front": "Nous avons rendez-vous à dix heures.",
+    "pronunciation": "[noo zah-vohn rahn-day-VOO ah dee ZUHR]",
+    "back": "We have an appointment at ten.",
+    "context": "'Avoir rendez-vous' = to have an appointment or a date."
+  },
+  {
+    "id": "fr-259",
+    "front": "Je ne suis pas sûr.",
+    "pronunciation": "[zhuh nuh swee pah SÜR]",
+    "back": "I'm not sure.",
+    "context": "Negation: ne + être + pas. In speech the ne often disappears: 'Je suis pas sûr.'"
+  },
+  {
+    "id": "fr-260",
+    "front": "Je n'ai pas le temps.",
+    "pronunciation": "[zhuh neh pah luh TAHN]",
+    "back": "I don't have time.",
+    "context": "'Ne' becomes 'n'' before a vowel: je n'ai pas, il n'est pas."
+  },
+  {
+    "id": "fr-261",
+    "front": "Vous avez l'heure, s'il vous plaît ?",
+    "pronunciation": "[voo zah-vay LUHR, seel voo PLEH]",
+    "back": "Do you have the time, please?",
+    "context": "A polite way to ask a stranger the time."
+  },
+  {
+    "id": "fr-262",
+    "front": "Ils ont de la chance !",
+    "pronunciation": "[eel zohn duh lah SHAHNS]",
+    "back": "They're lucky!",
+    "context": "'Avoir de la chance' = to be lucky. 'Bonne chance !' = good luck!"
+  },
+  {
+    "id": "fr-263",
+    "front": "Elle est en vacances.",
+    "pronunciation": "[el eh tahn vah-KAHNS]",
+    "back": "She's on vacation.",
+    "context": "'Les vacances' is always plural in this meaning."
+  },
+  {
+    "id": "fr-264",
+    "front": "Tu es prêt ? On y va !",
+    "pronunciation": "[tü eh PREH? ohn nee VAH]",
+    "back": "Are you ready? Let's go!",
+    "context": "'Être prêt(e)' = to be ready. 'On y va' = let's go."
+  },
+  {
+    "id": "fr-265",
+    "front": "Qu'est-ce que tu as ?",
+    "pronunciation": "[kehs-kuh tü AH]",
+    "back": "What's wrong with you?",
+    "context": "Literally 'what do you have?' Asked when someone looks upset or ill."
+  }
+]

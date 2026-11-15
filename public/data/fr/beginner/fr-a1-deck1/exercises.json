@@ -1,0 +1,136 @@
+[
+  {
+    "id": "fr_ex_001_cloze",
+    "type": "cloze",
+    "payload": {
+      "instruction": "Complétez avec le verbe être :",
+      "chunks": [
+        { "type": "text", "value": "Bonjour, je " },
+        { "type": "blank", "blankId": "b1", "expectedLength": 4 },
+        { "type": "text", "value": " Marie et nous " },
+        { "type": "blank", "blankId": "b2", "expectedLength": 6 },
+        { "type": "text", "value": " de Lyon." }
+      ],
+      "truthMap": { "b1": "suis", "b2": "sommes" }
+    }
+  },
+  {
+    "id": "fr_ex_002_scramble",
+    "type": "scramble",
+    "payload": {
+      "instruction": "Remettez les mots dans l'ordre :",
+      "wordsPool": ["Comment", "ça", "va", "?", "Très", "bien", "merci", "!"],
+      "correctSentence": "Comment ça va ? Très bien merci !"
+    }
+  },
+  {
+    "id": "fr_ex_003_match",
+    "type": "match",
+    "payload": {
+      "instruction": "Associez chaque situation à la bonne formule :",
+      "sources": [
+        { "id": "s1", "text": "Le matin, en entrant dans une boutique" },
+        { "id": "s2", "text": "Le soir, en arrivant chez des amis" },
+        { "id": "s3", "text": "Avant d'aller dormir" },
+        { "id": "s4", "text": "Quand quelqu'un vous dit merci" }
+      ],
+      "targets": [
+        { "id": "t1", "text": "Bonjour !" },
+        { "id": "t2", "text": "Bonsoir !" },
+        { "id": "t3", "text": "Bonne nuit !" },
+        { "id": "t4", "text": "De rien." }
+      ],
+      "truthMap": { "s1": "t1", "s2": "t2", "s3": "t3", "s4": "t4" }
+    }
+  },
+  {
+    "id": "fr_ex_004_conjugation",
+    "type": "conjugation",
+    "payload": {
+      "instruction": "Conjuguez le verbe s'appeler au présent :",
+      "verbTarget": "S'appeler",
+      "rows": [
+        { "rowId": "r1", "pronoun": "Je m'" },
+        { "rowId": "r2", "pronoun": "Tu t'" },
+        { "rowId": "r3", "pronoun": "Nous nous" },
+        { "rowId": "r4", "pronoun": "Vous vous" }
+      ],
+      "truthMap": { "r1": "appelle", "r2": "appelles", "r3": "appelons", "r4": "appelez" }
+    }
+  },
+  {
+    "id": "fr_ex_005_preposition",
+    "type": "preposition",
+    "payload": {
+      "instruction": "Choisissez la préposition et l'article pour former la contraction :",
+      "sentenceBefore": "Ce soir, nous allons ",
+      "sentenceAfter": " cinéma avec des amis.",
+      "prepositions": ["à", "de"],
+      "articles": ["le", "la", "les"],
+      "combinationsMap": {
+        "à+le": "au",
+        "à+la": "à la",
+        "à+les": "aux",
+        "de+le": "du",
+        "de+la": "de la",
+        "de+les": "des"
+      },
+      "correctContraction": "au"
+    }
+  },
+  {
+    "id": "fr_ex_006_listening",
+    "type": "listening",
+    "payload": {
+      "instruction": "Écoutez et écrivez ce que vous entendez :",
+      "transcript": "Vous pouvez répéter, s'il vous plaît ?",
+      "acceptedVariations": ["vous pouvez repeter s'il vous plait", "vous pouvez répéter s'il vous plaît"]
+    }
+  },
+  {
+    "id": "fr_ex_007_dialogue",
+    "type": "dialogue",
+    "payload": {
+      "instruction": "Choisissez la réponse la plus naturelle :",
+      "context": "À la boulangerie :",
+      "turns": [{ "speaker": "Boulangère", "text": "Bonjour madame, qu'est-ce que je vous sers ?" }],
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Bonjour ! Je voudrais une baguette, s'il vous plaît.",
+          "isCorrect": true,
+          "feedback": "Parfait : on dit toujours « bonjour » avant de commander, et « je voudrais » est poli."
+        },
+        {
+          "id": "opt2",
+          "text": "Une baguette.",
+          "isCorrect": false,
+          "feedback": "Compréhensible, mais impoli : en France, on salue toujours avant de demander quelque chose."
+        },
+        {
+          "id": "opt3",
+          "text": "Bonne nuit, à demain !",
+          "isCorrect": false,
+          "feedback": "C'est une formule pour se dire au revoir avant d'aller dormir, pas pour commander."
+        }
+      ]
+    }
+  },
+  {
+    "id": "fr_ex_008_nounArticle",
+    "type": "nounArticle",
+    "payload": {
+      "instruction": "Classez chaque nom selon son genre : le / un ou la / une ?",
+      "labels": { "masculine": "le / un", "feminine": "la / une" },
+      "nounsList": ["pain", "baguette", "café", "boulangerie", "croissant", "table"],
+      "truthMap": {
+        "pain": "masculine",
+        "baguette": "feminine",
+        "café": "masculine",
+        "boulangerie": "feminine",
+        "croissant": "masculine",
+        "table": "feminine"
+      }
+    }
+  }
+]
