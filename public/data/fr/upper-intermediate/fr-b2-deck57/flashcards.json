@@ -1,0 +1,352 @@
+[
+  {
+    "id": "fr-2026",
+    "front": "À mon avis, cette réforme va dans le bon sens.",
+    "pronunciation": "[ah mohn nah-VYEE, set ray-form vah dahn luh bohn SAHNS]",
+    "back": "In my opinion, this reform is a step in the right direction.",
+    "context": "'Aller dans le bon sens' = to be a step in the right direction."
+  },
+  {
+    "id": "fr-2027",
+    "front": "Je suis tout à fait d'accord avec vous sur ce point.",
+    "pronunciation": "[zhuh swee too tah feh dah-KOR ah-vek voo sür suh PWAN]",
+    "back": "I completely agree with you on this point.",
+    "context": "'Tout à fait' strengthens agreement."
+  },
+  {
+    "id": "fr-2028",
+    "front": "Je ne partage pas du tout votre avis.",
+    "pronunciation": "[zhuh nuh par-tahzh pah dü too voh-trah-VEE]",
+    "back": "I don't share your view at all.",
+    "context": "'Partager un avis' = to share an opinion."
+  },
+  {
+    "id": "fr-2029",
+    "front": "Je vois ce que vous voulez dire, mais je ne suis pas convaincu.",
+    "pronunciation": "[zhuh vwah suh kuh voo voo-lay DEER, meh zhuh nuh swee pah kohn-van-KÜ]",
+    "back": "I see what you mean, but I'm not convinced.",
+    "context": "A polite way to disagree."
+  },
+  {
+    "id": "fr-2030",
+    "front": "Permettez-moi de vous contredire.",
+    "pronunciation": "[pehr-meh-tay-MWAH duh voo kohn-truh-DEER]",
+    "back": "Allow me to contradict you.",
+    "context": "Formal debate phrase."
+  },
+  {
+    "id": "fr-2031",
+    "front": "Vous avez raison en partie.",
+    "pronunciation": "[voo zah-vay reh-ZOHN ahn par-TEE]",
+    "back": "You're partly right.",
+    "context": "'En partie' = partly."
+  },
+  {
+    "id": "fr-2032",
+    "front": "D'un côté, c'est pratique ; de l'autre, ça coûte cher.",
+    "pronunciation": "[dan koh-TAY, seh prak-TEEK ; duh LOH-truh, sah koot SHEHR]",
+    "back": "On the one hand it's practical; on the other, it's expensive.",
+    "context": "'D'un côté… de l'autre' = on the one hand… on the other."
+  },
+  {
+    "id": "fr-2033",
+    "front": "Certes, le projet est ambitieux, mais il est irréaliste.",
+    "pronunciation": "[SEHRT, luh proh-zheh eh tahn-bee-SYUH, meh ee leh tee-ray-ah-LEEST]",
+    "back": "Admittedly the project is ambitious, but it's unrealistic.",
+    "context": "'Certes… mais' = admittedly… but. A classic concession structure."
+  },
+  {
+    "id": "fr-2034",
+    "front": "Il n'en reste pas moins que le chômage augmente.",
+    "pronunciation": "[eel nahn rest pah MWAN kuh luh shoh-mahzh ohg-MAHNT]",
+    "back": "The fact remains that unemployment is rising.",
+    "context": "'Il n'en reste pas moins que' = the fact remains that."
+  },
+  {
+    "id": "fr-2035",
+    "front": "Force est de constater que les résultats sont décevants.",
+    "pronunciation": "[fors eh duh kohn-stah-TAY kuh lay ray-zül-tah sohn day-suh-VAHN]",
+    "back": "One has to admit the results are disappointing.",
+    "context": "'Force est de constater' = one cannot help but note (formal)."
+  },
+  {
+    "id": "fr-2036",
+    "front": "Prenons un exemple concret.",
+    "pronunciation": "[pruh-nohn zan neg-ZAHN-pluh kohn-KREH]",
+    "back": "Let's take a concrete example.",
+    "context": "Useful to support an argument."
+  },
+  {
+    "id": "fr-2037",
+    "front": "En d'autres termes, il faut agir maintenant.",
+    "pronunciation": "[ahn DOH-truh TEHRM, eel foh ah-zheer mant-NAHN]",
+    "back": "In other words, we have to act now.",
+    "context": "'En d'autres termes' = in other words."
+  },
+  {
+    "id": "fr-2038",
+    "front": "Par conséquent, nous devons revoir notre stratégie.",
+    "pronunciation": "[par kohn-say-KAHN, noo duh-vohn ruh-vwahr noh-truh strah-tay-ZHEE]",
+    "back": "Consequently, we must rethink our strategy.",
+    "context": "Connectors of consequence: donc, par conséquent, c'est pourquoi."
+  },
+  {
+    "id": "fr-2039",
+    "front": "En revanche, les jeunes s'informent surtout en ligne.",
+    "pronunciation": "[ahn ruh-VAHNSH, lay ZHUHN san-FORM sür-too ahn LEE-nyuh]",
+    "back": "By contrast, young people mostly get their news online.",
+    "context": "'En revanche' = on the other hand, by contrast."
+  },
+  {
+    "id": "fr-2040",
+    "front": "Quant à moi, je reste sceptique.",
+    "pronunciation": "[kahn tah MWAH, zhuh rest sep-TEEK]",
+    "back": "As for me, I remain skeptical.",
+    "context": "'Quant à' = as for."
+  },
+  {
+    "id": "fr-2041",
+    "front": "Cet argument ne tient pas la route.",
+    "pronunciation": "[set ar-gü-mahn nuh tyan pah lah ROOT]",
+    "back": "This argument doesn't hold water.",
+    "context": "'Tenir la route' = to hold up, be sound."
+  },
+  {
+    "id": "fr-2042",
+    "front": "Vous confondez corrélation et causalité.",
+    "pronunciation": "[voo kohn-fohn-day koh-ray-lah-SYOHN ay koh-zah-lee-TAY]",
+    "back": "You're confusing correlation with causation.",
+    "context": "A key critical-thinking phrase."
+  },
+  {
+    "id": "fr-2043",
+    "front": "C'est un raccourci un peu facile.",
+    "pronunciation": "[seh tan rah-koor-SEE an puh fah-SEEL]",
+    "back": "That's a bit of an oversimplification.",
+    "context": "'Un raccourci' = a shortcut; in debate, a sweeping generalization."
+  },
+  {
+    "id": "fr-2044",
+    "front": "Il ne faut pas mettre tout le monde dans le même sac.",
+    "pronunciation": "[eel nuh foh pah meh-truh tool mohnd dahn luh mem SAK]",
+    "back": "You shouldn't lump everyone together.",
+    "context": "'Mettre dans le même sac' = to lump together."
+  },
+  {
+    "id": "fr-2045",
+    "front": "Pourriez-vous préciser votre pensée ?",
+    "pronunciation": "[poo-ryay-VOO pray-see-zay voh-truh pahn-SAY]",
+    "back": "Could you clarify what you mean?",
+    "context": "Formal request for clarification."
+  },
+  {
+    "id": "fr-2046",
+    "front": "Laissez-moi finir, s'il vous plaît.",
+    "pronunciation": "[leh-say-MWAH fee-NEER, seel voo PLEH]",
+    "back": "Let me finish, please.",
+    "context": "When interrupted in a debate."
+  },
+  {
+    "id": "fr-2047",
+    "front": "Si je peux me permettre d'intervenir…",
+    "pronunciation": "[see zhuh puh muh pehr-meh-truh dan-tehr-vuh-NEER]",
+    "back": "If I may come in here…",
+    "context": "'Intervenir' = to speak up, take the floor."
+  },
+  {
+    "id": "fr-2048",
+    "front": "Pour résumer, les avis sont partagés.",
+    "pronunciation": "[poor ray-zü-MAY, lay zah-vee sohn par-tah-ZHAY]",
+    "back": "To sum up, opinions are divided.",
+    "context": "'Les avis sont partagés' = opinions differ."
+  },
+  {
+    "id": "fr-2049",
+    "front": "En conclusion, le débat reste ouvert.",
+    "pronunciation": "[ahn kohn-klü-ZYOHN, luh day-bah rest oo-VEHR]",
+    "back": "In conclusion, the debate remains open.",
+    "context": "Closing a discussion."
+  },
+  {
+    "id": "fr-2050",
+    "front": "D'après le journal, le ministre va démissionner.",
+    "pronunciation": "[dah-preh luh zhoor-NAL, luh mee-nees-truh vah day-mee-syoh-NAY]",
+    "back": "According to the newspaper, the minister is going to resign.",
+    "context": "'D'après' / 'selon' = according to."
+  },
+  {
+    "id": "fr-2051",
+    "front": "Le ministre aurait menti aux enquêteurs.",
+    "pronunciation": "[luh mee-nees-truh oh-reh mahn-TEE oh zahn-keh-TUHR]",
+    "back": "The minister allegedly lied to investigators.",
+    "context": "The 'journalistic conditional': unconfirmed information. 'Aurait menti' = allegedly lied."
+  },
+  {
+    "id": "fr-2052",
+    "front": "Selon une source proche du dossier, l'accord serait signé lundi.",
+    "pronunciation": "[suh-lohn ün soors prosh dü doh-SYAY, lah-kor suh-reh see-nyay lan-DEE]",
+    "back": "According to a source close to the matter, the deal will reportedly be signed on Monday.",
+    "context": "Journalistic conditional for a future event."
+  },
+  {
+    "id": "fr-2053",
+    "front": "L'information n'a pas encore été confirmée.",
+    "pronunciation": "[lan-for-mah-SYOHN nah pah zahn-kor ay-tay kohn-feer-MAY]",
+    "back": "The information hasn't been confirmed yet.",
+    "context": "Important caution when reading news."
+  },
+  {
+    "id": "fr-2054",
+    "front": "C'est une fausse information qui circule sur les réseaux sociaux.",
+    "pronunciation": "[seh tün fohs an-for-mah-SYOHN kee seer-kül sür lay ray-zoh soh-SYOH]",
+    "back": "It's a piece of fake news circulating on social media.",
+    "context": "Official term 'une fausse information'; also 'une infox' or 'une fake news'."
+  },
+  {
+    "id": "fr-2055",
+    "front": "Avant de partager un article, vérifie la source.",
+    "pronunciation": "[ah-vahn duh par-tah-zhay an nar-TEE-kluh, vay-ree-fee lah SOORS]",
+    "back": "Before sharing an article, check the source.",
+    "context": "Basic media literacy."
+  },
+  {
+    "id": "fr-2056",
+    "front": "Ce titre est clairement putaclic.",
+    "pronunciation": "[suh TEE-truh eh klehr-mahn pü-tah-KLEEK]",
+    "back": "This headline is obviously clickbait.",
+    "context": "'Putaclic' = clickbait (very informal and slightly vulgar). Neutral: 'un titre racoleur'."
+  },
+  {
+    "id": "fr-2057",
+    "front": "Cette photo a été sortie de son contexte.",
+    "pronunciation": "[set foh-TOH ah ay-tay sor-tee duh sohn kohn-TEKST]",
+    "back": "This photo has been taken out of context.",
+    "context": "'Sortir de son contexte' = to take out of context."
+  },
+  {
+    "id": "fr-2058",
+    "front": "Il s'agit d'une théorie du complot.",
+    "pronunciation": "[eel sah-zhee dün tay-oh-ree dü kohm-PLOH]",
+    "back": "It's a conspiracy theory.",
+    "context": "'Un complotiste' = a conspiracy theorist."
+  },
+  {
+    "id": "fr-2059",
+    "front": "Le site a publié un démenti.",
+    "pronunciation": "[luh seet ah pü-blee-ay an day-mahn-TEE]",
+    "back": "The website published a denial.",
+    "context": "'Un démenti' = an official denial. 'Démentir' = to deny."
+  },
+  {
+    "id": "fr-2060",
+    "front": "Les médias ont relayé l'information sans la vérifier.",
+    "pronunciation": "[lay may-DYAH ohn ruh-leh-yay lan-for-mah-SYOHN sahn lah vay-ree-FYAY]",
+    "back": "The media passed on the information without checking it.",
+    "context": "'Relayer' = to pass on, spread."
+  },
+  {
+    "id": "fr-2061",
+    "front": "Ce journal a une ligne éditoriale plutôt à gauche.",
+    "pronunciation": "[suh zhoor-nal ah ün LEE-nyuh ay-dee-toh-RYAL plü-toh ah GOHSH]",
+    "back": "This newspaper has a rather left-leaning editorial line.",
+    "context": "'La ligne éditoriale' = editorial stance."
+  },
+  {
+    "id": "fr-2062",
+    "front": "Le Monde est un quotidien de référence.",
+    "pronunciation": "[luh MOHND eh tan koh-tee-DYAN duh ray-fay-RAHNS]",
+    "back": "Le Monde is a newspaper of record.",
+    "context": "'Un quotidien' = a daily paper; 'un hebdomadaire' = a weekly."
+  },
+  {
+    "id": "fr-2063",
+    "front": "J'ai lu l'éditorial de ce matin.",
+    "pronunciation": "[zhay lü lay-dee-toh-RYAL duh suh mah-TAN]",
+    "back": "I read this morning's editorial.",
+    "context": "'L'édito' (informal) = the editorial."
+  },
+  {
+    "id": "fr-2064",
+    "front": "Le journaliste a refusé de révéler ses sources.",
+    "pronunciation": "[luh zhoor-nah-leest ah ruh-fü-zay duh ray-vay-lay say SOORS]",
+    "back": "The journalist refused to reveal his sources.",
+    "context": "Protection of sources is a key press principle in France."
+  },
+  {
+    "id": "fr-2065",
+    "front": "La liberté de la presse est un pilier de la démocratie.",
+    "pronunciation": "[lah lee-behr-tay duh lah PRES eh tan pee-lyay duh lah day-moh-krah-SEE]",
+    "back": "Press freedom is a pillar of democracy.",
+    "context": "'Un pilier' = a pillar."
+  },
+  {
+    "id": "fr-2066",
+    "front": "Cette chaîne d'info en continu fait beaucoup de sensationnel.",
+    "pronunciation": "[set shen dan-FOH ahn kohn-tee-NÜ feh boh-koo duh sahn-sah-syoh-NEL]",
+    "back": "This 24-hour news channel goes in for a lot of sensationalism.",
+    "context": "'Une chaîne d'info en continu' = a rolling news channel."
+  },
+  {
+    "id": "fr-2067",
+    "front": "L'article est bien documenté.",
+    "pronunciation": "[lar-tee-kluh eh byan doh-kü-mahn-TAY]",
+    "back": "The article is well researched.",
+    "context": "'Documenté' = well researched, backed by evidence."
+  },
+  {
+    "id": "fr-2068",
+    "front": "Ces chiffres sont à prendre avec des pincettes.",
+    "pronunciation": "[say SHEE-fruh sohn tah prahn-druh ah-vek day pan-SET]",
+    "back": "These figures should be taken with a grain of salt.",
+    "context": "'Prendre avec des pincettes' (with tweezers) = to treat with caution."
+  },
+  {
+    "id": "fr-2069",
+    "front": "Le sondage a été réalisé auprès de mille personnes.",
+    "pronunciation": "[luh sohn-DAHZH ah ay-tay ray-ah-lee-ZAY oh-preh duh meel pehr-SUN]",
+    "back": "The poll was carried out among a thousand people.",
+    "context": "'Un sondage' = a poll. 'Auprès de' = among, with."
+  },
+  {
+    "id": "fr-2070",
+    "front": "L'algorithme nous enferme dans une bulle de filtres.",
+    "pronunciation": "[lal-goh-REETM noo zahn-fehrm dahn zün bül duh FEEL-truh]",
+    "back": "The algorithm locks us inside a filter bubble.",
+    "context": "'Enfermer' = to lock in."
+  },
+  {
+    "id": "fr-2071",
+    "front": "Il faut croiser les sources pour se faire une opinion.",
+    "pronunciation": "[eel foh krwah-zay lay SOORS poor suh fehr ün noh-pee-NYOHN]",
+    "back": "You need to cross-check sources to form an opinion.",
+    "context": "'Croiser les sources' = to cross-check. 'Se faire une opinion' = to form an opinion."
+  },
+  {
+    "id": "fr-2072",
+    "front": "Cette vidéo est un deepfake.",
+    "pronunciation": "[set vee-day-OH eh tan deep-FAYK]",
+    "back": "This video is a deepfake.",
+    "context": "French uses the English word; the official term is 'un hypertrucage'."
+  },
+  {
+    "id": "fr-2073",
+    "front": "C'est de la propagande pure et simple.",
+    "pronunciation": "[seh duh lah proh-pah-GAHND pür ay SAN-pluh]",
+    "back": "It's propaganda, pure and simple.",
+    "context": "'Pur et simple' = pure and simple."
+  },
+  {
+    "id": "fr-2074",
+    "front": "Le débat a dégénéré en clash.",
+    "pronunciation": "[luh day-BAH ah day-zhay-nay-RAY ahn KLASH]",
+    "back": "The debate degenerated into a slanging match.",
+    "context": "'Un clash' (informal) = a heated confrontation."
+  },
+  {
+    "id": "fr-2075",
+    "front": "Je vous laisse juge.",
+    "pronunciation": "[zhuh voo les ZHÜZH]",
+    "back": "I'll let you be the judge.",
+    "context": "A diplomatic way to end an argument."
+  }
+]

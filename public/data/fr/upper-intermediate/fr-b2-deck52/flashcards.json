@@ -1,0 +1,317 @@
+[
+  {
+    "id": "fr-1801",
+    "front": "J'ai le cafard depuis qu'il est parti.",
+    "pronunciation": "[zhay luh kah-FAR duh-pwee keel eh par-TEE]",
+    "back": "I've been feeling down since he left.",
+    "context": "'Avoir le cafard' (to have the cockroach) = to feel low, blue."
+  },
+  {
+    "id": "fr-1802",
+    "front": "Il me casse les pieds avec ses histoires.",
+    "pronunciation": "[eel muh kas lay PYAY ah-vek say zees-TWAHR]",
+    "back": "He's getting on my nerves with his stories.",
+    "context": "'Casser les pieds à quelqu'un' = to annoy someone. 'Casse-pieds' = a pain in the neck."
+  },
+  {
+    "id": "fr-1803",
+    "front": "Elle est tombée dans les pommes à cause de la chaleur.",
+    "pronunciation": "[el eh tohm-bay dahn lay PUM ah kohz duh lah shah-LUHR]",
+    "back": "She fainted because of the heat.",
+    "context": "'Tomber dans les pommes' (fall into the apples) = to faint."
+  },
+  {
+    "id": "fr-1804",
+    "front": "Il a un poil dans la main.",
+    "pronunciation": "[ee lah an pwahl dahn lah MAN]",
+    "back": "He's bone idle.",
+    "context": "'Avoir un poil dans la main' (a hair growing in your palm, from never working) = to be lazy."
+  },
+  {
+    "id": "fr-1805",
+    "front": "Arrête de couper les cheveux en quatre !",
+    "pronunciation": "[ah-ret duh koo-pay lay shuh-vuh ahn KAT-ruh]",
+    "back": "Stop splitting hairs!",
+    "context": "'Couper les cheveux en quatre' = to split hairs."
+  },
+  {
+    "id": "fr-1806",
+    "front": "Ce ne sont pas tes oignons.",
+    "pronunciation": "[suh nuh sohn pah tay zoh-NYOHN]",
+    "back": "It's none of your business.",
+    "context": "'Ce ne sont pas tes oignons' (not your onions) = mind your own business. Informal."
+  },
+  {
+    "id": "fr-1807",
+    "front": "Les carottes sont cuites.",
+    "pronunciation": "[lay kah-rot sohn KWEET]",
+    "back": "It's all over, nothing more can be done.",
+    "context": "'Les carottes sont cuites' (the carrots are cooked) = the situation is hopeless."
+  },
+  {
+    "id": "fr-1808",
+    "front": "Arrête de me raconter des salades.",
+    "pronunciation": "[ah-ret duh muh rah-kohn-tay day sah-LAD]",
+    "back": "Stop telling me fibs.",
+    "context": "'Raconter des salades' = to tell lies, tall stories."
+  },
+  {
+    "id": "fr-1809",
+    "front": "Ce matin, j'ai la pêche !",
+    "pronunciation": "[suh mah-TAN, zhay lah PESH]",
+    "back": "This morning I'm full of energy!",
+    "context": "'Avoir la pêche' (to have the peach) = to feel great. Also 'avoir la frite'."
+  },
+  {
+    "id": "fr-1810",
+    "front": "J'ai fait le poireau pendant une heure devant le cinéma.",
+    "pronunciation": "[zhay feh luh pwah-ROH pahn-dahn tün UHR duh-vahn luh see-nay-MAH]",
+    "back": "I hung around waiting for an hour outside the cinema.",
+    "context": "'Faire le poireau' / 'poireauter' (to be a leek) = to wait for ages."
+  },
+  {
+    "id": "fr-1811",
+    "front": "Appuie sur le champignon, on va être en retard !",
+    "pronunciation": "[ah-pwee sür luh shahn-pee-NYOHN, ohn vah eh-trahn ruh-TAR]",
+    "back": "Step on it, we're going to be late!",
+    "context": "'Appuyer sur le champignon' (press the mushroom) = to put your foot down."
+  },
+  {
+    "id": "fr-1812",
+    "front": "Il faut toujours qu'il mette son grain de sel.",
+    "pronunciation": "[eel foh too-zhoor keel met sohn gran duh SEL]",
+    "back": "He always has to put his two cents in.",
+    "context": "'Mettre son grain de sel' = to butt in with an opinion. Note the subjunctive after 'il faut que'."
+  },
+  {
+    "id": "fr-1813",
+    "front": "Excusez-moi, j'ai un chat dans la gorge.",
+    "pronunciation": "[ek-skü-zay-MWAH, zhay an SHAH dahn lah GORZH]",
+    "back": "Excuse me, I have a frog in my throat.",
+    "context": "French has a cat where English has a frog!"
+  },
+  {
+    "id": "fr-1814",
+    "front": "Je donne ma langue au chat : c'est quoi la réponse ?",
+    "pronunciation": "[zhuh dun mah lahng oh SHAH : seh KWAH lah ray-POHNS]",
+    "back": "I give up: what's the answer?",
+    "context": "'Donner sa langue au chat' = to give up guessing."
+  },
+  {
+    "id": "fr-1815",
+    "front": "Il n'y avait pas un chat dans les rues.",
+    "pronunciation": "[eel nyah-veh pah zan SHAH dahn lay RÜ]",
+    "back": "There wasn't a soul in the streets.",
+    "context": "'Il n'y a pas un chat' = there's nobody around."
+  },
+  {
+    "id": "fr-1816",
+    "front": "J'ai d'autres chats à fouetter.",
+    "pronunciation": "[zhay doh-truh SHAH ah fweh-TAY]",
+    "back": "I have bigger fish to fry.",
+    "context": "Literally 'other cats to whip'."
+  },
+  {
+    "id": "fr-1817",
+    "front": "J'ai une faim de loup.",
+    "pronunciation": "[zhay ün fan duh LOO]",
+    "back": "I'm ravenous.",
+    "context": "'Une faim de loup' (a wolf's hunger) = very hungry."
+  },
+  {
+    "id": "fr-1818",
+    "front": "Il est têtu comme une mule.",
+    "pronunciation": "[ee leh teh-tü kum ün MÜL]",
+    "back": "He's as stubborn as a mule.",
+    "context": "Same image as in English."
+  },
+  {
+    "id": "fr-1819",
+    "front": "Elle a pris la mouche pour un rien.",
+    "pronunciation": "[el ah pree lah MOOSH poor an RYAN]",
+    "back": "She took offense at the slightest thing.",
+    "context": "'Prendre la mouche' (to take the fly) = to get touchy."
+  },
+  {
+    "id": "fr-1820",
+    "front": "Ça m'a mis la puce à l'oreille.",
+    "pronunciation": "[sah mah mee lah püs ah loh-RAY]",
+    "back": "That made me suspicious.",
+    "context": "'Mettre la puce à l'oreille' (put the flea in the ear) = to arouse suspicion."
+  },
+  {
+    "id": "fr-1821",
+    "front": "Revenons à nos moutons.",
+    "pronunciation": "[ruh-vuh-nohn ah noh moo-TOHN]",
+    "back": "Let's get back to the point.",
+    "context": "'Revenir à ses moutons' (back to our sheep) = to return to the subject. From a 15th-century farce."
+  },
+  {
+    "id": "fr-1822",
+    "front": "Il a promis de rembourser ? Mon œil !",
+    "pronunciation": "[ee lah proh-mee duh rahm-boor-SAY ? mohn NUHY]",
+    "back": "He promised to pay back? My foot!",
+    "context": "'Mon œil !' (my eye) = I don't believe it, often with a finger pulling down the eyelid."
+  },
+  {
+    "id": "fr-1823",
+    "front": "Il a eu les yeux plus gros que le ventre.",
+    "pronunciation": "[ee lah ü lay zyuh plü groh kuh luh VAHN-truh]",
+    "back": "His eyes were bigger than his stomach.",
+    "context": "Same idiom as in English, but with 'ventre' (belly)."
+  },
+  {
+    "id": "fr-1824",
+    "front": "Si tu crois qu'il va changer, tu te mets le doigt dans l'œil.",
+    "pronunciation": "[see tü krwah keel vah shahn-ZHAY, tü tuh meh luh dwah dahn LUHY]",
+    "back": "If you think he'll change, you're kidding yourself.",
+    "context": "'Se mettre le doigt dans l'œil' (put your finger in your eye) = to be badly mistaken."
+  },
+  {
+    "id": "fr-1825",
+    "front": "Son père a le bras long.",
+    "pronunciation": "[sohn pehr ah luh brah LOHN]",
+    "back": "His father has a lot of influence.",
+    "context": "'Avoir le bras long' (have a long arm) = to be well connected."
+  },
+  {
+    "id": "fr-1826",
+    "front": "Ma voisine m'a tenu la jambe pendant une heure.",
+    "pronunciation": "[mah vwah-zeen mah tuh-nü lah ZHAHMB pahn-dahn tün UHR]",
+    "back": "My neighbor kept me talking for an hour.",
+    "context": "'Tenir la jambe à quelqu'un' = to keep someone talking (against their will)."
+  },
+  {
+    "id": "fr-1827",
+    "front": "Arrête de me casser les oreilles avec ta musique !",
+    "pronunciation": "[ah-ret duh muh kas lay zoh-RAY ah-vek tah mü-ZEEK]",
+    "back": "Stop deafening me with your music!",
+    "context": "'Casser les oreilles' = to be too loud."
+  },
+  {
+    "id": "fr-1828",
+    "front": "Elle a la langue bien pendue.",
+    "pronunciation": "[el ah lah lahng byan pahn-DÜ]",
+    "back": "She's a real chatterbox.",
+    "context": "'Avoir la langue bien pendue' (a well-hung tongue) = to talk a lot, be quick-witted."
+  },
+  {
+    "id": "fr-1829",
+    "front": "Il a le cœur sur la main.",
+    "pronunciation": "[ee lah luh kuhr sür lah MAN]",
+    "back": "He's very generous.",
+    "context": "'Avoir le cœur sur la main' = to be generous and kind."
+  },
+  {
+    "id": "fr-1830",
+    "front": "Pardon, j'étais dans la lune.",
+    "pronunciation": "[par-DOHN, zhay-teh dahn lah LÜN]",
+    "back": "Sorry, I was miles away.",
+    "context": "'Être dans la lune' = to daydream."
+  },
+  {
+    "id": "fr-1831",
+    "front": "Quand j'ai appris la nouvelle, je suis tombé des nues.",
+    "pronunciation": "[kahn zhay ah-pree lah noo-VEL, zhuh swee tohm-bay day NÜ]",
+    "back": "When I heard the news, I was flabbergasted.",
+    "context": "'Tomber des nues' (fall from the clouds) = to be astonished."
+  },
+  {
+    "id": "fr-1832",
+    "front": "Si on perd ce client, c'est la fin des haricots.",
+    "pronunciation": "[see ohn pehr suh klee-YAHN, seh lah fan day zah-ree-KOH]",
+    "back": "If we lose this client, that's the end of everything.",
+    "context": "'La fin des haricots' = the last straw, total disaster (humorous)."
+  },
+  {
+    "id": "fr-1833",
+    "front": "Il en fait tout un fromage.",
+    "pronunciation": "[eel ahn feh too tan froh-MAHZH]",
+    "back": "He's making a big fuss about it.",
+    "context": "'En faire tout un fromage' (make a whole cheese of it) = to make a mountain out of a molehill."
+  },
+  {
+    "id": "fr-1834",
+    "front": "Il va falloir mettre de l'eau dans ton vin.",
+    "pronunciation": "[eel vah fah-lwahr meh-truh duh LOH dahn tohn VAN]",
+    "back": "You'll have to tone it down a bit.",
+    "context": "'Mettre de l'eau dans son vin' = to compromise, moderate your demands."
+  },
+  {
+    "id": "fr-1835",
+    "front": "Elle est née avec une cuillère d'argent dans la bouche.",
+    "pronunciation": "[el eh nay ah-vek ün kwee-yehr dar-ZHAHN dahn lah BOOSH]",
+    "back": "She was born with a silver spoon in her mouth.",
+    "context": "Same idiom as in English."
+  },
+  {
+    "id": "fr-1836",
+    "front": "Tu veux le beurre et l'argent du beurre !",
+    "pronunciation": "[tü vuh luh BUHR ay lar-zhahn dü BUHR]",
+    "back": "You want to have your cake and eat it!",
+    "context": "Literally 'the butter and the money for the butter'."
+  },
+  {
+    "id": "fr-1837",
+    "front": "J'ai du pain sur la planche cette semaine.",
+    "pronunciation": "[zhay dü pan sür lah PLAHNSH set suh-MEN]",
+    "back": "I have a lot on my plate this week.",
+    "context": "'Avoir du pain sur la planche' (bread on the board) = to have a lot of work."
+  },
+  {
+    "id": "fr-1838",
+    "front": "Demande-lui, ça ne mange pas de pain.",
+    "pronunciation": "[duh-mahnd-LWEE, sah nuh mahnzh pah duh PAN]",
+    "back": "Ask him, it doesn't cost anything.",
+    "context": "'Ça ne mange pas de pain' = there's no harm in it."
+  },
+  {
+    "id": "fr-1839",
+    "front": "Il a fallu lui tirer les vers du nez.",
+    "pronunciation": "[ee lah fah-lü lwee tee-ray lay vehr dü NAY]",
+    "back": "We had to drag it out of him.",
+    "context": "'Tirer les vers du nez à quelqu'un' (pull worms from the nose) = to worm information out of someone."
+  },
+  {
+    "id": "fr-1840",
+    "front": "Après trois échecs, il a jeté l'éponge.",
+    "pronunciation": "[ah-preh trwah zay-SHEK, ee lah zhuh-tay lay-POHNZH]",
+    "back": "After three failures, he threw in the towel.",
+    "context": "'Jeter l'éponge' = to give up (from boxing: a sponge, not a towel)."
+  },
+  {
+    "id": "fr-1841",
+    "front": "Je suis au bout du rouleau.",
+    "pronunciation": "[zhuh swee zoh boo dü roo-LOH]",
+    "back": "I'm at the end of my tether.",
+    "context": "'Être au bout du rouleau' = exhausted, at breaking point."
+  },
+  {
+    "id": "fr-1842",
+    "front": "Tu tombes à pic, j'avais besoin d'aide !",
+    "pronunciation": "[tü tohmb ah PEEK, zhah-veh buh-zwan DED]",
+    "back": "You've come at just the right time, I needed help!",
+    "context": "'Tomber à pic' = to come at the perfect moment."
+  },
+  {
+    "id": "fr-1843",
+    "front": "Il a mis les pieds dans le plat pendant le dîner.",
+    "pronunciation": "[ee lah mee lay pyay dahn luh PLAH pahn-dahn luh dee-NAY]",
+    "back": "He put his foot in it during dinner.",
+    "context": "'Mettre les pieds dans le plat' = to raise an awkward subject tactlessly."
+  },
+  {
+    "id": "fr-1844",
+    "front": "Ça ne casse pas trois pattes à un canard.",
+    "pronunciation": "[sah nuh kas pah trwah PAT ah an kah-NAR]",
+    "back": "It's nothing to write home about.",
+    "context": "Literally 'it doesn't break three legs off a duck' (which only has two!). Means: unremarkable."
+  },
+  {
+    "id": "fr-1845",
+    "front": "Il ne faut pas vendre la peau de l'ours avant de l'avoir tué.",
+    "pronunciation": "[eel nuh foh pah vahn-druh lah poh duh LOORS ah-vahn duh lah-vwahr twee-AY]",
+    "back": "Don't count your chickens before they hatch.",
+    "context": "Literally 'don't sell the bear's skin before you've killed it'."
+  }
+]

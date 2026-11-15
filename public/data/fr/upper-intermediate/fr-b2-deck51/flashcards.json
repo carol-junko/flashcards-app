@@ -1,0 +1,317 @@
+[
+  {
+    "id": "fr-1756",
+    "front": "Le verlan, c'est l'envers : on inverse les syllabes des mots.",
+    "pronunciation": "[luh vehr-LAHN, seh lahn-VEHR : ohn nan-vehrs lay see-LAB day MOH]",
+    "back": "Verlan is 'l'envers' backwards: you flip the syllables of words.",
+    "context": "Verlan = l'envers (the reverse) reversed. Born in Paris suburbs, now everyday slang."
+  },
+  {
+    "id": "fr-1757",
+    "front": "Ce film est trop ouf !",
+    "pronunciation": "[suh feelm eh troh OOF]",
+    "back": "This film is insane!",
+    "context": "'Ouf' = verlan of 'fou' (crazy). Means amazing or crazy depending on tone."
+  },
+  {
+    "id": "fr-1758",
+    "front": "C'est chelou, ce bruit.",
+    "pronunciation": "[seh shuh-LOO, suh BRWEE]",
+    "back": "That noise is weird.",
+    "context": "'Chelou' = verlan of 'louche' (shady, weird)."
+  },
+  {
+    "id": "fr-1759",
+    "front": "Il est relou avec ses questions.",
+    "pronunciation": "[ee leh ruh-LOO ah-vek say kes-TYOHN]",
+    "back": "He's annoying with all his questions.",
+    "context": "'Relou' = verlan of 'lourd' (heavy, tiresome)."
+  },
+  {
+    "id": "fr-1760",
+    "front": "C'est ma meuf.",
+    "pronunciation": "[seh mah MUHF]",
+    "back": "That's my girlfriend.",
+    "context": "'Meuf' = verlan of 'femme' (woman, girlfriend). Very informal."
+  },
+  {
+    "id": "fr-1761",
+    "front": "Il fait le beauf avec sa grosse voiture.",
+    "pronunciation": "[eel feh luh BOHF ah-vek sah grohs vwah-TÜR]",
+    "back": "He's acting all tacky with his big car.",
+    "context": "'Un beauf' (from 'beau-frère') = a vulgar, narrow-minded person."
+  },
+  {
+    "id": "fr-1762",
+    "front": "Laisse béton !",
+    "pronunciation": "[les bay-TOHN]",
+    "back": "Forget it!",
+    "context": "'Béton' = verlan of 'tomber': 'laisse tomber' → 'laisse béton'. Made famous by a 1977 song by Renaud."
+  },
+  {
+    "id": "fr-1763",
+    "front": "Il est vénère depuis ce matin.",
+    "pronunciation": "[ee leh vay-NEHR duh-pwee suh mah-TAN]",
+    "back": "He's been angry since this morning.",
+    "context": "'Vénère' = verlan of 'énervé' (angry)."
+  },
+  {
+    "id": "fr-1764",
+    "front": "C'est un keum sympa.",
+    "pronunciation": "[seh tan KUHM san-PAH]",
+    "back": "He's a nice guy.",
+    "context": "'Un keum' = verlan of 'mec' (guy)."
+  },
+  {
+    "id": "fr-1765",
+    "front": "Les keufs sont arrivés.",
+    "pronunciation": "[lay KUHF sohn tah-ree-VAY]",
+    "back": "The cops arrived.",
+    "context": "'Les keufs' = verlan of 'flics' (cops). Both are slang for 'la police'."
+  },
+  {
+    "id": "fr-1766",
+    "front": "Il habite chez ses rents-pa.",
+    "pronunciation": "[ee lah-beet shay say rahn-PAH]",
+    "back": "He lives with his parents.",
+    "context": "'Les rents-pa' = verlan of 'parents'. Very colloquial."
+  },
+  {
+    "id": "fr-1767",
+    "front": "Ma reum m'a appelé.",
+    "pronunciation": "[mah RUHM mah ah-puh-LAY]",
+    "back": "My mom called me.",
+    "context": "'La reum' = verlan of 'mère'. Like 'le reup' for 'père'."
+  },
+  {
+    "id": "fr-1768",
+    "front": "Il s'est fait choper par le contrôleur.",
+    "pronunciation": "[eel seh feh shoh-PAY par luh kohn-troh-LUHR]",
+    "back": "He got caught by the ticket inspector.",
+    "context": "'Se faire choper' = to get caught (slang)."
+  },
+  {
+    "id": "fr-1769",
+    "front": "T'as pas une clope ?",
+    "pronunciation": "[tah pah zün KLOP]",
+    "back": "Got a cigarette?",
+    "context": "'Une clope' = a cigarette. 'T'as' = tu as."
+  },
+  {
+    "id": "fr-1770",
+    "front": "J'ai pas une thune.",
+    "pronunciation": "[zhay pah zün TÜN]",
+    "back": "I don't have a penny.",
+    "context": "'La thune' = money (slang). Also: le fric, le blé, l'oseille."
+  },
+  {
+    "id": "fr-1771",
+    "front": "Ça coûte un bras.",
+    "pronunciation": "[sah koot an BRAH]",
+    "back": "It costs an arm.",
+    "context": "Shorter, informal version of 'coûter un bras et une jambe'."
+  },
+  {
+    "id": "fr-1772",
+    "front": "On se casse ?",
+    "pronunciation": "[ohn suh KAS]",
+    "back": "Shall we leave?",
+    "context": "'Se casser' = to leave (informal). Also 'se barrer', 'se tirer'."
+  },
+  {
+    "id": "fr-1773",
+    "front": "Je me suis fait engueuler par le prof.",
+    "pronunciation": "[zhuh muh swee feh tahn-guh-LAY par luh PROF]",
+    "back": "I got told off by the teacher.",
+    "context": "'Se faire engueuler' = to get yelled at (informal)."
+  },
+  {
+    "id": "fr-1774",
+    "front": "C'est un bouquin génial.",
+    "pronunciation": "[seh tan boo-KAN zhay-NYAL]",
+    "back": "It's a great book.",
+    "context": "'Un bouquin' = a book (informal)."
+  },
+  {
+    "id": "fr-1775",
+    "front": "Je vais pioncer un peu.",
+    "pronunciation": "[zhuh veh pyohn-SAY an PUH]",
+    "back": "I'm going to get some shut-eye.",
+    "context": "'Pioncer' = to sleep (slang). Also 'roupiller'."
+  },
+  {
+    "id": "fr-1776",
+    "front": "Ça caille dehors !",
+    "pronunciation": "[sah KAHY duh-OR]",
+    "back": "It's freezing outside!",
+    "context": "'Cailler' = to be very cold (slang)."
+  },
+  {
+    "id": "fr-1777",
+    "front": "Il a bossé comme un malade.",
+    "pronunciation": "[ee lah boh-say kum an mah-LAD]",
+    "back": "He worked like crazy.",
+    "context": "'Comme un malade' (like a sick person) = like crazy."
+  },
+  {
+    "id": "fr-1778",
+    "front": "Il est complètement à l'ouest.",
+    "pronunciation": "[ee leh kohm-plet-mahn ah LWEST]",
+    "back": "He's completely out of it.",
+    "context": "'Être à l'ouest' = to be spaced out, confused."
+  },
+  {
+    "id": "fr-1779",
+    "front": "Il me prend la tête avec ses histoires.",
+    "pronunciation": "[eel muh prahn lah TET ah-vek say zees-TWAHR]",
+    "back": "He's doing my head in with his stories.",
+    "context": "'Prendre la tête' = to annoy, stress someone out. 'Une prise de tête' = a hassle."
+  },
+  {
+    "id": "fr-1780",
+    "front": "C'est pas mon délire.",
+    "pronunciation": "[seh pah mohn day-LEER]",
+    "back": "It's not my thing.",
+    "context": "'Mon délire' = my thing, my vibe (youth slang)."
+  },
+  {
+    "id": "fr-1781",
+    "front": "Il s'est pris un râteau.",
+    "pronunciation": "[eel seh pree zan rah-TOH]",
+    "back": "He got turned down.",
+    "context": "'Se prendre un râteau' (get hit by a rake) = to be rejected romantically."
+  },
+  {
+    "id": "fr-1782",
+    "front": "T'inquiète, c'est réglé.",
+    "pronunciation": "[tan-KYET, seh ray-GLAY]",
+    "back": "Don't worry, it's sorted.",
+    "context": "'C'est réglé' = it's settled, sorted."
+  },
+  {
+    "id": "fr-1783",
+    "front": "Je suis dégoûté, j'ai raté le concert.",
+    "pronunciation": "[zhuh swee day-goo-TAY, zhay rah-tay luh kohn-SEHR]",
+    "back": "I'm gutted, I missed the concert.",
+    "context": "'Dégoûté' in slang = gutted, disappointed (not disgusted)."
+  },
+  {
+    "id": "fr-1784",
+    "front": "C'est le seum !",
+    "pronunciation": "[seh luh SUHM]",
+    "back": "That's so annoying! / What a bummer!",
+    "context": "'Avoir le seum' = to be bitter, frustrated (from Arabic 'samm', poison)."
+  },
+  {
+    "id": "fr-1785",
+    "front": "Wesh, ça va ?",
+    "pronunciation": "[WESH, sah VAH]",
+    "back": "Yo, what's up?",
+    "context": "'Wesh' (from Algerian Arabic) = hey, yo. Very informal, youth and banlieue slang."
+  },
+  {
+    "id": "fr-1786",
+    "front": "Il fait le malin devant ses potes.",
+    "pronunciation": "[eel feh luh mah-LAN duh-vahn say POT]",
+    "back": "He's showing off in front of his mates.",
+    "context": "'Faire le malin' = to show off. 'Un pote' = a mate."
+  },
+  {
+    "id": "fr-1787",
+    "front": "C'est une dinguerie !",
+    "pronunciation": "[seh tün dang-guh-REE]",
+    "back": "That's insane!",
+    "context": "'Une dinguerie' (from 'dingue') = something amazing or crazy. Recent youth slang."
+  },
+  {
+    "id": "fr-1788",
+    "front": "Je suis en PLS.",
+    "pronunciation": "[zhuh swee zahn pay-el-ES]",
+    "back": "I'm a wreck.",
+    "context": "'PLS' (position latérale de sécurité, the recovery position) = completely overwhelmed, humorously."
+  },
+  {
+    "id": "fr-1789",
+    "front": "Askip, ils vont se marier.",
+    "pronunciation": "[as-KEEP, eel vohn suh mah-RYAY]",
+    "back": "Apparently, they're getting married.",
+    "context": "'Askip' = 'à ce qu'il paraît' (apparently), shortened in texting and speech."
+  },
+  {
+    "id": "fr-1790",
+    "front": "Il est trop gênant.",
+    "pronunciation": "[ee leh troh zheh-NAHN]",
+    "back": "He's so cringe.",
+    "context": "'Gênant' = embarrassing, cringeworthy."
+  },
+  {
+    "id": "fr-1791",
+    "front": "On s'est tapé un fou rire.",
+    "pronunciation": "[ohn seh tah-pay an foo REER]",
+    "back": "We got the giggles.",
+    "context": "'Un fou rire' = uncontrollable laughter. 'Se taper' = to have, treat oneself to (informal)."
+  },
+  {
+    "id": "fr-1792",
+    "front": "Elle a pécho le numéro du serveur.",
+    "pronunciation": "[el ah pay-SHOH luh nü-may-roh dü sehr-VUHR]",
+    "back": "She got the waiter's number.",
+    "context": "'Pécho' = verlan of 'choper' (to catch, get). Also used for flirting success."
+  },
+  {
+    "id": "fr-1793",
+    "front": "T'es grave !",
+    "pronunciation": "[teh GRAV]",
+    "back": "You're unbelievable!",
+    "context": "'Être grave' = to be ridiculous, over the top (affectionate teasing)."
+  },
+  {
+    "id": "fr-1794",
+    "front": "Ça me saoule de faire la queue.",
+    "pronunciation": "[sah muh SOOL duh fehr lah KUH]",
+    "back": "I'm sick of queuing.",
+    "context": "'Saouler' = to tire, annoy. Literally 'to make drunk'."
+  },
+  {
+    "id": "fr-1795",
+    "front": "C'est de la balle !",
+    "pronunciation": "[seh duh lah BAL]",
+    "back": "That's awesome!",
+    "context": "Slightly dated but still understood: 'de la balle' = great."
+  },
+  {
+    "id": "fr-1796",
+    "front": "Ce mec est une crème.",
+    "pronunciation": "[suh mek eh tün KREM]",
+    "back": "That guy is a sweetheart.",
+    "context": "'Être une crème' = to be very kind."
+  },
+  {
+    "id": "fr-1797",
+    "front": "Arrête de te la péter.",
+    "pronunciation": "[ah-ret duh tuh lah pay-TAY]",
+    "back": "Stop showing off.",
+    "context": "'Se la péter' = to show off, act superior."
+  },
+  {
+    "id": "fr-1798",
+    "front": "Il a pris la grosse tête depuis sa promotion.",
+    "pronunciation": "[ee lah pree lah grohs TET duh-pwee sah proh-moh-SYOHN]",
+    "back": "He's become big-headed since his promotion.",
+    "context": "'Prendre la grosse tête' = to become arrogant."
+  },
+  {
+    "id": "fr-1799",
+    "front": "Faut pas pousser mémé dans les orties !",
+    "pronunciation": "[foh pah poo-say may-MAY dahn lay zor-TEE]",
+    "back": "Let's not go overboard!",
+    "context": "Literally 'don't push grandma into the nettles'. Humorous: don't exaggerate."
+  },
+  {
+    "id": "fr-1800",
+    "front": "Ces expressions sont à éviter en entretien d'embauche.",
+    "pronunciation": "[say zek-spreh-syohn sohn tah ay-vee-tay ahn nahn-truh-tyan dahm-BOHSH]",
+    "back": "These expressions should be avoided in a job interview.",
+    "context": "Knowing slang means understanding people, and knowing when NOT to use it."
+  }
+]

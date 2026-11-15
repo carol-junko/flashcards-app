@@ -1,0 +1,317 @@
+[
+  {
+    "id": "fr-1576",
+    "front": "Je me permets de vous relancer concernant ma demande du 12 mars.",
+    "pronunciation": "[zhuh muh pehr-meh duh voo ruh-LAHNS kohn-sehr-nahn mah duh-mahnd dü dooz MARS]",
+    "back": "I'm following up on my request of 12 March.",
+    "context": "'Relancer' = to follow up, send a reminder. 'Je me permets de' = polite opener."
+  },
+  {
+    "id": "fr-1577",
+    "front": "Suite à notre conversation téléphonique, je vous adresse le devis.",
+    "pronunciation": "[sweet ah noh-truh kohn-vehr-sah-syohn tay-lay-foh-NEEK, zhuh voo zah-dres luh duh-VEE]",
+    "back": "Following our phone conversation, I'm sending you the quote.",
+    "context": "'Suite à' = following. 'Un devis' = a quote/estimate."
+  },
+  {
+    "id": "fr-1578",
+    "front": "Vous trouverez ci-joint le rapport demandé.",
+    "pronunciation": "[voo troo-vuh-ray see-ZHWAN luh rah-por duh-mahn-DAY]",
+    "back": "Please find attached the requested report.",
+    "context": "'Ci-joint' = attached. The standard formula for attachments."
+  },
+  {
+    "id": "fr-1579",
+    "front": "Je reste à votre disposition pour tout renseignement complémentaire.",
+    "pronunciation": "[zhuh rest ah voh-truh dees-poh-zee-SYOHN poor too rahn-sen-yuh-mahn kohm-play-mahn-TEHR]",
+    "back": "I remain at your disposal for any further information.",
+    "context": "The classic closing line of a French professional email."
+  },
+  {
+    "id": "fr-1580",
+    "front": "Dans l'attente de votre retour, je vous prie d'agréer mes salutations distinguées.",
+    "pronunciation": "[dahn lah-tahnt duh voh-truh ruh-TOOR, zhuh voo pree dah-gray-AY may sah-lü-tah-syohn dees-tan-GAY]",
+    "back": "Looking forward to hearing from you, yours faithfully.",
+    "context": "Formal letter closing. In emails, 'Cordialement' is usually enough."
+  },
+  {
+    "id": "fr-1581",
+    "front": "Pourriez-vous me confirmer votre disponibilité pour jeudi ?",
+    "pronunciation": "[poo-ryay-voo muh kohn-feer-may voh-truh dees-poh-nee-bee-lee-TAY poor zhuh-DEE]",
+    "back": "Could you confirm your availability for Thursday?",
+    "context": "'La disponibilité' = availability."
+  },
+  {
+    "id": "fr-1582",
+    "front": "Je vous propose de faire un point la semaine prochaine.",
+    "pronunciation": "[zhuh voo proh-pohz duh fehr an PWAN lah suh-men proh-SHEN]",
+    "back": "I suggest we catch up next week.",
+    "context": "'Faire un point' = to have a progress update meeting."
+  },
+  {
+    "id": "fr-1583",
+    "front": "Quel est l'ordre du jour de la réunion ?",
+    "pronunciation": "[kel eh lor-druh dü ZHOOR duh lah ray-ü-NYOHN]",
+    "back": "What's on the meeting agenda?",
+    "context": "'L'ordre du jour' = the agenda."
+  },
+  {
+    "id": "fr-1584",
+    "front": "Je vais vous envoyer le compte rendu de la réunion.",
+    "pronunciation": "[zhuh veh voo zahn-vwah-yay luh kohnt rahn-DÜ duh lah ray-ü-NYOHN]",
+    "back": "I'll send you the meeting minutes.",
+    "context": "'Le compte rendu' = minutes, report."
+  },
+  {
+    "id": "fr-1585",
+    "front": "Passons au point suivant.",
+    "pronunciation": "[pah-sohn oh pwan swee-VAHN]",
+    "back": "Let's move on to the next item.",
+    "context": "Meeting language. 'Le point suivant' = the next item."
+  },
+  {
+    "id": "fr-1586",
+    "front": "Si je peux me permettre une remarque…",
+    "pronunciation": "[see zhuh puh muh pehr-meh-truh ün ruh-MARK]",
+    "back": "If I may make a comment…",
+    "context": "Polite way to take the floor."
+  },
+  {
+    "id": "fr-1587",
+    "front": "Je ne suis pas sûr de bien vous suivre.",
+    "pronunciation": "[zhuh nuh swee pah sür duh byan voo SWEE-vruh]",
+    "back": "I'm not sure I'm following you.",
+    "context": "Asking for clarification politely."
+  },
+  {
+    "id": "fr-1588",
+    "front": "Pourriez-vous préciser ce point ?",
+    "pronunciation": "[poo-ryay-voo pray-see-zay suh PWAN]",
+    "back": "Could you clarify that point?",
+    "context": "'Préciser' = to clarify, specify."
+  },
+  {
+    "id": "fr-1589",
+    "front": "Nous devons respecter les délais.",
+    "pronunciation": "[noo duh-vohn res-pek-tay lay day-LEH]",
+    "back": "We must meet the deadlines.",
+    "context": "'Respecter un délai' = to meet a deadline."
+  },
+  {
+    "id": "fr-1590",
+    "front": "Le projet a pris du retard.",
+    "pronunciation": "[luh proh-zheh ah pree dü ruh-TAR]",
+    "back": "The project has fallen behind schedule.",
+    "context": "'Prendre du retard' = to fall behind."
+  },
+  {
+    "id": "fr-1591",
+    "front": "Il faudrait revoir le budget à la baisse.",
+    "pronunciation": "[eel foh-dreh ruh-vwahr luh bü-zheh ah lah BES]",
+    "back": "We'd need to revise the budget downwards.",
+    "context": "'Revoir à la baisse / à la hausse' = revise down / up."
+  },
+  {
+    "id": "fr-1592",
+    "front": "Notre objectif est d'augmenter le chiffre d'affaires de dix pour cent.",
+    "pronunciation": "[noh-truh ob-zhek-teef eh dohg-mahn-tay luh shee-fruh dah-FEHR duh dee poor SAHN]",
+    "back": "Our goal is to increase turnover by ten percent.",
+    "context": "'Le chiffre d'affaires' = turnover, revenue."
+  },
+  {
+    "id": "fr-1593",
+    "front": "Nous avons signé un contrat avec un nouveau client.",
+    "pronunciation": "[noo zah-vohn see-nyay an kohn-trah ah-vek an noo-voh klee-YAHN]",
+    "back": "We signed a contract with a new client.",
+    "context": "'Signer un contrat'."
+  },
+  {
+    "id": "fr-1594",
+    "front": "Nous sommes prêts à faire un geste commercial.",
+    "pronunciation": "[noo sum preh ah fehr an zhest koh-mehr-SYAL]",
+    "back": "We're willing to offer a discount.",
+    "context": "'Un geste commercial' = a goodwill gesture, usually a discount."
+  },
+  {
+    "id": "fr-1595",
+    "front": "C'est notre dernière offre.",
+    "pronunciation": "[seh noh-truh dehr-nyehr OFR]",
+    "back": "This is our final offer.",
+    "context": "Negotiation language."
+  },
+  {
+    "id": "fr-1596",
+    "front": "Pouvons-nous trouver un terrain d'entente ?",
+    "pronunciation": "[poo-vohn-noo troo-vay an teh-ran dahn-TAHNT]",
+    "back": "Can we find common ground?",
+    "context": "'Un terrain d'entente' = common ground."
+  },
+  {
+    "id": "fr-1597",
+    "front": "Le prix est négociable selon les volumes.",
+    "pronunciation": "[luh pree eh nay-goh-SYAH-bluh suh-lohn lay voh-LÜM]",
+    "back": "The price is negotiable depending on volume.",
+    "context": "'Selon' = depending on."
+  },
+  {
+    "id": "fr-1598",
+    "front": "Nous reviendrons vers vous d'ici la fin de la semaine.",
+    "pronunciation": "[noo ruh-vyan-drohn vehr voo dee-see lah fan duh lah suh-MEN]",
+    "back": "We'll get back to you by the end of the week.",
+    "context": "'Revenir vers quelqu'un' = to get back to someone (business French)."
+  },
+  {
+    "id": "fr-1599",
+    "front": "Je vous mets en copie.",
+    "pronunciation": "[zhuh voo meh ahn koh-PEE]",
+    "back": "I'm copying you in.",
+    "context": "'Mettre en copie' = to CC."
+  },
+  {
+    "id": "fr-1600",
+    "front": "Pour rappel, la date limite est fixée au 30 juin.",
+    "pronunciation": "[poor rah-PEL, lah daht lee-MEET eh feek-say oh trahnt ZHWAN]",
+    "back": "As a reminder, the deadline is set for 30 June.",
+    "context": "'Pour rappel' = as a reminder. 'La date limite' = deadline."
+  },
+  {
+    "id": "fr-1601",
+    "front": "Je suis en charge de ce dossier.",
+    "pronunciation": "[zhuh swee zahn sharzh duh suh doh-SYAY]",
+    "back": "I'm in charge of this file.",
+    "context": "'Un dossier' = a case, file, matter."
+  },
+  {
+    "id": "fr-1602",
+    "front": "Il faut que nous validions cette proposition avec la direction.",
+    "pronunciation": "[eel foh kuh noo vah-lee-dyohn set proh-poh-zee-SYOHN ah-vek lah dee-rek-SYOHN]",
+    "back": "We need to get this proposal approved by management.",
+    "context": "'Valider' = to approve. 'La direction' = management."
+  },
+  {
+    "id": "fr-1603",
+    "front": "Elle a été nommée directrice des ressources humaines.",
+    "pronunciation": "[el ah ay-tay noh-may dee-rek-trees day ruh-soors ü-MEN]",
+    "back": "She was appointed head of human resources.",
+    "context": "'Les RH' = HR."
+  },
+  {
+    "id": "fr-1604",
+    "front": "Nous recrutons un chef de projet en CDI.",
+    "pronunciation": "[noo ruh-krü-tohn an shef duh proh-ZHEH ahn say-day-EE]",
+    "back": "We're hiring a project manager on a permanent contract.",
+    "context": "'Recruter' = to recruit."
+  },
+  {
+    "id": "fr-1605",
+    "front": "Le salaire est à négocier selon l'expérience.",
+    "pronunciation": "[luh sah-lehr eh tah nay-goh-syay suh-lohn lek-spay-RYAHNS]",
+    "back": "The salary is negotiable depending on experience.",
+    "context": "Common in French job ads."
+  },
+  {
+    "id": "fr-1606",
+    "front": "Je souhaiterais évoquer une augmentation de salaire.",
+    "pronunciation": "[zhuh sweh-tuh-reh ay-voh-kay ün ohg-mahn-tah-syohn duh sah-LEHR]",
+    "back": "I'd like to discuss a salary increase.",
+    "context": "'Souhaiter' (conditional) = polite. 'Évoquer' = to bring up."
+  },
+  {
+    "id": "fr-1607",
+    "front": "Mon entretien annuel est prévu le mois prochain.",
+    "pronunciation": "[mohn nahn-truh-tyan ah-nü-EL eh pray-vü luh mwah proh-SHAN]",
+    "back": "My annual review is scheduled for next month.",
+    "context": "'L'entretien annuel (d'évaluation)' = annual appraisal."
+  },
+  {
+    "id": "fr-1608",
+    "front": "Il faut savoir prendre des initiatives.",
+    "pronunciation": "[eel foh sah-vwahr prahn-druh day zee-nee-syah-TEEV]",
+    "back": "You need to know how to take initiative.",
+    "context": "'Prendre des initiatives' = to take initiative."
+  },
+  {
+    "id": "fr-1609",
+    "front": "Je vous remercie de votre réactivité.",
+    "pronunciation": "[zhuh voo ruh-mehr-SEE duh voh-truh ray-ak-tee-vee-TAY]",
+    "back": "Thank you for your quick response.",
+    "context": "'La réactivité' = responsiveness: a favorite business word."
+  },
+  {
+    "id": "fr-1610",
+    "front": "Toutes mes excuses pour ce retard de réponse.",
+    "pronunciation": "[toot may zek-SKÜZ poor suh ruh-tar duh ray-POHNS]",
+    "back": "My apologies for this late reply.",
+    "context": "Opener for a delayed email."
+  },
+  {
+    "id": "fr-1611",
+    "front": "Nous avons bien reçu votre candidature.",
+    "pronunciation": "[noo zah-vohn byan ruh-sü voh-truh kahn-dee-dah-TÜR]",
+    "back": "We have received your application.",
+    "context": "'Une candidature' = a job application."
+  },
+  {
+    "id": "fr-1612",
+    "front": "Malheureusement, votre profil ne correspond pas à nos besoins actuels.",
+    "pronunciation": "[mah-luh-ruhz-MAHN, voh-truh proh-FEEL nuh koh-res-pohn pah ah noh buh-zwan zak-TÜ-EL]",
+    "back": "Unfortunately, your profile doesn't match our current needs.",
+    "context": "The standard rejection letter. 'Actuel' = current (false friend)."
+  },
+  {
+    "id": "fr-1613",
+    "front": "Nous allons délocaliser une partie de la production.",
+    "pronunciation": "[noo zah-lohn day-loh-kah-lee-zay ün par-tee duh lah proh-dük-SYOHN]",
+    "back": "We're going to relocate part of production abroad.",
+    "context": "'Délocaliser' = to offshore."
+  },
+  {
+    "id": "fr-1614",
+    "front": "L'entreprise a réalisé un bénéfice record.",
+    "pronunciation": "[lahn-truh-preez ah ray-ah-lee-zay an bay-nay-fees ruh-KOR]",
+    "back": "The company made a record profit.",
+    "context": "'Un bénéfice' = a profit."
+  },
+  {
+    "id": "fr-1615",
+    "front": "La société a été rachetée par un groupe américain.",
+    "pronunciation": "[lah soh-syay-TAY ah ay-tay rahsh-tay par an groop ah-may-ree-KAN]",
+    "back": "The company was bought by an American group.",
+    "context": "'Racheter' = to buy out, acquire."
+  },
+  {
+    "id": "fr-1616",
+    "front": "Il faut savoir dire non sans froisser l'interlocuteur.",
+    "pronunciation": "[eel foh sah-vwahr deer NOHN sahn frwah-say lan-tehr-loh-kü-TUHR]",
+    "back": "You need to know how to say no without offending the other person.",
+    "context": "'Froisser' = to offend (literally to crease). 'L'interlocuteur' = the person you're dealing with."
+  },
+  {
+    "id": "fr-1617",
+    "front": "Je vous laisse revenir vers moi si besoin.",
+    "pronunciation": "[zhuh voo les ruh-vuh-neer vehr MWAH see buh-ZWAN]",
+    "back": "Feel free to get back to me if needed.",
+    "context": "'Si besoin' = if needed."
+  },
+  {
+    "id": "fr-1618",
+    "front": "Merci par avance pour votre aide.",
+    "pronunciation": "[mehr-SEE par ah-vahns poor voh-truh ED]",
+    "back": "Thank you in advance for your help.",
+    "context": "'Par avance' or 'd'avance' = in advance."
+  },
+  {
+    "id": "fr-1619",
+    "front": "Ce poste implique de nombreux déplacements.",
+    "pronunciation": "[suh post an-pleek duh nohm-bruh day-plas-MAHN]",
+    "back": "This position involves a lot of travel.",
+    "context": "'Un déplacement' = business trip."
+  },
+  {
+    "id": "fr-1620",
+    "front": "Le séminaire aura lieu à Bordeaux les 3 et 4 octobre.",
+    "pronunciation": "[luh say-mee-nehr oh-rah lyuh ah bor-DOH lay trwah ay kah-truh ok-TOH-bruh]",
+    "back": "The seminar will take place in Bordeaux on 3 and 4 October.",
+    "context": "'Avoir lieu' = to take place."
+  }
+]
