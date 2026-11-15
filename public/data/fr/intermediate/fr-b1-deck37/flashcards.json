@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-1211",
+    "front": "Quand j'étais petit, j'habitais à la campagne.",
+    "pronunciation": "[kahn zhay-teh puh-TEE, zhah-bee-teh ah lah kahm-PAN-yuh]",
+    "back": "When I was little, I lived in the countryside.",
+    "context": "The imparfait describes the past: situations, habits, background. Endings: -ais, -ais, -ait, -ions, -iez, -aient."
+  },
+  {
+    "id": "fr-1212",
+    "front": "Nous allions à la plage tous les étés.",
+    "pronunciation": "[noo zah-lyohn ah lah plazh too lay zay-TAY]",
+    "back": "We used to go to the beach every summer.",
+    "context": "Imparfait for repeated habits: 'used to'. Stem = 'nous' form of the present minus -ons (allons → all-)."
+  },
+  {
+    "id": "fr-1213",
+    "front": "Il faisait très beau ce jour-là.",
+    "pronunciation": "[eel fuh-zeh treh BOH suh zhoor-LAH]",
+    "back": "The weather was very nice that day.",
+    "context": "Imparfait for weather and settings. 'Faisait' is pronounced [fuh-ZEH]."
+  },
+  {
+    "id": "fr-1214",
+    "front": "Elle était fatiguée, alors elle s'est couchée tôt.",
+    "pronunciation": "[el ay-teh fah-tee-GAY, ah-lor el seh koo-shay TOH]",
+    "back": "She was tired, so she went to bed early.",
+    "context": "Être is the only irregular stem: j'étais, tu étais, il était…"
+  },
+  {
+    "id": "fr-1215",
+    "front": "Avant, je fumais, mais j'ai arrêté.",
+    "pronunciation": "[ah-VAHN, zhuh fü-MEH, meh zhay ah-reh-TAY]",
+    "back": "I used to smoke, but I quit.",
+    "context": "'Avant' + imparfait = in the past, used to."
+  },
+  {
+    "id": "fr-1216",
+    "front": "Mon grand-père racontait toujours la même histoire.",
+    "pronunciation": "[mohn grahn-pehr rah-kohn-teh too-zhoor lah mem ees-TWAHR]",
+    "back": "My grandfather always told the same story.",
+    "context": "'Toujours', 'souvent', 'chaque fois' signal the imparfait of habit."
+  },
+  {
+    "id": "fr-1217",
+    "front": "À l'époque, on n'avait pas de téléphone portable.",
+    "pronunciation": "[ah lay-POK, ohn nah-veh pah duh tay-lay-fun por-TAH-bluh]",
+    "back": "Back then, we didn't have mobile phones.",
+    "context": "'À l'époque' = back then."
+  },
+  {
+    "id": "fr-1218",
+    "front": "Je lisais quand le téléphone a sonné.",
+    "pronunciation": "[zhuh lee-zeh kahn luh tay-lay-fun ah soh-NAY]",
+    "back": "I was reading when the phone rang.",
+    "context": "Imparfait = ongoing action (was reading); passé composé = the interrupting event (rang)."
+  },
+  {
+    "id": "fr-1219",
+    "front": "Qu'est-ce que tu faisais hier soir vers vingt heures ?",
+    "pronunciation": "[kehs-kuh tü fuh-zeh yehr SWAHR vehr van TUHR]",
+    "back": "What were you doing last night around 8 p.m.?",
+    "context": "Imparfait for an action in progress at a past moment."
+  },
+  {
+    "id": "fr-1220",
+    "front": "Il y avait beaucoup de monde au concert.",
+    "pronunciation": "[eel yah-veh boh-koo duh MOHND oh kohn-SEHR]",
+    "back": "There were a lot of people at the concert.",
+    "context": "'Il y avait' = there was / there were (imparfait of il y a)."
+  },
+  {
+    "id": "fr-1221",
+    "front": "La maison était grande et elle avait un beau jardin.",
+    "pronunciation": "[lah meh-zohn ay-teh GRAHND ay el ah-veh tan boh zhar-DAN]",
+    "back": "The house was big and it had a lovely garden.",
+    "context": "Imparfait for describing places in the past."
+  },
+  {
+    "id": "fr-1222",
+    "front": "Il était une fois une princesse qui vivait dans un château.",
+    "pronunciation": "[ee lay-teh tün FWAH ün pran-SES kee vee-veh dahn zan shah-TOH]",
+    "back": "Once upon a time there was a princess who lived in a castle.",
+    "context": "'Il était une fois' = once upon a time: the opening of every French fairy tale."
+  },
+  {
+    "id": "fr-1223",
+    "front": "Je voulais te demander quelque chose.",
+    "pronunciation": "[zhuh voo-leh tuh duh-mahn-day kel-kuh SHOHZ]",
+    "back": "I wanted to ask you something.",
+    "context": "Imparfait of politeness: softer than 'je veux'."
+  },
+  {
+    "id": "fr-1224",
+    "front": "Je pensais que tu étais déjà parti.",
+    "pronunciation": "[zhuh pahn-seh kuh tü ay-teh day-zhah par-TEE]",
+    "back": "I thought you had already left.",
+    "context": "Thoughts and opinions in the past usually take the imparfait."
+  },
+  {
+    "id": "fr-1225",
+    "front": "Si on allait au cinéma ?",
+    "pronunciation": "[see ohn nah-leh oh see-nay-MAH]",
+    "back": "How about going to the cinema?",
+    "context": "'Si' + imparfait = a suggestion: how about…?"
+  },
+  {
+    "id": "fr-1226",
+    "front": "Si j'avais le temps, j'apprendrais le japonais.",
+    "pronunciation": "[see zhah-veh luh TAHN, zhah-prahn-dreh luh zhah-poh-NEH]",
+    "back": "If I had the time, I'd learn Japanese.",
+    "context": "Hypothesis: si + imparfait, then conditional."
+  },
+  {
+    "id": "fr-1227",
+    "front": "Nous mangions souvent chez ma tante le dimanche.",
+    "pronunciation": "[noo mahn-zhyohn soo-vahn shay mah tahnt luh dee-MAHNSH]",
+    "back": "We often ate at my aunt's on Sundays.",
+    "context": "-ger verbs keep the e before a and o: mangeais, but mangions."
+  },
+  {
+    "id": "fr-1228",
+    "front": "Il commençait à pleuvoir quand nous sommes partis.",
+    "pronunciation": "[eel koh-mahn-seh tah pluh-VWAHR kahn noo sum par-TEE]",
+    "back": "It was starting to rain when we left.",
+    "context": "-cer verbs: commençais (ç before a), but commencions."
+  },
+  {
+    "id": "fr-1229",
+    "front": "Vous étiez où pendant les vacances ?",
+    "pronunciation": "[voo zay-tyay OO pahn-dahn lay vah-KAHNS]",
+    "back": "Where were you during the holidays?",
+    "context": "'Vous étiez' = imparfait of être."
+  },
+  {
+    "id": "fr-1230",
+    "front": "Ils jouaient dans le jardin pendant que nous préparions le repas.",
+    "pronunciation": "[eel zhoo-eh dahn luh zhar-DAN pahn-dahn kuh noo pray-pah-ryohn luh ruh-PAH]",
+    "back": "They were playing in the garden while we were preparing the meal.",
+    "context": "Two simultaneous ongoing actions: both imparfait. 'Pendant que' = while."
+  },
+  {
+    "id": "fr-1231",
+    "front": "J'adorais les dessins animés quand j'étais enfant.",
+    "pronunciation": "[zhah-doh-reh lay deh-san zah-nee-MAY kahn zhay-teh zahn-FAHN]",
+    "back": "I loved cartoons when I was a child.",
+    "context": "Feelings and preferences in the past: imparfait."
+  },
+  {
+    "id": "fr-1232",
+    "front": "Elle portait toujours un chapeau rouge.",
+    "pronunciation": "[el por-teh too-zhoor zan shah-poh ROOZH]",
+    "back": "She always wore a red hat.",
+    "context": "Habitual description."
+  },
+  {
+    "id": "fr-1233",
+    "front": "On se voyait tous les jours au lycée.",
+    "pronunciation": "[ohn suh vwah-yeh too lay zhoor oh lee-SAY]",
+    "back": "We used to see each other every day at high school.",
+    "context": "'Le lycée' = high school (ages 15–18)."
+  },
+  {
+    "id": "fr-1234",
+    "front": "Il était tard et les rues étaient désertes.",
+    "pronunciation": "[ee lay-teh TAR ay lay rü ay-teh day-ZEHRT]",
+    "back": "It was late and the streets were deserted.",
+    "context": "Setting the scene at the start of a story."
+  },
+  {
+    "id": "fr-1235",
+    "front": "Je ne savais pas que tu parlais russe !",
+    "pronunciation": "[zhuh nuh sah-veh pah kuh tü par-leh RÜS]",
+    "back": "I didn't know you spoke Russian!",
+    "context": "'Savoir' in the past is usually imparfait: je savais, je ne savais pas."
+  },
+  {
+    "id": "fr-1236",
+    "front": "Tu avais quel âge quand tu as déménagé ?",
+    "pronunciation": "[tü ah-veh kel AHZH kahn tü ah day-may-nah-ZHAY]",
+    "back": "How old were you when you moved?",
+    "context": "Age in the past = imparfait of avoir."
+  },
+  {
+    "id": "fr-1237",
+    "front": "Ma mère travaillait comme infirmière.",
+    "pronunciation": "[mah mehr trah-vah-yeh kum an-feer-MYEHR]",
+    "back": "My mother worked as a nurse.",
+    "context": "A past situation over time."
+  },
+  {
+    "id": "fr-1238",
+    "front": "Chaque été, nous partions en Bretagne.",
+    "pronunciation": "[shak ay-TAY, noo par-tyohn ahn bruh-TAN-yuh]",
+    "back": "Every summer, we went to Brittany.",
+    "context": "'Chaque' + time = habit → imparfait."
+  },
+  {
+    "id": "fr-1239",
+    "front": "Il neigeait depuis trois jours.",
+    "pronunciation": "[eel neh-zheh duh-pwee trwah ZHOOR]",
+    "back": "It had been snowing for three days.",
+    "context": "Imparfait + depuis = had been doing."
+  },
+  {
+    "id": "fr-1240",
+    "front": "C'était le bon temps !",
+    "pronunciation": "[seh-teh luh bohn TAHN]",
+    "back": "Those were the days!",
+    "context": "'C'était' = imparfait of c'est. Nostalgic exclamation."
+  },
+  {
+    "id": "fr-1241",
+    "front": "Autrefois, ce quartier était très pauvre.",
+    "pronunciation": "[oh-truh-FWAH, suh kar-tyay ay-teh treh POH-vruh]",
+    "back": "In the past, this neighborhood was very poor.",
+    "context": "'Autrefois' = formerly."
+  },
+  {
+    "id": "fr-1242",
+    "front": "Je croyais que c'était gratuit.",
+    "pronunciation": "[zhuh krwah-yeh kuh seh-teh grah-TWEE]",
+    "back": "I thought it was free.",
+    "context": "'Croire' → je croyais."
+  },
+  {
+    "id": "fr-1243",
+    "front": "Il fallait réserver à l'avance.",
+    "pronunciation": "[eel fah-leh ray-zehr-vay ah lah-VAHNS]",
+    "back": "You had to book in advance.",
+    "context": "'Il faut' → il fallait."
+  },
+  {
+    "id": "fr-1244",
+    "front": "Nous étions tellement heureux à cette époque.",
+    "pronunciation": "[noo zay-tyohn tel-mahn uh-RUH ah set ay-POK]",
+    "back": "We were so happy at that time.",
+    "context": "'À cette époque' = at that time."
+  },
+  {
+    "id": "fr-1245",
+    "front": "Pendant que je dormais, quelqu'un a sonné à la porte.",
+    "pronunciation": "[pahn-dahn kuh zhuh dor-MEH, kel-kan ah soh-nay ah lah PORT]",
+    "back": "While I was sleeping, someone rang the doorbell.",
+    "context": "Ongoing (imparfait) interrupted by a single event (passé composé)."
+  }
+]
