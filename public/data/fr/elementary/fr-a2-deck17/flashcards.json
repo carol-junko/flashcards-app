@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-531",
+    "front": "Qu'est-ce que tu fais pendant ton temps libre ?",
+    "pronunciation": "[kehs-kuh tü feh pahn-dahn tohn tahn LEE-bruh]",
+    "back": "What do you do in your free time?",
+    "context": "'Le temps libre' = free time. 'Les loisirs' = leisure activities."
+  },
+  {
+    "id": "fr-532",
+    "front": "Je joue au foot le dimanche.",
+    "pronunciation": "[zhuh zhoo oh FOOT luh dee-MAHNSH]",
+    "back": "I play soccer on Sundays.",
+    "context": "'Jouer à' + sport or game: jouer au foot, au tennis, aux cartes."
+  },
+  {
+    "id": "fr-533",
+    "front": "Elle joue du piano depuis l'enfance.",
+    "pronunciation": "[el zhoo dü pyah-NOH duh-pwee lahn-FAHNS]",
+    "back": "She has played the piano since childhood.",
+    "context": "'Jouer de' + instrument: jouer du piano, de la guitare, du violon."
+  },
+  {
+    "id": "fr-534",
+    "front": "Je fais de la natation deux fois par semaine.",
+    "pronunciation": "[zhuh feh duh lah nah-tah-SYOHN duh fwah par suh-MEN]",
+    "back": "I go swimming twice a week.",
+    "context": "'Faire de' + activity: faire du vélo, de la danse, de la randonnée."
+  },
+  {
+    "id": "fr-535",
+    "front": "J'adore faire de la randonnée en montagne.",
+    "pronunciation": "[zhah-dor fehr duh lah rahn-doh-NAY ahn mohn-TAN-yuh]",
+    "back": "I love hiking in the mountains.",
+    "context": "France has thousands of kilometers of marked trails (GR, 'grande randonnée')."
+  },
+  {
+    "id": "fr-536",
+    "front": "Tu fais du sport ?",
+    "pronunciation": "[tü feh dü SPOR]",
+    "back": "Do you do any sports?",
+    "context": "'Faire du sport' = to exercise or do sports in general."
+  },
+  {
+    "id": "fr-537",
+    "front": "Je vais à la salle de sport après le travail.",
+    "pronunciation": "[zhuh veh ah lah sal duh SPOR ah-preh luh trah-VAHY]",
+    "back": "I go to the gym after work.",
+    "context": "'La salle de sport' or 'la salle (de muscu)' = gym."
+  },
+  {
+    "id": "fr-538",
+    "front": "Je suis fan de cinéma.",
+    "pronunciation": "[zhuh swee fan duh see-nay-MAH]",
+    "back": "I'm a movie buff.",
+    "context": "'Être fan de' = to be a fan of. 'Un cinéphile' = a film lover."
+  },
+  {
+    "id": "fr-539",
+    "front": "On va voir un film ce soir ?",
+    "pronunciation": "[ohn vah vwahr an FEELM suh SWAHR]",
+    "back": "Shall we go see a film tonight?",
+    "context": "'VO' (version originale) = original language with subtitles; 'VF' = dubbed in French."
+  },
+  {
+    "id": "fr-540",
+    "front": "J'écoute beaucoup de musique en travaillant.",
+    "pronunciation": "[zhay-koot boh-koo duh mü-ZEEK ahn trah-vah-YAHN]",
+    "back": "I listen to a lot of music while working.",
+    "context": "'En' + present participle = while doing (gérondif)."
+  },
+  {
+    "id": "fr-541",
+    "front": "Quel genre de musique tu aimes ?",
+    "pronunciation": "[kel zhahnr duh mü-ZEEK tü EM]",
+    "back": "What kind of music do you like?",
+    "context": "'Le genre' = genre, type. Answer: 'J'aime le rap, le jazz, la chanson française…'"
+  },
+  {
+    "id": "fr-542",
+    "front": "Je lis surtout des romans policiers.",
+    "pronunciation": "[zhuh lee sür-TOO day roh-mahn poh-lee-SYAY]",
+    "back": "I mostly read crime novels.",
+    "context": "'Un roman' = novel; 'un roman policier' or 'un polar' = crime novel."
+  },
+  {
+    "id": "fr-543",
+    "front": "La bande dessinée est très populaire en France et en Belgique.",
+    "pronunciation": "[lah bahnd day-see-NAY eh treh poh-pü-LEHR ahn frahns ay ahn bel-ZHEEK]",
+    "back": "Comics are very popular in France and Belgium.",
+    "context": "'La BD' (bande dessinée) is called the 'ninth art'. Think Tintin and Astérix."
+  },
+  {
+    "id": "fr-544",
+    "front": "J'aime bien cuisiner pour mes amis.",
+    "pronunciation": "[zhem byan kwee-zee-NAY poor may zah-MEE]",
+    "back": "I like cooking for my friends.",
+    "context": "'Aimer bien' = to like (softer than 'aimer', which with people means to love)."
+  },
+  {
+    "id": "fr-545",
+    "front": "Je prends des cours de guitare.",
+    "pronunciation": "[zhuh prahn day koor duh ghee-TAR]",
+    "back": "I'm taking guitar lessons.",
+    "context": "'Prendre des cours' = to take lessons/classes."
+  },
+  {
+    "id": "fr-546",
+    "front": "Le week-end, je fais souvent la grasse matinée.",
+    "pronunciation": "[luh wee-KEND, zhuh feh soo-vahn lah gras mah-tee-NAY]",
+    "back": "On weekends, I often sleep in.",
+    "context": "'Faire la grasse matinée' (a fat morning) = to sleep in."
+  },
+  {
+    "id": "fr-547",
+    "front": "On joue aux cartes ou à un jeu de société ?",
+    "pronunciation": "[ohn zhoo oh KART oo ah an zhuh duh soh-syay-TAY]",
+    "back": "Shall we play cards or a board game?",
+    "context": "'Un jeu de société' = board game; 'un jeu vidéo' = video game."
+  },
+  {
+    "id": "fr-548",
+    "front": "Je suis nul en sport !",
+    "pronunciation": "[zhuh swee NÜL ahn SPOR]",
+    "back": "I'm hopeless at sports!",
+    "context": "'Être nul en' = to be bad at; 'être fort en' = to be good at."
+  },
+  {
+    "id": "fr-549",
+    "front": "Il s'entraîne pour un marathon.",
+    "pronunciation": "[eel sahn-TREN poor an mah-rah-TOHN]",
+    "back": "He's training for a marathon.",
+    "context": "'S'entraîner' = to train. 'L'entraînement' = training."
+  },
+  {
+    "id": "fr-550",
+    "front": "Tu regardes le match ce soir ?",
+    "pronunciation": "[tü ruh-gard luh MATCH suh SWAHR]",
+    "back": "Are you watching the game tonight?",
+    "context": "'Regarder' = to watch. 'Les Bleus' = the French national teams."
+  },
+  {
+    "id": "fr-551",
+    "front": "Allez les Bleus !",
+    "pronunciation": "[ah-lay lay BLUH]",
+    "back": "Go France!",
+    "context": "The cheer for French national teams, named after their blue jerseys."
+  },
+  {
+    "id": "fr-552",
+    "front": "Je fais partie d'une chorale.",
+    "pronunciation": "[zhuh feh par-TEE dün koh-RAL]",
+    "back": "I'm in a choir.",
+    "context": "'Faire partie de' = to be part of, belong to."
+  },
+  {
+    "id": "fr-553",
+    "front": "Le dimanche, on se balade au bord de la Seine.",
+    "pronunciation": "[luh dee-MAHNSH, ohn suh bah-LAD oh bor duh lah SEN]",
+    "back": "On Sundays, we go for a walk along the Seine.",
+    "context": "'Se balader' = to stroll (informal); 'se promener' is more neutral."
+  },
+  {
+    "id": "fr-554",
+    "front": "J'ai horreur des réseaux sociaux.",
+    "pronunciation": "[zhay oh-RUHR day ray-zoh soh-SYOH]",
+    "back": "I hate social media.",
+    "context": "'Avoir horreur de' = to hate, can't stand."
+  },
+  {
+    "id": "fr-555",
+    "front": "Ça te dit d'aller au concert samedi ?",
+    "pronunciation": "[sah tuh DEE dah-lay oh kohn-SEHR sahm-DEE]",
+    "back": "Do you fancy going to the concert on Saturday?",
+    "context": "'Ça te dit de…?' = do you feel like…? Very common way to suggest something."
+  },
+  {
+    "id": "fr-556",
+    "front": "Je préfère la plage à la montagne.",
+    "pronunciation": "[zhuh pray-fehr lah PLAZH ah lah mohn-TAN-yuh]",
+    "back": "I prefer the beach to the mountains.",
+    "context": "'Préférer A à B' = to prefer A to B."
+  },
+  {
+    "id": "fr-557",
+    "front": "Mon passe-temps préféré, c'est la photographie.",
+    "pronunciation": "[mohn pas-TAHN pray-fay-RAY, seh lah foh-toh-grah-FEE]",
+    "back": "My favorite hobby is photography.",
+    "context": "'Un passe-temps' = a hobby."
+  },
+  {
+    "id": "fr-558",
+    "front": "Je collectionne les vieux vinyles.",
+    "pronunciation": "[zhuh koh-lek-syon lay vyuh vee-NEEL]",
+    "back": "I collect old vinyl records.",
+    "context": "'Collectionner' = to collect (as a hobby)."
+  },
+  {
+    "id": "fr-559",
+    "front": "On fait un pique-nique au parc ?",
+    "pronunciation": "[ohn feh tan peek-NEEK oh PARK]",
+    "back": "Shall we have a picnic in the park?",
+    "context": "A favorite French summer activity: baguette, cheese, wine."
+  },
+  {
+    "id": "fr-560",
+    "front": "Je m'intéresse à l'histoire de l'art.",
+    "pronunciation": "[zhuh man-tay-RES ah lees-twahr duh LAR]",
+    "back": "I'm interested in art history.",
+    "context": "'S'intéresser à' = to be interested in."
+  },
+  {
+    "id": "fr-561",
+    "front": "Le musée est gratuit le premier dimanche du mois.",
+    "pronunciation": "[luh mü-ZAY eh grah-TWEE luh pruh-myay dee-MAHNSH dü MWAH]",
+    "back": "The museum is free on the first Sunday of the month.",
+    "context": "Many French national museums have free days. Under-26 EU residents often get in free."
+  },
+  {
+    "id": "fr-562",
+    "front": "J'ai commencé à apprendre le français l'année dernière.",
+    "pronunciation": "[zhay koh-mahn-SAY ah ah-prahn-druh luh frahn-SEH lah-nay dehr-NYEHR]",
+    "back": "I started learning French last year.",
+    "context": "'Commencer à' + infinitive = to start doing."
+  },
+  {
+    "id": "fr-563",
+    "front": "Je n'ai jamais le temps de lire.",
+    "pronunciation": "[zhuh neh zhah-meh luh tahn duh LEER]",
+    "back": "I never have time to read.",
+    "context": "'Ne… jamais' = never. 'Avoir le temps de' = to have time to."
+  },
+  {
+    "id": "fr-564",
+    "front": "On se retrouve au café après le cinéma ?",
+    "pronunciation": "[ohn suh ruh-troov oh kah-FAY ah-preh luh see-nay-MAH]",
+    "back": "Shall we meet at the café after the movie?",
+    "context": "'Se retrouver' = to meet up (by arrangement)."
+  },
+  {
+    "id": "fr-565",
+    "front": "Ce qui me détend le plus, c'est jardiner.",
+    "pronunciation": "[suh kee muh day-TAHN luh PLÜS, seh zhar-dee-NAY]",
+    "back": "What relaxes me most is gardening.",
+    "context": "'Ce qui… c'est…' = what… is… A natural way to emphasize."
+  }
+]
