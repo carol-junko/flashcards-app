@@ -537,8 +537,7 @@
     "category": "Literature & Art",
     "title": "Literature, Poetry & Arts Critique",
     "description": "Hugo, Proust, Camus, Baudelaire, the Nouvelle Vague and the vocabulary of criticism.",
-    "cardCount": 50,
-    "comingSoon": true
+    "cardCount": 50
   },
   {
     "id": "fr-c1-deck61",
@@ -547,8 +546,7 @@
     "category": "Debating",
     "title": "Elite Persuasion & Public Speaking",
     "description": "Rhetoric, emphasis and handling difficult questions in public.",
-    "cardCount": 45,
-    "comingSoon": true
+    "cardCount": 45
   },
   {
     "id": "fr-c1-deck62",

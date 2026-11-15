@@ -1,0 +1,317 @@
+[
+  {
+    "id": "fr-2221",
+    "front": "Mesdames et Messieurs, bonsoir.",
+    "pronunciation": "[may-dam zay may-SYUH, bohn-SWAHR]",
+    "back": "Good evening, ladies and gentlemen.",
+    "context": "The classic opening of a speech. Note the liaison: mesdames-z-et."
+  },
+  {
+    "id": "fr-2222",
+    "front": "Je serai bref.",
+    "pronunciation": "[zhuh suh-reh BREF]",
+    "back": "I'll be brief.",
+    "context": "A promise speakers rarely keep!"
+  },
+  {
+    "id": "fr-2223",
+    "front": "Permettez-moi de commencer par une anecdote.",
+    "pronunciation": "[pehr-meh-tay-MWAH duh koh-mahn-say par ün nah-nek-DOT]",
+    "back": "Let me begin with an anecdote.",
+    "context": "Stories capture an audience better than statistics."
+  },
+  {
+    "id": "fr-2224",
+    "front": "Imaginez un instant un monde sans frontières.",
+    "pronunciation": "[ee-mah-zhee-nay zan nan-STAHN an mohnd sahn frohn-TYEHR]",
+    "back": "Imagine for a moment a world without borders.",
+    "context": "Inviting the audience to picture something."
+  },
+  {
+    "id": "fr-2225",
+    "front": "Soyons clairs : cette situation ne peut plus durer.",
+    "pronunciation": "[swah-yohn KLEHR : set see-tü-ah-syohn nuh puh plü dü-RAY]",
+    "back": "Let's be clear: this situation cannot go on.",
+    "context": "'Soyons' = imperative of être (let's be)."
+  },
+  {
+    "id": "fr-2226",
+    "front": "Ne nous y trompons pas : l'enjeu est historique.",
+    "pronunciation": "[nuh noo zee trohm-POHN PAH : lahn-ZHUH eh tees-toh-REEK]",
+    "back": "Make no mistake: what's at stake is historic.",
+    "context": "'Ne nous y trompons pas' = let us not be fooled."
+  },
+  {
+    "id": "fr-2227",
+    "front": "Il ne s'agit pas de punir, mais de prévenir.",
+    "pronunciation": "[eel nuh sah-zhee pah duh pü-NEER, meh duh pray-vuh-NEER]",
+    "back": "It's not about punishing, but about preventing.",
+    "context": "'Il ne s'agit pas de… mais de…' reframes a debate."
+  },
+  {
+    "id": "fr-2228",
+    "front": "Qui peut sérieusement croire que rien ne changera ?",
+    "pronunciation": "[kee puh say-ryuhz-mahn krwahr kuh ryan nuh shahn-zhuh-RAH]",
+    "back": "Who can seriously believe nothing will change?",
+    "context": "A rhetorical question: no answer expected."
+  },
+  {
+    "id": "fr-2229",
+    "front": "Je ne parlerai pas de ses échecs passés.",
+    "pronunciation": "[zhuh nuh par-luh-reh pah duh say zay-shek pah-SAY]",
+    "back": "I won't mention his past failures.",
+    "context": "'La prétérition': saying you won't mention something, while mentioning it."
+  },
+  {
+    "id": "fr-2230",
+    "front": "Va, je ne te hais point.",
+    "pronunciation": "[VAH, zhuh nuh tuh eh PWAN]",
+    "back": "Go, I do not hate you.",
+    "context": "Chimène in Corneille's 'Le Cid': the textbook 'litote', meaning 'I love you'."
+  },
+  {
+    "id": "fr-2231",
+    "front": "Ce n'est pas mal du tout.",
+    "pronunciation": "[suh neh pah MAL dü TOO]",
+    "back": "That's really rather good.",
+    "context": "A litote: understatement to say more. Very French."
+  },
+  {
+    "id": "fr-2232",
+    "front": "Moi président de la République, je ne serai pas le chef de la majorité.",
+    "pronunciation": "[MWAH pray-zee-DAHN duh lah ray-pü-BLEEK, zhuh nuh suh-reh pah luh shef duh lah mah-zhoh-ree-TAY]",
+    "back": "As President of the Republic, I will not be the head of the majority.",
+    "context": "François Hollande's 2012 debate anaphora: he repeated 'Moi président' fifteen times."
+  },
+  {
+    "id": "fr-2233",
+    "front": "L'anaphore consiste à répéter un mot en début de phrase.",
+    "pronunciation": "[lah-nah-FOR kohn-seest ah ray-pay-tay an MOH ahn day-bü duh FRAHZ]",
+    "back": "Anaphora consists in repeating a word at the start of each sentence.",
+    "context": "A favorite device of political orators."
+  },
+  {
+    "id": "fr-2234",
+    "front": "Permettez-moi d'insister sur ce point.",
+    "pronunciation": "[pehr-meh-tay-MWAH dan-sees-tay sür suh PWAN]",
+    "back": "Allow me to stress this point.",
+    "context": "'Insister sur' = to emphasize."
+  },
+  {
+    "id": "fr-2235",
+    "front": "Je ne le répéterai jamais assez.",
+    "pronunciation": "[zhuh nuh luh ray-pay-tuh-reh zhah-meh zah-SAY]",
+    "back": "I can't say it often enough.",
+    "context": "Emphasis through apparent modesty."
+  },
+  {
+    "id": "fr-2236",
+    "front": "J'irai même plus loin.",
+    "pronunciation": "[zhee-reh mem plü LWAN]",
+    "back": "I'll go even further.",
+    "context": "Building up an argument."
+  },
+  {
+    "id": "fr-2237",
+    "front": "C'est précisément là que le bât blesse.",
+    "pronunciation": "[seh pray-see-zay-MAHN lah kuh luh bah BLES]",
+    "back": "That's exactly where the problem lies.",
+    "context": "'Le bât' = a pack saddle. 'Là où le bât blesse' = the sore point."
+  },
+  {
+    "id": "fr-2238",
+    "front": "Les faits sont têtus.",
+    "pronunciation": "[lay FEH sohn teh-TÜ]",
+    "back": "Facts are stubborn things.",
+    "context": "Used to dismiss an opponent's spin."
+  },
+  {
+    "id": "fr-2239",
+    "front": "J'en appelle à votre sens des responsabilités.",
+    "pronunciation": "[zhahn nah-pel ah voh-truh sahns day res-pohn-sah-bee-lee-TAY]",
+    "back": "I appeal to your sense of responsibility.",
+    "context": "'En appeler à' = to appeal to."
+  },
+  {
+    "id": "fr-2240",
+    "front": "Le moment est venu d'agir.",
+    "pronunciation": "[luh moh-mahn eh vuh-nü dah-ZHEER]",
+    "back": "The time has come to act.",
+    "context": "A typical call to action at the end of a speech."
+  },
+  {
+    "id": "fr-2241",
+    "front": "Il sait captiver son auditoire.",
+    "pronunciation": "[eel seh kap-tee-vay sohn noh-dee-TWAHR]",
+    "back": "He knows how to captivate his audience.",
+    "context": "'L'auditoire' = the audience (of a speech)."
+  },
+  {
+    "id": "fr-2242",
+    "front": "C'est un orateur hors pair.",
+    "pronunciation": "[seh tan noh-rah-TUHR or PEHR]",
+    "back": "He's an exceptional speaker.",
+    "context": "'Hors pair' = unrivaled."
+  },
+  {
+    "id": "fr-2243",
+    "front": "Son discours a galvanisé la foule.",
+    "pronunciation": "[sohn dees-KOOR ah gal-vah-nee-zay lah FOOL]",
+    "back": "His speech electrified the crowd.",
+    "context": "'Galvaniser' = to galvanize, fire up."
+  },
+  {
+    "id": "fr-2244",
+    "front": "J'ai le trac avant chaque intervention.",
+    "pronunciation": "[zhay luh TRAK ah-vahn shak an-tehr-vahn-SYOHN]",
+    "back": "I get stage fright before every talk.",
+    "context": "'Le trac' = stage fright, nerves."
+  },
+  {
+    "id": "fr-2245",
+    "front": "Marquez une pause avant votre argument principal.",
+    "pronunciation": "[mar-kay ün POHZ ah-vahn voh-trar-gü-mahn pran-see-PAL]",
+    "back": "Pause before your main argument.",
+    "context": "Silence is a rhetorical tool."
+  },
+  {
+    "id": "fr-2246",
+    "front": "Je vous rejoins sur ce point.",
+    "pronunciation": "[zhuh voo ruh-ZHWAN sür suh PWAN]",
+    "back": "I agree with you on that point.",
+    "context": "'Rejoindre quelqu'un' = to agree with someone (formal)."
+  },
+  {
+    "id": "fr-2247",
+    "front": "Je ne vais pas me dérober à votre question.",
+    "pronunciation": "[zhuh nuh veh pah muh day-roh-bay ah voh-truh kes-TYOHN]",
+    "back": "I'm not going to dodge your question.",
+    "context": "'Se dérober' = to evade."
+  },
+  {
+    "id": "fr-2248",
+    "front": "Il a botté en touche.",
+    "pronunciation": "[ee lah boh-tay ahn TOOSH]",
+    "back": "He sidestepped the question.",
+    "context": "'Botter en touche' (rugby: kick the ball into touch) = to evade."
+  },
+  {
+    "id": "fr-2249",
+    "front": "C'est de la langue de bois.",
+    "pronunciation": "[seh duh lah lahng duh BWAH]",
+    "back": "That's just political waffle.",
+    "context": "'La langue de bois' (wooden tongue) = empty official jargon."
+  },
+  {
+    "id": "fr-2250",
+    "front": "Le ministre s'en tient aux éléments de langage.",
+    "pronunciation": "[luh mee-NEES-truh sahn tyan oh zay-lay-mahn duh lahn-GAHZH]",
+    "back": "The minister is sticking to the talking points.",
+    "context": "'Les éléments de langage' = prepared talking points."
+  },
+  {
+    "id": "fr-2251",
+    "front": "Ce n'est pas tout à fait exact.",
+    "pronunciation": "[suh neh pah too tah feh teg-ZAKT]",
+    "back": "That's not quite accurate.",
+    "context": "A polite correction."
+  },
+  {
+    "id": "fr-2252",
+    "front": "Je ne peux pas vous laisser dire cela.",
+    "pronunciation": "[zhuh nuh puh pah voo leh-say deer suh-LAH]",
+    "back": "I can't let you say that.",
+    "context": "A firm interruption in a televised debate."
+  },
+  {
+    "id": "fr-2253",
+    "front": "Vous me faites un procès d'intention.",
+    "pronunciation": "[voo muh fet zan proh-seh dan-tahn-SYOHN]",
+    "back": "You're attributing intentions to me that I don't have.",
+    "context": "'Un procès d'intention' = judging someone on presumed motives."
+  },
+  {
+    "id": "fr-2254",
+    "front": "Je n'ai jamais prétendu une chose pareille.",
+    "pronunciation": "[zhuh neh zhah-meh pray-tahn-dü ün shohz pah-RAY]",
+    "back": "I never claimed any such thing.",
+    "context": "'Une chose pareille' = such a thing."
+  },
+  {
+    "id": "fr-2255",
+    "front": "La question ne se pose pas en ces termes.",
+    "pronunciation": "[lah kes-tyohn nuh suh pohz pah ahn say TEHRM]",
+    "back": "That's not the right way to frame the question.",
+    "context": "Reframing a hostile question."
+  },
+  {
+    "id": "fr-2256",
+    "front": "Je prends acte de vos critiques.",
+    "pronunciation": "[zhuh prahn AKT duh voh kree-TEEK]",
+    "back": "I take note of your criticism.",
+    "context": "'Prendre acte' = to acknowledge formally."
+  },
+  {
+    "id": "fr-2257",
+    "front": "Je comprends votre colère, et je la partage.",
+    "pronunciation": "[zhuh kohm-prahn voh-truh koh-LEHR, ay zhuh lah par-TAHZH]",
+    "back": "I understand your anger, and I share it.",
+    "context": "Acknowledging emotion to defuse a tense exchange."
+  },
+  {
+    "id": "fr-2258",
+    "front": "Je maintiens ce que j'ai dit.",
+    "pronunciation": "[zhuh man-tyan suh kuh zhay DEE]",
+    "back": "I stand by what I said.",
+    "context": "'Maintenir' = to maintain, stand by."
+  },
+  {
+    "id": "fr-2259",
+    "front": "Ce n'est pas le sujet.",
+    "pronunciation": "[suh neh pah luh sü-ZHEH]",
+    "back": "That's not the issue.",
+    "context": "Steering back to the topic (can sound abrupt)."
+  },
+  {
+    "id": "fr-2260",
+    "front": "Il y a un malentendu.",
+    "pronunciation": "[eel yah an mah-lahn-tahn-DÜ]",
+    "back": "There's a misunderstanding.",
+    "context": "'Un malentendu' = a misunderstanding."
+  },
+  {
+    "id": "fr-2261",
+    "front": "À cet égard, les chiffres sont éloquents.",
+    "pronunciation": "[ah set ay-GAR, lay SHEE-fruh sohn tay-loh-KAHN]",
+    "back": "In this respect, the figures speak for themselves.",
+    "context": "'Éloquent' = telling, eloquent."
+  },
+  {
+    "id": "fr-2262",
+    "front": "Je vous renvoie la question.",
+    "pronunciation": "[zhuh voo rahn-vwah lah kes-TYOHN]",
+    "back": "I'll turn the question back on you.",
+    "context": "A debate tactic."
+  },
+  {
+    "id": "fr-2263",
+    "front": "Je le dis avec gravité.",
+    "pronunciation": "[zhuh luh dee ah-vek grah-vee-TAY]",
+    "back": "I say this with all seriousness.",
+    "context": "Signaling a solemn moment."
+  },
+  {
+    "id": "fr-2264",
+    "front": "Ensemble, nous pouvons relever ce défi.",
+    "pronunciation": "[ahn-SAHM-bluh, noo poo-vohn ruh-luh-vay suh day-FEE]",
+    "back": "Together, we can rise to this challenge.",
+    "context": "'Relever un défi' = to take up a challenge."
+  },
+  {
+    "id": "fr-2265",
+    "front": "Je vous remercie, et vive la République !",
+    "pronunciation": "[zhuh voo ruh-mehr-SEE, ay veev lah ray-pü-BLEEK]",
+    "back": "Thank you, and long live the Republic!",
+    "context": "French presidential speeches end with 'Vive la République ! Vive la France !'"
+  }
+]
