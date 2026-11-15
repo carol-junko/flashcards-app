@@ -1,0 +1,317 @@
+[
+  {
+    "id": "fr-2496",
+    "front": "Le Canard enchaîné paraît tous les mercredis.",
+    "pronunciation": "[luh kah-nar ahn-sheh-NAY pah-reh too lay mehr-kruh-DEE]",
+    "back": "Le Canard enchaîné comes out every Wednesday.",
+    "context": "A satirical weekly founded in 1915. It takes no advertising and breaks major scandals."
+  },
+  {
+    "id": "fr-2497",
+    "front": "Charlie Hebdo est un journal satirique.",
+    "pronunciation": "[shar-lee eb-DOH eh tan zhoor-nal sah-tee-REEK]",
+    "back": "Charlie Hebdo is a satirical newspaper.",
+    "context": "After the January 2015 attack, millions marched under the slogan 'Je suis Charlie'."
+  },
+  {
+    "id": "fr-2498",
+    "front": "La satire est une tradition française depuis Molière et Voltaire.",
+    "pronunciation": "[lah sah-TEER eh tün trah-dee-SYOHN frahn-SEZ duh-pwee moh-LYEHR ay vol-TEHR]",
+    "back": "Satire has been a French tradition since Molière and Voltaire.",
+    "context": "'La satire' (mockery) ≠ 'le satyre' (a lecher, a mythical creature)."
+  },
+  {
+    "id": "fr-2499",
+    "front": "En France, le blasphème n'est pas un délit.",
+    "pronunciation": "[ahn FRAHNS, luh blas-FEM neh pah zan day-LEE]",
+    "back": "In France, blasphemy is not an offense.",
+    "context": "Mocking religions is legal; inciting hatred against people is not."
+  },
+  {
+    "id": "fr-2500",
+    "front": "On peut rire de tout, mais pas avec n'importe qui.",
+    "pronunciation": "[ohn puh reer duh TOO, meh pah ah-vek nan-port KEE]",
+    "back": "You can laugh about anything, but not with just anyone.",
+    "context": "Pierre Desproges, master of dark humor."
+  },
+  {
+    "id": "fr-2501",
+    "front": "Cette caricature a fait scandale.",
+    "pronunciation": "[set kah-ree-kah-TÜR ah feh skahn-DAL]",
+    "back": "This cartoon caused an outcry.",
+    "context": "'Faire scandale' = to cause a scandal."
+  },
+  {
+    "id": "fr-2502",
+    "front": "Le dessin de presse résume l'actualité en une image.",
+    "pronunciation": "[luh deh-san duh PRES ray-züm lak-tü-ah-lee-TAY ahn nün nee-MAHZH]",
+    "back": "The press cartoon sums up the news in one image.",
+    "context": "Plantu drew the front-page cartoon of Le Monde for nearly 50 years."
+  },
+  {
+    "id": "fr-2503",
+    "front": "Le Gorafi publie de fausses nouvelles pour faire rire.",
+    "pronunciation": "[luh goh-rah-FEE pü-blee duh fohs noo-VEL poor fehr REER]",
+    "back": "Le Gorafi publishes fake news stories to make people laugh.",
+    "context": "A parody of Le Figaro, the French equivalent of The Onion. Some readers take it seriously!"
+  },
+  {
+    "id": "fr-2504",
+    "front": "Les Guignols de l'info se moquaient des politiques avec des marionnettes.",
+    "pronunciation": "[lay gee-NYOL duh lan-FOH suh moh-keh day poh-lee-TEEK ah-vek day mah-ryoh-NET]",
+    "back": "Les Guignols de l'info mocked politicians with puppets.",
+    "context": "A cult satirical TV show on Canal+ (1988–2018)."
+  },
+  {
+    "id": "fr-2505",
+    "front": "C'est du second degré.",
+    "pronunciation": "[seh dü suh-gohn duh-GRAY]",
+    "back": "It's meant ironically.",
+    "context": "'Le second degré' = irony, not meant literally. 'Au premier degré' = literally."
+  },
+  {
+    "id": "fr-2506",
+    "front": "Il n'a pas compris l'humour au second degré.",
+    "pronunciation": "[eel nah pah kohm-pree lü-moor oh suh-gohn duh-GRAY]",
+    "back": "He didn't get the irony.",
+    "context": "Missing 'le second degré' is a classic cultural misunderstanding."
+  },
+  {
+    "id": "fr-2507",
+    "front": "Elle pratique l'autodérision avec talent.",
+    "pronunciation": "[el prak-teek loh-toh-day-ree-ZYOHN ah-vek tah-LAHN]",
+    "back": "She's very good at laughing at herself.",
+    "context": "'L'autodérision' = self-mockery, much appreciated in France."
+  },
+  {
+    "id": "fr-2508",
+    "front": "Bravo, quel génie !",
+    "pronunciation": "[brah-VOH, kel zhay-NEE]",
+    "back": "Well done, genius!",
+    "context": "Said ironically after someone makes an obvious mistake."
+  },
+  {
+    "id": "fr-2509",
+    "front": "Il pleut le jour de notre pique-nique, comme par hasard.",
+    "pronunciation": "[eel pluh luh zhoor duh noh-truh peek-NEEK, kum par ah-ZAR]",
+    "back": "It's raining on the day of our picnic, what a surprise.",
+    "context": "'Comme par hasard' (as if by chance) is ironic, or suggests a suspicious coincidence."
+  },
+  {
+    "id": "fr-2510",
+    "front": "Il dit qu'il a tout fait tout seul ? Ben voyons !",
+    "pronunciation": "[eel dee keel ah too feh too SUL ? ban vwah-YOHN]",
+    "back": "He says he did it all by himself? Yeah, right!",
+    "context": "'Ben voyons !' = sarcastic disbelief."
+  },
+  {
+    "id": "fr-2511",
+    "front": "Sans blague ? Je n'aurais jamais deviné.",
+    "pronunciation": "[sahn BLAG ? zhuh noh-reh zhah-meh duh-vee-NAY]",
+    "back": "No kidding? I'd never have guessed.",
+    "context": "'Sans blague' = no kidding (ironic or surprised)."
+  },
+  {
+    "id": "fr-2512",
+    "front": "Il est en retard ? Tu m'étonnes !",
+    "pronunciation": "[ee leh tahn ruh-TAR ? tü may-TUN]",
+    "back": "He's late? What a surprise!",
+    "context": "'Tu m'étonnes' = ironic: of course, unsurprisingly."
+  },
+  {
+    "id": "fr-2513",
+    "front": "Je dis ça, je dis rien.",
+    "pronunciation": "[zhuh dee SAH, zhuh dee RYAN]",
+    "back": "Just saying.",
+    "context": "Making a pointed remark while pretending not to."
+  },
+  {
+    "id": "fr-2514",
+    "front": "Ah, la belle affaire !",
+    "pronunciation": "[AH, lah bel ah-FEHR]",
+    "back": "So what? Big deal!",
+    "context": "Ironic: dismisses something as unimportant."
+  },
+  {
+    "id": "fr-2515",
+    "front": "Il ne manquait plus que ça !",
+    "pronunciation": "[eel nuh mahn-keh plü kuh SAH]",
+    "back": "That's all we needed!",
+    "context": "Ironic exasperation when things go from bad to worse."
+  },
+  {
+    "id": "fr-2516",
+    "front": "Et le pompon, c'est qu'il a oublié les billets.",
+    "pronunciation": "[ay luh pohm-POHN, seh keel ah oo-blee-ay lay bee-YEH]",
+    "back": "And to top it all, he forgot the tickets.",
+    "context": "'C'est le pompon !' = that takes the cake."
+  },
+  {
+    "id": "fr-2517",
+    "front": "Le ridicule ne tue pas.",
+    "pronunciation": "[luh ree-dee-KÜL nuh tü PAH]",
+    "back": "Nobody ever died of embarrassment.",
+    "context": "Often said ironically about someone who should be embarrassed."
+  },
+  {
+    "id": "fr-2518",
+    "front": "Le journal a sorti un scoop.",
+    "pronunciation": "[luh zhoor-NAL ah sor-tee an SKOOP]",
+    "back": "The newspaper broke a scoop.",
+    "context": "Also 'une exclusivité'."
+  },
+  {
+    "id": "fr-2519",
+    "front": "Mediapart a révélé l'affaire Cahuzac en 2012.",
+    "pronunciation": "[may-dyah-PAR ah ray-vay-lay lah-fehr kah-ü-ZAK ahn duh-meel-DOOZ]",
+    "back": "Mediapart broke the Cahuzac affair in 2012.",
+    "context": "The budget minister had a secret Swiss account. A landmark of investigative journalism."
+  },
+  {
+    "id": "fr-2520",
+    "front": "Cette enquête a duré deux ans.",
+    "pronunciation": "[set ahn-KET ah dü-RAY duh ZAHN]",
+    "back": "This investigation took two years.",
+    "context": "'Le journalisme d'investigation' = investigative journalism."
+  },
+  {
+    "id": "fr-2521",
+    "front": "Plusieurs journaux ont collaboré aux Panama Papers.",
+    "pronunciation": "[plü-zyuhr zhoor-NOH ohn koh-lah-boh-RAY oh pah-nah-mah pay-PUHR]",
+    "back": "Several newspapers worked together on the Panama Papers.",
+    "context": "An international consortium of journalists (2016)."
+  },
+  {
+    "id": "fr-2522",
+    "front": "Il m'a dit ça en off.",
+    "pronunciation": "[eel mah dee sah ahn NOF]",
+    "back": "He told me that off the record.",
+    "context": "'En off' = off the record."
+  },
+  {
+    "id": "fr-2523",
+    "front": "Le journal a dû publier un droit de réponse.",
+    "pronunciation": "[luh zhoor-NAL ah dü pü-blee-ay an drwah duh ray-POHNS]",
+    "back": "The paper had to publish a right of reply.",
+    "context": "A legal right for anyone named in an article since 1881."
+  },
+  {
+    "id": "fr-2524",
+    "front": "Il a porté plainte pour diffamation.",
+    "pronunciation": "[ee lah por-tay PLANT poor dee-fah-mah-SYOHN]",
+    "back": "He sued for defamation.",
+    "context": "'Porter plainte' = to file a complaint."
+  },
+  {
+    "id": "fr-2525",
+    "front": "La loi de 1881 garantit la liberté de la presse.",
+    "pronunciation": "[lah lwah duh meel wee-sahn kah-truh-van-ON gah-rahn-TEE lah lee-behr-tay duh lah PRES]",
+    "back": "The 1881 law guarantees press freedom.",
+    "context": "Still the foundation of French media law."
+  },
+  {
+    "id": "fr-2526",
+    "front": "L'affaire fait la une de tous les journaux.",
+    "pronunciation": "[lah-FEHR feh lah ÜN duh too lay zhoor-NOH]",
+    "back": "The affair is on the front page of every paper.",
+    "context": "'La une' = the front page."
+  },
+  {
+    "id": "fr-2527",
+    "front": "Elle est pigiste pour plusieurs magazines.",
+    "pronunciation": "[el eh pee-ZHEEST poor plü-zyuhr mah-gah-ZEEN]",
+    "back": "She's a freelance journalist for several magazines.",
+    "context": "'Un(e) pigiste' is paid 'à la pige' (per piece)."
+  },
+  {
+    "id": "fr-2528",
+    "front": "Son billet d'humeur est très attendu chaque matin.",
+    "pronunciation": "[sohn bee-yeh dü-MUHR eh treh zah-tahn-DÜ shak mah-TAN]",
+    "back": "His opinion column is eagerly awaited every morning.",
+    "context": "'Un billet d'humeur' = a short, opinionated column, often on radio."
+  },
+  {
+    "id": "fr-2529",
+    "front": "La presse people traque les célébrités.",
+    "pronunciation": "[lah pres pee-POHL trak lay say-lay-bree-TAY]",
+    "back": "The celebrity press hounds stars.",
+    "context": "'People' is pronounced 'pee-pol' in French."
+  },
+  {
+    "id": "fr-2530",
+    "front": "Les paparazzis l'attendaient devant l'hôtel.",
+    "pronunciation": "[lay pah-pah-rah-DZEE lah-tahn-deh duh-vahn loh-TEL]",
+    "back": "The paparazzi were waiting for him outside the hotel.",
+    "context": "French often adds an s to the Italian plural."
+  },
+  {
+    "id": "fr-2531",
+    "front": "Ce journaliste est connu pour son ton mordant.",
+    "pronunciation": "[suh zhoor-nah-leest eh koh-nü poor sohn tohn mor-DAHN]",
+    "back": "This journalist is known for his biting tone.",
+    "context": "'Mordant' = biting, scathing."
+  },
+  {
+    "id": "fr-2532",
+    "front": "Il manie l'ironie avec finesse.",
+    "pronunciation": "[eel mah-nee lee-roh-NEE ah-vek fee-NES]",
+    "back": "He handles irony with subtlety.",
+    "context": "'Manier' = to handle, wield."
+  },
+  {
+    "id": "fr-2533",
+    "front": "Son humour pince-sans-rire déroute les étrangers.",
+    "pronunciation": "[soh nü-moor pans-sahn-REER day-root lay zay-trahn-ZHAY]",
+    "back": "His deadpan humor baffles foreigners.",
+    "context": "'Pince-sans-rire' = deadpan."
+  },
+  {
+    "id": "fr-2534",
+    "front": "C'est l'arroseur arrosé.",
+    "pronunciation": "[seh lah-roh-zuhr ah-roh-ZAY]",
+    "back": "He's been hoist with his own petard.",
+    "context": "From the Lumière brothers' 1895 comic film: the waterer gets watered."
+  },
+  {
+    "id": "fr-2535",
+    "front": "La satire vise les puissants, pas les faibles.",
+    "pronunciation": "[lah sah-TEER veez lay pwee-SAHN, pah lay FEH-bluh]",
+    "back": "Satire targets the powerful, not the weak.",
+    "context": "A common defense of satirical humor."
+  },
+  {
+    "id": "fr-2536",
+    "front": "Cet humoriste est passé maître dans l'art de la parodie.",
+    "pronunciation": "[seh tü-moh-reest eh pah-say MEH-truh dahn lar duh lah pah-roh-DEE]",
+    "back": "This comedian is a master of parody.",
+    "context": "'Passer maître dans' = to become an expert in."
+  },
+  {
+    "id": "fr-2537",
+    "front": "Le président a été la cible des humoristes toute la semaine.",
+    "pronunciation": "[luh pray-zee-DAHN ah ay-tay lah SEE-bluh day zü-moh-REEST toot lah suh-MEN]",
+    "back": "The president was the comedians' target all week.",
+    "context": "'La cible' = target."
+  },
+  {
+    "id": "fr-2538",
+    "front": "C'est un poisson d'avril !",
+    "pronunciation": "[seh tan pwah-sohn dah-VREEL]",
+    "back": "It's an April Fool's joke!",
+    "context": "On April 1, children stick paper fish on people's backs; the media publish hoaxes."
+  },
+  {
+    "id": "fr-2539",
+    "front": "Mieux vaut en rire qu'en pleurer.",
+    "pronunciation": "[myuh voh tahn REER kahn pluh-RAY]",
+    "back": "Better to laugh than to cry about it.",
+    "context": "Humor as a way of coping."
+  },
+  {
+    "id": "fr-2540",
+    "front": "Le rire corrige les mœurs.",
+    "pronunciation": "[luh reer koh-reezh lay MUHRS]",
+    "back": "Laughter corrects morals.",
+    "context": "French version of the Latin motto 'castigat ridendo mores', long associated with classical comedy and Molière."
+  }
+]
