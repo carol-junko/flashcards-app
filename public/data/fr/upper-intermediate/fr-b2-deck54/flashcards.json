@@ -1,0 +1,317 @@
+[
+  {
+    "id": "fr-1891",
+    "front": "Il faut que tu viennes ce soir.",
+    "pronunciation": "[eel foh kuh tü VYEN suh SWAHR]",
+    "back": "You have to come tonight.",
+    "context": "Subjunctive after 'il faut que'. Form: 'ils' present stem + -e, -es, -e, -ions, -iez, -ent (ils viennent → que tu viennes)."
+  },
+  {
+    "id": "fr-1892",
+    "front": "Je veux que tu me dises la vérité.",
+    "pronunciation": "[zhuh vuh kuh tü muh deez lah vay-ree-TAY]",
+    "back": "I want you to tell me the truth.",
+    "context": "Will/wish + que + subjunctive when the subjects differ."
+  },
+  {
+    "id": "fr-1893",
+    "front": "Je veux te dire la vérité.",
+    "pronunciation": "[zhuh vuh tuh deer lah vay-ree-TAY]",
+    "back": "I want to tell you the truth.",
+    "context": "Same subject → infinitive, never 'je veux que je dise'."
+  },
+  {
+    "id": "fr-1894",
+    "front": "J'aimerais qu'il fasse beau demain.",
+    "pronunciation": "[zheh-muh-reh keel fas BOH duh-MAN]",
+    "back": "I'd like the weather to be nice tomorrow.",
+    "context": "'Faire' → que je fasse, que nous fassions."
+  },
+  {
+    "id": "fr-1895",
+    "front": "Il est important que vous soyez à l'heure.",
+    "pronunciation": "[ee leh tan-por-tahn kuh voo swah-YAY ah LUHR]",
+    "back": "It's important that you be on time.",
+    "context": "'Être' → que je sois, tu sois, il soit, nous soyons, vous soyez, ils soient."
+  },
+  {
+    "id": "fr-1896",
+    "front": "Je suis content que tu aies réussi.",
+    "pronunciation": "[zhuh swee kohn-tahn kuh tü EH ray-ü-SEE]",
+    "back": "I'm glad you succeeded.",
+    "context": "Past subjunctive: que + subjunctive of avoir/être + participle. 'Avoir' → que j'aie, tu aies, il ait…"
+  },
+  {
+    "id": "fr-1897",
+    "front": "Je doute qu'il puisse venir.",
+    "pronunciation": "[zhuh doot keel PWEES vuh-NEER]",
+    "back": "I doubt he can come.",
+    "context": "'Pouvoir' → que je puisse."
+  },
+  {
+    "id": "fr-1898",
+    "front": "Il est possible qu'elle sache la réponse.",
+    "pronunciation": "[ee leh poh-see-bluh kel SASH lah ray-POHNS]",
+    "back": "It's possible she knows the answer.",
+    "context": "'Savoir' → que je sache."
+  },
+  {
+    "id": "fr-1899",
+    "front": "Je ne crois pas qu'il ait raison.",
+    "pronunciation": "[zhuh nuh krwah pah keel eh reh-ZOHN]",
+    "back": "I don't think he's right.",
+    "context": "Negative opinion → subjunctive. Compare 'je crois qu'il a raison' (indicative)."
+  },
+  {
+    "id": "fr-1900",
+    "front": "Crois-tu qu'il vienne ?",
+    "pronunciation": "[krwah-TÜ keel VYEN]",
+    "back": "Do you think he'll come?",
+    "context": "Inverted opinion questions can take the subjunctive (formal); in speech 'tu crois qu'il va venir ?' is more common."
+  },
+  {
+    "id": "fr-1901",
+    "front": "Bien qu'il soit fatigué, il continue à travailler.",
+    "pronunciation": "[byan keel swah fah-tee-GAY, eel kohn-tee-nü ah trah-vah-YAY]",
+    "back": "Although he's tired, he keeps working.",
+    "context": "'Bien que' (although) always takes the subjunctive."
+  },
+  {
+    "id": "fr-1902",
+    "front": "Quoi qu'elle dise, je ne la crois pas.",
+    "pronunciation": "[kwah-kel DEEZ, zhuh nuh lah krwah PAH]",
+    "back": "Whatever she says, I don't believe her.",
+    "context": "'Quoi que' (two words) = whatever; 'quoique' (one word) = although. Both + subjunctive."
+  },
+  {
+    "id": "fr-1903",
+    "front": "Je te prête ma voiture pour que tu puisses aller au travail.",
+    "pronunciation": "[zhuh tuh pret mah vwah-TÜR poor kuh tü pwees ah-lay oh trah-VAHY]",
+    "back": "I'm lending you my car so that you can get to work.",
+    "context": "'Pour que' (so that) + subjunctive."
+  },
+  {
+    "id": "fr-1904",
+    "front": "Parle plus fort afin que tout le monde t'entende.",
+    "pronunciation": "[parl plü FOR ah-fan kuh tool mohnd tahn-TAHND]",
+    "back": "Speak louder so that everyone can hear you.",
+    "context": "'Afin que' = so that (more formal)."
+  },
+  {
+    "id": "fr-1905",
+    "front": "Pars avant qu'il ne soit trop tard.",
+    "pronunciation": "[par ah-vahn keel nuh swah troh TAR]",
+    "back": "Leave before it's too late.",
+    "context": "'Avant que' + subjunctive, often with a 'ne explétif' (not a negation)."
+  },
+  {
+    "id": "fr-1906",
+    "front": "Attends jusqu'à ce que je revienne.",
+    "pronunciation": "[ah-tahn zhüs-kah suh kuh zhuh ruh-VYEN]",
+    "back": "Wait until I come back.",
+    "context": "'Jusqu'à ce que' = until + subjunctive."
+  },
+  {
+    "id": "fr-1907",
+    "front": "Je t'aide à condition que tu m'aides aussi.",
+    "pronunciation": "[zhuh ted ah kohn-dee-syohn kuh tü med oh-SEE]",
+    "back": "I'll help you on condition that you help me too.",
+    "context": "'À condition que' = provided that + subjunctive."
+  },
+  {
+    "id": "fr-1908",
+    "front": "Il est parti sans que personne ne le remarque.",
+    "pronunciation": "[ee leh par-tee sahn kuh pehr-sun nuh luh ruh-MARK]",
+    "back": "He left without anyone noticing.",
+    "context": "'Sans que' + subjunctive."
+  },
+  {
+    "id": "fr-1909",
+    "front": "À moins qu'il pleuve, on ira à la plage.",
+    "pronunciation": "[ah mwan keel PLUHV, ohn nee-rah ah lah PLAZH]",
+    "back": "Unless it rains, we'll go to the beach.",
+    "context": "'À moins que' = unless + subjunctive."
+  },
+  {
+    "id": "fr-1910",
+    "front": "J'ai peur qu'il ne soit déjà trop tard.",
+    "pronunciation": "[zhay puhr keel nuh swah day-zhah troh TAR]",
+    "back": "I'm afraid it may already be too late.",
+    "context": "Fear + subjunctive, often with 'ne explétif' in careful French."
+  },
+  {
+    "id": "fr-1911",
+    "front": "Je suis désolé que tu sois malade.",
+    "pronunciation": "[zhuh swee day-zoh-lay kuh tü swah mah-LAD]",
+    "back": "I'm sorry you're ill.",
+    "context": "Emotion + que + subjunctive."
+  },
+  {
+    "id": "fr-1912",
+    "front": "C'est dommage qu'il ne puisse pas venir.",
+    "pronunciation": "[seh doh-mahzh keel nuh pwees pah vuh-NEER]",
+    "back": "It's a shame he can't come.",
+    "context": "'C'est dommage que' + subjunctive."
+  },
+  {
+    "id": "fr-1913",
+    "front": "Je m'étonne qu'elle n'ait rien dit.",
+    "pronunciation": "[zhuh may-tun kel neh ryan DEE]",
+    "back": "I'm surprised she didn't say anything.",
+    "context": "Surprise + subjunctive (past)."
+  },
+  {
+    "id": "fr-1914",
+    "front": "Il vaut mieux que tu restes à la maison.",
+    "pronunciation": "[eel voh myuh kuh tü rest ah lah meh-ZOHN]",
+    "back": "You'd better stay home.",
+    "context": "'Il vaut mieux que' + subjunctive."
+  },
+  {
+    "id": "fr-1915",
+    "front": "Il est nécessaire que nous prenions une décision.",
+    "pronunciation": "[ee leh nay-seh-sehr kuh noo pruh-nyohn ün day-see-ZYOHN]",
+    "back": "It's necessary that we make a decision.",
+    "context": "'Prendre' → que nous prenions (nous form uses the nous stem)."
+  },
+  {
+    "id": "fr-1916",
+    "front": "Je souhaite que vous passiez de bonnes fêtes.",
+    "pronunciation": "[zhuh swet kuh voo pah-syay duh bun FET]",
+    "back": "I hope you have a lovely holiday season.",
+    "context": "'Souhaiter que' + subjunctive."
+  },
+  {
+    "id": "fr-1917",
+    "front": "J'espère que vous passerez de bonnes fêtes.",
+    "pronunciation": "[zheh-spehr kuh voo pahs-ray duh bun FET]",
+    "back": "I hope you'll have a lovely holiday season.",
+    "context": "Careful: 'espérer que' takes the INDICATIVE, unlike 'souhaiter que'."
+  },
+  {
+    "id": "fr-1918",
+    "front": "Il faut que j'aille à la banque.",
+    "pronunciation": "[eel foh kuh ZHAHY ah lah BAHNK]",
+    "back": "I have to go to the bank.",
+    "context": "'Aller' → que j'aille, tu ailles, il aille, nous allions, vous alliez, ils aillent."
+  },
+  {
+    "id": "fr-1919",
+    "front": "Je ne pense pas qu'ils veuillent venir.",
+    "pronunciation": "[zhuh nuh pahns pah keel VUHY vuh-NEER]",
+    "back": "I don't think they want to come.",
+    "context": "'Vouloir' → qu'ils veuillent."
+  },
+  {
+    "id": "fr-1920",
+    "front": "Qu'il entre !",
+    "pronunciation": "[kee LAHNTR]",
+    "back": "Let him come in!",
+    "context": "Subjunctive as a third-person command."
+  },
+  {
+    "id": "fr-1921",
+    "front": "Vive la France !",
+    "pronunciation": "[veev lah FRAHNS]",
+    "back": "Long live France!",
+    "context": "A frozen subjunctive (que vive…). Also 'Vive les vacances !'"
+  },
+  {
+    "id": "fr-1922",
+    "front": "C'est le seul restaurant qui soit ouvert le lundi.",
+    "pronunciation": "[seh luh suhl res-toh-rahn kee swah too-vehr luh lan-DEE]",
+    "back": "It's the only restaurant that's open on Mondays.",
+    "context": "After 'le seul', 'le premier', 'le dernier' + qui/que, the subjunctive is common."
+  },
+  {
+    "id": "fr-1923",
+    "front": "Je cherche quelqu'un qui sache parler chinois.",
+    "pronunciation": "[zhuh shersh kel-kan kee sash par-lay shee-NWAH]",
+    "back": "I'm looking for someone who can speak Chinese.",
+    "context": "Hypothetical person (may not exist) → subjunctive."
+  },
+  {
+    "id": "fr-1924",
+    "front": "Je connais quelqu'un qui sait parler chinois.",
+    "pronunciation": "[zhuh koh-neh kel-kan kee seh par-lay shee-NWAH]",
+    "back": "I know someone who can speak Chinese.",
+    "context": "Real, known person → indicative."
+  },
+  {
+    "id": "fr-1925",
+    "front": "Bien que ce soit cher, ça vaut le coup.",
+    "pronunciation": "[byan kuh suh swah SHEHR, sah voh luh KOO]",
+    "back": "Although it's expensive, it's worth it.",
+    "context": "'Valoir le coup' = to be worth it."
+  },
+  {
+    "id": "fr-1926",
+    "front": "Il faut qu'on se voie bientôt.",
+    "pronunciation": "[eel foh kohn suh VWAH byan-TOH]",
+    "back": "We have to see each other soon.",
+    "context": "'Voir' → que je voie, que nous voyions."
+  },
+  {
+    "id": "fr-1927",
+    "front": "Je préfère que tu ne le saches pas.",
+    "pronunciation": "[zhuh pray-fehr kuh tü nuh luh SASH pah]",
+    "back": "I'd rather you didn't know.",
+    "context": "'Préférer que' + subjunctive."
+  },
+  {
+    "id": "fr-1928",
+    "front": "Elle exige que tout soit parfait.",
+    "pronunciation": "[el eg-zeezh kuh too swah par-FEH]",
+    "back": "She demands that everything be perfect.",
+    "context": "'Exiger que' + subjunctive."
+  },
+  {
+    "id": "fr-1929",
+    "front": "Il se peut que je sois en retard.",
+    "pronunciation": "[eel suh puh kuh zhuh swah zahn ruh-TAR]",
+    "back": "I may be late.",
+    "context": "'Il se peut que' + subjunctive = it may be that."
+  },
+  {
+    "id": "fr-1930",
+    "front": "Il est temps que nous partions.",
+    "pronunciation": "[ee leh TAHN kuh noo par-TYOHN]",
+    "back": "It's time for us to leave.",
+    "context": "'Il est temps que' + subjunctive."
+  },
+  {
+    "id": "fr-1931",
+    "front": "Que tu le veuilles ou non, tu viens avec nous.",
+    "pronunciation": "[kuh tü luh VUHY oo NOHN, tü vyan ah-vek NOO]",
+    "back": "Whether you like it or not, you're coming with us.",
+    "context": "'Que… ou non' = whether… or not + subjunctive."
+  },
+  {
+    "id": "fr-1932",
+    "front": "Pourvu qu'il fasse beau ce week-end !",
+    "pronunciation": "[poor-vü keel fas BOH suh wee-KEND]",
+    "back": "Let's hope the weather's nice this weekend!",
+    "context": "'Pourvu que' = let's hope that / provided that + subjunctive."
+  },
+  {
+    "id": "fr-1933",
+    "front": "Je ne suis pas certain que ce soit une bonne idée.",
+    "pronunciation": "[zhuh nuh swee pah sehr-tan kuh suh swah tün bun ee-DAY]",
+    "back": "I'm not sure it's a good idea.",
+    "context": "Uncertainty → subjunctive."
+  },
+  {
+    "id": "fr-1934",
+    "front": "Il semble que la situation se soit améliorée.",
+    "pronunciation": "[eel sahm-bluh kuh lah see-tü-ah-syohn suh swah tah-may-lyoh-RAY]",
+    "back": "It seems the situation has improved.",
+    "context": "'Il semble que' + subjunctive; but 'il me semble que' + indicative."
+  },
+  {
+    "id": "fr-1935",
+    "front": "Après qu'il est parti, tout le monde s'est détendu.",
+    "pronunciation": "[ah-preh keel eh par-TEE, tool mohnd seh day-tahn-DÜ]",
+    "back": "After he left, everyone relaxed.",
+    "context": "Trap: 'après que' takes the INDICATIVE in correct French, though many natives use the subjunctive."
+  }
+]
