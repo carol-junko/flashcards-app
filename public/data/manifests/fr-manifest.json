@@ -627,8 +627,7 @@
     "category": "Psychology",
     "title": "Psychology & Philosophy",
     "description": "Biases, emotions and the French philosophers from Descartes to Beauvoir.",
-    "cardCount": 45,
-    "comingSoon": true
+    "cardCount": 45
   },
   {
     "id": "fr-c1-deck71",
@@ -637,7 +636,6 @@
     "category": "Final Challenge",
     "title": "The Native Integration Exam",
     "description": "Rapid-fire scenarios, rare idioms and the unwritten rules of French life.",
-    "cardCount": 50,
-    "comingSoon": true
+    "cardCount": 50
   }
 ]
