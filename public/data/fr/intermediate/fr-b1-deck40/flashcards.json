@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-1316",
+    "front": "Je voudrais parler au responsable, s'il vous plaît.",
+    "pronunciation": "[zhuh voo-DREH par-lay oh res-pohn-SAH-bluh, seel voo PLEH]",
+    "back": "I'd like to speak to the manager, please.",
+    "context": "Conditional = future stem + imparfait endings (-ais, -ais, -ait, -ions, -iez, -aient). 'Je voudrais' is the polite request par excellence."
+  },
+  {
+    "id": "fr-1317",
+    "front": "Pourriez-vous m'indiquer le chemin ?",
+    "pronunciation": "[poo-ryay-VOO man-dee-kay luh shuh-MAN]",
+    "back": "Could you show me the way?",
+    "context": "Pouvoir → pourriez: the conditional of politeness."
+  },
+  {
+    "id": "fr-1318",
+    "front": "Tu pourrais fermer la fenêtre ?",
+    "pronunciation": "[tü poo-reh fehr-may lah fuh-NEH-truh]",
+    "back": "Could you close the window?",
+    "context": "Softer than 'tu peux'."
+  },
+  {
+    "id": "fr-1319",
+    "front": "J'aimerais visiter le Japon un jour.",
+    "pronunciation": "[zheh-muh-REH vee-zee-tay luh zhah-POHN an ZHOOR]",
+    "back": "I'd love to visit Japan one day.",
+    "context": "Aimer → aimerais: wishes and dreams."
+  },
+  {
+    "id": "fr-1320",
+    "front": "À ta place, je refuserais.",
+    "pronunciation": "[ah tah PLAS, zhuh ruh-fü-zuh-REH]",
+    "back": "If I were you, I'd refuse.",
+    "context": "'À ta place' + conditional = giving advice."
+  },
+  {
+    "id": "fr-1321",
+    "front": "Tu devrais te reposer.",
+    "pronunciation": "[tü duh-VREH tuh ruh-poh-ZAY]",
+    "back": "You should rest.",
+    "context": "Devoir → devrais = should."
+  },
+  {
+    "id": "fr-1322",
+    "front": "Vous devriez consulter un médecin.",
+    "pronunciation": "[voo duh-vree-YAY kohn-sül-tay an mayd-SAN]",
+    "back": "You should see a doctor.",
+    "context": "Formal advice."
+  },
+  {
+    "id": "fr-1323",
+    "front": "Il faudrait prévenir les voisins.",
+    "pronunciation": "[eel foh-DREH pray-vuh-neer lay vwah-ZAN]",
+    "back": "We should warn the neighbors.",
+    "context": "Falloir → faudrait = it would be necessary."
+  },
+  {
+    "id": "fr-1324",
+    "front": "Si j'avais de l'argent, j'achèterais une maison.",
+    "pronunciation": "[see zhah-veh duh lar-ZHAHN, zhah-shet-reh zün meh-ZOHN]",
+    "back": "If I had money, I'd buy a house.",
+    "context": "Si + imparfait, then conditional. Never the conditional right after 'si'."
+  },
+  {
+    "id": "fr-1325",
+    "front": "Si tu venais, on serait contents.",
+    "pronunciation": "[see tü vuh-NEH, ohn suh-reh kohn-TAHN]",
+    "back": "If you came, we'd be happy.",
+    "context": "Être → serait."
+  },
+  {
+    "id": "fr-1326",
+    "front": "Si j'étais toi, je n'hésiterais pas.",
+    "pronunciation": "[see zhay-teh TWAH, zhuh nay-zee-tuh-reh PAH]",
+    "back": "If I were you, I wouldn't hesitate.",
+    "context": "The classic advice structure."
+  },
+  {
+    "id": "fr-1327",
+    "front": "Ce serait génial de te revoir.",
+    "pronunciation": "[suh suh-reh zhay-nyal duh tuh ruh-VWAHR]",
+    "back": "It would be great to see you again.",
+    "context": "'Ce serait' = it would be."
+  },
+  {
+    "id": "fr-1328",
+    "front": "On pourrait se retrouver au café ?",
+    "pronunciation": "[ohn poo-reh suh ruh-troo-vay oh kah-FAY]",
+    "back": "We could meet at the café?",
+    "context": "Conditional to suggest."
+  },
+  {
+    "id": "fr-1329",
+    "front": "Ça te dérangerait de m'aider ?",
+    "pronunciation": "[sah tuh day-rahn-zhuh-reh duh meh-DAY]",
+    "back": "Would you mind helping me?",
+    "context": "Very polite request."
+  },
+  {
+    "id": "fr-1330",
+    "front": "Je préférerais rester ici.",
+    "pronunciation": "[zhuh pray-fay-ruh-REH res-tay ee-SEE]",
+    "back": "I'd rather stay here.",
+    "context": "Préférer → préférerais."
+  },
+  {
+    "id": "fr-1331",
+    "front": "Il aurait dû partir plus tôt.",
+    "pronunciation": "[ee loh-reh DÜ par-teer plü TOH]",
+    "back": "He should have left earlier.",
+    "context": "Past conditional: aurais/serais + participle. 'Aurait dû' = should have."
+  },
+  {
+    "id": "fr-1332",
+    "front": "J'aurais aimé être là.",
+    "pronunciation": "[zhoh-reh zeh-may eh-truh LAH]",
+    "back": "I would have liked to be there.",
+    "context": "Past conditional for regrets."
+  },
+  {
+    "id": "fr-1333",
+    "front": "Si j'avais su, je ne serais pas venu.",
+    "pronunciation": "[see zhah-veh SÜ, zhuh nuh suh-reh pah vuh-NÜ]",
+    "back": "If I'd known, I wouldn't have come.",
+    "context": "Si + plus-que-parfait, then past conditional. A famous French catchphrase."
+  },
+  {
+    "id": "fr-1334",
+    "front": "Tu aurais pu me prévenir !",
+    "pronunciation": "[tü oh-reh PÜ muh pray-vuh-NEER]",
+    "back": "You could have warned me!",
+    "context": "'Aurais pu' = could have: a reproach."
+  },
+  {
+    "id": "fr-1335",
+    "front": "Selon la presse, le ministre démissionnerait.",
+    "pronunciation": "[suh-lohn lah PRES, luh mee-NEES-truh day-mee-syohn-REH]",
+    "back": "According to the press, the minister is reportedly resigning.",
+    "context": "Journalistic conditional: unconfirmed information."
+  },
+  {
+    "id": "fr-1336",
+    "front": "L'accident aurait fait trois blessés.",
+    "pronunciation": "[lak-see-DAHN oh-reh feh trwah bleh-SAY]",
+    "back": "The accident reportedly left three people injured.",
+    "context": "The 'conditionnel journalistique' signals unverified facts."
+  },
+  {
+    "id": "fr-1337",
+    "front": "Il a dit qu'il viendrait.",
+    "pronunciation": "[ee lah dee keel vyan-DREH]",
+    "back": "He said he would come.",
+    "context": "In reported speech, the future becomes the conditional ('the future in the past')."
+  },
+  {
+    "id": "fr-1338",
+    "front": "Je pensais que tu serais d'accord.",
+    "pronunciation": "[zhuh pahn-seh kuh tü suh-reh dah-KOR]",
+    "back": "I thought you'd agree.",
+    "context": "Future-in-the-past again."
+  },
+  {
+    "id": "fr-1339",
+    "front": "Ça me ferait plaisir de t'inviter.",
+    "pronunciation": "[sah muh fuh-reh pleh-ZEER duh tan-vee-TAY]",
+    "back": "I'd be happy to invite you.",
+    "context": "Faire → ferait."
+  },
+  {
+    "id": "fr-1340",
+    "front": "Nous aimerions réserver une table pour ce soir.",
+    "pronunciation": "[noo zeh-muh-RYOHN ray-zehr-vay ün TAH-bluh poor suh SWAHR]",
+    "back": "We'd like to book a table for tonight.",
+    "context": "Nous → aimerions."
+  },
+  {
+    "id": "fr-1341",
+    "front": "Vous auriez de la monnaie ?",
+    "pronunciation": "[voo zoh-RYAY duh lah moh-NEH]",
+    "back": "Would you have any change?",
+    "context": "Polite way to ask a stranger."
+  },
+  {
+    "id": "fr-1342",
+    "front": "Sans toi, je ne saurais pas quoi faire.",
+    "pronunciation": "[sahn TWAH, zhuh nuh soh-reh pah kwah FEHR]",
+    "back": "Without you, I wouldn't know what to do.",
+    "context": "Savoir → saurais."
+  },
+  {
+    "id": "fr-1343",
+    "front": "Je ne saurais vous dire.",
+    "pronunciation": "[zhuh nuh soh-reh voo DEER]",
+    "back": "I couldn't tell you.",
+    "context": "Formal: 'je ne saurais' = I couldn't (no 'pas')."
+  },
+  {
+    "id": "fr-1344",
+    "front": "Au cas où tu changerais d'avis, appelle-moi.",
+    "pronunciation": "[oh kah oo tü shahn-zhuh-reh dah-VEE, ah-pel-MWAH]",
+    "back": "In case you change your mind, call me.",
+    "context": "'Au cas où' + conditional."
+  },
+  {
+    "id": "fr-1345",
+    "front": "Ils voudraient acheter un appartement dans le centre.",
+    "pronunciation": "[eel voo-dreh tahsh-tay an nah-par-tuh-MAHN dahn luh SAHN-truh]",
+    "back": "They'd like to buy an apartment in the center.",
+    "context": "Vouloir → voudraient."
+  },
+  {
+    "id": "fr-1346",
+    "front": "Il serait temps de partir.",
+    "pronunciation": "[eel suh-reh TAHN duh par-TEER]",
+    "back": "It's about time we left.",
+    "context": "'Il serait temps de' = it would be time to (gentle hint)."
+  },
+  {
+    "id": "fr-1347",
+    "front": "On dirait qu'il va neiger.",
+    "pronunciation": "[ohn dee-reh keel vah neh-ZHAY]",
+    "back": "It looks like it's going to snow.",
+    "context": "'On dirait que' = it looks like, it seems."
+  },
+  {
+    "id": "fr-1348",
+    "front": "On dirait ta sœur sur cette photo !",
+    "pronunciation": "[ohn dee-REH tah SUHR sür set foh-TOH]",
+    "back": "You'd think it was your sister in this photo!",
+    "context": "'On dirait' + noun = it looks like."
+  },
+  {
+    "id": "fr-1349",
+    "front": "Je mangerais bien une pizza.",
+    "pronunciation": "[zhuh mahnzh-reh BYAN ün peed-ZAH]",
+    "back": "I could really go for a pizza.",
+    "context": "Conditional + 'bien' = I'd happily…, I feel like…"
+  },
+  {
+    "id": "fr-1350",
+    "front": "Que ferais-tu si tu gagnais au loto ?",
+    "pronunciation": "[kuh fuh-reh-TÜ see tü gan-yeh oh loh-TOH]",
+    "back": "What would you do if you won the lottery?",
+    "context": "A classic conversation question to practice the conditional."
+  }
+]

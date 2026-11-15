@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-1281",
+    "front": "Demain, je parlerai au directeur.",
+    "pronunciation": "[duh-MAN, zhuh par-luh-REH oh dee-rek-TUHR]",
+    "back": "Tomorrow I'll speak to the director.",
+    "context": "Futur simple = infinitive + -ai, -as, -a, -ons, -ez, -ont."
+  },
+  {
+    "id": "fr-1282",
+    "front": "Nous partirons tôt pour éviter les bouchons.",
+    "pronunciation": "[noo par-tee-ROHN TOH poor ay-vee-tay lay boo-SHOHN]",
+    "back": "We'll leave early to avoid the traffic.",
+    "context": "-IR verbs: infinitive + endings (partir → partirons)."
+  },
+  {
+    "id": "fr-1283",
+    "front": "Je prendrai le train de dix heures.",
+    "pronunciation": "[zhuh prahn-DREH luh tran duh dee ZUHR]",
+    "back": "I'll take the ten o'clock train.",
+    "context": "-RE verbs drop the final e: prendre → prendr-."
+  },
+  {
+    "id": "fr-1284",
+    "front": "Tu seras là à quelle heure ?",
+    "pronunciation": "[tü suh-RAH LAH ah kel UHR]",
+    "back": "What time will you be there?",
+    "context": "Irregular stems: être → ser-, avoir → aur-."
+  },
+  {
+    "id": "fr-1285",
+    "front": "J'aurai trente ans en mai.",
+    "pronunciation": "[zhoh-REH trahnt AHN ahn MEH]",
+    "back": "I'll be thirty in May.",
+    "context": "Avoir → j'aurai."
+  },
+  {
+    "id": "fr-1286",
+    "front": "Il fera beau tout le week-end.",
+    "pronunciation": "[eel fuh-RAH BOH tool wee-KEND]",
+    "back": "It'll be nice all weekend.",
+    "context": "Faire → fer-."
+  },
+  {
+    "id": "fr-1287",
+    "front": "Nous irons en Grèce l'été prochain.",
+    "pronunciation": "[noo zee-ROHN ahn GRES lay-tay proh-SHAN]",
+    "back": "We'll go to Greece next summer.",
+    "context": "Aller → ir-: j'irai, nous irons."
+  },
+  {
+    "id": "fr-1288",
+    "front": "Je viendrai te chercher à la gare.",
+    "pronunciation": "[zhuh vyan-DREH tuh shehr-shay ah lah GAR]",
+    "back": "I'll come and pick you up at the station.",
+    "context": "Venir → viendr-."
+  },
+  {
+    "id": "fr-1289",
+    "front": "Vous pourrez visiter l'appartement samedi.",
+    "pronunciation": "[voo poo-RAY vee-zee-tay lah-par-tuh-MAHN sahm-DEE]",
+    "back": "You'll be able to visit the apartment on Saturday.",
+    "context": "Pouvoir → pourr- (double r)."
+  },
+  {
+    "id": "fr-1290",
+    "front": "Je verrai ce que je peux faire.",
+    "pronunciation": "[zhuh veh-REH suh kuh zhuh puh FEHR]",
+    "back": "I'll see what I can do.",
+    "context": "Voir → verr-. A polite non-promise."
+  },
+  {
+    "id": "fr-1291",
+    "front": "Il faudra réserver à l'avance.",
+    "pronunciation": "[eel foh-DRAH ray-zehr-vay ah lah-VAHNS]",
+    "back": "It will be necessary to book in advance.",
+    "context": "Falloir → faudr-."
+  },
+  {
+    "id": "fr-1292",
+    "front": "Je saurai demain si j'ai le poste.",
+    "pronunciation": "[zhuh soh-REH duh-MAN see zhay luh POST]",
+    "back": "I'll know tomorrow if I got the job.",
+    "context": "Savoir → saur-."
+  },
+  {
+    "id": "fr-1293",
+    "front": "Tu devras travailler plus.",
+    "pronunciation": "[tü duh-VRAH trah-vah-YAY PLÜS]",
+    "back": "You'll have to work harder.",
+    "context": "Devoir → devr-."
+  },
+  {
+    "id": "fr-1294",
+    "front": "Ils voudront sûrement venir.",
+    "pronunciation": "[eel voo-DROHN sür-mahn vuh-NEER]",
+    "back": "They'll surely want to come.",
+    "context": "Vouloir → voudr-."
+  },
+  {
+    "id": "fr-1295",
+    "front": "Quand tu auras fini, appelle-moi.",
+    "pronunciation": "[kahn tü oh-rah fee-NEE, ah-pel-MWAH]",
+    "back": "When you've finished, call me.",
+    "context": "After 'quand' French uses the future (here futur antérieur), not the present as in English."
+  },
+  {
+    "id": "fr-1296",
+    "front": "Quand je serai grand, je serai astronaute.",
+    "pronunciation": "[kahn zhuh suh-reh GRAHN, zhuh suh-reh tas-troh-NOHT]",
+    "back": "When I grow up, I'll be an astronaut.",
+    "context": "'Quand' + future in French ('when I will be big')."
+  },
+  {
+    "id": "fr-1297",
+    "front": "Dès que j'arriverai, je t'enverrai un message.",
+    "pronunciation": "[deh kuh zhah-ree-vuh-REH, zhuh tahn-veh-reh tan meh-SAHZH]",
+    "back": "As soon as I arrive, I'll send you a message.",
+    "context": "'Dès que' + future. Envoyer → enverr-."
+  },
+  {
+    "id": "fr-1298",
+    "front": "S'il pleut, nous resterons à la maison.",
+    "pronunciation": "[seel PLUH, noo res-tuh-ROHN ah lah meh-ZOHN]",
+    "back": "If it rains, we'll stay home.",
+    "context": "Si + present, then future. Never put the future after 'si' in this structure."
+  },
+  {
+    "id": "fr-1299",
+    "front": "Je te promets que je ferai attention.",
+    "pronunciation": "[zhuh tuh proh-MEH kuh zhuh fuh-reh ah-tahn-SYOHN]",
+    "back": "I promise you I'll be careful.",
+    "context": "Promises naturally take the futur simple."
+  },
+  {
+    "id": "fr-1300",
+    "front": "Un jour, je vivrai au bord de la mer.",
+    "pronunciation": "[an ZHOOR, zhuh vee-VREH oh bor duh lah MEHR]",
+    "back": "One day, I'll live by the sea.",
+    "context": "Dreams and long-term plans."
+  },
+  {
+    "id": "fr-1301",
+    "front": "D'ici 2050, la population mondiale augmentera.",
+    "pronunciation": "[dee-SEE duh meel san-KAHNT, lah poh-pü-lah-syohn mohn-DYAL ohg-mahn-tuh-RAH]",
+    "back": "By 2050, the world population will increase.",
+    "context": "'D'ici' + date = by. Predictions in formal language use the futur simple."
+  },
+  {
+    "id": "fr-1302",
+    "front": "Vous recevrez une réponse sous huit jours.",
+    "pronunciation": "[voo ruh-suh-VRAY ün ray-POHNS soo wee ZHOOR]",
+    "back": "You'll receive an answer within a week.",
+    "context": "Recevoir → recevr-. 'Huit jours' = a week, 'sous' = within."
+  },
+  {
+    "id": "fr-1303",
+    "front": "Je te le dirai quand je le saurai.",
+    "pronunciation": "[zhuh tuh luh dee-REH kahn zhuh luh soh-REH]",
+    "back": "I'll tell you when I know.",
+    "context": "Future after 'quand' in both clauses: dirai, saurai. English uses the present ('when I know')."
+  },
+  {
+    "id": "fr-1304",
+    "front": "Ce sera tout pour aujourd'hui.",
+    "pronunciation": "[suh suh-RAH TOO poor oh-zhoor-DWEE]",
+    "back": "That'll be all for today.",
+    "context": "Classroom or meeting closing line."
+  },
+  {
+    "id": "fr-1305",
+    "front": "Tu me manqueras.",
+    "pronunciation": "[tü muh mahn-kuh-RAH]",
+    "back": "I'll miss you.",
+    "context": "Remember the reversed structure of manquer: 'tu me manqueras' = I will miss you."
+  },
+  {
+    "id": "fr-1306",
+    "front": "Le magasin ouvrira ses portes en septembre.",
+    "pronunciation": "[luh mah-gah-ZAN oo-vree-RAH say port ahn sep-TAHM-bruh]",
+    "back": "The shop will open its doors in September.",
+    "context": "Ouvrir → ouvrir- (regular)."
+  },
+  {
+    "id": "fr-1307",
+    "front": "Nous verrons ça plus tard.",
+    "pronunciation": "[noo veh-ROHN sah plü TAR]",
+    "back": "We'll look at that later.",
+    "context": "Postponing a topic in a meeting."
+  },
+  {
+    "id": "fr-1308",
+    "front": "Je courrai le semi-marathon en avril.",
+    "pronunciation": "[zhuh koo-REH luh suh-mee-mah-rah-TOHN ahn nah-VREEL]",
+    "back": "I'll run the half marathon in April.",
+    "context": "Courir → courr- (double r). Also mourir → mourr-."
+  },
+  {
+    "id": "fr-1309",
+    "front": "Il y aura beaucoup de monde à la fête.",
+    "pronunciation": "[eel yoh-RAH boh-koo duh MOHND ah lah FET]",
+    "back": "There will be a lot of people at the party.",
+    "context": "'Il y aura' = there will be."
+  },
+  {
+    "id": "fr-1310",
+    "front": "Je vais partir demain. / Je partirai demain.",
+    "pronunciation": "[zhuh veh par-teer duh-MAN / zhuh par-tee-reh duh-MAN]",
+    "back": "I'm going to leave tomorrow. / I'll leave tomorrow.",
+    "context": "Futur proche (aller + inf.) is more spoken and immediate; the futur simple is more formal or more distant."
+  },
+  {
+    "id": "fr-1311",
+    "front": "Le train partira à l'heure, sauf grève.",
+    "pronunciation": "[luh tran par-tee-RAH ah LUHR, sohf GREV]",
+    "back": "The train will leave on time, barring a strike.",
+    "context": "'Sauf' + noun = barring, except for."
+  },
+  {
+    "id": "fr-1312",
+    "front": "Dans dix ans, tout aura changé.",
+    "pronunciation": "[dahn dee ZAHN, too toh-rah shahn-ZHAY]",
+    "back": "In ten years, everything will have changed.",
+    "context": "Futur antérieur: future of avoir/être + participle."
+  },
+  {
+    "id": "fr-1313",
+    "front": "Rappelle-moi quand tu seras rentré.",
+    "pronunciation": "[rah-pel-MWAH kahn tü suh-rah rahn-TRAY]",
+    "back": "Call me back when you get home.",
+    "context": "Futur antérieur after quand: 'seras rentré'."
+  },
+  {
+    "id": "fr-1314",
+    "front": "Les résultats seront publiés lundi.",
+    "pronunciation": "[lay ray-zül-TAH suh-rohn pü-blee-YAY lan-DEE]",
+    "back": "The results will be published on Monday.",
+    "context": "Passive in the future: seront + participle."
+  },
+  {
+    "id": "fr-1315",
+    "front": "Qui vivra verra.",
+    "pronunciation": "[kee vee-VRAH veh-RAH]",
+    "back": "Time will tell.",
+    "context": "Proverb: literally 'whoever lives will see'."
+  }
+]

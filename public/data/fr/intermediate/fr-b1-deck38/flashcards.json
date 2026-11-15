@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-1246",
+    "front": "Il pleuvait quand je suis sorti.",
+    "pronunciation": "[eel pluh-veh kahn zhuh swee sor-TEE]",
+    "back": "It was raining when I went out.",
+    "context": "Background (imparfait) + event (passé composé). The core contrast of French narration."
+  },
+  {
+    "id": "fr-1247",
+    "front": "Nous dînions quand il a appelé.",
+    "pronunciation": "[noo dee-nyohn kahn tee lah ah-puh-LAY]",
+    "back": "We were having dinner when he called.",
+    "context": "Ongoing action interrupted by a single event."
+  },
+  {
+    "id": "fr-1248",
+    "front": "J'ai vécu trois ans à Lyon.",
+    "pronunciation": "[zhay vay-kü trwah zahn ah lee-OHN]",
+    "back": "I lived in Lyon for three years.",
+    "context": "A closed, finished period with a defined length → passé composé, even if it lasted."
+  },
+  {
+    "id": "fr-1249",
+    "front": "Quand je vivais à Lyon, je prenais le tram tous les jours.",
+    "pronunciation": "[kahn zhuh vee-veh ah lee-OHN, zhuh pruh-neh luh TRAM too lay ZHOOR]",
+    "back": "When I lived in Lyon, I took the tram every day.",
+    "context": "Habits in that period → imparfait."
+  },
+  {
+    "id": "fr-1250",
+    "front": "Hier, j'ai pris le bus à huit heures.",
+    "pronunciation": "[YEHR, zhay pree luh büs ah wee TUHR]",
+    "back": "Yesterday I took the bus at eight.",
+    "context": "A single, dated action → passé composé."
+  },
+  {
+    "id": "fr-1251",
+    "front": "Ce matin, il faisait froid, donc j'ai mis mon manteau.",
+    "pronunciation": "[suh mah-TAN, eel fuh-zeh FRWAH, dohnk zhay mee mohn mahn-TOH]",
+    "back": "This morning it was cold, so I put on my coat.",
+    "context": "Situation (imparfait) leading to a reaction (passé composé)."
+  },
+  {
+    "id": "fr-1252",
+    "front": "Elle était en train de cuisiner quand la lumière s'est éteinte.",
+    "pronunciation": "[el ay-teh tahn tran duh kwee-zee-NAY kahn lah lü-myehr seh tay-TANT]",
+    "back": "She was cooking when the lights went out.",
+    "context": "'Être en train de' in the imparfait stresses the action in progress."
+  },
+  {
+    "id": "fr-1253",
+    "front": "Soudain, la porte s'est ouverte.",
+    "pronunciation": "[soo-DAN, lah port seh too-VEHRT]",
+    "back": "Suddenly, the door opened.",
+    "context": "'Soudain', 'tout à coup', 'à ce moment-là' introduce events → passé composé."
+  },
+  {
+    "id": "fr-1254",
+    "front": "Tout à coup, j'ai entendu un bruit.",
+    "pronunciation": "[too tah KOO, zhay ahn-tahn-dü an BRWEE]",
+    "back": "All of a sudden, I heard a noise.",
+    "context": "'Tout à coup' = all of a sudden."
+  },
+  {
+    "id": "fr-1255",
+    "front": "D'habitude, je me levais tôt, mais ce jour-là, je me suis réveillé à midi.",
+    "pronunciation": "[dah-bee-TÜD, zhuh muh luh-veh TOH, meh suh zhoor-LAH, zhuh muh swee ray-veh-yay ah mee-DEE]",
+    "back": "Usually I got up early, but that day I woke up at noon.",
+    "context": "Habit (imparfait) vs exception on a specific day (passé composé)."
+  },
+  {
+    "id": "fr-1256",
+    "front": "Il était midi, le soleil brillait et les enfants jouaient.",
+    "pronunciation": "[ee lay-teh mee-DEE, luh soh-lay bree-YEH ay lay zahn-fahn zhoo-EH]",
+    "back": "It was noon, the sun was shining and the children were playing.",
+    "context": "A whole scene of description: all imparfait."
+  },
+  {
+    "id": "fr-1257",
+    "front": "Je suis arrivé, j'ai posé mon sac et je me suis assis.",
+    "pronunciation": "[zhuh swee zah-ree-VAY, zhay poh-zay mohn SAK ay zhuh muh swee zah-SEE]",
+    "back": "I arrived, put down my bag and sat down.",
+    "context": "A sequence of completed actions: all passé composé."
+  },
+  {
+    "id": "fr-1258",
+    "front": "Quand j'ai vu le prix, j'ai compris pourquoi il n'y avait personne.",
+    "pronunciation": "[kahn zhay vü luh PREE, zhay kohm-pree poor-kwah eel nyah-veh pehr-SUN]",
+    "back": "When I saw the price, I understood why there was nobody there.",
+    "context": "Events (vu, compris) + a state (il n'y avait personne)."
+  },
+  {
+    "id": "fr-1259",
+    "front": "Je ne savais pas qu'il était marié.",
+    "pronunciation": "[zhuh nuh sah-veh pah keel ay-teh mah-RYAY]",
+    "back": "I didn't know he was married.",
+    "context": "States of knowledge and being → imparfait."
+  },
+  {
+    "id": "fr-1260",
+    "front": "J'ai su la nouvelle hier soir.",
+    "pronunciation": "[zhay sü lah noo-vel yehr SWAHR]",
+    "back": "I found out the news last night.",
+    "context": "'Savoir' in the passé composé = to find out (a moment), not to know (a state)."
+  },
+  {
+    "id": "fr-1261",
+    "front": "Je connaissais déjà la ville.",
+    "pronunciation": "[zhuh koh-neh-seh day-zhah lah VEEL]",
+    "back": "I already knew the city.",
+    "context": "'Connaître' in the imparfait = to know (state)."
+  },
+  {
+    "id": "fr-1262",
+    "front": "J'ai connu ma femme à l'université.",
+    "pronunciation": "[zhay koh-nü mah fam ah lü-nee-vehr-see-TAY]",
+    "back": "I met my wife at university.",
+    "context": "'Connaître' in the passé composé = to meet (for the first time)."
+  },
+  {
+    "id": "fr-1263",
+    "front": "Il voulait partir, mais il est resté.",
+    "pronunciation": "[eel voo-leh par-TEER, meh ee leh res-TAY]",
+    "back": "He wanted to leave, but he stayed.",
+    "context": "A wish (imparfait) vs what actually happened (passé composé)."
+  },
+  {
+    "id": "fr-1264",
+    "front": "J'ai voulu l'appeler, mais je n'ai pas pu.",
+    "pronunciation": "[zhay voo-lü lah-puh-LAY, meh zhuh neh pah PÜ]",
+    "back": "I tried to call him, but I couldn't.",
+    "context": "'Vouloir' in the passé composé = to try/decide at a given moment."
+  },
+  {
+    "id": "fr-1265",
+    "front": "Il faisait nuit quand nous sommes arrivés à l'hôtel.",
+    "pronunciation": "[eel fuh-zeh NWEE kahn noo sum zah-ree-vay ah loh-TEL]",
+    "back": "It was dark when we got to the hotel.",
+    "context": "Setting + arrival."
+  },
+  {
+    "id": "fr-1266",
+    "front": "Pendant mon enfance, je passais mes étés chez mes grands-parents.",
+    "pronunciation": "[pahn-dahn mohn nahn-FAHNS, zhuh pah-seh may zay-tay shay may grahn-pah-RAHN]",
+    "back": "During my childhood, I spent my summers at my grandparents'.",
+    "context": "Repeated habit over a period → imparfait."
+  },
+  {
+    "id": "fr-1267",
+    "front": "Pendant les vacances, nous avons visité dix villes.",
+    "pronunciation": "[pahn-dahn lay vah-KAHNS, noo zah-vohn vee-zee-tay dee VEEL]",
+    "back": "During the holidays, we visited ten cities.",
+    "context": "Countable, completed actions → passé composé, even with 'pendant'."
+  },
+  {
+    "id": "fr-1268",
+    "front": "Elle avait l'air fatiguée, alors je lui ai proposé un café.",
+    "pronunciation": "[el ah-veh lehr fah-tee-GAY, ah-lor zhuh lwee ay proh-poh-zay an kah-FAY]",
+    "back": "She looked tired, so I offered her a coffee.",
+    "context": "Appearance (imparfait) → action (passé composé)."
+  },
+  {
+    "id": "fr-1269",
+    "front": "Comme il n'y avait plus de pain, je suis allé à la boulangerie.",
+    "pronunciation": "[kum eel nyah-veh plü duh PAN, zhuh swee zah-lay ah lah boo-lahn-zhuh-REE]",
+    "back": "As there was no bread left, I went to the bakery.",
+    "context": "'Comme' (as/since) introduces the cause, usually imparfait."
+  },
+  {
+    "id": "fr-1270",
+    "front": "On regardait un film quand l'orage a éclaté.",
+    "pronunciation": "[ohn ruh-gar-deh tan FEELM kahn loh-rahzh ah ay-klah-TAY]",
+    "back": "We were watching a film when the storm broke.",
+    "context": "'Éclater' = to break out (storm, war)."
+  },
+  {
+    "id": "fr-1271",
+    "front": "L'année dernière, j'ai couru un marathon.",
+    "pronunciation": "[lah-nay dehr-NYEHR, zhay koo-rü an mah-rah-TOHN]",
+    "back": "Last year I ran a marathon.",
+    "context": "Single achievement → passé composé."
+  },
+  {
+    "id": "fr-1272",
+    "front": "Quand j'étais étudiant, je courais tous les matins.",
+    "pronunciation": "[kahn zhay-teh zay-tü-DYAHN, zhuh koo-reh too lay mah-TAN]",
+    "back": "When I was a student, I ran every morning.",
+    "context": "Repeated habit → imparfait."
+  },
+  {
+    "id": "fr-1273",
+    "front": "Il y avait du monde, donc nous avons attendu.",
+    "pronunciation": "[eel yah-veh dü MOHND, dohnk noo zah-vohn ah-tahn-DÜ]",
+    "back": "There were a lot of people, so we waited.",
+    "context": "State → consequence."
+  },
+  {
+    "id": "fr-1274",
+    "front": "Elle a toujours aimé la musique.",
+    "pronunciation": "[el ah too-zhoor eh-MAY lah mü-ZEEK]",
+    "back": "She has always loved music.",
+    "context": "'A toujours aimé' = has always loved (up to now)."
+  },
+  {
+    "id": "fr-1275",
+    "front": "J'étais sur le point de partir quand tu es arrivé.",
+    "pronunciation": "[zhay-teh sür luh pwan duh par-TEER kahn tü eh tah-ree-VAY]",
+    "back": "I was about to leave when you arrived.",
+    "context": "'Être sur le point de' = to be about to."
+  },
+  {
+    "id": "fr-1276",
+    "front": "Il a plu toute la journée.",
+    "pronunciation": "[ee lah PLÜ toot lah zhoor-NAY]",
+    "back": "It rained all day.",
+    "context": "A closed period seen as a whole → passé composé."
+  },
+  {
+    "id": "fr-1277",
+    "front": "Ma grand-mère faisait le meilleur gâteau du monde.",
+    "pronunciation": "[mah grahn-mehr fuh-zeh luh meh-yuhr gah-TOH dü MOHND]",
+    "back": "My grandmother used to make the best cake in the world.",
+    "context": "Nostalgic habit → imparfait."
+  },
+  {
+    "id": "fr-1278",
+    "front": "Le jour où j'ai eu mon diplôme, j'étais tellement fier !",
+    "pronunciation": "[luh zhoor oo zhay ü mohn dee-PLOHM, zhay-teh tel-mahn FYEHR]",
+    "back": "The day I got my degree, I was so proud!",
+    "context": "Event (j'ai eu) + feeling at that time (j'étais)."
+  },
+  {
+    "id": "fr-1279",
+    "front": "Il était une fois un roi qui avait trois filles. Un jour, il est tombé malade.",
+    "pronunciation": "[ee lay-teh tün FWAH an RWAH kee ah-veh trwah FEE. an ZHOOR, ee leh tohm-bay mah-LAD]",
+    "back": "Once upon a time there was a king who had three daughters. One day, he fell ill.",
+    "context": "Classic story structure: setting in the imparfait, then 'un jour' + passé composé."
+  },
+  {
+    "id": "fr-1280",
+    "front": "Bref, c'était une soirée inoubliable.",
+    "pronunciation": "[BREF, seh-teh tün swah-ray ee-noo-blee-YAH-bluh]",
+    "back": "In short, it was an unforgettable evening.",
+    "context": "Closing judgments are often in the imparfait: 'c'était génial'."
+  }
+]
