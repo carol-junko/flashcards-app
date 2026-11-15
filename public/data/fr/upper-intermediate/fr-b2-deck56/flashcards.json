@@ -1,0 +1,317 @@
+[
+  {
+    "id": "fr-1981",
+    "front": "Le livre dont je t'ai parlé est sorti en poche.",
+    "pronunciation": "[luh LEE-vruh dohn zhuh tay par-LAY eh sor-tee ahn POSH]",
+    "back": "The book I told you about is out in paperback.",
+    "context": "'Dont' replaces 'de + noun': parler DE ce livre → le livre DONT je t'ai parlé."
+  },
+  {
+    "id": "fr-1982",
+    "front": "C'est une amie dont je suis très fière.",
+    "pronunciation": "[seh tün nah-mee dohn zhuh swee treh FYEHR]",
+    "back": "She's a friend I'm very proud of.",
+    "context": "'Être fier de' → dont."
+  },
+  {
+    "id": "fr-1983",
+    "front": "La maison dont les volets sont bleus appartient à ma tante.",
+    "pronunciation": "[lah meh-zohn dohn lay voh-leh sohn BLUH ah-par-tyan ah mah TAHNT]",
+    "back": "The house whose shutters are blue belongs to my aunt.",
+    "context": "'Dont' also means 'whose'. Word order: dont + subject + verb."
+  },
+  {
+    "id": "fr-1984",
+    "front": "Ce dont j'ai besoin, c'est d'un peu de calme.",
+    "pronunciation": "[suh dohn zhay buh-ZWAN, seh dan puh duh KALM]",
+    "back": "What I need is a bit of peace and quiet.",
+    "context": "'Ce dont' = what (with de-verbs: avoir besoin de, parler de)."
+  },
+  {
+    "id": "fr-1985",
+    "front": "Ce que je préfère, c'est le silence du matin.",
+    "pronunciation": "[suh kuh zhuh pray-FEHR, seh luh see-lahns dü mah-TAN]",
+    "back": "What I like best is the morning silence.",
+    "context": "'Ce que' = what (direct object)."
+  },
+  {
+    "id": "fr-1986",
+    "front": "Ce qui m'inquiète, c'est son silence.",
+    "pronunciation": "[suh kee man-KYET, seh sohn see-LAHNS]",
+    "back": "What worries me is his silence.",
+    "context": "'Ce qui' = what (subject)."
+  },
+  {
+    "id": "fr-1987",
+    "front": "L'entreprise pour laquelle je travaille est très connue.",
+    "pronunciation": "[lahn-truh-preez poor lah-kel zhuh trah-vahy eh treh koh-NÜ]",
+    "back": "The company I work for is very well known.",
+    "context": "After a preposition, use lequel/laquelle/lesquels/lesquelles for things."
+  },
+  {
+    "id": "fr-1988",
+    "front": "Le stylo avec lequel j'écris ne marche plus bien.",
+    "pronunciation": "[luh stee-loh ah-vek luh-kel zhay-kree nuh marsh plü BYAN]",
+    "back": "The pen I'm writing with doesn't work well anymore.",
+    "context": "'Avec lequel' = with which."
+  },
+  {
+    "id": "fr-1989",
+    "front": "Les raisons pour lesquelles il est parti restent floues.",
+    "pronunciation": "[lay reh-zohn poor lay-kel ee leh par-TEE rest FLOO]",
+    "back": "The reasons why he left remain unclear.",
+    "context": "'Lesquelles' agrees with 'raisons' (feminine plural)."
+  },
+  {
+    "id": "fr-1990",
+    "front": "Le projet auquel je pense est ambitieux.",
+    "pronunciation": "[luh proh-zheh oh-kel zhuh pahns eh tahn-bee-SYUH]",
+    "back": "The project I'm thinking of is ambitious.",
+    "context": "À + lequel = auquel; à + lesquels = auxquels; à + laquelle = à laquelle."
+  },
+  {
+    "id": "fr-1991",
+    "front": "Les clients auxquels nous avons écrit n'ont pas répondu.",
+    "pronunciation": "[lay klee-yahn oh-kel noo zah-vohn zay-KREE nohn pah ray-pohn-DÜ]",
+    "back": "The clients we wrote to haven't replied.",
+    "context": "'Écrire à' → auxquels."
+  },
+  {
+    "id": "fr-1992",
+    "front": "Le parc près duquel nous habitons est magnifique.",
+    "pronunciation": "[luh park preh dü-KEL noo zah-bee-tohn eh mah-nyee-FEEK]",
+    "back": "The park near which we live is magnificent.",
+    "context": "De + lequel = duquel (with compound prepositions: près de, à côté de, au bout de)."
+  },
+  {
+    "id": "fr-1993",
+    "front": "La personne à qui j'ai parlé était très aimable.",
+    "pronunciation": "[lah pehr-sun ah kee zhay par-lay ay-teh treh zeh-MAH-bluh]",
+    "back": "The person I spoke to was very kind.",
+    "context": "For people after a preposition, 'qui' is preferred: à qui, avec qui."
+  },
+  {
+    "id": "fr-1994",
+    "front": "La ville où je suis né a beaucoup changé.",
+    "pronunciation": "[lah veel oo zhuh swee nay ah boh-koo shahn-ZHAY]",
+    "back": "The city where I was born has changed a lot.",
+    "context": "'Où' = where (place)."
+  },
+  {
+    "id": "fr-1995",
+    "front": "Le jour où on s'est rencontrés, il pleuvait.",
+    "pronunciation": "[luh zhoor oo ohn seh rahn-kohn-TRAY, eel pluh-VEH]",
+    "back": "The day we met, it was raining.",
+    "context": "'Où' is also used for time in French: le jour où, l'année où (never 'le jour que')."
+  },
+  {
+    "id": "fr-1996",
+    "front": "Le pont a été construit au XIXe siècle.",
+    "pronunciation": "[luh pohn ah ay-tay kohns-trwee oh deez-nuh-vyem SYEH-kluh]",
+    "back": "The bridge was built in the 19th century.",
+    "context": "Passive: être + participle agreeing with the subject."
+  },
+  {
+    "id": "fr-1997",
+    "front": "Les résultats seront annoncés demain.",
+    "pronunciation": "[lay ray-zül-TAH suh-rohn tah-nohn-SAY duh-MAN]",
+    "back": "The results will be announced tomorrow.",
+    "context": "Future passive."
+  },
+  {
+    "id": "fr-1998",
+    "front": "Ce tableau a été peint par Monet.",
+    "pronunciation": "[suh tah-bloh ah ay-tay pan par moh-NEH]",
+    "back": "This painting was painted by Monet.",
+    "context": "'Par' introduces the agent."
+  },
+  {
+    "id": "fr-1999",
+    "front": "Le directeur est respecté de tous.",
+    "pronunciation": "[luh dee-rek-tuhr eh res-pek-tay duh TOOS]",
+    "back": "The director is respected by everyone.",
+    "context": "With feelings and states, 'de' can introduce the agent: aimé de, respecté de."
+  },
+  {
+    "id": "fr-2000",
+    "front": "On a volé ma voiture.",
+    "pronunciation": "[ohn nah voh-lay mah vwah-TÜR]",
+    "back": "My car was stolen.",
+    "context": "French often prefers 'on' + active over the passive."
+  },
+  {
+    "id": "fr-2001",
+    "front": "Ça se mange froid.",
+    "pronunciation": "[sah suh mahnzh FRWAH]",
+    "back": "It's eaten cold.",
+    "context": "Passive meaning with 'se': ça se dit, ça se fait, ça se vend bien."
+  },
+  {
+    "id": "fr-2002",
+    "front": "Il s'est fait voler son portefeuille.",
+    "pronunciation": "[eel seh feh voh-lay sohn port-FUHY]",
+    "back": "He had his wallet stolen.",
+    "context": "'Se faire' + infinitive = to have something done to you."
+  },
+  {
+    "id": "fr-2003",
+    "front": "Je me suis fait couper les cheveux.",
+    "pronunciation": "[zhuh muh swee feh koo-pay lay shuh-VUH]",
+    "back": "I had my hair cut.",
+    "context": "'Se faire' + infinitive for services you get done."
+  },
+  {
+    "id": "fr-2004",
+    "front": "C'est moi qui ai appelé le médecin.",
+    "pronunciation": "[seh MWAH kee ay ah-puh-lay luh mayd-SAN]",
+    "back": "I'm the one who called the doctor.",
+    "context": "Emphasis: c'est… qui. The verb agrees with the pronoun: c'est moi qui AI."
+  },
+  {
+    "id": "fr-2005",
+    "front": "C'est à Lyon que je l'ai rencontré.",
+    "pronunciation": "[seh tah lee-OHN kuh zhuh lay rahn-kohn-TRAY]",
+    "back": "It was in Lyon that I met him.",
+    "context": "Emphasis on a complement: c'est… que."
+  },
+  {
+    "id": "fr-2006",
+    "front": "Ce sont mes parents qui m'ont appris à lire.",
+    "pronunciation": "[suh sohn may pah-rahn kee mohn tah-pree ah LEER]",
+    "back": "It was my parents who taught me to read.",
+    "context": "'Ce sont' + plural."
+  },
+  {
+    "id": "fr-2007",
+    "front": "Moi, le café, je le prends sans sucre.",
+    "pronunciation": "[MWAH, luh kah-FAY, zhuh luh prahn sahn SÜ-kruh]",
+    "back": "Me, I take my coffee without sugar.",
+    "context": "Dislocation: topic first, then a pronoun. Extremely common in spoken French."
+  },
+  {
+    "id": "fr-2008",
+    "front": "Il est arrivé, ton colis ?",
+    "pronunciation": "[ee leh tah-ree-VAY, tohn koh-LEE]",
+    "back": "Has your parcel arrived?",
+    "context": "Right dislocation: subject repeated at the end. Typical spoken French."
+  },
+  {
+    "id": "fr-2009",
+    "front": "Ce que j'aime chez lui, c'est son humour.",
+    "pronunciation": "[suh kuh zhem shay LWEE, seh sohn nü-MOOR]",
+    "back": "What I like about him is his sense of humor.",
+    "context": "'Chez' + person = in someone's character."
+  },
+  {
+    "id": "fr-2010",
+    "front": "Voilà pourquoi je suis en retard.",
+    "pronunciation": "[vwah-lah poor-KWAH zhuh swee zahn ruh-TAR]",
+    "back": "That's why I'm late.",
+    "context": "'Voilà pourquoi' = that's why."
+  },
+  {
+    "id": "fr-2011",
+    "front": "Non seulement il est en retard, mais en plus il n'a pas ses documents.",
+    "pronunciation": "[nohn suhl-MAHN ee leh tahn ruh-TAR, meh ahn PLÜS eel nah pah say doh-kü-MAHN]",
+    "back": "Not only is he late, but on top of that he doesn't have his documents.",
+    "context": "'Non seulement… mais (en plus)' = not only… but also."
+  },
+  {
+    "id": "fr-2012",
+    "front": "Plus on attend, plus c'est cher.",
+    "pronunciation": "[plü zohn nah-TAHN, plü seh SHEHR]",
+    "back": "The longer you wait, the more expensive it gets.",
+    "context": "Parallel structure."
+  },
+  {
+    "id": "fr-2013",
+    "front": "Tout ce que tu dis est vrai.",
+    "pronunciation": "[too suh kuh tü dee eh VREH]",
+    "back": "Everything you say is true.",
+    "context": "'Tout ce que' = everything (that)."
+  },
+  {
+    "id": "fr-2014",
+    "front": "Quel que soit le prix, je l'achète.",
+    "pronunciation": "[kel kuh swah luh PREE, zhuh lah-SHET]",
+    "back": "Whatever the price, I'm buying it.",
+    "context": "'Quel(le)(s) que soit' + noun = whatever; quel agrees with the noun."
+  },
+  {
+    "id": "fr-2015",
+    "front": "Où que tu ailles, je te suivrai.",
+    "pronunciation": "[oo kuh tü AHY, zhuh tuh swee-VREH]",
+    "back": "Wherever you go, I'll follow you.",
+    "context": "'Où que' + subjunctive = wherever."
+  },
+  {
+    "id": "fr-2016",
+    "front": "Si fatigué qu'il soit, il ne se plaint jamais.",
+    "pronunciation": "[see fah-tee-gay keel SWAH, eel nuh suh plan zhah-MEH]",
+    "back": "However tired he may be, he never complains.",
+    "context": "'Si + adjective + que' + subjunctive = however… (also 'aussi… que')."
+  },
+  {
+    "id": "fr-2017",
+    "front": "N'ayant pas reçu de réponse, je vous relance.",
+    "pronunciation": "[neh-yahn pah ruh-sü duh ray-POHNS, zhuh voo ruh-LAHNS]",
+    "back": "Not having received a reply, I'm following up.",
+    "context": "Present participle (ayant) in formal writing, expressing cause."
+  },
+  {
+    "id": "fr-2018",
+    "front": "Étant donné la situation, nous reportons la réunion.",
+    "pronunciation": "[ay-tahn doh-nay lah see-tü-ah-SYOHN, noo ruh-por-tohn lah ray-ü-NYOHN]",
+    "back": "Given the situation, we're postponing the meeting.",
+    "context": "'Étant donné' = given (invariable before the noun)."
+  },
+  {
+    "id": "fr-2019",
+    "front": "Le contrat signé, les travaux ont commencé.",
+    "pronunciation": "[luh kohn-trah see-NYAY, lay trah-voh ohn koh-mahn-SAY]",
+    "back": "Once the contract was signed, work began.",
+    "context": "Absolute participle construction: formal and concise."
+  },
+  {
+    "id": "fr-2020",
+    "front": "Il parle comme s'il savait tout.",
+    "pronunciation": "[eel parl kum seel sah-veh TOO]",
+    "back": "He talks as if he knew everything.",
+    "context": "'Comme si' + imparfait = as if."
+  },
+  {
+    "id": "fr-2021",
+    "front": "Il travaille d'autant plus qu'il veut être promu.",
+    "pronunciation": "[eel trah-vahy doh-tahn plüs keel vuh eh-truh proh-MÜ]",
+    "back": "He works all the more because he wants to be promoted.",
+    "context": "'D'autant plus que' = all the more because."
+  },
+  {
+    "id": "fr-2022",
+    "front": "Il a beau essayer, il n'y arrive pas.",
+    "pronunciation": "[ee lah boh eh-seh-YAY, eel nee ah-reev PAH]",
+    "back": "No matter how hard he tries, he can't do it.",
+    "context": "'Avoir beau' + infinitive = however much, in vain."
+  },
+  {
+    "id": "fr-2023",
+    "front": "À peine était-il arrivé qu'il est reparti.",
+    "pronunciation": "[ah pen ay-teh-teel ah-ree-VAY keel eh ruh-par-TEE]",
+    "back": "No sooner had he arrived than he left again.",
+    "context": "'À peine' at the start of a sentence triggers inversion (formal)."
+  },
+  {
+    "id": "fr-2024",
+    "front": "Peut-être viendra-t-il demain.",
+    "pronunciation": "[puh-teh-truh vyan-drah-TEEL duh-MAN]",
+    "back": "Perhaps he'll come tomorrow.",
+    "context": "Formal: 'peut-être' at the start → inversion. In speech: 'peut-être qu'il viendra'."
+  },
+  {
+    "id": "fr-2025",
+    "front": "Reste à savoir qui va payer.",
+    "pronunciation": "[rest ah sah-VWAHR kee vah peh-YAY]",
+    "back": "It remains to be seen who will pay.",
+    "context": "'Reste à' + infinitive (impersonal) = it remains to."
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "id": "fr-1936",
+    "front": "Je suis ravi que vous soyez venus.",
+    "pronunciation": "[zhuh swee rah-vee kuh voo swah-yay vuh-NÜ]",
+    "back": "I'm delighted you came.",
+    "context": "Past subjunctive = subjunctive of être/avoir + participle. Used for an action completed before the main verb."
+  },
+  {
+    "id": "fr-1937",
+    "front": "Je regrette que tu n'aies pas pu assister à la réunion.",
+    "pronunciation": "[zhuh ruh-gret kuh tü neh pah pü ah-sees-tay ah lah ray-ü-NYOHN]",
+    "back": "I'm sorry you couldn't attend the meeting.",
+    "context": "Regret + past subjunctive."
+  },
+  {
+    "id": "fr-1938",
+    "front": "Il faut que tu aies fini avant midi.",
+    "pronunciation": "[eel foh kuh tü eh fee-NEE ah-vahn mee-DEE]",
+    "back": "You need to have finished before noon.",
+    "context": "Past subjunctive for an action to be completed by a deadline."
+  },
+  {
+    "id": "fr-1939",
+    "front": "Bien qu'il ait beaucoup travaillé, il a raté l'examen.",
+    "pronunciation": "[byan keel eh boh-koo trah-vah-YAY, ee lah rah-tay leg-zah-MAN]",
+    "back": "Although he had worked hard, he failed the exam.",
+    "context": "'Bien que' + past subjunctive."
+  },
+  {
+    "id": "fr-1940",
+    "front": "Je doute qu'elle ait reçu mon message.",
+    "pronunciation": "[zhuh doot kel eh ruh-SÜ mohn meh-SAHZH]",
+    "back": "I doubt she received my message.",
+    "context": "Doubt about a past event → past subjunctive."
+  },
+  {
+    "id": "fr-1941",
+    "front": "C'est le meilleur livre que j'aie jamais lu.",
+    "pronunciation": "[seh luh meh-yuhr LEE-vruh kuh zhay zhah-meh LÜ]",
+    "back": "It's the best book I've ever read.",
+    "context": "Superlative + que + past subjunctive."
+  },
+  {
+    "id": "fr-1942",
+    "front": "Je ne pense pas qu'ils soient déjà arrivés.",
+    "pronunciation": "[zhuh nuh pahns pah keel swah day-zhah zah-ree-VAY]",
+    "back": "I don't think they've arrived yet.",
+    "context": "Être verbs in the past subjunctive: qu'ils soient arrivés (agreement)."
+  },
+  {
+    "id": "fr-1943",
+    "front": "Quand je suis arrivé, le film avait déjà commencé.",
+    "pronunciation": "[kahn zhuh swee zah-ree-VAY, luh feelm ah-veh day-zhah koh-mahn-SAY]",
+    "back": "When I arrived, the film had already started.",
+    "context": "Plus-que-parfait = imparfait of avoir/être + participle: an action before another past action."
+  },
+  {
+    "id": "fr-1944",
+    "front": "Elle était fatiguée parce qu'elle avait mal dormi.",
+    "pronunciation": "[el ay-teh fah-tee-GAY pars kel ah-veh mahl dor-MEE]",
+    "back": "She was tired because she had slept badly.",
+    "context": "Plus-que-parfait gives the earlier cause."
+  },
+  {
+    "id": "fr-1945",
+    "front": "Nous étions partis avant la tempête.",
+    "pronunciation": "[noo zay-tyohn par-TEE ah-vahn lah tahm-PET]",
+    "back": "We had left before the storm.",
+    "context": "Être verbs: étions partis."
+  },
+  {
+    "id": "fr-1946",
+    "front": "Si j'avais su, je serais venu plus tôt.",
+    "pronunciation": "[see zhah-veh SÜ, zhuh suh-reh vuh-nü plü TOH]",
+    "back": "If I had known, I'd have come earlier.",
+    "context": "Si + plus-que-parfait → past conditional (regret about the past)."
+  },
+  {
+    "id": "fr-1947",
+    "front": "Si tu m'avais écouté, on ne serait pas perdus.",
+    "pronunciation": "[see tü mah-veh zay-koo-TAY, ohn nuh suh-reh pah pehr-DÜ]",
+    "back": "If you'd listened to me, we wouldn't be lost.",
+    "context": "Mixed: past condition, present consequence."
+  },
+  {
+    "id": "fr-1948",
+    "front": "Il m'a dit qu'il était malade.",
+    "pronunciation": "[eel mah dee keel ay-teh mah-LAD]",
+    "back": "He told me he was ill.",
+    "context": "Reported speech: present ('je suis malade') → imparfait after a past verb."
+  },
+  {
+    "id": "fr-1949",
+    "front": "Elle a dit qu'elle viendrait demain.",
+    "pronunciation": "[el ah dee kel vyan-dreh duh-MAN]",
+    "back": "She said she would come tomorrow.",
+    "context": "Future ('je viendrai') → conditional in reported speech."
+  },
+  {
+    "id": "fr-1950",
+    "front": "Il m'a expliqué qu'il avait perdu ses clés.",
+    "pronunciation": "[eel mah ek-splee-kay keel ah-veh pehr-dü say KLAY]",
+    "back": "He explained he had lost his keys.",
+    "context": "Passé composé ('j'ai perdu') → plus-que-parfait."
+  },
+  {
+    "id": "fr-1951",
+    "front": "Elle m'a demandé si j'avais faim.",
+    "pronunciation": "[el mah duh-mahn-day see zhah-veh FAN]",
+    "back": "She asked me if I was hungry.",
+    "context": "Yes/no questions are reported with 'si'."
+  },
+  {
+    "id": "fr-1952",
+    "front": "Il voulait savoir où j'habitais.",
+    "pronunciation": "[eel voo-leh sah-vwahr oo zhah-bee-TEH]",
+    "back": "He wanted to know where I lived.",
+    "context": "Question words stay: où, quand, comment, pourquoi."
+  },
+  {
+    "id": "fr-1953",
+    "front": "Elle m'a demandé ce que je faisais.",
+    "pronunciation": "[el mah duh-mahn-day suh kuh zhuh fuh-ZEH]",
+    "back": "She asked me what I was doing.",
+    "context": "'Qu'est-ce que' → 'ce que' in reported speech."
+  },
+  {
+    "id": "fr-1954",
+    "front": "Il m'a demandé ce qui s'était passé.",
+    "pronunciation": "[eel mah duh-mahn-day suh kee seh-teh pah-SAY]",
+    "back": "He asked me what had happened.",
+    "context": "'Qu'est-ce qui' → 'ce qui'."
+  },
+  {
+    "id": "fr-1955",
+    "front": "Le professeur nous a dit de fermer nos livres.",
+    "pronunciation": "[luh proh-feh-suhr noo zah dee duh fehr-may noh LEE-vruh]",
+    "back": "The teacher told us to close our books.",
+    "context": "Reported command: dire de + infinitive."
+  },
+  {
+    "id": "fr-1956",
+    "front": "Il m'a dit qu'il me rappellerait le lendemain.",
+    "pronunciation": "[eel mah dee keel muh rah-pel-reh luh lahn-duh-MAN]",
+    "back": "He told me he would call me back the next day.",
+    "context": "Time words change: demain → le lendemain, hier → la veille, aujourd'hui → ce jour-là."
+  },
+  {
+    "id": "fr-1957",
+    "front": "Elle a affirmé qu'elle était passée la veille.",
+    "pronunciation": "[el ah ah-feer-may kel ay-teh pah-say lah VAY]",
+    "back": "She claimed she had come by the day before.",
+    "context": "'La veille' = the day before."
+  },
+  {
+    "id": "fr-1958",
+    "front": "Il a annoncé qu'il démissionnait.",
+    "pronunciation": "[ee lah ah-noh-say keel day-mee-syoh-NEH]",
+    "back": "He announced he was resigning.",
+    "context": "Reporting verbs: affirmer, annoncer, déclarer, expliquer, prétendre."
+  },
+  {
+    "id": "fr-1959",
+    "front": "Je savais que tu réussirais.",
+    "pronunciation": "[zhuh sah-veh kuh tü ray-ü-see-REH]",
+    "back": "I knew you would succeed.",
+    "context": "Future in the past → conditional."
+  },
+  {
+    "id": "fr-1960",
+    "front": "Il pensait que nous serions partis avant midi.",
+    "pronunciation": "[eel pahn-seh kuh noo suh-ryohn par-tee ah-vahn mee-DEE]",
+    "back": "He thought we would have left before noon.",
+    "context": "Past conditional as future perfect in the past."
+  },
+  {
+    "id": "fr-1961",
+    "front": "J'aurais voulu que tu sois là.",
+    "pronunciation": "[zhoh-reh voo-lü kuh tü swah LAH]",
+    "back": "I would have liked you to be there.",
+    "context": "Main verb in the past conditional + subjunctive."
+  },
+  {
+    "id": "fr-1962",
+    "front": "Il fallait que je parte tôt.",
+    "pronunciation": "[eel fah-leh kuh zhuh PART TOH]",
+    "back": "I had to leave early.",
+    "context": "In modern French, the present subjunctive is used even after a past main verb."
+  },
+  {
+    "id": "fr-1963",
+    "front": "Il fallait qu'il partît.",
+    "pronunciation": "[eel fah-leh keel par-TEE]",
+    "back": "He had to leave. (literary)",
+    "context": "The imperfect subjunctive ('partît') appears only in literature. Recognize it, don't use it in speech."
+  },
+  {
+    "id": "fr-1964",
+    "front": "Après avoir dîné, nous sommes sortis.",
+    "pronunciation": "[ah-preh zah-vwahr dee-NAY, noo sum sor-TEE]",
+    "back": "After having dinner, we went out.",
+    "context": "'Après' + past infinitive (avoir/être + participle), when the subject is the same."
+  },
+  {
+    "id": "fr-1965",
+    "front": "Après être rentrée, elle s'est couchée.",
+    "pronunciation": "[ah-preh zeh-truh rahn-TRAY, el seh koo-SHAY]",
+    "back": "After getting home, she went to bed.",
+    "context": "Être verbs agree in the past infinitive: être rentrée."
+  },
+  {
+    "id": "fr-1966",
+    "front": "Je te remercie de m'avoir aidé.",
+    "pronunciation": "[zhuh tuh ruh-mehr-SEE duh mah-vwahr eh-DAY]",
+    "back": "Thank you for helping me.",
+    "context": "'Remercier de' + past infinitive (the help came before the thanks)."
+  },
+  {
+    "id": "fr-1967",
+    "front": "Il regrette d'être parti si vite.",
+    "pronunciation": "[eel ruh-gret deh-truh par-tee see VEET]",
+    "back": "He regrets leaving so quickly.",
+    "context": "Past infinitive after regretter de."
+  },
+  {
+    "id": "fr-1968",
+    "front": "Une fois le travail terminé, on ira boire un verre.",
+    "pronunciation": "[ün FWAH luh trah-vahy tehr-mee-NAY, ohn nee-rah bwahr an VEHR]",
+    "back": "Once the work is done, we'll go for a drink.",
+    "context": "'Une fois' + noun + participle = once (done)."
+  },
+  {
+    "id": "fr-1969",
+    "front": "Dès qu'il eut fini, il quitta la pièce.",
+    "pronunciation": "[deh keel ü fee-NEE, eel kee-tah lah PYES]",
+    "back": "As soon as he had finished, he left the room.",
+    "context": "Passé antérieur + passé simple: literary narrative tenses. Recognize them in novels."
+  },
+  {
+    "id": "fr-1970",
+    "front": "Le président a déclaré qu'il ferait tout son possible.",
+    "pronunciation": "[luh pray-zee-dahn ah day-klah-ray keel fuh-reh too sohn poh-SEE-bluh]",
+    "back": "The president declared he would do everything possible.",
+    "context": "Typical news-report sentence."
+  },
+  {
+    "id": "fr-1971",
+    "front": "Elle prétend qu'elle n'a rien vu.",
+    "pronunciation": "[el pray-tahn kel nah ryan VÜ]",
+    "back": "She claims she saw nothing.",
+    "context": "Present reporting verb → no tense change. False friend: 'prétendre' = to claim, not to pretend."
+  },
+  {
+    "id": "fr-1972",
+    "front": "On m'a dit que la boutique avait fermé.",
+    "pronunciation": "[ohn mah dee kuh lah boo-teek ah-veh fehr-MAY]",
+    "back": "I was told the shop had closed.",
+    "context": "'On m'a dit que' = I was told that."
+  },
+  {
+    "id": "fr-1973",
+    "front": "Je ne savais pas que vous vous connaissiez.",
+    "pronunciation": "[zhuh nuh sah-veh pah kuh voo voo koh-neh-SYAY]",
+    "back": "I didn't know you two knew each other.",
+    "context": "Present → imparfait after a past verb."
+  },
+  {
+    "id": "fr-1974",
+    "front": "Il m'a assuré que tout irait bien.",
+    "pronunciation": "[eel mah ah-sü-ray kuh too tee-reh BYAN]",
+    "back": "He assured me everything would be fine.",
+    "context": "'Aller' → irait (conditional)."
+  },
+  {
+    "id": "fr-1975",
+    "front": "J'avais l'impression qu'il m'avait déjà vu quelque part.",
+    "pronunciation": "[zhah-veh lan-preh-SYOHN keel mah-veh day-zhah vü kel-kuh PAR]",
+    "back": "I had the feeling he'd seen me somewhere before.",
+    "context": "Plus-que-parfait inside a past narrative."
+  },
+  {
+    "id": "fr-1976",
+    "front": "Ils auraient dû nous prévenir qu'ils seraient en retard.",
+    "pronunciation": "[eel zoh-reh dü noo pray-vuh-neer keel suh-reh tahn ruh-TAR]",
+    "back": "They should have warned us they would be late.",
+    "context": "Past conditional + future in the past."
+  },
+  {
+    "id": "fr-1977",
+    "front": "Je me demandais s'il avait reçu ma lettre.",
+    "pronunciation": "[zhuh muh duh-mahn-deh seel ah-veh ruh-sü mah LET-ruh]",
+    "back": "I was wondering whether he had received my letter.",
+    "context": "Indirect question in the past."
+  },
+  {
+    "id": "fr-1978",
+    "front": "Elle m'a promis qu'elle ne recommencerait plus.",
+    "pronunciation": "[el mah proh-mee kel nuh ruh-koh-mahn-suh-reh PLÜ]",
+    "back": "She promised me she wouldn't do it again.",
+    "context": "'Recommencer' = to do again."
+  },
+  {
+    "id": "fr-1979",
+    "front": "Il a reconnu qu'il s'était trompé.",
+    "pronunciation": "[ee lah ruh-koh-nü keel seh-teh trohm-PAY]",
+    "back": "He admitted he had been wrong.",
+    "context": "'Se tromper' = to be wrong. 'Reconnaître' = to admit."
+  },
+  {
+    "id": "fr-1980",
+    "front": "Je croyais que tu étais parti sans dire au revoir.",
+    "pronunciation": "[zhuh krwah-yeh kuh tü ay-teh par-tee sahn deer oh ruh-VWAHR]",
+    "back": "I thought you had left without saying goodbye.",
+    "context": "Plus-que-parfait after a past belief."
+  }
+]
