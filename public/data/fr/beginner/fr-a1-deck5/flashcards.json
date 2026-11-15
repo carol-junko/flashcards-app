@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-146",
+    "front": "le pain",
+    "pronunciation": "[luh PAN]",
+    "back": "bread",
+    "context": "Bread is bought fresh every day at 'la boulangerie'."
+  },
+  {
+    "id": "fr-147",
+    "front": "la baguette",
+    "pronunciation": "[lah bah-GET]",
+    "back": "baguette",
+    "context": "Ask for 'une baguette bien cuite' (well baked) or 'pas trop cuite' (lightly baked)."
+  },
+  {
+    "id": "fr-148",
+    "front": "le croissant",
+    "pronunciation": "[luh krwah-SAHN]",
+    "back": "croissant",
+    "context": "A classic breakfast pastry, with 'le pain au chocolat' (called 'chocolatine' in the southwest)."
+  },
+  {
+    "id": "fr-149",
+    "front": "le fromage",
+    "pronunciation": "[luh froh-MAHZH]",
+    "back": "cheese",
+    "context": "France has hundreds of cheeses; cheese is served before dessert."
+  },
+  {
+    "id": "fr-150",
+    "front": "le beurre",
+    "pronunciation": "[luh BUHR]",
+    "back": "butter",
+    "context": "'Beurre doux' = unsalted; 'beurre salé' = salted, typical of Brittany."
+  },
+  {
+    "id": "fr-151",
+    "front": "le lait",
+    "pronunciation": "[luh LEH]",
+    "back": "milk",
+    "context": "The t is silent. 'Un café au lait' = coffee with milk."
+  },
+  {
+    "id": "fr-152",
+    "front": "l'œuf / les œufs",
+    "pronunciation": "[LUHF / lay ZUH]",
+    "back": "egg / eggs",
+    "context": "Tricky: the f is pronounced in the singular [uhf] but silent in the plural [ZUH]."
+  },
+  {
+    "id": "fr-153",
+    "front": "la viande",
+    "pronunciation": "[lah VYAHND]",
+    "back": "meat",
+    "context": "'Le bœuf' (beef), 'le porc' (pork), 'le poulet' (chicken), 'l'agneau' (lamb)."
+  },
+  {
+    "id": "fr-154",
+    "front": "le poisson",
+    "pronunciation": "[luh pwah-SOHN]",
+    "back": "fish",
+    "context": "Careful: 'poison' [pwah-ZOHN] with one s means poison!"
+  },
+  {
+    "id": "fr-155",
+    "front": "les légumes",
+    "pronunciation": "[lay lay-GÜM]",
+    "back": "vegetables",
+    "context": "'Les carottes, les tomates, les pommes de terre' (potatoes, literally 'apples of the earth')."
+  },
+  {
+    "id": "fr-156",
+    "front": "les fruits",
+    "pronunciation": "[lay FRWEE]",
+    "back": "fruit",
+    "context": "In French 'fruit' is countable: 'je mange des fruits'."
+  },
+  {
+    "id": "fr-157",
+    "front": "la pomme",
+    "pronunciation": "[lah PUM]",
+    "back": "apple",
+    "context": "'La pomme de terre' = potato; 'les frites' = fries."
+  },
+  {
+    "id": "fr-158",
+    "front": "la banane / l'orange / la fraise",
+    "pronunciation": "[lah bah-NAN / loh-RAHNZH / lah FREZ]",
+    "back": "banana / orange / strawberry",
+    "context": "Most fruit names are feminine in French."
+  },
+  {
+    "id": "fr-159",
+    "front": "le riz / les pâtes",
+    "pronunciation": "[luh REE / lay PAHT]",
+    "back": "rice / pasta",
+    "context": "'Les pâtes' is plural in French: 'les pâtes sont prêtes'."
+  },
+  {
+    "id": "fr-160",
+    "front": "l'eau",
+    "pronunciation": "[LOH]",
+    "back": "water",
+    "context": "'Une carafe d'eau' (tap water) is free in French restaurants. 'Eau gazeuse' = sparkling water."
+  },
+  {
+    "id": "fr-161",
+    "front": "le café",
+    "pronunciation": "[luh kah-FAY]",
+    "back": "coffee (also café)",
+    "context": "Ordering 'un café' gets you an espresso. 'Un crème' = coffee with milk."
+  },
+  {
+    "id": "fr-162",
+    "front": "le thé",
+    "pronunciation": "[luh TAY]",
+    "back": "tea",
+    "context": "'Une tisane' or 'une infusion' = herbal tea."
+  },
+  {
+    "id": "fr-163",
+    "front": "le jus d'orange",
+    "pronunciation": "[luh zhü doh-RAHNZH]",
+    "back": "orange juice",
+    "context": "'Un jus d'orange pressé' = freshly squeezed."
+  },
+  {
+    "id": "fr-164",
+    "front": "le vin rouge / le vin blanc",
+    "pronunciation": "[luh van ROOZH / luh van BLAHN]",
+    "back": "red wine / white wine",
+    "context": "'Un verre de vin' = a glass of wine; 'une bouteille' = a bottle."
+  },
+  {
+    "id": "fr-165",
+    "front": "la bière",
+    "pronunciation": "[lah BYEHR]",
+    "back": "beer",
+    "context": "'Une pression' = a draft beer, usually 25 cl ('un demi')."
+  },
+  {
+    "id": "fr-166",
+    "front": "Je voudrais une baguette, s'il vous plaît.",
+    "pronunciation": "[zhuh voo-DREH ün bah-GET, seel voo PLEH]",
+    "back": "I'd like a baguette, please.",
+    "context": "The polite way to buy anything. Start with 'Bonjour!' first: it's essential in France."
+  },
+  {
+    "id": "fr-167",
+    "front": "Je prends un café et un croissant.",
+    "pronunciation": "[zhuh prahn an kah-FAY ay an krwah-SAHN]",
+    "back": "I'll have a coffee and a croissant.",
+    "context": "'Je prends' (I'll take) is the natural way to order at a café."
+  },
+  {
+    "id": "fr-168",
+    "front": "Je mange du pain tous les matins.",
+    "pronunciation": "[zhuh mahnzh dü PAN too lay mah-TAN]",
+    "back": "I eat bread every morning.",
+    "context": "Partitive article: 'du pain' = some bread (an unspecified amount). Du (m), de la (f), de l' (vowel), des (pl)."
+  },
+  {
+    "id": "fr-169",
+    "front": "Tu veux de l'eau ?",
+    "pronunciation": "[tü vuh duh LOH]",
+    "back": "Do you want some water?",
+    "context": "'De l'' before a vowel: de l'eau, de l'huile."
+  },
+  {
+    "id": "fr-170",
+    "front": "Je ne mange pas de viande.",
+    "pronunciation": "[zhuh nuh mahnzh pah duh VYAHND]",
+    "back": "I don't eat meat.",
+    "context": "After a negation, du/de la/des become 'de': je mange DE LA viande → je ne mange pas DE viande."
+  },
+  {
+    "id": "fr-171",
+    "front": "Je suis végétarienne.",
+    "pronunciation": "[zhuh swee vay-zhay-tah-RYEN]",
+    "back": "I'm a vegetarian. (female)",
+    "context": "Masculine: végétarien. 'Végan(e)' is also common."
+  },
+  {
+    "id": "fr-172",
+    "front": "J'adore le chocolat.",
+    "pronunciation": "[zhah-DOR luh shoh-koh-LAH]",
+    "back": "I love chocolate.",
+    "context": "With adorer/aimer/détester, use le/la/les (the thing in general), not du/de la."
+  },
+  {
+    "id": "fr-173",
+    "front": "J'ai faim et j'ai soif.",
+    "pronunciation": "[zhay FAN ay zhay SWAHF]",
+    "back": "I'm hungry and I'm thirsty.",
+    "context": "Hunger and thirst use avoir: avoir faim, avoir soif (not être)."
+  },
+  {
+    "id": "fr-174",
+    "front": "Le petit-déjeuner est prêt !",
+    "pronunciation": "[luh puh-tee day-zhuh-NAY eh PREH]",
+    "back": "Breakfast is ready!",
+    "context": "Meals: le petit-déjeuner (breakfast), le déjeuner (lunch), le dîner (dinner)."
+  },
+  {
+    "id": "fr-175",
+    "front": "On déjeune à midi et demi.",
+    "pronunciation": "[ohn day-ZHUHN ah mee-dee ay duh-MEE]",
+    "back": "We have lunch at half past twelve.",
+    "context": "'On' = we in everyday speech. Lunch is an important, often long, meal in France."
+  },
+  {
+    "id": "fr-176",
+    "front": "un kilo de pommes",
+    "pronunciation": "[an kee-LOH duh PUM]",
+    "back": "a kilo of apples",
+    "context": "Quantities take 'de' with no article: un kilo de, une bouteille de, un peu de, beaucoup de."
+  },
+  {
+    "id": "fr-177",
+    "front": "C'est délicieux !",
+    "pronunciation": "[seh day-lee-SYUH]",
+    "back": "It's delicious!",
+    "context": "Also: 'C'est très bon !' Always compliment the cook in France."
+  },
+  {
+    "id": "fr-178",
+    "front": "Bon appétit !",
+    "pronunciation": "[bohn nah-pay-TEE]",
+    "back": "Enjoy your meal!",
+    "context": "Said at the start of a meal. Reply: 'Merci, vous aussi !' or 'Bon appétit !'"
+  },
+  {
+    "id": "fr-179",
+    "front": "Encore un peu de fromage ?",
+    "pronunciation": "[ahn-kor an puh duh froh-MAHZH]",
+    "back": "A little more cheese?",
+    "context": "'Encore' = more / again. To refuse politely: 'Non merci, j'ai assez mangé.'"
+  },
+  {
+    "id": "fr-180",
+    "front": "Santé !",
+    "pronunciation": "[sahn-TAY]",
+    "back": "Cheers!",
+    "context": "Also 'À votre santé !' Look people in the eye when clinking glasses."
+  }
+]

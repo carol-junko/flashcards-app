@@ -42,8 +42,7 @@
     "category": "Food Basics",
     "title": "Staple Foods & Drinks",
     "description": "Everyday foods, bakery classics, fruit and drinks, with the right articles.",
-    "cardCount": 35,
-    "comingSoon": true
+    "cardCount": 35
   },
   {
     "id": "fr-a1-deck6",
@@ -52,8 +51,7 @@
     "category": "Everyday Objects",
     "title": "Objects & Belongings",
     "description": "Name common objects, say what belongs to whom and where things are.",
-    "cardCount": 30,
-    "comingSoon": true
+    "cardCount": 30
   },
   {
     "id": "fr-a1-deck7",
@@ -62,8 +60,7 @@
     "category": "Descriptions",
     "title": "Colors & Basic Adjectives",
     "description": "Describe people and things, with adjective agreement and position.",
-    "cardCount": 30,
-    "comingSoon": true
+    "cardCount": 30
   },
   {
     "id": "fr-a1-deck8",

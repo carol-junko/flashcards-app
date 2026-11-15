@@ -1,0 +1,212 @@
+[
+  {
+    "id": "fr-211",
+    "front": "rouge",
+    "pronunciation": "[ROOZH]",
+    "back": "red",
+    "context": "Adjectives ending in -e don't change in the feminine: un pull rouge, une robe rouge."
+  },
+  {
+    "id": "fr-212",
+    "front": "bleu / bleue",
+    "pronunciation": "[BLUH]",
+    "back": "blue",
+    "context": "Same sound in both genders; plural adds -s: des yeux bleus."
+  },
+  {
+    "id": "fr-213",
+    "front": "vert / verte",
+    "pronunciation": "[VEHR / VEHRT]",
+    "back": "green",
+    "context": "In the feminine you hear the final t: une pomme verte."
+  },
+  {
+    "id": "fr-214",
+    "front": "jaune",
+    "pronunciation": "[ZHOHN]",
+    "back": "yellow",
+    "context": "'Le gilet jaune' (yellow vest) became the name of a 2018 protest movement."
+  },
+  {
+    "id": "fr-215",
+    "front": "noir / noire",
+    "pronunciation": "[NWAHR]",
+    "back": "black",
+    "context": "'Un café noir' = black coffee."
+  },
+  {
+    "id": "fr-216",
+    "front": "blanc / blanche",
+    "pronunciation": "[BLAHN / BLAHNSH]",
+    "back": "white",
+    "context": "Irregular feminine: blanc → blanche."
+  },
+  {
+    "id": "fr-217",
+    "front": "gris / grise",
+    "pronunciation": "[GREE / GREEZ]",
+    "back": "gray",
+    "context": "The s becomes audible in the feminine: une voiture grise."
+  },
+  {
+    "id": "fr-218",
+    "front": "orange / marron",
+    "pronunciation": "[oh-RAHNZH / mah-ROHN]",
+    "back": "orange / brown",
+    "context": "These come from nouns (an orange, a chestnut), so they never change: des chaussures marron."
+  },
+  {
+    "id": "fr-219",
+    "front": "rose / violet",
+    "pronunciation": "[ROHZ / vyoh-LEH]",
+    "back": "pink / purple",
+    "context": "'Voir la vie en rose' = to see life through rose-tinted glasses."
+  },
+  {
+    "id": "fr-220",
+    "front": "grand / petit",
+    "pronunciation": "[GRAHN / puh-TEE]",
+    "back": "big, tall / small",
+    "context": "Placed BEFORE the noun: une grande maison, un petit chat."
+  },
+  {
+    "id": "fr-221",
+    "front": "beau / belle",
+    "pronunciation": "[BOH / BEL]",
+    "back": "beautiful, handsome",
+    "context": "Before a masculine vowel: 'un bel homme'. Also placed before the noun."
+  },
+  {
+    "id": "fr-222",
+    "front": "jeune / vieux",
+    "pronunciation": "[ZHUHN / VYUH]",
+    "back": "young / old",
+    "context": "Vieux → vieille (f) → 'un vieil ami' before a vowel."
+  },
+  {
+    "id": "fr-223",
+    "front": "bon / mauvais",
+    "pronunciation": "[BOHN / moh-VEH]",
+    "back": "good / bad",
+    "context": "Feminine: bonne, mauvaise. Both go before the noun: un bon film."
+  },
+  {
+    "id": "fr-224",
+    "front": "nouveau / nouvelle",
+    "pronunciation": "[noo-VOH / noo-VEL]",
+    "back": "new",
+    "context": "Before a masculine vowel: 'un nouvel appartement'."
+  },
+  {
+    "id": "fr-225",
+    "front": "facile / difficile",
+    "pronunciation": "[fah-SEEL / dee-fee-SEEL]",
+    "back": "easy / difficult",
+    "context": "'C'est facile !' Most adjectives go AFTER the noun: un exercice facile."
+  },
+  {
+    "id": "fr-226",
+    "front": "cher / bon marché",
+    "pronunciation": "[SHEHR / bohn mar-SHAY]",
+    "back": "expensive / cheap",
+    "context": "'Bon marché' never changes. 'Pas cher' is more common in speech."
+  },
+  {
+    "id": "fr-227",
+    "front": "content / triste",
+    "pronunciation": "[kohn-TAHN / TREEST]",
+    "back": "happy / sad",
+    "context": "'Je suis contente' (f). 'Heureux/heureuse' = happy in a deeper sense."
+  },
+  {
+    "id": "fr-228",
+    "front": "fatigué / malade",
+    "pronunciation": "[fah-tee-GAY / mah-LAHD]",
+    "back": "tired / sick",
+    "context": "'Je suis fatigué(e)', 'je suis malade'."
+  },
+  {
+    "id": "fr-229",
+    "front": "De quelle couleur est ta voiture ?",
+    "pronunciation": "[duh kel koo-LUHR eh tah vwah-TÜR]",
+    "back": "What color is your car?",
+    "context": "'De quelle couleur…?' = what color…? Answer: 'Elle est rouge.'"
+  },
+  {
+    "id": "fr-230",
+    "front": "J'ai une voiture rouge.",
+    "pronunciation": "[zhay ün vwah-tür ROOZH]",
+    "back": "I have a red car.",
+    "context": "Colors go AFTER the noun: une voiture rouge (never 'une rouge voiture')."
+  },
+  {
+    "id": "fr-231",
+    "front": "C'est une jolie petite maison.",
+    "pronunciation": "[seh tün zhoh-lee puh-teet meh-ZOHN]",
+    "back": "It's a pretty little house.",
+    "context": "Short, common adjectives go before the noun (BAGS: Beauty, Age, Goodness, Size): joli, petit, grand, jeune…"
+  },
+  {
+    "id": "fr-232",
+    "front": "Elle porte une robe noire et des chaussures blanches.",
+    "pronunciation": "[el port ün rob NWAHR ay day shoh-sür BLAHNSH]",
+    "back": "She's wearing a black dress and white shoes.",
+    "context": "Agreement: robe (f) → noire; chaussures (f pl) → blanches."
+  },
+  {
+    "id": "fr-233",
+    "front": "Mon frère est grand et sportif.",
+    "pronunciation": "[mohn frehr eh GRAHN ay spor-TEEF]",
+    "back": "My brother is tall and sporty.",
+    "context": "Feminine of -if adjectives: -ive. 'Ma sœur est sportive.'"
+  },
+  {
+    "id": "fr-234",
+    "front": "Ma grand-mère est très gentille.",
+    "pronunciation": "[mah grahn-mehr eh treh zhahn-TEE]",
+    "back": "My grandmother is very kind.",
+    "context": "Gentil → gentille (double l). Don't confuse it with 'gentle'."
+  },
+  {
+    "id": "fr-235",
+    "front": "Le film est trop long.",
+    "pronunciation": "[luh feelm eh troh LOHN]",
+    "back": "The film is too long.",
+    "context": "Long → longue in the feminine. 'Trop' = too, too much."
+  },
+  {
+    "id": "fr-236",
+    "front": "Cette ville est vraiment belle !",
+    "pronunciation": "[set veel eh vreh-mahn BEL]",
+    "back": "This city is really beautiful!",
+    "context": "'Cette' (f) / 'ce' (m) / 'cet' (m before a vowel) = this."
+  },
+  {
+    "id": "fr-237",
+    "front": "Les exercices sont faciles.",
+    "pronunciation": "[lay zeg-zehr-SEES sohn fah-SEEL]",
+    "back": "The exercises are easy.",
+    "context": "Plural adjectives add -s (silent in speech)."
+  },
+  {
+    "id": "fr-238",
+    "front": "Il fait beau aujourd'hui.",
+    "pronunciation": "[eel feh BOH oh-zhoor-DWEE]",
+    "back": "The weather is nice today.",
+    "context": "Weather uses 'il fait': il fait beau, il fait chaud, il fait froid."
+  },
+  {
+    "id": "fr-239",
+    "front": "Ce n'est pas cher du tout !",
+    "pronunciation": "[suh neh pah SHEHR dü TOO]",
+    "back": "It's not expensive at all!",
+    "context": "'Pas du tout' = not at all."
+  },
+  {
+    "id": "fr-240",
+    "front": "Mon appartement est petit mais lumineux.",
+    "pronunciation": "[mohn nah-par-tuh-MAHN eh puh-TEE meh lü-mee-NUH]",
+    "back": "My apartment is small but bright.",
+    "context": "'Lumineux' (full of light) is a key word in French apartment listings."
+  }
+]
