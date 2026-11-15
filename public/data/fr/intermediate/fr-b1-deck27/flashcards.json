@@ -1,0 +1,212 @@
+[
+  {
+    "id": "fr-866",
+    "front": "Je suis sûr qu'il va venir.",
+    "pronunciation": "[zhuh swee SÜR keel vah vuh-NEER]",
+    "back": "I'm sure he's going to come.",
+    "context": "Certainty + indicative: 'je suis sûr que il va venir'."
+  },
+  {
+    "id": "fr-867",
+    "front": "Je ne suis pas sûr qu'il vienne.",
+    "pronunciation": "[zhuh nuh swee pah SÜR keel VYEN]",
+    "back": "I'm not sure he'll come.",
+    "context": "Doubt + subjunctive: 'qu'il vienne' (from venir)."
+  },
+  {
+    "id": "fr-868",
+    "front": "Je doute qu'elle ait raison.",
+    "pronunciation": "[zhuh doot kel eh reh-ZOHN]",
+    "back": "I doubt she's right.",
+    "context": "'Douter que' + subjunctive. 'Ait' = subjunctive of avoir."
+  },
+  {
+    "id": "fr-869",
+    "front": "Il est possible qu'il pleuve demain.",
+    "pronunciation": "[ee leh poh-SEE-bluh keel PLUHV duh-MAN]",
+    "back": "It's possible it'll rain tomorrow.",
+    "context": "Possibility + subjunctive: 'qu'il pleuve'."
+  },
+  {
+    "id": "fr-870",
+    "front": "Il est probable qu'on arrive en retard.",
+    "pronunciation": "[ee leh proh-BAH-bluh kohn nah-reev ahn ruh-TAR]",
+    "back": "We'll probably arrive late.",
+    "context": "'Il est probable que' takes the indicative (it's more than 50%)."
+  },
+  {
+    "id": "fr-871",
+    "front": "Peut-être qu'il a oublié.",
+    "pronunciation": "[puh-teh-truh kee lah oo-blee-YAY]",
+    "back": "Maybe he forgot.",
+    "context": "'Peut-être que' + indicative. Very common in speech."
+  },
+  {
+    "id": "fr-872",
+    "front": "Il a sans doute raté son train.",
+    "pronunciation": "[ee lah sahn DOOT rah-tay sohn TRAN]",
+    "back": "He probably missed his train.",
+    "context": "False friend: 'sans doute' = probably. 'Sans aucun doute' = without a doubt."
+  },
+  {
+    "id": "fr-873",
+    "front": "Sans aucun doute, c'est le meilleur restaurant de la ville.",
+    "pronunciation": "[sahn zoh-kan DOOT, seh luh meh-yuhr res-toh-RAHN duh lah VEEL]",
+    "back": "Without a doubt, it's the best restaurant in town.",
+    "context": "'Sans aucun doute' = certainly, no doubt about it."
+  },
+  {
+    "id": "fr-874",
+    "front": "Je suis certaine de l'avoir vu quelque part.",
+    "pronunciation": "[zhuh swee sehr-TEN duh lah-vwahr vü kel-kuh PAR]",
+    "back": "I'm certain I've seen him somewhere.",
+    "context": "'Être certain(e) de' + infinitive."
+  },
+  {
+    "id": "fr-875",
+    "front": "Ça m'étonnerait.",
+    "pronunciation": "[sah may-toh-nuh-REH]",
+    "back": "I'd be surprised.",
+    "context": "A polite way to express strong doubt."
+  },
+  {
+    "id": "fr-876",
+    "front": "Ça m'étonnerait qu'il accepte.",
+    "pronunciation": "[sah may-toh-nuh-reh kee lak-SEPT]",
+    "back": "I'd be surprised if he accepted.",
+    "context": "Followed by the subjunctive: 'qu'il accepte'."
+  },
+  {
+    "id": "fr-877",
+    "front": "J'en suis convaincu.",
+    "pronunciation": "[zhahn swee kohn-van-KÜ]",
+    "back": "I'm convinced of it.",
+    "context": "'En' replaces 'de cela'."
+  },
+  {
+    "id": "fr-878",
+    "front": "Il faut que je vérifie.",
+    "pronunciation": "[eel foh kuh zhuh vay-ree-FEE]",
+    "back": "I need to check.",
+    "context": "'Il faut que' + subjunctive."
+  },
+  {
+    "id": "fr-879",
+    "front": "Je n'en sais rien.",
+    "pronunciation": "[zhuh nahn seh RYAN]",
+    "back": "I have no idea.",
+    "context": "Literally 'I know nothing of it'."
+  },
+  {
+    "id": "fr-880",
+    "front": "Aucune idée !",
+    "pronunciation": "[oh-kün ee-DAY]",
+    "back": "No idea!",
+    "context": "Short and informal."
+  },
+  {
+    "id": "fr-881",
+    "front": "Je crois bien que c'est fermé le lundi.",
+    "pronunciation": "[zhuh krwah byan kuh seh fehr-may luh lan-DEE]",
+    "back": "I'm pretty sure it's closed on Mondays.",
+    "context": "'Je crois bien que' = I'm fairly sure that."
+  },
+  {
+    "id": "fr-882",
+    "front": "Il se peut que la réunion soit annulée.",
+    "pronunciation": "[eel suh puh kuh lah ray-ü-nyohn swah tah-nü-LAY]",
+    "back": "The meeting may be cancelled.",
+    "context": "'Il se peut que' + subjunctive = it may be that."
+  },
+  {
+    "id": "fr-883",
+    "front": "Je me demande s'il dit la vérité.",
+    "pronunciation": "[zhuh muh duh-MAHND seel dee lah vay-ree-TAY]",
+    "back": "I wonder if he's telling the truth.",
+    "context": "'Se demander si' = to wonder whether."
+  },
+  {
+    "id": "fr-884",
+    "front": "Ce n'est pas certain du tout.",
+    "pronunciation": "[suh neh pah sehr-tan dü TOO]",
+    "back": "It's not certain at all.",
+    "context": "'Pas du tout' intensifies the negation."
+  },
+  {
+    "id": "fr-885",
+    "front": "À coup sûr, il va gagner.",
+    "pronunciation": "[ah koo SÜR, eel vah gan-YAY]",
+    "back": "He's sure to win.",
+    "context": "'À coup sûr' = for sure."
+  },
+  {
+    "id": "fr-886",
+    "front": "Je parie qu'elle va dire oui.",
+    "pronunciation": "[zhuh pah-REE kel vah deer WEE]",
+    "back": "I bet she'll say yes.",
+    "context": "'Parier' = to bet."
+  },
+  {
+    "id": "fr-887",
+    "front": "Il paraît qu'ils vont se marier.",
+    "pronunciation": "[eel pah-reh keel vohn suh mah-RYAY]",
+    "back": "Apparently they're getting married.",
+    "context": "'Il paraît que' = rumor has it, apparently."
+  },
+  {
+    "id": "fr-888",
+    "front": "Ça ne fait aucun doute.",
+    "pronunciation": "[sah nuh feh oh-kan DOOT]",
+    "back": "There's no doubt about it.",
+    "context": "Firm certainty."
+  },
+  {
+    "id": "fr-889",
+    "front": "Je n'en suis pas si sûr.",
+    "pronunciation": "[zhuh nahn swee pah see SÜR]",
+    "back": "I'm not so sure.",
+    "context": "Polite skepticism."
+  },
+  {
+    "id": "fr-890",
+    "front": "Évidemment, tout le monde le savait.",
+    "pronunciation": "[ay-vee-dah-MAHN, tool MOHND luh sah-VEH]",
+    "back": "Obviously, everyone knew.",
+    "context": "'Évidemment' = obviously; '-emment' is pronounced [ah-MAHN]."
+  },
+  {
+    "id": "fr-891",
+    "front": "Il est évident que c'est une erreur.",
+    "pronunciation": "[ee leh tay-vee-DAHN kuh seh tün eh-RUHR]",
+    "back": "It's obvious that it's a mistake.",
+    "context": "Certainty → indicative."
+  },
+  {
+    "id": "fr-892",
+    "front": "Il n'est pas évident que ce soit une erreur.",
+    "pronunciation": "[eel neh pah zay-vee-DAHN kuh suh swah tün eh-RUHR]",
+    "back": "It's not obvious that it's a mistake.",
+    "context": "Negated certainty → subjunctive."
+  },
+  {
+    "id": "fr-893",
+    "front": "Ça reste à voir.",
+    "pronunciation": "[sah rest ah VWAHR]",
+    "back": "That remains to be seen.",
+    "context": "Uncertainty about the future."
+  },
+  {
+    "id": "fr-894",
+    "front": "On verra bien.",
+    "pronunciation": "[ohn veh-rah BYAN]",
+    "back": "We'll see.",
+    "context": "Relaxed uncertainty."
+  },
+  {
+    "id": "fr-895",
+    "front": "Je suis persuadé que tu vas réussir.",
+    "pronunciation": "[zhuh swee pehr-sü-ah-DAY kuh tü vah ray-ü-SEER]",
+    "back": "I'm convinced you're going to succeed.",
+    "context": "'Persuadé' = convinced. An encouraging sentence."
+  }
+]

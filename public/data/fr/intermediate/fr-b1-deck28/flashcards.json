@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-896",
+    "front": "Bonjour, j'ai une réservation au nom de Martin.",
+    "pronunciation": "[bohn-ZHOOR, zhay ün ray-zehr-vah-SYOHN oh nohn duh mar-TAN]",
+    "back": "Hello, I have a reservation under the name Martin.",
+    "context": "'Au nom de' = under the name of."
+  },
+  {
+    "id": "fr-897",
+    "front": "Je voudrais une chambre double pour trois nuits.",
+    "pronunciation": "[zhuh voo-dreh ün shahm-bruh DOO-bluh poor trwah NWEE]",
+    "back": "I'd like a double room for three nights.",
+    "context": "'Une chambre simple / double / twin' (two beds)."
+  },
+  {
+    "id": "fr-898",
+    "front": "Vous avez encore des chambres disponibles ?",
+    "pronunciation": "[voo zah-vay ahn-kor day shahm-bruh dees-poh-NEE-bluh]",
+    "back": "Do you still have rooms available?",
+    "context": "'Disponible' = available. 'Complet' = full."
+  },
+  {
+    "id": "fr-899",
+    "front": "Désolé, l'hôtel est complet ce week-end.",
+    "pronunciation": "[day-zoh-LAY, loh-tel eh kohm-PLEH suh wee-KEND]",
+    "back": "Sorry, the hotel is fully booked this weekend.",
+    "context": "'Complet' = no vacancies."
+  },
+  {
+    "id": "fr-900",
+    "front": "Le petit-déjeuner est compris ?",
+    "pronunciation": "[luh puh-tee day-zhuh-nay eh kohm-PREE]",
+    "back": "Is breakfast included?",
+    "context": "'Compris' / 'inclus' = included."
+  },
+  {
+    "id": "fr-901",
+    "front": "Le petit-déjeuner est servi de sept heures à dix heures.",
+    "pronunciation": "[luh puh-tee day-zhuh-nay eh sehr-VEE duh seh TUHR ah dee ZUHR]",
+    "back": "Breakfast is served from 7 to 10 a.m.",
+    "context": "'De… à…' = from… to…"
+  },
+  {
+    "id": "fr-902",
+    "front": "À quelle heure faut-il libérer la chambre ?",
+    "pronunciation": "[ah kel uhr foh-teel lee-bay-ray lah SHAHM-bruh]",
+    "back": "What time is check-out?",
+    "context": "'Libérer la chambre' = to vacate the room."
+  },
+  {
+    "id": "fr-903",
+    "front": "Voici votre clé, vous êtes au troisième étage.",
+    "pronunciation": "[vwah-SEE voh-truh KLAY, voo zet oh trwah-zyem ay-TAZH]",
+    "back": "Here's your key, you're on the third floor.",
+    "context": "Many hotels now use 'une carte magnétique' (key card)."
+  },
+  {
+    "id": "fr-904",
+    "front": "Il y a un ascenseur ?",
+    "pronunciation": "[eel yah an nah-sahn-SUHR]",
+    "back": "Is there an elevator?",
+    "context": "Older hotels in France may not have one: worth asking!"
+  },
+  {
+    "id": "fr-905",
+    "front": "Est-ce qu'il y a le wifi dans les chambres ?",
+    "pronunciation": "[es-keel yah luh wee-FEE dahn lay SHAHM-bruh]",
+    "back": "Is there Wi-Fi in the rooms?",
+    "context": "Pronounced [wee-FEE] in France."
+  },
+  {
+    "id": "fr-906",
+    "front": "Quel est le mot de passe du wifi ?",
+    "pronunciation": "[kel eh luh moh duh PAS dü wee-FEE]",
+    "back": "What's the Wi-Fi password?",
+    "context": "'Le mot de passe' = password."
+  },
+  {
+    "id": "fr-907",
+    "front": "La climatisation ne marche pas.",
+    "pronunciation": "[lah klee-mah-tee-zah-SYOHN nuh marsh PAH]",
+    "back": "The air conditioning isn't working.",
+    "context": "'Marcher' = to work (for machines). Also 'la clim'."
+  },
+  {
+    "id": "fr-908",
+    "front": "Il n'y a pas d'eau chaude dans la salle de bain.",
+    "pronunciation": "[eel nyah pah doh SHOHD dahn lah sal duh BAN]",
+    "back": "There's no hot water in the bathroom.",
+    "context": "After negation: 'pas de' (pas d'eau)."
+  },
+  {
+    "id": "fr-909",
+    "front": "Est-ce que je pourrais changer de chambre ?",
+    "pronunciation": "[es-kuh zhuh poo-reh shahn-zhay duh SHAHM-bruh]",
+    "back": "Could I change rooms?",
+    "context": "'Changer de' + noun without article: changer de chambre, de train."
+  },
+  {
+    "id": "fr-910",
+    "front": "La chambre donne sur la rue, c'est un peu bruyant.",
+    "pronunciation": "[lah shahm-bruh dun sür lah RÜ, seh tan puh brwee-YAHN]",
+    "back": "The room faces the street, it's a bit noisy.",
+    "context": "'Donner sur' = to look out onto. 'Bruyant' = noisy."
+  },
+  {
+    "id": "fr-911",
+    "front": "Je préférerais une chambre plus calme, côté cour.",
+    "pronunciation": "[zhuh pray-fay-ruh-reh ün shahm-bruh plü KALM, koh-tay KOOR]",
+    "back": "I'd prefer a quieter room, facing the courtyard.",
+    "context": "'Côté cour' = courtyard side (quieter); 'côté rue' = street side."
+  },
+  {
+    "id": "fr-912",
+    "front": "Pourriez-vous me réveiller à six heures ?",
+    "pronunciation": "[poo-ryay-voo muh ray-veh-yay ah see ZUHR]",
+    "back": "Could you wake me up at six?",
+    "context": "Formal inversion with the conditional: very polite."
+  },
+  {
+    "id": "fr-913",
+    "front": "Je peux laisser mes bagages ici après le départ ?",
+    "pronunciation": "[zhuh puh leh-say may bah-GAHZH ee-SEE ah-preh luh day-PAR]",
+    "back": "Can I leave my luggage here after check-out?",
+    "context": "Most hotels have 'une bagagerie' (luggage room)."
+  },
+  {
+    "id": "fr-914",
+    "front": "La taxe de séjour n'est pas incluse dans le prix.",
+    "pronunciation": "[lah taks duh say-ZHOOR neh pah zan-KLÜZ dahn luh PREE]",
+    "back": "The tourist tax isn't included in the price.",
+    "context": "French towns charge a small 'taxe de séjour' per night."
+  },
+  {
+    "id": "fr-915",
+    "front": "Je voudrais annuler ma réservation.",
+    "pronunciation": "[zhuh voo-dreh ah-nü-lay mah ray-zehr-vah-SYOHN]",
+    "back": "I'd like to cancel my reservation.",
+    "context": "'Annuler' = to cancel. Check 'les conditions d'annulation'."
+  },
+  {
+    "id": "fr-916",
+    "front": "L'annulation est gratuite jusqu'à quarante-huit heures avant l'arrivée.",
+    "pronunciation": "[lah-nü-lah-syohn eh grah-TWEET zhüs-kah kah-rahnt-wee TUHR ah-vahn lah-ree-VAY]",
+    "back": "Cancellation is free up to 48 hours before arrival.",
+    "context": "'Gratuit(e)' = free of charge."
+  },
+  {
+    "id": "fr-917",
+    "front": "J'ai réservé sur internet, voici la confirmation.",
+    "pronunciation": "[zhay ray-zehr-VAY sür an-tehr-NET, vwah-SEE lah kohn-feer-mah-SYOHN]",
+    "back": "I booked online, here's the confirmation.",
+    "context": "'Réserver' = to book."
+  },
+  {
+    "id": "fr-918",
+    "front": "Vous pouvez me recommander un bon restaurant dans le quartier ?",
+    "pronunciation": "[voo poo-vay muh ruh-koh-mahn-day an bohn res-toh-RAHN dahn luh kar-TYAY]",
+    "back": "Can you recommend a good restaurant in the area?",
+    "context": "'Le quartier' = the neighborhood."
+  },
+  {
+    "id": "fr-919",
+    "front": "Le parking de l'hôtel est payant.",
+    "pronunciation": "[luh par-KEENG duh loh-tel eh peh-YAHN]",
+    "back": "The hotel car park is paid.",
+    "context": "'Payant' = with a charge; 'gratuit' = free."
+  },
+  {
+    "id": "fr-920",
+    "front": "Nous avons loué un gîte en Provence.",
+    "pronunciation": "[noo zah-vohn loo-AY an ZHEET ahn proh-VAHNS]",
+    "back": "We rented a holiday cottage in Provence.",
+    "context": "'Un gîte' = a rural holiday rental. 'Une chambre d'hôtes' = a B&B."
+  },
+  {
+    "id": "fr-921",
+    "front": "On a dormi dans une auberge de jeunesse.",
+    "pronunciation": "[ohn nah dor-MEE dahn zün oh-behrzh duh zhuh-NES]",
+    "back": "We slept in a youth hostel.",
+    "context": "'Une auberge de jeunesse' = youth hostel."
+  },
+  {
+    "id": "fr-922",
+    "front": "Le camping est complet en août.",
+    "pronunciation": "[luh kahm-PEENG eh kohm-PLEH ahn NOOT]",
+    "back": "The campsite is full in August.",
+    "context": "'Le camping' = campsite. August is peak season in France."
+  },
+  {
+    "id": "fr-923",
+    "front": "La réception est ouverte vingt-quatre heures sur vingt-quatre.",
+    "pronunciation": "[lah ray-sep-SYOHN eh too-vehrt vant-kah-TRUHR sür vant-KAT-ruh]",
+    "back": "Reception is open 24/7.",
+    "context": "'24 heures sur 24' = round the clock."
+  },
+  {
+    "id": "fr-924",
+    "front": "Pourriez-vous m'appeler un taxi pour demain matin ?",
+    "pronunciation": "[poo-ryay-voo mah-puh-lay an tak-SEE poor duh-man mah-TAN]",
+    "back": "Could you call me a taxi for tomorrow morning?",
+    "context": "Very polite request with 'pourriez-vous'."
+  },
+  {
+    "id": "fr-925",
+    "front": "Je voudrais régler la note, s'il vous plaît.",
+    "pronunciation": "[zhuh voo-dreh ray-glay lah NOT, seel voo PLEH]",
+    "back": "I'd like to settle the bill, please.",
+    "context": "'La note' = hotel bill; 'régler' = to settle (pay)."
+  },
+  {
+    "id": "fr-926",
+    "front": "Le minibar a été utilisé ?",
+    "pronunciation": "[luh mee-nee-BAR ah ay-tay ü-tee-lee-ZAY]",
+    "back": "Was the minibar used?",
+    "context": "Asked at check-out."
+  },
+  {
+    "id": "fr-927",
+    "front": "Votre séjour s'est bien passé ?",
+    "pronunciation": "[voh-truh say-ZHOOR seh byan pah-SAY]",
+    "back": "Did you enjoy your stay?",
+    "context": "'Le séjour' = stay."
+  },
+  {
+    "id": "fr-928",
+    "front": "La vue sur la mer était magnifique.",
+    "pronunciation": "[lah vü sür lah MEHR ay-teh mah-nyee-FEEK]",
+    "back": "The sea view was magnificent.",
+    "context": "'La vue sur' = the view of. Imparfait for description."
+  },
+  {
+    "id": "fr-929",
+    "front": "Je vais laisser un avis positif sur le site.",
+    "pronunciation": "[zhuh veh leh-say an nah-vee poh-zee-TEEF sür luh SEET]",
+    "back": "I'm going to leave a positive review on the website.",
+    "context": "'Un avis' = a review (also an opinion)."
+  },
+  {
+    "id": "fr-930",
+    "front": "Nous espérons vous revoir très bientôt !",
+    "pronunciation": "[noo zes-pay-rohn voo ruh-vwahr treh byan-TOH]",
+    "back": "We hope to see you again very soon!",
+    "context": "The standard hotel goodbye."
+  }
+]

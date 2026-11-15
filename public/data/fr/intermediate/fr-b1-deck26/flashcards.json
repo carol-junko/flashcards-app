@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-831",
+    "front": "À mon avis, c'est une excellente idée.",
+    "pronunciation": "[ah mohn nah-VEE, seh tün ek-seh-lahn tee-DAY]",
+    "back": "In my opinion, it's an excellent idea.",
+    "context": "'À mon avis' = in my opinion. Never 'à mon opinion'."
+  },
+  {
+    "id": "fr-832",
+    "front": "Je pense que tu as tort.",
+    "pronunciation": "[zhuh pahns kuh tü ah TOR]",
+    "back": "I think you're wrong.",
+    "context": "'Avoir tort' = to be wrong. 'Penser que' + indicative in the affirmative."
+  },
+  {
+    "id": "fr-833",
+    "front": "Je ne pense pas que ce soit une bonne solution.",
+    "pronunciation": "[zhuh nuh pahns pah kuh suh swah tün bun soh-lü-SYOHN]",
+    "back": "I don't think it's a good solution.",
+    "context": "In the negative, 'penser que' takes the subjunctive: 'ce soit' (from être)."
+  },
+  {
+    "id": "fr-834",
+    "front": "Selon moi, le problème est ailleurs.",
+    "pronunciation": "[suh-lohn MWAH, luh proh-BLEM eh tah-YUHR]",
+    "back": "As I see it, the problem lies elsewhere.",
+    "context": "'Selon moi' / 'd'après moi' = in my view. 'Ailleurs' = elsewhere."
+  },
+  {
+    "id": "fr-835",
+    "front": "Je suis tout à fait d'accord avec toi.",
+    "pronunciation": "[zhuh swee too tah feh dah-KOR ah-vek TWAH]",
+    "back": "I completely agree with you.",
+    "context": "'Tout à fait' = completely. 'Être d'accord avec' = to agree with."
+  },
+  {
+    "id": "fr-836",
+    "front": "Je ne suis pas du tout d'accord.",
+    "pronunciation": "[zhuh nuh swee pah dü too dah-KOR]",
+    "back": "I don't agree at all.",
+    "context": "'Pas du tout' = not at all. Firm but not rude."
+  },
+  {
+    "id": "fr-837",
+    "front": "Tu as raison sur ce point.",
+    "pronunciation": "[tü ah reh-zohn sür suh PWAN]",
+    "back": "You're right on that point.",
+    "context": "Conceding part of an argument."
+  },
+  {
+    "id": "fr-838",
+    "front": "C'est vrai, mais il faut aussi penser au coût.",
+    "pronunciation": "[seh VREH, meh eel foh oh-see pahn-say oh KOO]",
+    "back": "That's true, but we also have to think about the cost.",
+    "context": "'C'est vrai, mais…' = the classic polite way to add a counterpoint."
+  },
+  {
+    "id": "fr-839",
+    "front": "Je vois ce que tu veux dire, mais je ne suis pas convaincu.",
+    "pronunciation": "[zhuh vwah suh kuh tü vuh DEER, meh zhuh nuh swee pah kohn-van-KÜ]",
+    "back": "I see what you mean, but I'm not convinced.",
+    "context": "'Vouloir dire' = to mean. 'Convaincu(e)' = convinced."
+  },
+  {
+    "id": "fr-840",
+    "front": "Je partage ton avis.",
+    "pronunciation": "[zhuh par-tahzh toh nah-VEE]",
+    "back": "I share your view.",
+    "context": "'Partager l'avis de quelqu'un' = to share someone's opinion."
+  },
+  {
+    "id": "fr-841",
+    "front": "Pas forcément.",
+    "pronunciation": "[pah for-say-MAHN]",
+    "back": "Not necessarily.",
+    "context": "A soft way to disagree."
+  },
+  {
+    "id": "fr-842",
+    "front": "Ça dépend du point de vue.",
+    "pronunciation": "[sah day-pahn dü pwan duh VÜ]",
+    "back": "It depends on your point of view.",
+    "context": "'Ça dépend de' = it depends on."
+  },
+  {
+    "id": "fr-843",
+    "front": "D'un côté, c'est pratique ; de l'autre, c'est cher.",
+    "pronunciation": "[dan koh-TAY, seh prak-TEEK ; duh LOH-truh, seh SHEHR]",
+    "back": "On the one hand it's practical; on the other, it's expensive.",
+    "context": "'D'un côté… de l'autre…' = on the one hand… on the other. French puts a space before ; : ? !"
+  },
+  {
+    "id": "fr-844",
+    "front": "Personnellement, je préférerais attendre.",
+    "pronunciation": "[pehr-soh-nel-MAHN, zhuh pray-fay-ruh-reh ah-TAHN-druh]",
+    "back": "Personally, I'd rather wait.",
+    "context": "Conditional 'préférerais' softens your opinion."
+  },
+  {
+    "id": "fr-845",
+    "front": "Je trouve que ce film est surestimé.",
+    "pronunciation": "[zhuh troov kuh suh feelm eh sü-res-tee-MAY]",
+    "back": "I find this film overrated.",
+    "context": "'Je trouve que' = I find that, I think (very common)."
+  },
+  {
+    "id": "fr-846",
+    "front": "Il me semble que tu exagères un peu.",
+    "pronunciation": "[eel muh SAHM-bluh kuh tü eg-zah-ZHEHR an PUH]",
+    "back": "It seems to me you're exaggerating a bit.",
+    "context": "'Il me semble que' + indicative = it seems to me that (gentle)."
+  },
+  {
+    "id": "fr-847",
+    "front": "Absolument !",
+    "pronunciation": "[ab-soh-lü-MAHN]",
+    "back": "Absolutely!",
+    "context": "Strong agreement. Also: 'Exactement !', 'Tout à fait !'"
+  },
+  {
+    "id": "fr-848",
+    "front": "Je ne dirais pas ça.",
+    "pronunciation": "[zhuh nuh dee-reh pah SAH]",
+    "back": "I wouldn't say that.",
+    "context": "A diplomatic way to disagree."
+  },
+  {
+    "id": "fr-849",
+    "front": "Tu plaisantes ?",
+    "pronunciation": "[tü pleh-ZAHNT]",
+    "back": "Are you kidding?",
+    "context": "Surprised disagreement. Informal: 'Tu rigoles ?'"
+  },
+  {
+    "id": "fr-850",
+    "front": "Je suis plutôt d'accord, sauf sur un point.",
+    "pronunciation": "[zhuh swee plü-toh dah-KOR, sohf sür an PWAN]",
+    "back": "I mostly agree, except on one point.",
+    "context": "'Plutôt' = rather, mostly. 'Sauf' = except."
+  },
+  {
+    "id": "fr-851",
+    "front": "Je comprends ton point de vue, mais je vois les choses autrement.",
+    "pronunciation": "[zhuh kohm-prahn tohn pwan duh VÜ, meh zhuh vwah lay shohz oh-truh-MAHN]",
+    "back": "I understand your point of view, but I see things differently.",
+    "context": "'Autrement' = differently."
+  },
+  {
+    "id": "fr-852",
+    "front": "Sur ce sujet, nos avis divergent.",
+    "pronunciation": "[sür suh sü-ZHEH, noh zah-VEE dee-VEHRZH]",
+    "back": "On this subject, our opinions differ.",
+    "context": "'Diverger' = to differ (formal)."
+  },
+  {
+    "id": "fr-853",
+    "front": "Je change d'avis : tu m'as convaincu.",
+    "pronunciation": "[zhuh shahnzh dah-VEE : tü mah kohn-van-KÜ]",
+    "back": "I've changed my mind: you've convinced me.",
+    "context": "'Changer d'avis' = to change one's mind."
+  },
+  {
+    "id": "fr-854",
+    "front": "Qu'est-ce que tu en penses ?",
+    "pronunciation": "[kehs-kuh tü ahn PAHNS]",
+    "back": "What do you think about it?",
+    "context": "'En' replaces 'de ça'. The most common way to ask for an opinion."
+  },
+  {
+    "id": "fr-855",
+    "front": "Quel est votre avis sur la question ?",
+    "pronunciation": "[kel eh voh-truh ah-VEE sür lah kes-TYOHN]",
+    "back": "What's your opinion on the matter?",
+    "context": "Formal version for meetings and debates."
+  },
+  {
+    "id": "fr-856",
+    "front": "Je n'ai pas d'avis là-dessus.",
+    "pronunciation": "[zhuh neh pah dah-VEE lahd-SÜ]",
+    "back": "I don't have an opinion on that.",
+    "context": "'Là-dessus' = on that (subject)."
+  },
+  {
+    "id": "fr-857",
+    "front": "Bien sûr que non !",
+    "pronunciation": "[byan sür kuh NOHN]",
+    "back": "Of course not!",
+    "context": "Emphatic disagreement. 'Bien sûr que oui !' = of course!"
+  },
+  {
+    "id": "fr-858",
+    "front": "Tu n'as pas tout à fait tort.",
+    "pronunciation": "[tü nah pah too tah feh TOR]",
+    "back": "You're not entirely wrong.",
+    "context": "A tactful partial agreement."
+  },
+  {
+    "id": "fr-859",
+    "front": "Ce n'est pas faux.",
+    "pronunciation": "[suh neh pah FOH]",
+    "back": "That's not wrong.",
+    "context": "A typically French understatement for 'that's true'."
+  },
+  {
+    "id": "fr-860",
+    "front": "C'est discutable.",
+    "pronunciation": "[seh dees-kü-TAH-bluh]",
+    "back": "That's debatable.",
+    "context": "Polite doubt about an argument."
+  },
+  {
+    "id": "fr-861",
+    "front": "Je suis contre cette réforme.",
+    "pronunciation": "[zhuh swee kohn-truh set ray-FORM]",
+    "back": "I'm against this reform.",
+    "context": "'Être pour / contre' = to be for / against."
+  },
+  {
+    "id": "fr-862",
+    "front": "La plupart des gens sont pour.",
+    "pronunciation": "[lah plü-par day ZHAHN sohn POOR]",
+    "back": "Most people are in favor.",
+    "context": "'La plupart des' + plural noun, with a plural verb."
+  },
+  {
+    "id": "fr-863",
+    "front": "On est sur la même longueur d'onde.",
+    "pronunciation": "[ohn neh sür lah mem lohn-guhr DOHND]",
+    "back": "We're on the same wavelength.",
+    "context": "Idiom for being in agreement."
+  },
+  {
+    "id": "fr-864",
+    "front": "Je te l'accorde, mais…",
+    "pronunciation": "[zhuh tuh lah-KORD, meh]",
+    "back": "I'll grant you that, but…",
+    "context": "'Accorder' = to grant. Concession before a counterargument."
+  },
+  {
+    "id": "fr-865",
+    "front": "Mettons-nous d'accord sur l'essentiel.",
+    "pronunciation": "[meh-tohn-noo dah-KOR sür leh-sahn-SYEL]",
+    "back": "Let's agree on the essentials.",
+    "context": "'Se mettre d'accord' = to reach an agreement."
+  }
+]
