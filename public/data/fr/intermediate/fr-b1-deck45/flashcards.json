@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-1491",
+    "front": "C'est le plus beau jour de ma vie.",
+    "pronunciation": "[seh luh plü boh zhoor duh mah VEE]",
+    "back": "It's the best day of my life.",
+    "context": "Superlative: le/la/les + plus/moins + adjective. 'De' (not 'dans') introduces the group: de ma vie."
+  },
+  {
+    "id": "fr-1492",
+    "front": "C'est la ville la plus touristique de France.",
+    "pronunciation": "[seh lah veel lah plü too-rees-TEEK duh FRAHNS]",
+    "back": "It's the most touristy city in France.",
+    "context": "When the adjective follows the noun, repeat the article: la ville LA plus touristique."
+  },
+  {
+    "id": "fr-1493",
+    "front": "C'est le plat le moins cher du menu.",
+    "pronunciation": "[seh luh plah luh mwan SHEHR dü muh-NÜ]",
+    "back": "It's the cheapest dish on the menu.",
+    "context": "'Le moins' = the least."
+  },
+  {
+    "id": "fr-1494",
+    "front": "C'est le meilleur restaurant du quartier.",
+    "pronunciation": "[seh luh meh-yuhr res-toh-RAHN dü kar-TYAY]",
+    "back": "It's the best restaurant in the neighborhood.",
+    "context": "Bon → le meilleur (never 'le plus bon')."
+  },
+  {
+    "id": "fr-1495",
+    "front": "C'est elle qui chante le mieux.",
+    "pronunciation": "[seh tel kee shahnt luh MYUH]",
+    "back": "She's the one who sings best.",
+    "context": "Bien → le mieux (adverb, invariable)."
+  },
+  {
+    "id": "fr-1496",
+    "front": "C'est le pire film que j'aie jamais vu.",
+    "pronunciation": "[seh luh peer feelm kuh zhay zhah-meh VÜ]",
+    "back": "It's the worst film I've ever seen.",
+    "context": "After a superlative + que, French uses the subjunctive: 'que j'aie jamais vu'."
+  },
+  {
+    "id": "fr-1497",
+    "front": "C'est la plus belle chose qui me soit arrivée.",
+    "pronunciation": "[seh lah plü bel shohz kee muh swah tah-ree-VAY]",
+    "back": "It's the most beautiful thing that's ever happened to me.",
+    "context": "Superlative + qui + subjunctive (soit arrivée)."
+  },
+  {
+    "id": "fr-1498",
+    "front": "Le mont Blanc est le plus haut sommet d'Europe occidentale.",
+    "pronunciation": "[luh mohn BLAHN eh luh plü oh soh-meh duh-rop ok-see-dahn-TAL]",
+    "back": "Mont Blanc is the highest peak in Western Europe.",
+    "context": "About 4,800 m high, on the French-Italian border."
+  },
+  {
+    "id": "fr-1499",
+    "front": "La Loire est le plus long fleuve de France.",
+    "pronunciation": "[lah LWAHR eh luh plü lohn fluhv duh FRAHNS]",
+    "back": "The Loire is the longest river in France.",
+    "context": "'Un fleuve' flows into the sea; 'une rivière' into another river."
+  },
+  {
+    "id": "fr-1500",
+    "front": "C'est lui qui travaille le plus.",
+    "pronunciation": "[seh lwee kee trah-vahy luh PLÜS]",
+    "back": "He's the one who works the most.",
+    "context": "With verbs: verb + le plus / le moins."
+  },
+  {
+    "id": "fr-1501",
+    "front": "C'est elle qui a le plus d'expérience.",
+    "pronunciation": "[seh tel kee ah luh plü dek-spay-RYAHNS]",
+    "back": "She's the one with the most experience.",
+    "context": "With nouns: le plus de / le moins de + noun."
+  },
+  {
+    "id": "fr-1502",
+    "front": "C'est l'une des plus grandes villes du monde.",
+    "pronunciation": "[seh lün day plü grahnd veel dü MOHND]",
+    "back": "It's one of the biggest cities in the world.",
+    "context": "'L'un(e) des' + plural superlative = one of the…"
+  },
+  {
+    "id": "fr-1503",
+    "front": "C'était vraiment super !",
+    "pronunciation": "[seh-teh vreh-mahn sü-PEHR]",
+    "back": "It was really great!",
+    "context": "Intensifiers: vraiment, très, super, hyper (informal)."
+  },
+  {
+    "id": "fr-1504",
+    "front": "Ce gâteau est extrêmement bon.",
+    "pronunciation": "[suh gah-toh eh tek-strem-mahn BOHN]",
+    "back": "This cake is extremely good.",
+    "context": "'Extrêmement' = extremely."
+  },
+  {
+    "id": "fr-1505",
+    "front": "Il fait une chaleur incroyable.",
+    "pronunciation": "[eel feh tün shah-luhr an-krwah-YAH-bluh]",
+    "back": "It's incredibly hot.",
+    "context": "'Incroyable' = incredible."
+  },
+  {
+    "id": "fr-1506",
+    "front": "Ce paysage est absolument magnifique.",
+    "pronunciation": "[suh pay-ee-ZAHZH eh tab-soh-lü-mahn mah-nyee-FEEK]",
+    "back": "This landscape is absolutely magnificent.",
+    "context": "'Absolument' with strong adjectives (magnifique, génial, horrible) instead of 'très'."
+  },
+  {
+    "id": "fr-1507",
+    "front": "Le film était hyper long.",
+    "pronunciation": "[luh feelm ay-teh ee-pehr LOHN]",
+    "back": "The film was super long.",
+    "context": "'Hyper' / 'super' / 'trop' = very (informal)."
+  },
+  {
+    "id": "fr-1508",
+    "front": "C'est le moindre de mes soucis.",
+    "pronunciation": "[seh luh mwan-druh duh may soo-SEE]",
+    "back": "It's the least of my worries.",
+    "context": "'Le moindre' = the least (formal), mainly in fixed expressions."
+  },
+  {
+    "id": "fr-1509",
+    "front": "Je n'ai pas la moindre idée.",
+    "pronunciation": "[zhuh neh pah lah mwan-dree-DAY]",
+    "back": "I haven't the slightest idea.",
+    "context": "'La moindre' = the slightest."
+  },
+  {
+    "id": "fr-1510",
+    "front": "C'est vraiment le comble !",
+    "pronunciation": "[seh vreh-mahn luh KOHM-bluh]",
+    "back": "That's the last straw!",
+    "context": "'Le comble' = the height of something, the limit."
+  },
+  {
+    "id": "fr-1511",
+    "front": "Il fait un froid glacial ce matin.",
+    "pronunciation": "[eel feh tan frwah glah-SYAL suh mah-TAN]",
+    "back": "It's freezing cold this morning.",
+    "context": "Extreme adjectives: glacial (freezing), brûlant (scorching), énorme (huge), minuscule (tiny)."
+  },
+  {
+    "id": "fr-1512",
+    "front": "Leur maison est immense.",
+    "pronunciation": "[luhr meh-zohn eh tee-MAHNS]",
+    "back": "Their house is huge.",
+    "context": "'Immense' already means very big: no 'très' needed."
+  },
+  {
+    "id": "fr-1513",
+    "front": "C'était nul, mais vraiment nul !",
+    "pronunciation": "[seh-teh NÜL, meh vreh-mahn NÜL]",
+    "back": "It was rubbish, really rubbish!",
+    "context": "Repetition for emphasis is common in speech."
+  },
+  {
+    "id": "fr-1514",
+    "front": "Je suis mort de fatigue.",
+    "pronunciation": "[zhuh swee mor duh fah-TEEG]",
+    "back": "I'm dead tired.",
+    "context": "'Mort de' + noun: mort de peur, mort de rire."
+  },
+  {
+    "id": "fr-1515",
+    "front": "C'est la première fois que je viens ici.",
+    "pronunciation": "[seh lah pruh-myehr fwah kuh zhuh vyan zee-SEE]",
+    "back": "It's the first time I've come here.",
+    "context": "French uses the present after 'c'est la première fois que' (English uses the present perfect)."
+  },
+  {
+    "id": "fr-1516",
+    "front": "C'est le seul qui m'ait aidé.",
+    "pronunciation": "[seh luh SUHL kee meh teh-DAY]",
+    "back": "He's the only one who helped me.",
+    "context": "After 'le seul' + qui, the subjunctive is common (m'ait aidé)."
+  },
+  {
+    "id": "fr-1517",
+    "front": "De toutes les saisons, je préfère l'automne.",
+    "pronunciation": "[duh toot lay seh-ZOHN, zhuh pray-fehr loh-TUN]",
+    "back": "Of all the seasons, I prefer autumn.",
+    "context": "'De tous / de toutes' = of all."
+  },
+  {
+    "id": "fr-1518",
+    "front": "C'est la moindre des choses.",
+    "pronunciation": "[seh lah mwan-druh day SHOHZ]",
+    "back": "It's the least I could do.",
+    "context": "Reply to thanks: it was nothing."
+  },
+  {
+    "id": "fr-1519",
+    "front": "Ce sont les gens les plus gentils que je connaisse.",
+    "pronunciation": "[suh sohn lay zhahn lay plü zhahn-TEE kuh zhuh koh-NES]",
+    "back": "They're the kindest people I know.",
+    "context": "Superlative + que + subjunctive: que je connaisse."
+  },
+  {
+    "id": "fr-1520",
+    "front": "Rien n'est plus important que la santé.",
+    "pronunciation": "[ryan neh plü zan-por-TAHN kuh lah sahn-TAY]",
+    "back": "Nothing is more important than health.",
+    "context": "'Rien n'est plus… que' = nothing is more… than."
+  },
+  {
+    "id": "fr-1521",
+    "front": "Ça m'a fait le plus grand bien.",
+    "pronunciation": "[sah mah feh luh plü grahn BYAN]",
+    "back": "It did me a world of good.",
+    "context": "'Faire du bien' = to do good; 'le plus grand bien' = the greatest good."
+  },
+  {
+    "id": "fr-1522",
+    "front": "Elle a eu la meilleure note de la classe.",
+    "pronunciation": "[el ah ü lah meh-yuhr NOT duh lah KLAS]",
+    "back": "She got the best grade in the class.",
+    "context": "'Meilleur' agrees: la meilleure."
+  },
+  {
+    "id": "fr-1523",
+    "front": "C'est de loin le meilleur livre de l'année.",
+    "pronunciation": "[seh duh LWAN luh meh-yuhr LEE-vruh duh lah-NAY]",
+    "back": "It's by far the best book of the year.",
+    "context": "'De loin' = by far."
+  },
+  {
+    "id": "fr-1524",
+    "front": "On a vécu les pires moments ensemble.",
+    "pronunciation": "[ohn nah vay-kü lay peer moh-MAHN ahn-SAHM-bluh]",
+    "back": "We went through the worst times together.",
+    "context": "'Les pires' = the worst (plural)."
+  },
+  {
+    "id": "fr-1525",
+    "front": "Le plus important, c'est d'être heureux.",
+    "pronunciation": "[luh plü zan-por-TAHN, seh deh-truh uh-RUH]",
+    "back": "The most important thing is to be happy.",
+    "context": "'Le plus important, c'est de' + infinitive."
+  }
+]
