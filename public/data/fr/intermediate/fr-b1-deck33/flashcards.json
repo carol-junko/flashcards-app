@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-1071",
+    "front": "Je voudrais ouvrir un compte bancaire.",
+    "pronunciation": "[zhuh voo-dreh oo-vreer an kohnt bahn-KEHR]",
+    "back": "I'd like to open a bank account.",
+    "context": "'Un compte courant' = checking account; 'un compte épargne' = savings account."
+  },
+  {
+    "id": "fr-1072",
+    "front": "Quels documents faut-il fournir ?",
+    "pronunciation": "[kel doh-kü-mahn foh-teel foor-NEER]",
+    "back": "What documents do I need to provide?",
+    "context": "Usually ID, proof of address ('justificatif de domicile') and sometimes proof of income."
+  },
+  {
+    "id": "fr-1073",
+    "front": "Voici mon justificatif de domicile.",
+    "pronunciation": "[vwah-SEE mohn zhüs-tee-fee-kah-TEEF duh doh-mee-SEEL]",
+    "back": "Here's my proof of address.",
+    "context": "A recent utility bill or rent receipt."
+  },
+  {
+    "id": "fr-1074",
+    "front": "Il me faut un RIB pour mon employeur.",
+    "pronunciation": "[eel muh foh tan REEB poor mohn nahn-plwah-YUHR]",
+    "back": "I need my bank details for my employer.",
+    "context": "'Un RIB' (relevé d'identité bancaire) = bank details slip with your IBAN. Asked for everything in France."
+  },
+  {
+    "id": "fr-1075",
+    "front": "Je voudrais faire un virement.",
+    "pronunciation": "[zhuh voo-dreh fehr an veer-MAHN]",
+    "back": "I'd like to make a transfer.",
+    "context": "'Un virement' = bank transfer."
+  },
+  {
+    "id": "fr-1076",
+    "front": "J'ai reçu le virement hier.",
+    "pronunciation": "[zhay ruh-SÜ luh veer-MAHN YEHR]",
+    "back": "I received the transfer yesterday.",
+    "context": "'Recevoir' → reçu."
+  },
+  {
+    "id": "fr-1077",
+    "front": "Je voudrais retirer de l'argent.",
+    "pronunciation": "[zhuh voo-dreh ruh-tee-ray duh lar-ZHAHN]",
+    "back": "I'd like to withdraw some money.",
+    "context": "'Retirer' = to withdraw; 'déposer' = to deposit."
+  },
+  {
+    "id": "fr-1078",
+    "front": "Où est le distributeur le plus proche ?",
+    "pronunciation": "[oo eh luh dees-tree-bü-TUHR luh plü PROSH]",
+    "back": "Where's the nearest ATM?",
+    "context": "'Le distributeur (de billets)' or 'le DAB' = ATM."
+  },
+  {
+    "id": "fr-1079",
+    "front": "Le distributeur a avalé ma carte !",
+    "pronunciation": "[luh dees-tree-bü-tuhr ah ah-vah-LAY mah KART]",
+    "back": "The ATM swallowed my card!",
+    "context": "'Avaler' = to swallow."
+  },
+  {
+    "id": "fr-1080",
+    "front": "J'ai perdu ma carte bancaire, il faut que je fasse opposition.",
+    "pronunciation": "[zhay pehr-dü mah kart bahn-KEHR, eel foh kuh zhuh fas oh-poh-zee-SYOHN]",
+    "back": "I lost my bank card, I need to have it blocked.",
+    "context": "'Faire opposition' = to block/cancel a card. 'Il faut que' + subjunctive (fasse). Call your bank right away."
+  },
+  {
+    "id": "fr-1081",
+    "front": "Quel est le plafond de retrait ?",
+    "pronunciation": "[kel eh luh plah-fohn duh ruh-TREH]",
+    "back": "What's the withdrawal limit?",
+    "context": "'Le plafond' = ceiling, limit."
+  },
+  {
+    "id": "fr-1082",
+    "front": "Vous pouvez payer sans contact.",
+    "pronunciation": "[voo poo-vay peh-yay sahn kohn-TAKT]",
+    "back": "You can pay contactless.",
+    "context": "'Sans contact' = contactless."
+  },
+  {
+    "id": "fr-1083",
+    "front": "Tapez votre code, s'il vous plaît.",
+    "pronunciation": "[tah-pay voh-truh KOD, seel voo PLEH]",
+    "back": "Enter your PIN, please.",
+    "context": "'Le code' = PIN."
+  },
+  {
+    "id": "fr-1084",
+    "front": "Mon compte est à découvert.",
+    "pronunciation": "[mohn kohnt eh tah day-koo-VEHR]",
+    "back": "My account is overdrawn.",
+    "context": "'Être à découvert' = to be overdrawn."
+  },
+  {
+    "id": "fr-1085",
+    "front": "Il y a des frais pour les paiements à l'étranger ?",
+    "pronunciation": "[eel yah day FREH poor lay peh-mahn ah lay-trahn-ZHAY]",
+    "back": "Are there fees for payments abroad?",
+    "context": "'Les frais' = fees. 'À l'étranger' = abroad."
+  },
+  {
+    "id": "fr-1086",
+    "front": "Je voudrais changer des dollars en euros.",
+    "pronunciation": "[zhuh voo-dreh shahn-zhay day doh-LAR ahn nuh-ROH]",
+    "back": "I'd like to change dollars into euros.",
+    "context": "'Le bureau de change' = currency exchange."
+  },
+  {
+    "id": "fr-1087",
+    "front": "Quel est le taux de change aujourd'hui ?",
+    "pronunciation": "[kel eh luh toh duh SHAHNZH oh-zhoor-DWEE]",
+    "back": "What's the exchange rate today?",
+    "context": "'Le taux' = rate. 'Le taux d'intérêt' = interest rate."
+  },
+  {
+    "id": "fr-1088",
+    "front": "Je fais des économies pour acheter une voiture.",
+    "pronunciation": "[zhuh feh day zay-koh-noh-MEE poor ahsh-tay ün vwah-TÜR]",
+    "back": "I'm saving up to buy a car.",
+    "context": "'Faire des économies' = to save money."
+  },
+  {
+    "id": "fr-1089",
+    "front": "J'ai fait un emprunt pour acheter mon appartement.",
+    "pronunciation": "[zhay feh tan nahn-PRAN poor ahsh-tay mohn nah-par-tuh-MAHN]",
+    "back": "I took out a loan to buy my apartment.",
+    "context": "'Un emprunt' = loan (from the borrower's side). 'Un prêt immobilier' = mortgage."
+  },
+  {
+    "id": "fr-1090",
+    "front": "Les mensualités sont de neuf cents euros.",
+    "pronunciation": "[lay mahn-sü-ah-lee-TAY sohn duh nuhf sahn zuh-ROH]",
+    "back": "The monthly payments are nine hundred euros.",
+    "context": "'Les mensualités' = monthly installments."
+  },
+  {
+    "id": "fr-1091",
+    "front": "Je dois prendre rendez-vous avec mon conseiller bancaire.",
+    "pronunciation": "[zhuh dwah prahn-druh rahn-day-VOO ah-vek mohn kohn-seh-yay bahn-KEHR]",
+    "back": "I need to make an appointment with my bank adviser.",
+    "context": "In France each customer usually has a named 'conseiller'."
+  },
+  {
+    "id": "fr-1092",
+    "front": "Je consulte mon solde sur l'application.",
+    "pronunciation": "[zhuh kohn-sült mohn SOLD sür lah-plee-kah-SYOHN]",
+    "back": "I check my balance on the app.",
+    "context": "'Le solde' = balance (also 'les soldes' = the sales)."
+  },
+  {
+    "id": "fr-1093",
+    "front": "Ce mois-ci, j'ai beaucoup dépensé.",
+    "pronunciation": "[suh mwah-SEE, zhay boh-koo day-pahn-SAY]",
+    "back": "This month I spent a lot.",
+    "context": "'Dépenser' = to spend (money); 'passer' = to spend (time)."
+  },
+  {
+    "id": "fr-1094",
+    "front": "Le paiement a été refusé.",
+    "pronunciation": "[luh peh-mahn ah ay-tay ruh-fü-ZAY]",
+    "back": "The payment was declined.",
+    "context": "'Refuser' = to decline."
+  },
+  {
+    "id": "fr-1095",
+    "front": "Vous pouvez me faire un reçu ?",
+    "pronunciation": "[voo poo-vay muh fehr an ruh-SÜ]",
+    "back": "Can you give me a receipt?",
+    "context": "'Un reçu' = receipt. For a business: 'une facture' (invoice)."
+  },
+  {
+    "id": "fr-1096",
+    "front": "Je paie en trois fois sans frais.",
+    "pronunciation": "[zhuh peh ahn trwah FWAH sahn FREH]",
+    "back": "I'm paying in three installments, interest-free.",
+    "context": "'En trois fois' = in three installments: common in French shops."
+  },
+  {
+    "id": "fr-1097",
+    "front": "Le chèque est encore utilisé en France, mais de moins en moins.",
+    "pronunciation": "[luh SHEK eh tahn-kor ü-tee-lee-ZAY ahn FRAHNS, meh duh mwan zahn MWAN]",
+    "back": "Checks are still used in France, but less and less.",
+    "context": "'De moins en moins' = less and less; 'de plus en plus' = more and more."
+  },
+  {
+    "id": "fr-1098",
+    "front": "Je rembourse mon ami demain.",
+    "pronunciation": "[zhuh rahm-boors mohn nah-MEE duh-MAN]",
+    "back": "I'm paying my friend back tomorrow.",
+    "context": "'Rembourser' = to pay back, refund."
+  },
+  {
+    "id": "fr-1099",
+    "front": "Tu peux me prêter vingt euros ?",
+    "pronunciation": "[tü puh muh preh-tay van tuh-ROH]",
+    "back": "Can you lend me twenty euros?",
+    "context": "'Prêter' = to lend; 'emprunter' = to borrow."
+  },
+  {
+    "id": "fr-1100",
+    "front": "Je t'envoie l'argent par Lydia.",
+    "pronunciation": "[zhuh tahn-vwah lar-ZHAHN par lee-DYAH]",
+    "back": "I'll send you the money via Lydia.",
+    "context": "Lydia and Wero are popular French apps for paying friends back."
+  },
+  {
+    "id": "fr-1101",
+    "front": "Les impôts sont prélevés à la source.",
+    "pronunciation": "[lay zan-POH sohn pray-luh-vay ah lah SOORS]",
+    "back": "Taxes are deducted at source.",
+    "context": "'Prélever' = to deduct. Income tax is withheld from salaries in France."
+  },
+  {
+    "id": "fr-1102",
+    "front": "J'ai un prélèvement automatique pour le loyer.",
+    "pronunciation": "[zhay an pray-lev-mahn oh-toh-mah-TEEK poor luh lwah-YAY]",
+    "back": "I have a direct debit for the rent.",
+    "context": "'Un prélèvement' = direct debit. 'Le loyer' = rent."
+  },
+  {
+    "id": "fr-1103",
+    "front": "Mon salaire tombe le vingt-huit du mois.",
+    "pronunciation": "[mohn sah-lehr tohmb luh vant-weet dü MWAH]",
+    "back": "My salary comes in on the 28th of the month.",
+    "context": "'Le salaire tombe' (falls) = gets paid in (informal)."
+  },
+  {
+    "id": "fr-1104",
+    "front": "C'est hors de prix !",
+    "pronunciation": "[seh or duh PREE]",
+    "back": "It's outrageously expensive!",
+    "context": "'Hors de prix' = overpriced."
+  },
+  {
+    "id": "fr-1105",
+    "front": "Ça coûte les yeux de la tête.",
+    "pronunciation": "[sah koot lay zyuh duh lah TET]",
+    "back": "It costs an arm and a leg.",
+    "context": "Literally 'it costs the eyes of the head'."
+  }
+]

@@ -285,8 +285,7 @@
     "category": "Technology & Media",
     "title": "Computers & Gadgets",
     "description": "Devices, apps, technical problems and getting help.",
-    "cardCount": 35,
-    "comingSoon": true
+    "cardCount": 35
   },
   {
     "id": "fr-b1-deck33",
@@ -295,8 +294,7 @@
     "category": "Services",
     "title": "At the Bank & Money Matters",
     "description": "Open an account, transfers, cards and everyday money in France.",
-    "cardCount": 35,
-    "comingSoon": true
+    "cardCount": 35
   },
   {
     "id": "fr-b1-deck34",
@@ -305,8 +303,7 @@
     "category": "Services",
     "title": "At the Pharmacy & Post Office",
     "description": "Medicines, prescriptions, parcels and administrative errands.",
-    "cardCount": 35,
-    "comingSoon": true
+    "cardCount": 35
   },
   {
     "id": "fr-b1-deck35",

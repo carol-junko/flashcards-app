@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-1106",
+    "front": "Bonjour, j'ai une ordonnance à vous donner.",
+    "pronunciation": "[bohn-ZHOOR, zhay ün or-doh-NAHNS ah voo doh-NAY]",
+    "back": "Hello, I have a prescription for you.",
+    "context": "Give the 'ordonnance' and your Carte Vitale to the pharmacist."
+  },
+  {
+    "id": "fr-1107",
+    "front": "Vous avez quelque chose contre le mal de gorge ?",
+    "pronunciation": "[voo zah-vay kel-kuh shohz kohn-truh luh mahl duh GORZH]",
+    "back": "Do you have something for a sore throat?",
+    "context": "'Contre' = against, for (a symptom)."
+  },
+  {
+    "id": "fr-1108",
+    "front": "Ce médicament est disponible sans ordonnance.",
+    "pronunciation": "[suh may-dee-kah-MAHN eh dees-poh-NEE-bluh sahn zor-doh-NAHNS]",
+    "back": "This medicine is available without a prescription.",
+    "context": "In France, even basic medicines are sold in pharmacies, not supermarkets."
+  },
+  {
+    "id": "fr-1109",
+    "front": "Prenez deux comprimés toutes les six heures.",
+    "pronunciation": "[pruh-nay duh kohm-pree-MAY toot lay see ZUHR]",
+    "back": "Take two tablets every six hours.",
+    "context": "'Un comprimé' = tablet; 'une gélule' = capsule; 'un sirop' = syrup."
+  },
+  {
+    "id": "fr-1110",
+    "front": "À prendre pendant les repas.",
+    "pronunciation": "[ah PRAHN-druh pahn-dahn lay ruh-PAH]",
+    "back": "To be taken with meals.",
+    "context": "Typical instructions on medicine boxes."
+  },
+  {
+    "id": "fr-1111",
+    "front": "Est-ce qu'il y a des effets secondaires ?",
+    "pronunciation": "[es-keel yah day zeh-feh suh-kohn-DEHR]",
+    "back": "Are there any side effects?",
+    "context": "'Les effets secondaires' = side effects."
+  },
+  {
+    "id": "fr-1112",
+    "front": "Ne dépassez pas la dose prescrite.",
+    "pronunciation": "[nuh day-pah-say pah lah dohz pres-KREET]",
+    "back": "Do not exceed the prescribed dose.",
+    "context": "Warning on every medicine leaflet ('la notice')."
+  },
+  {
+    "id": "fr-1113",
+    "front": "Vous avez la version générique ?",
+    "pronunciation": "[voo zah-vay lah vehr-syohn zhay-nay-REEK]",
+    "back": "Do you have the generic version?",
+    "context": "French pharmacists often substitute generics automatically."
+  },
+  {
+    "id": "fr-1114",
+    "front": "Je me suis fait piquer par un moustique, ça me gratte.",
+    "pronunciation": "[zhuh muh swee feh pee-kay par an moos-TEEK, sah muh GRAT]",
+    "back": "I got bitten by a mosquito, it itches.",
+    "context": "'Se faire piquer' = to get bitten/stung (se faire + infinitive = to get something done to you). 'Ça gratte' = it itches."
+  },
+  {
+    "id": "fr-1115",
+    "front": "Il me faudrait une crème solaire indice cinquante.",
+    "pronunciation": "[eel muh foh-dreh ün krem soh-lehr an-dees san-KAHNT]",
+    "back": "I'd need a factor 50 sunscreen.",
+    "context": "'Il me faudrait' = I'd need. 'Indice' = SPF."
+  },
+  {
+    "id": "fr-1116",
+    "front": "Le pharmacien m'a conseillé de voir un médecin.",
+    "pronunciation": "[luh far-mah-SYAN mah kohn-seh-YAY duh vwahr an mayd-SAN]",
+    "back": "The pharmacist advised me to see a doctor.",
+    "context": "French pharmacists give a lot of health advice for free."
+  },
+  {
+    "id": "fr-1117",
+    "front": "Je viens chercher un colis.",
+    "pronunciation": "[zhuh vyan shehr-shay an koh-LEE]",
+    "back": "I've come to pick up a parcel.",
+    "context": "'Venir chercher' = to come and pick up."
+  },
+  {
+    "id": "fr-1118",
+    "front": "J'ai reçu un avis de passage.",
+    "pronunciation": "[zhay ruh-sü an nah-vee duh pah-SAHZH]",
+    "back": "I got a delivery notice.",
+    "context": "Left when nobody was home: you then collect the parcel at the post office or a relay point."
+  },
+  {
+    "id": "fr-1119",
+    "front": "Voici ma pièce d'identité.",
+    "pronunciation": "[vwah-SEE mah pyes dee-dahn-tee-TAY]",
+    "back": "Here's my ID.",
+    "context": "'Une pièce d'identité' = ID document."
+  },
+  {
+    "id": "fr-1120",
+    "front": "Je voudrais envoyer ce colis au Brésil.",
+    "pronunciation": "[zhuh voo-dreh ahn-vwah-yay suh koh-LEE oh bray-ZEEL]",
+    "back": "I'd like to send this parcel to Brazil.",
+    "context": "'Envoyer' = to send."
+  },
+  {
+    "id": "fr-1121",
+    "front": "En lettre recommandée avec accusé de réception, s'il vous plaît.",
+    "pronunciation": "[ahn leh-truh ruh-koh-mahn-DAY ah-vek ah-kü-zay duh ray-sep-SYOHN, seel voo PLEH]",
+    "back": "By registered mail with proof of receipt, please.",
+    "context": "Essential in France for official letters, e.g. ending a lease or a contract."
+  },
+  {
+    "id": "fr-1122",
+    "front": "Il faut combien de timbres pour l'étranger ?",
+    "pronunciation": "[eel foh kohm-byan duh TAN-bruh poor lay-trahn-ZHAY]",
+    "back": "How many stamps do I need for abroad?",
+    "context": "'Un timbre' = stamp."
+  },
+  {
+    "id": "fr-1123",
+    "front": "Le colis pèse deux kilos.",
+    "pronunciation": "[luh koh-LEE pez duh kee-LOH]",
+    "back": "The parcel weighs two kilos.",
+    "context": "'Peser' = to weigh: il pèse (accent grave)."
+  },
+  {
+    "id": "fr-1124",
+    "front": "Il y a un point relais près de chez moi.",
+    "pronunciation": "[eel yah an pwan ruh-LEH preh duh shay MWAH]",
+    "back": "There's a parcel pick-up point near my place.",
+    "context": "'Un point relais' = a shop where you collect online orders."
+  },
+  {
+    "id": "fr-1125",
+    "front": "Je voudrais suivre mon colis.",
+    "pronunciation": "[zhuh voo-dreh SWEE-vruh mohn koh-LEE]",
+    "back": "I'd like to track my parcel.",
+    "context": "'Suivre' = to follow, track. 'Le numéro de suivi' = tracking number."
+  },
+  {
+    "id": "fr-1126",
+    "front": "Le facteur est déjà passé ?",
+    "pronunciation": "[luh fak-tuhr eh day-zhah pah-SAY]",
+    "back": "Has the mail carrier come yet?",
+    "context": "'Le facteur / la factrice' = mail carrier."
+  },
+  {
+    "id": "fr-1127",
+    "front": "Il faut remplir ce formulaire de douane.",
+    "pronunciation": "[eel foh rahm-pleer suh for-mü-lehr duh DWAN]",
+    "back": "You need to fill out this customs form.",
+    "context": "'La douane' = customs."
+  },
+  {
+    "id": "fr-1128",
+    "front": "Je voudrais faire une réclamation, mon colis n'est jamais arrivé.",
+    "pronunciation": "[zhuh voo-dreh fehr ün ray-klah-mah-SYOHN, mohn koh-lee neh zhah-meh zah-ree-VAY]",
+    "back": "I'd like to make a complaint, my parcel never arrived.",
+    "context": "'Une réclamation' = complaint (formal)."
+  },
+  {
+    "id": "fr-1129",
+    "front": "La poste ferme entre midi et quatorze heures.",
+    "pronunciation": "[lah POST fehrm ahn-truh mee-DEE ay kah-tor-ZUHR]",
+    "back": "The post office closes between noon and 2 p.m.",
+    "context": "Small post offices often close at lunchtime."
+  },
+  {
+    "id": "fr-1130",
+    "front": "Il faut faire une demande de passeport à la mairie.",
+    "pronunciation": "[eel foh fehr ün duh-mahnd duh pas-POR ah lah meh-REE]",
+    "back": "You have to apply for a passport at the town hall.",
+    "context": "'Faire une demande' = to apply. 'La mairie' handles many paperwork tasks."
+  },
+  {
+    "id": "fr-1131",
+    "front": "J'ai rendez-vous à la préfecture pour mon titre de séjour.",
+    "pronunciation": "[zhay rahn-day-VOO ah lah pray-fek-TÜR poor mohn tee-truh duh say-ZHOOR]",
+    "back": "I have an appointment at the prefecture for my residence permit.",
+    "context": "'La préfecture' handles residence permits ('titres de séjour') for foreigners."
+  },
+  {
+    "id": "fr-1132",
+    "front": "Il manque une pièce à votre dossier.",
+    "pronunciation": "[eel mahnk ün PYES ah voh-truh doh-SYAY]",
+    "back": "One document is missing from your file.",
+    "context": "'Une pièce' here = a document. 'Il manque' = there is missing."
+  },
+  {
+    "id": "fr-1133",
+    "front": "Revenez avec une photocopie de votre passeport.",
+    "pronunciation": "[ruh-vuh-nay ah-vek ün foh-toh-koh-PEE duh voh-truh pas-POR]",
+    "back": "Come back with a photocopy of your passport.",
+    "context": "Bureaucracy in France often means a second visit!"
+  },
+  {
+    "id": "fr-1134",
+    "front": "Le délai de traitement est de deux mois.",
+    "pronunciation": "[luh day-leh duh tret-mahn eh duh duh MWAH]",
+    "back": "The processing time is two months.",
+    "context": "'Le délai' = time frame, deadline."
+  },
+  {
+    "id": "fr-1135",
+    "front": "Prenez un ticket et attendez votre tour.",
+    "pronunciation": "[pruh-nay an tee-KEH ay ah-tahn-day voh-truh TOOR]",
+    "back": "Take a ticket and wait your turn.",
+    "context": "'Votre tour' = your turn."
+  },
+  {
+    "id": "fr-1136",
+    "front": "C'est à quel guichet ?",
+    "pronunciation": "[seh tah kel ghee-SHEH]",
+    "back": "Which counter is it?",
+    "context": "'Le guichet' = counter, window."
+  },
+  {
+    "id": "fr-1137",
+    "front": "Vous devez joindre un justificatif.",
+    "pronunciation": "[voo duh-vay ZHWAN-druh an zhüs-tee-fee-kah-TEEF]",
+    "back": "You must attach supporting documents.",
+    "context": "'Joindre' = to attach (to a file or email)."
+  },
+  {
+    "id": "fr-1138",
+    "front": "Toutes les démarches se font maintenant en ligne.",
+    "pronunciation": "[toot lay day-MARSH suh fohn mant-nahn ahn LEEN]",
+    "back": "All procedures are now done online.",
+    "context": "'Les démarches (administratives)' = paperwork, procedures."
+  },
+  {
+    "id": "fr-1139",
+    "front": "J'ai passé la matinée à faire de la paperasse.",
+    "pronunciation": "[zhay pah-say lah mah-tee-nay ah fehr duh lah pah-PRAS]",
+    "back": "I spent the morning doing paperwork.",
+    "context": "'La paperasse' = paperwork (slightly negative)."
+  },
+  {
+    "id": "fr-1140",
+    "front": "Merci, bonne fin de journée !",
+    "pronunciation": "[mehr-SEE, bun fan duh zhoor-NAY]",
+    "back": "Thanks, have a good rest of the day!",
+    "context": "A typical goodbye at a counter in the afternoon."
+  }
+]
