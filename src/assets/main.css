@@ -975,3 +975,18 @@ button.mode-card:focus-visible,
   .term-display, .meaning-display { font-size: 1.75rem; }
   .workspace-controls { gap: 0.75rem; }
 }
+
+/* "Install app" button in the top navigation (shown only when installable) */
+.install-app-btn {
+  margin-left: auto;
+  font: inherit;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #ffffff;
+  background: #4f46e5;
+  border: none;
+  border-radius: 999px;
+  padding: 0.35rem 0.9rem;
+  cursor: pointer;
+}
+.install-app-btn:hover { background: #4338ca; }

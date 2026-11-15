@@ -3,6 +3,7 @@ import { ref, computed, onMounted, provide } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { getLanguage } from '@/utils/languages'
 import { loadExercises } from '@/utils/exercises'
+import { OFFLINE_DECK_MESSAGE } from '@/utils/offline'
 
 // 1. Import the complete fleet of 8 gamified components
 import ClozeExercise from '@/components/activities/ClozeExercise.vue'
@@ -58,7 +59,9 @@ async function loadSession() {
     exerciseFleet.value = exercises.filter((ex) => componentMapping[ex.type])
   } catch (error) {
     console.error('Failed to load exercises:', error)
-    errorMessage.value = 'Something went wrong while loading the exercises for this deck.'
+    errorMessage.value = navigator.onLine
+      ? 'Something went wrong while loading the exercises for this deck.'
+      : OFFLINE_DECK_MESSAGE
   } finally {
     isLoading.value = false
   }

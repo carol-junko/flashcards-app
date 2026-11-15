@@ -2,6 +2,7 @@
 import { ref, onMounted, computed } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { createProgressStore, deckStats } from '@/utils/srs'
+import { isLanguageDownloaded, downloadLanguage } from '@/utils/offline'
 
 const route = useRoute()
 const router = useRouter()
@@ -11,6 +12,17 @@ const decks = ref([])
 const isLoading = ref(true)
 const fetchError = ref(null)
 const store = createProgressStore()
+
+// "Download for offline": only offered when a service worker can keep the files
+const canWorkOffline = 'serviceWorker' in navigator && import.meta.env.PROD
+const downloadState = ref(isLanguageDownloaded(langId.value) ? 'done' : 'idle') // idle | busy | done
+const downloadPercent = ref(0)
+
+async function downloadForOffline() {
+  downloadState.value = 'busy'
+  await downloadLanguage(langId.value, decks.value, (pct) => { downloadPercent.value = pct })
+  downloadState.value = 'done'
+}
 
 // Due / new / mastered counts for a deck, from progress saved in this browser
 function studyStats(deck) {
@@ -77,6 +89,16 @@ function goBack() {
       <div class="category-actions">
         <RouterLink class="btn btn-secondary" :to="`/placement/${langId}`">🎯 Find my level</RouterLink>
         <RouterLink class="btn btn-primary" :to="`/plan/${langId}`">🗓️ Build my study plan</RouterLink>
+        <button
+          v-if="canWorkOffline && decks.length"
+          class="btn btn-secondary"
+          :disabled="downloadState !== 'idle'"
+          @click="downloadForOffline"
+        >
+          <template v-if="downloadState === 'done'">✓ Available offline</template>
+          <template v-else-if="downloadState === 'busy'">Downloading… {{ downloadPercent }}%</template>
+          <template v-else>⬇️ Download for offline</template>
+        </button>
       </div>
     </header>
 

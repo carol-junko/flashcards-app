@@ -152,6 +152,7 @@ import { ref, onMounted, onBeforeUnmount, computed } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { deckDataPath } from '@/utils/deckPaths'
 import { getLanguage, pickVoices } from '@/utils/languages'
+import { OFFLINE_DECK_MESSAGE } from '@/utils/offline'
 import {
   RATINGS, Rating, NEW_CARDS_PER_DAY, createProgressStore,
   buildQueue, reviewCard, previewIntervals, deckStats,
@@ -287,7 +288,7 @@ onMounted(async () => {
     }
   } catch (error) {
     console.error("Flashcards system exception:", error)
-    fetchError.value = "Unable to load this deck's flashcards."
+    fetchError.value = navigator.onLine ? "Unable to load this deck's flashcards." : OFFLINE_DECK_MESSAGE
   } finally {
     isLoading.value = false
   }
