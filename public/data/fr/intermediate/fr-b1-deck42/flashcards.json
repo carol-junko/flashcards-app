@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-1386",
+    "front": "Quand j'étais enfant, j'habitais dans un petit village.",
+    "pronunciation": "[kahn zhay-teh tahn-FAHN, zhah-bee-teh dahn zan puh-tee vee-LAHZH]",
+    "back": "When I was a child, I lived in a small village.",
+    "context": "Childhood memories are told mostly in the imparfait."
+  },
+  {
+    "id": "fr-1387",
+    "front": "Je me souviens de l'odeur du pain chaud le matin.",
+    "pronunciation": "[zhuh muh soo-vyan duh loh-duhr dü pan SHOH luh mah-TAN]",
+    "back": "I remember the smell of warm bread in the morning.",
+    "context": "'Se souvenir de' = to remember."
+  },
+  {
+    "id": "fr-1388",
+    "front": "Je me rappelle très bien mon premier jour d'école.",
+    "pronunciation": "[zhuh muh rah-pel treh byan mohn pruh-myay zhoor day-KOL]",
+    "back": "I remember my first day at school very well.",
+    "context": "'Se rappeler' + direct object (no 'de')."
+  },
+  {
+    "id": "fr-1389",
+    "front": "Mes parents m'emmenaient à la mer chaque été.",
+    "pronunciation": "[may pah-rahn mahm-muh-neh ah lah MEHR shak ay-TAY]",
+    "back": "My parents used to take me to the seaside every summer.",
+    "context": "'Emmener' = to take (someone) somewhere."
+  },
+  {
+    "id": "fr-1390",
+    "front": "Je passais des heures à lire des bandes dessinées.",
+    "pronunciation": "[zhuh pah-seh day ZUHR ah leer day bahnd day-see-NAY]",
+    "back": "I spent hours reading comics.",
+    "context": "'Passer du temps à' + infinitive."
+  },
+  {
+    "id": "fr-1391",
+    "front": "J'avais un chien qui s'appelait Rex.",
+    "pronunciation": "[zhah-veh tan SHYAN kee sah-puh-leh REKS]",
+    "back": "I had a dog called Rex.",
+    "context": "'Qui' + imparfait for description."
+  },
+  {
+    "id": "fr-1392",
+    "front": "Ma grand-mère me racontait des histoires avant de dormir.",
+    "pronunciation": "[mah grahn-mehr muh rah-kohn-teh day zees-TWAHR ah-vahn duh dor-MEER]",
+    "back": "My grandmother used to tell me stories before bed.",
+    "context": "'Avant de' + infinitive."
+  },
+  {
+    "id": "fr-1393",
+    "front": "On jouait au foot dans la rue jusqu'à la nuit.",
+    "pronunciation": "[ohn zhoo-eh oh foot dahn lah RÜ zhüs-kah lah NWEE]",
+    "back": "We used to play soccer in the street until dark.",
+    "context": "'On' = we in everyday speech."
+  },
+  {
+    "id": "fr-1394",
+    "front": "J'étais un enfant plutôt timide.",
+    "pronunciation": "[zhay-teh zan nahn-fahn plü-toh tee-MEED]",
+    "back": "I was a rather shy child.",
+    "context": "Character description → imparfait."
+  },
+  {
+    "id": "fr-1395",
+    "front": "Mon frère et moi, on se disputait tout le temps.",
+    "pronunciation": "[mohn frehr ay MWAH, ohn suh dees-pü-teh tool TAHN]",
+    "back": "My brother and I argued all the time.",
+    "context": "'Se disputer' = to argue."
+  },
+  {
+    "id": "fr-1396",
+    "front": "À l'école, ma matière préférée était le dessin.",
+    "pronunciation": "[ah lay-KOL, mah mah-tyehr pray-fay-RAY ay-teh luh deh-SAN]",
+    "back": "At school, my favorite subject was drawing.",
+    "context": "'Une matière' = school subject."
+  },
+  {
+    "id": "fr-1397",
+    "front": "J'avais peur du noir.",
+    "pronunciation": "[zhah-veh puhr dü NWAHR]",
+    "back": "I was afraid of the dark.",
+    "context": "'Avoir peur de' + le = du."
+  },
+  {
+    "id": "fr-1398",
+    "front": "Un jour, je suis tombé de vélo et je me suis cassé le bras.",
+    "pronunciation": "[an ZHOOR, zhuh swee tohm-bay duh vay-LOH ay zhuh muh swee kah-say luh BRAH]",
+    "back": "One day I fell off my bike and broke my arm.",
+    "context": "'Un jour' introduces a specific event → passé composé."
+  },
+  {
+    "id": "fr-1399",
+    "front": "Ce jour-là, j'ai pleuré pendant des heures.",
+    "pronunciation": "[suh zhoor-LAH, zhay pluh-ray pahn-dahn day ZUHR]",
+    "back": "That day, I cried for hours.",
+    "context": "'Ce jour-là' = that day."
+  },
+  {
+    "id": "fr-1400",
+    "front": "Nous vivions dans un appartement au dernier étage.",
+    "pronunciation": "[noo vee-vyohn dahn zan nah-par-tuh-MAHN oh dehr-nyay ay-TAZH]",
+    "back": "We lived in an apartment on the top floor.",
+    "context": "'Vivre' → nous vivions."
+  },
+  {
+    "id": "fr-1401",
+    "front": "Le mercredi après-midi, j'allais au conservatoire.",
+    "pronunciation": "[luh mehr-kruh-DEE ah-preh-mee-DEE, zhah-leh oh kohn-sehr-vah-TWAHR]",
+    "back": "On Wednesday afternoons I went to the music school.",
+    "context": "French children traditionally had Wednesday afternoons off."
+  },
+  {
+    "id": "fr-1402",
+    "front": "Je rêvais de devenir pompier.",
+    "pronunciation": "[zhuh reh-veh duh duh-vuh-neer pohm-PYAY]",
+    "back": "I dreamed of becoming a firefighter.",
+    "context": "'Rêver de' + infinitive."
+  },
+  {
+    "id": "fr-1403",
+    "front": "Je ne mangeais jamais mes légumes.",
+    "pronunciation": "[zhuh nuh mahn-zheh zhah-meh may lay-GÜM]",
+    "back": "I never ate my vegetables.",
+    "context": "Negative habit."
+  },
+  {
+    "id": "fr-1404",
+    "front": "Les vacances chez mes cousins, c'était le paradis.",
+    "pronunciation": "[lay vah-kahns shay may koo-ZAN, seh-teh luh pah-rah-DEE]",
+    "back": "Holidays at my cousins' were heaven.",
+    "context": "Topic + c'était."
+  },
+  {
+    "id": "fr-1405",
+    "front": "Il n'y avait pas internet à cette époque.",
+    "pronunciation": "[eel nyah-veh pah zan-tehr-net ah set ay-POK]",
+    "back": "There was no internet at that time.",
+    "context": "'Il n'y avait pas' = there wasn't/weren't."
+  },
+  {
+    "id": "fr-1406",
+    "front": "Je me souviens que ma mère chantait en cuisinant.",
+    "pronunciation": "[zhuh muh soo-vyan kuh mah mehr shahn-teh ahn kwee-zee-NAHN]",
+    "back": "I remember my mother singing while she cooked.",
+    "context": "'En cuisinant' = while cooking (gérondif)."
+  },
+  {
+    "id": "fr-1407",
+    "front": "J'ai grandi en Normandie.",
+    "pronunciation": "[zhay grahn-dee ahn nor-mahn-DEE]",
+    "back": "I grew up in Normandy.",
+    "context": "'Grandir' = to grow up (passé composé for the overall fact)."
+  },
+  {
+    "id": "fr-1408",
+    "front": "Nous avons déménagé quand j'avais dix ans.",
+    "pronunciation": "[noo zah-vohn day-may-nah-zhay kahn zhah-veh dee ZAHN]",
+    "back": "We moved when I was ten.",
+    "context": "Event (avons déménagé) + age as background (j'avais)."
+  },
+  {
+    "id": "fr-1409",
+    "front": "Mes meilleurs souvenirs sont liés à la musique.",
+    "pronunciation": "[may meh-yuhr soov-NEER sohn lyay ah lah mü-ZEEK]",
+    "back": "My best memories are linked to music.",
+    "context": "'Un souvenir' = a memory."
+  },
+  {
+    "id": "fr-1410",
+    "front": "Ça me rappelle mon enfance.",
+    "pronunciation": "[sah muh rah-pel mohn nahn-FAHNS]",
+    "back": "That reminds me of my childhood.",
+    "context": "'Rappeler quelque chose à quelqu'un' = to remind someone of something."
+  },
+  {
+    "id": "fr-1411",
+    "front": "Ça me rappelle des souvenirs !",
+    "pronunciation": "[sah muh rah-pel day soov-NEER]",
+    "back": "That brings back memories!",
+    "context": "A common nostalgic exclamation."
+  },
+  {
+    "id": "fr-1412",
+    "front": "Je n'en garde qu'un vague souvenir.",
+    "pronunciation": "[zhuh nahn gard kan vahg soov-NEER]",
+    "back": "I only have a vague memory of it.",
+    "context": "'Ne… que' = only. 'Garder un souvenir' = to keep a memory."
+  },
+  {
+    "id": "fr-1413",
+    "front": "Le Noël de mes huit ans reste inoubliable.",
+    "pronunciation": "[luh noh-EL duh may wee TAHN rest ee-noo-blee-YAH-bluh]",
+    "back": "The Christmas when I was eight remains unforgettable.",
+    "context": "'De mes huit ans' = when I was eight."
+  },
+  {
+    "id": "fr-1414",
+    "front": "On faisait des cabanes dans la forêt.",
+    "pronunciation": "[ohn fuh-zeh day kah-BAN dahn lah foh-REH]",
+    "back": "We used to build huts in the forest.",
+    "context": "'Une cabane' = hut, den."
+  },
+  {
+    "id": "fr-1415",
+    "front": "Quand il neigeait, l'école fermait et c'était la fête.",
+    "pronunciation": "[kahn teel neh-ZHEH, lay-kol fehr-meh ay seh-teh lah FET]",
+    "back": "When it snowed, the school closed and it was party time.",
+    "context": "'Quand' + imparfait = whenever (habit)."
+  },
+  {
+    "id": "fr-1416",
+    "front": "Mon institutrice s'appelait Madame Leroy.",
+    "pronunciation": "[mohn nan-stee-tü-TREES sah-puh-leh mah-dam luh-RWAH]",
+    "back": "My primary school teacher was called Madame Leroy.",
+    "context": "'Un instituteur / une institutrice' (or 'un professeur des écoles') = primary teacher."
+  },
+  {
+    "id": "fr-1417",
+    "front": "Je n'oublierai jamais ce voyage.",
+    "pronunciation": "[zhuh noo-blee-reh zhah-meh suh vwah-YAHZH]",
+    "back": "I'll never forget that trip.",
+    "context": "Future with jamais."
+  },
+  {
+    "id": "fr-1418",
+    "front": "Petit, j'étais très turbulent.",
+    "pronunciation": "[puh-TEE, zhay-teh treh tür-bü-LAHN]",
+    "back": "As a kid, I was very boisterous.",
+    "context": "'Petit(e),' at the start = when I was little."
+  },
+  {
+    "id": "fr-1419",
+    "front": "J'ai eu une enfance heureuse.",
+    "pronunciation": "[zhay ü ün nahn-fahns uh-RUHZ]",
+    "back": "I had a happy childhood.",
+    "context": "Overall assessment of a closed period → passé composé."
+  },
+  {
+    "id": "fr-1420",
+    "front": "C'était une autre époque.",
+    "pronunciation": "[seh-teh tün oh-tray-POK]",
+    "back": "It was a different time.",
+    "context": "Nostalgic closing line."
+  }
+]
