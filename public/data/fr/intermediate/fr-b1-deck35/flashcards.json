@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-1141",
+    "front": "Au secours !",
+    "pronunciation": "[oh suh-KOOR]",
+    "back": "Help!",
+    "context": "The cry for help. Also: 'À l'aide !'"
+  },
+  {
+    "id": "fr-1142",
+    "front": "Appelez une ambulance, vite !",
+    "pronunciation": "[ah-puh-lay ün ahn-bü-LAHNS, VEET]",
+    "back": "Call an ambulance, quickly!",
+    "context": "In France the SAMU (medical emergencies) is 15; 112 works everywhere in Europe."
+  },
+  {
+    "id": "fr-1143",
+    "front": "Il faut appeler les pompiers.",
+    "pronunciation": "[eel foh tah-puh-lay lay pohm-PYAY]",
+    "back": "We need to call the fire brigade.",
+    "context": "Firefighters (18) also handle many medical emergencies in France."
+  },
+  {
+    "id": "fr-1144",
+    "front": "Quel est le numéro de la police ?",
+    "pronunciation": "[kel eh luh nü-may-roh duh lah poh-LEES]",
+    "back": "What's the number for the police?",
+    "context": "17 for the police in France; 112 is the European emergency number."
+  },
+  {
+    "id": "fr-1145",
+    "front": "Il y a eu un accident sur l'autoroute.",
+    "pronunciation": "[eel yah ü an nak-see-DAHN sür loh-toh-ROOT]",
+    "back": "There's been an accident on the motorway.",
+    "context": "'Il y a eu' = passé composé of 'il y a'."
+  },
+  {
+    "id": "fr-1146",
+    "front": "Est-ce que quelqu'un est blessé ?",
+    "pronunciation": "[es-kuh kel-kan eh bleh-SAY]",
+    "back": "Is anyone injured?",
+    "context": "'Blessé' = injured. False friend: not 'blessed' (béni)."
+  },
+  {
+    "id": "fr-1147",
+    "front": "Il a perdu connaissance.",
+    "pronunciation": "[ee lah pehr-dü koh-neh-SAHNS]",
+    "back": "He's lost consciousness.",
+    "context": "'Perdre connaissance' = to faint, pass out. Also 's'évanouir'."
+  },
+  {
+    "id": "fr-1148",
+    "front": "Elle ne respire plus !",
+    "pronunciation": "[el nuh res-peer PLÜ]",
+    "back": "She's not breathing!",
+    "context": "'Respirer' = to breathe."
+  },
+  {
+    "id": "fr-1149",
+    "front": "Ne bougez pas, les secours arrivent.",
+    "pronunciation": "[nuh boo-zhay PAH, lay suh-KOOR ah-REEV]",
+    "back": "Don't move, help is on the way.",
+    "context": "'Les secours' = emergency services."
+  },
+  {
+    "id": "fr-1150",
+    "front": "Restez calme et suivez les consignes.",
+    "pronunciation": "[res-tay KALM ay swee-vay lay kohn-SEEN-yuh]",
+    "back": "Stay calm and follow the instructions.",
+    "context": "'Les consignes' = instructions (safety)."
+  },
+  {
+    "id": "fr-1151",
+    "front": "On m'a volé mon sac.",
+    "pronunciation": "[ohn mah voh-lay mohn SAK]",
+    "back": "My bag has been stolen.",
+    "context": "'On m'a volé' (someone stole from me) is how French usually says this. 'Un vol' = theft."
+  },
+  {
+    "id": "fr-1152",
+    "front": "Je voudrais porter plainte.",
+    "pronunciation": "[zhuh voo-dreh por-tay PLANT]",
+    "back": "I'd like to file a complaint.",
+    "context": "'Porter plainte' = to report a crime to the police."
+  },
+  {
+    "id": "fr-1153",
+    "front": "Je dois déclarer la perte de mon passeport.",
+    "pronunciation": "[zhuh dwah day-klah-ray lah pehrt duh mohn pas-POR]",
+    "back": "I need to report the loss of my passport.",
+    "context": "'Une déclaration de perte' at the police station; then contact your embassy."
+  },
+  {
+    "id": "fr-1154",
+    "front": "Où est le commissariat le plus proche ?",
+    "pronunciation": "[oo eh luh koh-mee-sar-YAH luh plü PROSH]",
+    "back": "Where's the nearest police station?",
+    "context": "'Le commissariat' (city police) or 'la gendarmerie' (rural)."
+  },
+  {
+    "id": "fr-1155",
+    "front": "J'ai été témoin de l'accident.",
+    "pronunciation": "[zhay ay-tay tay-MWAN duh lak-see-DAHN]",
+    "back": "I witnessed the accident.",
+    "context": "'Un témoin' = a witness."
+  },
+  {
+    "id": "fr-1156",
+    "front": "Au feu !",
+    "pronunciation": "[oh FUH]",
+    "back": "Fire!",
+    "context": "The alarm cry for a fire."
+  },
+  {
+    "id": "fr-1157",
+    "front": "Sortez immédiatement du bâtiment.",
+    "pronunciation": "[sor-tay ee-may-dyat-mahn dü bah-tee-MAHN]",
+    "back": "Leave the building immediately.",
+    "context": "'Sortir de' = to get out of."
+  },
+  {
+    "id": "fr-1158",
+    "front": "Il y a une fuite de gaz.",
+    "pronunciation": "[eel yah ün fweet duh GAZ]",
+    "back": "There's a gas leak.",
+    "context": "'Une fuite' = leak. 'Une fuite d'eau' = a water leak."
+  },
+  {
+    "id": "fr-1159",
+    "front": "Ne prenez pas l'ascenseur en cas d'incendie.",
+    "pronunciation": "[nuh pruh-nay pah lah-sahn-SUHR ahn kah dan-sahn-DEE]",
+    "back": "Do not use the elevator in case of fire.",
+    "context": "'En cas de' = in case of. 'Un incendie' = a fire (building, forest)."
+  },
+  {
+    "id": "fr-1160",
+    "front": "Je me suis fait agresser dans la rue.",
+    "pronunciation": "[zhuh muh swee feh tah-greh-SAY dahn lah RÜ]",
+    "back": "I was attacked in the street.",
+    "context": "'Se faire' + infinitive = to have something done to you."
+  },
+  {
+    "id": "fr-1161",
+    "front": "Pouvez-vous décrire la personne ?",
+    "pronunciation": "[poo-vay-voo day-kreer lah pehr-SUN]",
+    "back": "Can you describe the person?",
+    "context": "'Décrire' = to describe."
+  },
+  {
+    "id": "fr-1162",
+    "front": "Il était grand, brun, et il portait une veste noire.",
+    "pronunciation": "[ee lay-teh GRAHN, BRAN, ay eel por-teh tün vest NWAHR]",
+    "back": "He was tall, dark-haired, and wearing a black jacket.",
+    "context": "Imparfait for descriptions in the past."
+  },
+  {
+    "id": "fr-1163",
+    "front": "Ma voiture est tombée en panne.",
+    "pronunciation": "[mah vwah-tür eh tohm-BAY ahn PAN]",
+    "back": "My car broke down.",
+    "context": "'Tomber en panne' = to break down. 'Une dépanneuse' = tow truck."
+  },
+  {
+    "id": "fr-1164",
+    "front": "J'ai crevé un pneu.",
+    "pronunciation": "[zhay kruh-VAY an PNUH]",
+    "back": "I got a flat tire.",
+    "context": "'Crever' = to puncture (also 'to die', of animals, and 'to be exhausted')."
+  },
+  {
+    "id": "fr-1165",
+    "front": "Il faut mettre le gilet jaune et le triangle.",
+    "pronunciation": "[eel foh meh-truh luh zhee-leh ZHOHN ay luh tree-YAHN-gluh]",
+    "back": "You have to put on the yellow vest and set up the warning triangle.",
+    "context": "Mandatory in French cars."
+  },
+  {
+    "id": "fr-1166",
+    "front": "Mon enfant a disparu, je ne le trouve plus !",
+    "pronunciation": "[mohn nahn-fahn ah dees-pah-RÜ, zhuh nuh luh troov PLÜ]",
+    "back": "My child has gone missing, I can't find him!",
+    "context": "'Disparaître' → disparu."
+  },
+  {
+    "id": "fr-1167",
+    "front": "Je suis bloqué dans l'ascenseur.",
+    "pronunciation": "[zhuh swee bloh-kay dahn lah-sahn-SUHR]",
+    "back": "I'm stuck in the elevator.",
+    "context": "'Être bloqué' = to be stuck."
+  },
+  {
+    "id": "fr-1168",
+    "front": "La rue est barrée à cause d'une manifestation.",
+    "pronunciation": "[lah rü eh bah-RAY ah kohz dün mah-nee-fes-tah-SYOHN]",
+    "back": "The street is closed because of a demonstration.",
+    "context": "'Barré' = closed off. 'Une manifestation' / 'une manif' = demonstration."
+  },
+  {
+    "id": "fr-1169",
+    "front": "Attention, ça glisse !",
+    "pronunciation": "[ah-tahn-SYOHN, sah GLEES]",
+    "back": "Careful, it's slippery!",
+    "context": "'Glisser' = to slip, slide."
+  },
+  {
+    "id": "fr-1170",
+    "front": "Il y a un risque d'inondation dans la région.",
+    "pronunciation": "[eel yah an reesk dee-nohn-dah-SYOHN dahn lah ray-ZHYOHN]",
+    "back": "There's a risk of flooding in the region.",
+    "context": "'Une inondation' = flood."
+  },
+  {
+    "id": "fr-1171",
+    "front": "Une alerte orange aux orages a été déclenchée.",
+    "pronunciation": "[ün ah-lehrt oh-RAHNZH oh zoh-RAZH ah ay-tay day-klahn-SHAY]",
+    "back": "An orange storm warning has been issued.",
+    "context": "Météo-France uses color-coded alerts: jaune, orange, rouge."
+  },
+  {
+    "id": "fr-1172",
+    "front": "Gardez votre sang-froid.",
+    "pronunciation": "[gar-day voh-truh sahn-FRWAH]",
+    "back": "Keep your cool.",
+    "context": "'Le sang-froid' (cold blood) = composure."
+  },
+  {
+    "id": "fr-1173",
+    "front": "J'ai besoin d'un médecin qui parle anglais.",
+    "pronunciation": "[zhay buh-zwan dan mayd-SAN kee parl ahn-GLEH]",
+    "back": "I need a doctor who speaks English.",
+    "context": "'Qui' + verb: a doctor who speaks."
+  },
+  {
+    "id": "fr-1174",
+    "front": "Mon assurance couvre les frais médicaux ?",
+    "pronunciation": "[mohn nah-sü-rahns koo-vruh lay freh may-dee-KOH]",
+    "back": "Does my insurance cover medical costs?",
+    "context": "'Couvrir' = to cover. 'Médical' → médicaux in the plural."
+  },
+  {
+    "id": "fr-1175",
+    "front": "Heureusement, il y a eu plus de peur que de mal.",
+    "pronunciation": "[uh-ruhz-MAHN, eel yah ü plü duh PUHR kuh duh MAHL]",
+    "back": "Fortunately, it was more of a scare than anything.",
+    "context": "Idiom: more fear than harm, no real damage."
+  }
+]

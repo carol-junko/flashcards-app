@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-1421",
+    "front": "Tu as passé un bon week-end ?",
+    "pronunciation": "[tü ah pah-say an bohn wee-KEND]",
+    "back": "Did you have a good weekend?",
+    "context": "The Monday-morning question in every French office."
+  },
+  {
+    "id": "fr-1422",
+    "front": "Oui, super ! Je suis allée voir mes parents.",
+    "pronunciation": "[WEE, sü-PEHR ! zhuh swee zah-lay vwahr may pah-RAHN]",
+    "back": "Yes, great! I went to see my parents.",
+    "context": "'Aller voir quelqu'un' = to go and see someone. Agreement: allée (a woman speaking)."
+  },
+  {
+    "id": "fr-1423",
+    "front": "Qu'est-ce que vous avez fait samedi ?",
+    "pronunciation": "[kehs-kuh voo zah-vay feh sahm-DEE]",
+    "back": "What did you do on Saturday?",
+    "context": "Passé composé for completed weekend activities."
+  },
+  {
+    "id": "fr-1424",
+    "front": "Samedi matin, j'ai fait la grasse matinée.",
+    "pronunciation": "[sahm-dee mah-TAN, zhay feh lah gras mah-tee-NAY]",
+    "back": "On Saturday morning I slept in.",
+    "context": "'Faire la grasse matinée' = to sleep in."
+  },
+  {
+    "id": "fr-1425",
+    "front": "Ensuite, on a déjeuné en terrasse.",
+    "pronunciation": "[ahn-SWEET, ohn nah day-zhuh-nay ahn teh-RAS]",
+    "back": "Then we had lunch outside.",
+    "context": "'Ensuite' = then, next."
+  },
+  {
+    "id": "fr-1426",
+    "front": "L'après-midi, nous nous sommes promenés au parc.",
+    "pronunciation": "[lah-preh-mee-DEE, noo noo sum proh-muh-nay oh PARK]",
+    "back": "In the afternoon, we went for a walk in the park.",
+    "context": "Reflexive verbs → être + agreement."
+  },
+  {
+    "id": "fr-1427",
+    "front": "Le soir, on est sortis avec des amis.",
+    "pronunciation": "[luh SWAHR, ohn neh sor-TEE ah-vek day zah-MEE]",
+    "back": "In the evening, we went out with friends.",
+    "context": "With 'on' = nous, the participle often agrees: sortis."
+  },
+  {
+    "id": "fr-1428",
+    "front": "On est rentrés vers deux heures du matin.",
+    "pronunciation": "[ohn neh rahn-tray vehr duh zuhr dü mah-TAN]",
+    "back": "We got home around 2 a.m.",
+    "context": "'Du matin' = a.m.; 'de l'après-midi', 'du soir' = p.m."
+  },
+  {
+    "id": "fr-1429",
+    "front": "Dimanche, je n'ai rien fait de spécial.",
+    "pronunciation": "[dee-MAHNSH, zhuh neh ryan feh duh spay-SYAL]",
+    "back": "On Sunday, I didn't do anything special.",
+    "context": "'Ne… rien' around the auxiliary: je n'ai rien fait. 'Rien de' + adjective."
+  },
+  {
+    "id": "fr-1430",
+    "front": "Je me suis reposé toute la journée.",
+    "pronunciation": "[zhuh muh swee ruh-poh-zay toot lah zhoor-NAY]",
+    "back": "I rested all day.",
+    "context": "'Toute la journée' = all day."
+  },
+  {
+    "id": "fr-1431",
+    "front": "J'ai regardé une série sur le canapé.",
+    "pronunciation": "[zhay ruh-gar-day ün say-REE sür luh kah-nah-PAY]",
+    "back": "I watched a series on the sofa.",
+    "context": "'Sur le canapé' = on the sofa."
+  },
+  {
+    "id": "fr-1432",
+    "front": "Il faisait tellement beau qu'on a pique-niqué au bord de l'eau.",
+    "pronunciation": "[eel fuh-zeh tel-mahn BOH kohn nah peek-nee-kay oh bor duh LOH]",
+    "back": "The weather was so nice that we had a picnic by the water.",
+    "context": "'Tellement… que' = so… that."
+  },
+  {
+    "id": "fr-1433",
+    "front": "Je suis allé courir le long du canal.",
+    "pronunciation": "[zhuh swee zah-lay koo-reer luh lohn dü kah-NAL]",
+    "back": "I went running along the canal.",
+    "context": "'Le long de' = along."
+  },
+  {
+    "id": "fr-1434",
+    "front": "On a fêté l'anniversaire de Léa.",
+    "pronunciation": "[ohn nah feh-tay lah-nee-vehr-sehr duh lay-AH]",
+    "back": "We celebrated Léa's birthday.",
+    "context": "'Fêter' = to celebrate."
+  },
+  {
+    "id": "fr-1435",
+    "front": "J'ai enfin rangé mon appartement.",
+    "pronunciation": "[zhay ahn-fan rahn-zhay mohn nah-par-tuh-MAHN]",
+    "back": "I finally tidied my apartment.",
+    "context": "'Ranger' = to tidy up. Adverbs like enfin go between auxiliary and participle."
+  },
+  {
+    "id": "fr-1436",
+    "front": "Je suis allé au marché et j'ai cuisiné pour toute la semaine.",
+    "pronunciation": "[zhuh swee zah-lay oh mar-SHAY ay zhay kwee-zee-nay poor toot lah suh-MEN]",
+    "back": "I went to the market and cooked for the whole week.",
+    "context": "Sequence of completed actions."
+  },
+  {
+    "id": "fr-1437",
+    "front": "Le week-end est passé trop vite.",
+    "pronunciation": "[luh wee-kend eh pah-say troh VEET]",
+    "back": "The weekend went by too fast.",
+    "context": "'Passer' (time) uses être here."
+  },
+  {
+    "id": "fr-1438",
+    "front": "J'ai l'impression de ne pas m'être reposé.",
+    "pronunciation": "[zhay lan-preh-syohn duh nuh pah meh-truh ruh-poh-ZAY]",
+    "back": "I feel like I didn't rest at all.",
+    "context": "Past infinitive: 'm'être reposé'. Negation before it: ne pas."
+  },
+  {
+    "id": "fr-1439",
+    "front": "On a fait une petite escapade à la campagne.",
+    "pronunciation": "[ohn nah feh tün puh-teet es-kah-PAD ah lah kahm-PAN-yuh]",
+    "back": "We took a short trip to the countryside.",
+    "context": "'Une escapade' = a getaway."
+  },
+  {
+    "id": "fr-1440",
+    "front": "Il y avait des bouchons sur la route du retour.",
+    "pronunciation": "[eel yah-veh day boo-SHOHN sür lah root dü ruh-TOOR]",
+    "back": "There were traffic jams on the way back.",
+    "context": "'Le retour' = the return journey."
+  },
+  {
+    "id": "fr-1441",
+    "front": "Je me suis couché tôt pour être en forme lundi.",
+    "pronunciation": "[zhuh muh swee koo-shay TOH poor eh-trahn FORM lan-DEE]",
+    "back": "I went to bed early to be fit for Monday.",
+    "context": "'Être en forme' = to be in good shape."
+  },
+  {
+    "id": "fr-1442",
+    "front": "Rien de spécial, et toi ?",
+    "pronunciation": "[ryan duh spay-SYAL, ay TWAH]",
+    "back": "Nothing special, and you?",
+    "context": "Typical reply to 'Tu as fait quoi ce week-end ?'"
+  },
+  {
+    "id": "fr-1443",
+    "front": "C'était un week-end très chargé.",
+    "pronunciation": "[seh-teh tan wee-kend treh shar-ZHAY]",
+    "back": "It was a very busy weekend.",
+    "context": "'Chargé' = busy, full."
+  },
+  {
+    "id": "fr-1444",
+    "front": "Je n'ai pas vu le temps passer.",
+    "pronunciation": "[zhuh neh pah vü luh tahn pah-SAY]",
+    "back": "The time flew by.",
+    "context": "Literally 'I didn't see time pass'."
+  },
+  {
+    "id": "fr-1445",
+    "front": "Nous sommes allés au cinéma voir le dernier film de Jacques Audiard.",
+    "pronunciation": "[noo sum zah-lay oh see-nay-MAH vwahr luh dehr-nyay feelm duh zhak oh-DYAR]",
+    "back": "We went to the cinema to see Jacques Audiard's latest film.",
+    "context": "'Le dernier' = the latest (also 'the last')."
+  },
+  {
+    "id": "fr-1446",
+    "front": "Le film ne m'a pas plu.",
+    "pronunciation": "[luh feelm nuh mah pah PLÜ]",
+    "back": "I didn't like the film.",
+    "context": "'Plaire à' → ça m'a plu = I liked it."
+  },
+  {
+    "id": "fr-1447",
+    "front": "Ça t'a plu, la soirée ?",
+    "pronunciation": "[sah tah PLÜ, lah swah-RAY]",
+    "back": "Did you enjoy the party?",
+    "context": "Topic at the end: very natural spoken French."
+  },
+  {
+    "id": "fr-1448",
+    "front": "J'ai rencontré quelqu'un de très sympa.",
+    "pronunciation": "[zhay rahn-kohn-tray kel-kan duh treh san-PAH]",
+    "back": "I met someone really nice.",
+    "context": "'Quelqu'un de' + adjective."
+  },
+  {
+    "id": "fr-1449",
+    "front": "On a fait la fête jusqu'au bout de la nuit.",
+    "pronunciation": "[ohn nah feh lah FET zhüs-koh boo duh lah NWEE]",
+    "back": "We partied all night long.",
+    "context": "'Faire la fête' = to party."
+  },
+  {
+    "id": "fr-1450",
+    "front": "Le dimanche, c'est sacré : déjeuner en famille.",
+    "pronunciation": "[luh dee-MAHNSH, seh sah-KRAY : day-zhuh-nay ahn fah-MEE]",
+    "back": "Sundays are sacred: lunch with the family.",
+    "context": "The long Sunday family lunch is a French institution."
+  },
+  {
+    "id": "fr-1451",
+    "front": "Il a plu tout le week-end, alors on est restés à la maison.",
+    "pronunciation": "[ee lah PLÜ tool wee-KEND, ah-lor ohn neh res-tay ah lah meh-ZOHN]",
+    "back": "It rained all weekend, so we stayed home.",
+    "context": "'Il a plu' = passé composé of pleuvoir, for a closed period."
+  },
+  {
+    "id": "fr-1452",
+    "front": "J'ai essayé un nouveau restaurant vietnamien.",
+    "pronunciation": "[zhay eh-seh-yay an noo-voh res-toh-RAHN vyet-nah-MYAN]",
+    "back": "I tried a new Vietnamese restaurant.",
+    "context": "'Essayer' = to try."
+  },
+  {
+    "id": "fr-1453",
+    "front": "Vivement le week-end prochain !",
+    "pronunciation": "[veev-MAHN luh wee-kend proh-SHAN]",
+    "back": "Bring on next weekend!",
+    "context": "'Vivement' + noun = I can't wait for…"
+  },
+  {
+    "id": "fr-1454",
+    "front": "Et toi, tu as fait quelque chose de sympa ?",
+    "pronunciation": "[ay TWAH, tü ah feh kel-kuh shohz duh san-PAH]",
+    "back": "And you, did you do anything nice?",
+    "context": "'Quelque chose de' + adjective."
+  },
+  {
+    "id": "fr-1455",
+    "front": "Bon, on s'y remet : c'est lundi !",
+    "pronunciation": "[BOHN, ohn see ruh-MEH : seh lan-DEE]",
+    "back": "Right, back to work: it's Monday!",
+    "context": "'S'y remettre' = to get back to it."
+  }
+]

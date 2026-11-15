@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-1456",
+    "front": "Paris est plus grand que Lyon.",
+    "pronunciation": "[pah-REE eh plü GRAHN kuh lee-OHN]",
+    "back": "Paris is bigger than Lyon.",
+    "context": "Comparison: plus + adjective + que."
+  },
+  {
+    "id": "fr-1457",
+    "front": "Le train est moins cher que l'avion.",
+    "pronunciation": "[luh TRAN eh mwan SHEHR kuh lah-VYOHN]",
+    "back": "The train is cheaper than the plane.",
+    "context": "Moins + adjective + que = less… than."
+  },
+  {
+    "id": "fr-1458",
+    "front": "Ma sœur est aussi grande que moi.",
+    "pronunciation": "[mah suhr eh toh-see GRAHND kuh MWAH]",
+    "back": "My sister is as tall as me.",
+    "context": "Aussi + adjective + que = as… as. Stressed pronoun after que: moi, toi, lui."
+  },
+  {
+    "id": "fr-1459",
+    "front": "Il est plus âgé que moi de trois ans.",
+    "pronunciation": "[ee leh plü zah-ZHAY kuh MWAH duh trwah ZAHN]",
+    "back": "He's three years older than me.",
+    "context": "'De' introduces the difference: de trois ans."
+  },
+  {
+    "id": "fr-1460",
+    "front": "Ce restaurant est meilleur que l'autre.",
+    "pronunciation": "[suh res-toh-RAHN eh meh-YUHR kuh LOH-truh]",
+    "back": "This restaurant is better than the other one.",
+    "context": "Bon → meilleur (never 'plus bon')."
+  },
+  {
+    "id": "fr-1461",
+    "front": "Elle chante mieux que son frère.",
+    "pronunciation": "[el shahnt MYUH kuh sohn FREHR]",
+    "back": "She sings better than her brother.",
+    "context": "Bien (adverb) → mieux. 'Meilleur' qualifies a noun; 'mieux' qualifies a verb."
+  },
+  {
+    "id": "fr-1462",
+    "front": "Je me sens mieux aujourd'hui.",
+    "pronunciation": "[zhuh muh sahn MYUH oh-zhoor-DWEE]",
+    "back": "I feel better today.",
+    "context": "With verbs: mieux."
+  },
+  {
+    "id": "fr-1463",
+    "front": "Ce film est pire que le premier.",
+    "pronunciation": "[suh feelm eh PEER kuh luh pruh-MYAY]",
+    "back": "This film is worse than the first one.",
+    "context": "Mauvais → pire (or 'plus mauvais'). Mal → pis is rare; use 'plus mal'."
+  },
+  {
+    "id": "fr-1464",
+    "front": "Il travaille plus que moi.",
+    "pronunciation": "[eel trah-vahy PLÜS kuh MWAH]",
+    "back": "He works more than me.",
+    "context": "With verbs: verb + plus/moins/autant + que. 'Plus' is pronounced [plüs] here."
+  },
+  {
+    "id": "fr-1465",
+    "front": "Je lis autant que toi.",
+    "pronunciation": "[zhuh lee oh-TAHN kuh TWAH]",
+    "back": "I read as much as you.",
+    "context": "'Autant que' with verbs; 'aussi' with adjectives."
+  },
+  {
+    "id": "fr-1466",
+    "front": "Il y a plus de touristes en été qu'en hiver.",
+    "pronunciation": "[eel yah plü duh too-REEST ahn nay-TAY kahn nee-VEHR]",
+    "back": "There are more tourists in summer than in winter.",
+    "context": "With nouns: plus de / moins de / autant de + noun + que."
+  },
+  {
+    "id": "fr-1467",
+    "front": "J'ai moins de temps libre qu'avant.",
+    "pronunciation": "[zhay mwan duh tahn LEE-bruh kah-VAHN]",
+    "back": "I have less free time than before.",
+    "context": "'Moins de' + noun."
+  },
+  {
+    "id": "fr-1468",
+    "front": "Nous avons autant de travail que vous.",
+    "pronunciation": "[noo zah-vohn oh-tahn duh trah-VAHY kuh VOO]",
+    "back": "We have as much work as you.",
+    "context": "'Autant de' + noun + que."
+  },
+  {
+    "id": "fr-1469",
+    "front": "La vie est plus chère à Paris qu'en province.",
+    "pronunciation": "[lah vee eh plü SHEHR ah pah-REE kahn proh-VANS]",
+    "back": "Life is more expensive in Paris than in the provinces.",
+    "context": "'La province' = everywhere in France outside Paris."
+  },
+  {
+    "id": "fr-1470",
+    "front": "C'est de plus en plus difficile de trouver un logement.",
+    "pronunciation": "[seh duh plü zahn plü dee-fee-SEEL duh troo-vay an lozh-MAHN]",
+    "back": "It's harder and harder to find housing.",
+    "context": "'De plus en plus' = more and more; 'de moins en moins' = less and less."
+  },
+  {
+    "id": "fr-1471",
+    "front": "Plus je travaille, plus je suis fatigué.",
+    "pronunciation": "[plü zhuh trah-VAHY, plü zhuh swee fah-tee-GAY]",
+    "back": "The more I work, the more tired I am.",
+    "context": "'Plus…, plus…' = the more…, the more…"
+  },
+  {
+    "id": "fr-1472",
+    "front": "Moins on dort, moins on est efficace.",
+    "pronunciation": "[mwan zohn DOR, mwan zohn neh teh-fee-KAS]",
+    "back": "The less you sleep, the less efficient you are.",
+    "context": "'Moins…, moins…' = the less…, the less…"
+  },
+  {
+    "id": "fr-1473",
+    "front": "Il est deux fois plus rapide que moi.",
+    "pronunciation": "[ee leh duh fwah plü rah-PEED kuh MWAH]",
+    "back": "He's twice as fast as me.",
+    "context": "'Deux fois plus' = twice as."
+  },
+  {
+    "id": "fr-1474",
+    "front": "Ce n'est pas aussi simple que ça.",
+    "pronunciation": "[suh neh pah zoh-see SAN-pluh kuh SAH]",
+    "back": "It's not as simple as that.",
+    "context": "In negative comparisons, 'si' can replace 'aussi': pas si simple."
+  },
+  {
+    "id": "fr-1475",
+    "front": "Elle est bien plus intelligente que lui.",
+    "pronunciation": "[el eh byan plü zan-teh-lee-ZHAHNT kuh LWEE]",
+    "back": "She's much more intelligent than him.",
+    "context": "'Bien plus' / 'beaucoup plus' = much more."
+  },
+  {
+    "id": "fr-1476",
+    "front": "Ton appartement est un peu plus petit que le mien.",
+    "pronunciation": "[tohn nah-par-tuh-mahn eh tan puh plü puh-TEE kuh luh MYAN]",
+    "back": "Your apartment is a bit smaller than mine.",
+    "context": "'Le mien / la mienne' = mine."
+  },
+  {
+    "id": "fr-1477",
+    "front": "Le français est différent de l'espagnol.",
+    "pronunciation": "[luh frahn-SEH eh dee-fay-rahn duh les-pan-YOL]",
+    "back": "French is different from Spanish.",
+    "context": "'Différent de' = different from."
+  },
+  {
+    "id": "fr-1478",
+    "front": "Mon téléphone est le même que le tien.",
+    "pronunciation": "[mohn tay-lay-fun eh luh mem kuh luh TYAN]",
+    "back": "My phone is the same as yours.",
+    "context": "'Le même que' = the same as."
+  },
+  {
+    "id": "fr-1479",
+    "front": "Ce vin ressemble à un bordeaux.",
+    "pronunciation": "[suh van ruh-sahm-bluh ah an bor-DOH]",
+    "back": "This wine is like a Bordeaux.",
+    "context": "'Ressembler à' = to resemble, look like."
+  },
+  {
+    "id": "fr-1480",
+    "front": "Il ressemble beaucoup à son père.",
+    "pronunciation": "[eel ruh-sahm-bluh boh-koo ah sohn PEHR]",
+    "back": "He looks a lot like his father.",
+    "context": "'Ressembler à' takes an indirect object: il lui ressemble."
+  },
+  {
+    "id": "fr-1481",
+    "front": "Par rapport à l'année dernière, les prix ont augmenté.",
+    "pronunciation": "[par rah-por ah lah-nay dehr-NYEHR, lay pree ohn tohg-mahn-TAY]",
+    "back": "Compared to last year, prices have gone up.",
+    "context": "'Par rapport à' = compared to."
+  },
+  {
+    "id": "fr-1482",
+    "front": "Comparé à Londres, Paris semble petit.",
+    "pronunciation": "[kohm-pah-ray ah LOHN-druh, pah-REE sahm-bluh puh-TEE]",
+    "back": "Compared to London, Paris seems small.",
+    "context": "'Comparé à' = compared to."
+  },
+  {
+    "id": "fr-1483",
+    "front": "Je préfère le train à la voiture.",
+    "pronunciation": "[zhuh pray-fehr luh tran ah lah vwah-TÜR]",
+    "back": "I prefer the train to the car.",
+    "context": "'Préférer A à B'."
+  },
+  {
+    "id": "fr-1484",
+    "front": "Elle parle aussi bien anglais qu'espagnol.",
+    "pronunciation": "[el parl oh-see byan nahn-GLEH kes-pan-YOL]",
+    "back": "She speaks English as well as Spanish.",
+    "context": "'Aussi bien… que' = as well… as."
+  },
+  {
+    "id": "fr-1485",
+    "front": "Ce n'est pas mieux, c'est pareil.",
+    "pronunciation": "[suh neh pah MYUH, seh pah-RAY]",
+    "back": "It's not better, it's the same.",
+    "context": "'Pareil' = the same (informal)."
+  },
+  {
+    "id": "fr-1486",
+    "front": "Les deux options se valent.",
+    "pronunciation": "[lay duh zop-syohn suh VAHL]",
+    "back": "The two options are equally good.",
+    "context": "'Se valoir' = to be equivalent."
+  },
+  {
+    "id": "fr-1487",
+    "front": "C'est plus facile à dire qu'à faire.",
+    "pronunciation": "[seh plü fah-SEEL ah deer kah FEHR]",
+    "back": "It's easier said than done.",
+    "context": "'Facile à' + infinitive."
+  },
+  {
+    "id": "fr-1488",
+    "front": "Mieux vaut tard que jamais.",
+    "pronunciation": "[myuh voh TAR kuh zhah-MEH]",
+    "back": "Better late than never.",
+    "context": "Proverb with 'mieux vaut' = it's better to."
+  },
+  {
+    "id": "fr-1489",
+    "front": "Elle court plus vite que tout le monde.",
+    "pronunciation": "[el koor plü VEET kuh tool MOHND]",
+    "back": "She runs faster than everyone.",
+    "context": "'Vite' (adverb) = fast."
+  },
+  {
+    "id": "fr-1490",
+    "front": "La situation est bien pire qu'on ne le pensait.",
+    "pronunciation": "[lah see-tü-ah-syohn eh byan PEER kohn nuh luh pahn-SEH]",
+    "back": "The situation is much worse than we thought.",
+    "context": "Formal 'ne explétif' after a comparison: 'qu'on ne le pensait' (it doesn't make the sentence negative)."
+  }
+]

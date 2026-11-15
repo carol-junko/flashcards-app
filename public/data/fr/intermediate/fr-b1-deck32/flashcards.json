@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-1036",
+    "front": "Mon ordinateur portable ne s'allume plus.",
+    "pronunciation": "[mohn nor-dee-nah-tuhr por-TAH-bluh nuh sah-lüm PLÜ]",
+    "back": "My laptop won't turn on anymore.",
+    "context": "'S'allumer' = to turn on (by itself); 'allumer' = to switch something on."
+  },
+  {
+    "id": "fr-1037",
+    "front": "Tu as essayé de le redémarrer ?",
+    "pronunciation": "[tü ah eh-seh-YAY duh luh ruh-day-mah-RAY]",
+    "back": "Have you tried restarting it?",
+    "context": "'Redémarrer' = to restart. The universal first tech-support question."
+  },
+  {
+    "id": "fr-1038",
+    "front": "L'écran est tout noir.",
+    "pronunciation": "[lay-KRAHN eh too NWAHR]",
+    "back": "The screen is completely black.",
+    "context": "'L'écran' = screen. 'Tout' here = completely."
+  },
+  {
+    "id": "fr-1039",
+    "front": "Mon téléphone a planté.",
+    "pronunciation": "[mohn tay-lay-fun ah plahn-TAY]",
+    "back": "My phone crashed.",
+    "context": "'Planter' (to plant) = to crash, freeze (informal)."
+  },
+  {
+    "id": "fr-1040",
+    "front": "Le clavier français est différent du clavier anglais.",
+    "pronunciation": "[luh klah-vyay frahn-SEH eh dee-fay-rahn dü klah-vyay ahn-GLEH]",
+    "back": "The French keyboard is different from the English one.",
+    "context": "French keyboards are AZERTY, not QWERTY: the A and Q, Z and W are swapped."
+  },
+  {
+    "id": "fr-1041",
+    "front": "Comment on tape un accent sur ce clavier ?",
+    "pronunciation": "[koh-mahn ohn tap an nak-SAHN sür suh klah-VYAY]",
+    "back": "How do you type an accent on this keyboard?",
+    "context": "'Taper' = to type."
+  },
+  {
+    "id": "fr-1042",
+    "front": "Il faut brancher le chargeur.",
+    "pronunciation": "[eel foh brahn-shay luh shar-ZHUHR]",
+    "back": "You need to plug in the charger.",
+    "context": "'Brancher' = to plug in; 'débrancher' = to unplug."
+  },
+  {
+    "id": "fr-1043",
+    "front": "J'ai perdu tous mes fichiers.",
+    "pronunciation": "[zhay pehr-DÜ too may fee-SHYAY]",
+    "back": "I lost all my files.",
+    "context": "'Un fichier' = a file; 'un dossier' = a folder."
+  },
+  {
+    "id": "fr-1044",
+    "front": "Tu as fait une sauvegarde ?",
+    "pronunciation": "[tü ah feh tün sohv-GARD]",
+    "back": "Did you make a backup?",
+    "context": "'Une sauvegarde' = backup. 'Sauvegarder' = to save."
+  },
+  {
+    "id": "fr-1045",
+    "front": "N'oublie pas d'enregistrer ton document.",
+    "pronunciation": "[noo-blee pah dahn-ruh-zhees-tray tohn doh-kü-MAHN]",
+    "back": "Don't forget to save your document.",
+    "context": "'Enregistrer' = to save (a file) or record."
+  },
+  {
+    "id": "fr-1046",
+    "front": "Clique sur l'icône en haut à droite.",
+    "pronunciation": "[kleek sür lee-KOHN ahn oh ah DRWAHT]",
+    "back": "Click on the icon in the top right.",
+    "context": "'Cliquer sur' = to click on."
+  },
+  {
+    "id": "fr-1047",
+    "front": "Copie-colle le texte dans un mail.",
+    "pronunciation": "[koh-pee-KOL luh tekst dahn zan MEL]",
+    "back": "Copy and paste the text into an email.",
+    "context": "'Copier-coller' = copy-paste; 'couper' = cut."
+  },
+  {
+    "id": "fr-1048",
+    "front": "L'imprimante n'a plus d'encre.",
+    "pronunciation": "[lan-pree-MAHNT nah plü DAHN-kruh]",
+    "back": "The printer is out of ink.",
+    "context": "'Imprimer' = to print."
+  },
+  {
+    "id": "fr-1049",
+    "front": "Il y a un bug dans l'application.",
+    "pronunciation": "[eel yah an BUG dahn lah-plee-kah-SYOHN]",
+    "back": "There's a bug in the app.",
+    "context": "'Un bug' (officially 'un bogue')."
+  },
+  {
+    "id": "fr-1050",
+    "front": "Mon ordinateur est très lent depuis la mise à jour.",
+    "pronunciation": "[mohn nor-dee-nah-tuhr eh treh LAHN duh-pwee lah meez ah ZHOOR]",
+    "back": "My computer has been very slow since the update.",
+    "context": "'Depuis' + noun = since."
+  },
+  {
+    "id": "fr-1051",
+    "front": "Le disque dur est plein.",
+    "pronunciation": "[luh deesk DÜR eh PLAN]",
+    "back": "The hard drive is full.",
+    "context": "'Le disque dur' = hard drive. 'L'espace de stockage' = storage."
+  },
+  {
+    "id": "fr-1052",
+    "front": "Je stocke mes photos dans le cloud.",
+    "pronunciation": "[zhuh stok may foh-TOH dahn luh KLOWD]",
+    "back": "I store my photos in the cloud.",
+    "context": "'Le cloud' or 'le nuage'."
+  },
+  {
+    "id": "fr-1053",
+    "front": "Tu as une clé USB ?",
+    "pronunciation": "[tü ah ün klay ü-es-BAY]",
+    "back": "Do you have a USB stick?",
+    "context": "USB is read letter by letter in French: [ü-es-BAY]."
+  },
+  {
+    "id": "fr-1054",
+    "front": "Mes écouteurs sans fil ne se connectent pas.",
+    "pronunciation": "[may zay-koo-TUHR sahn FEEL nuh suh koh-NEKT pah]",
+    "back": "My wireless earbuds won't connect.",
+    "context": "'Sans fil' = wireless. 'Le Bluetooth' is pronounced roughly [bloo-TOOS]."
+  },
+  {
+    "id": "fr-1055",
+    "front": "J'ai fait tomber mon téléphone et l'écran est fissuré.",
+    "pronunciation": "[zhay feh tohm-bay mohn tay-lay-FUN ay lay-krahn eh fee-sü-RAY]",
+    "back": "I dropped my phone and the screen is cracked.",
+    "context": "'Faire tomber' = to drop. 'Fissuré' = cracked."
+  },
+  {
+    "id": "fr-1056",
+    "front": "Combien ça coûte de faire réparer l'écran ?",
+    "pronunciation": "[kohm-byan sah koot duh fehr ray-pah-ray lay-KRAHN]",
+    "back": "How much does it cost to get the screen repaired?",
+    "context": "'Faire réparer' = to have something repaired."
+  },
+  {
+    "id": "fr-1057",
+    "front": "Le téléphone est encore sous garantie.",
+    "pronunciation": "[luh tay-lay-fun eh tahn-kor soo gah-rahn-TEE]",
+    "back": "The phone is still under warranty.",
+    "context": "'Sous garantie' = under warranty."
+  },
+  {
+    "id": "fr-1058",
+    "front": "Il faut installer la nouvelle version du logiciel.",
+    "pronunciation": "[eel foh tan-stah-lay lah noo-vel vehr-syohn dü loh-zhee-SYEL]",
+    "back": "You need to install the new version of the software.",
+    "context": "'Un logiciel' = software."
+  },
+  {
+    "id": "fr-1059",
+    "front": "J'ai reçu un mail bizarre, c'est sûrement une arnaque.",
+    "pronunciation": "[zhay ruh-SÜ an mel bee-ZAR, seh sür-mahn tün ar-NAK]",
+    "back": "I got a strange email, it's probably a scam.",
+    "context": "'Une arnaque' = a scam. Phishing = 'l'hameçonnage'."
+  },
+  {
+    "id": "fr-1060",
+    "front": "Ne clique jamais sur les liens suspects.",
+    "pronunciation": "[nuh kleek zhah-meh sür lay lyan sü-SPEH]",
+    "back": "Never click on suspicious links.",
+    "context": "Negative imperative with jamais."
+  },
+  {
+    "id": "fr-1061",
+    "front": "Il faut activer la double authentification.",
+    "pronunciation": "[eel foh tak-tee-vay lah doo-bluh oh-tahn-tee-fee-kah-SYOHN]",
+    "back": "You should enable two-factor authentication.",
+    "context": "'Activer' = to enable; 'désactiver' = to disable."
+  },
+  {
+    "id": "fr-1062",
+    "front": "Je ne sais pas me servir de ce logiciel.",
+    "pronunciation": "[zhuh nuh seh pah muh sehr-veer duh suh loh-zhee-SYEL]",
+    "back": "I don't know how to use this software.",
+    "context": "'Se servir de' = to use. 'Utiliser' is also fine."
+  },
+  {
+    "id": "fr-1063",
+    "front": "Tu peux m'expliquer comment ça marche ?",
+    "pronunciation": "[tü puh mek-splee-kay koh-mahn sah MARSH]",
+    "back": "Can you explain to me how it works?",
+    "context": "'Comment ça marche' = how it works."
+  },
+  {
+    "id": "fr-1064",
+    "front": "Le service client ne répond jamais.",
+    "pronunciation": "[luh sehr-vees klee-YAHN nuh ray-pohn zhah-MEH]",
+    "back": "Customer service never answers.",
+    "context": "'Le service client' = customer service; 'le SAV' (service après-vente) = after-sales service."
+  },
+  {
+    "id": "fr-1065",
+    "front": "J'ai commandé une tablette en ligne.",
+    "pronunciation": "[zhay koh-mahn-DAY ün tab-LET ahn LEEN]",
+    "back": "I ordered a tablet online.",
+    "context": "'Commander' = to order."
+  },
+  {
+    "id": "fr-1066",
+    "front": "Le colis devrait arriver dans trois jours.",
+    "pronunciation": "[luh koh-LEE duh-vreh ah-ree-vay dahn trwah ZHOOR]",
+    "back": "The parcel should arrive in three days.",
+    "context": "'Devrait' (conditional of devoir) = should."
+  },
+  {
+    "id": "fr-1067",
+    "front": "Mon ordinateur fait un bruit bizarre.",
+    "pronunciation": "[mohn nor-dee-nah-tuhr feh tan brwee bee-ZAR]",
+    "back": "My computer is making a strange noise.",
+    "context": "'Faire un bruit' = to make a noise."
+  },
+  {
+    "id": "fr-1068",
+    "front": "Il faudrait changer la batterie.",
+    "pronunciation": "[eel foh-dreh shahn-zhay lah bah-tuh-REE]",
+    "back": "The battery should be replaced.",
+    "context": "'Il faudrait' (conditional of falloir) = it would be necessary to."
+  },
+  {
+    "id": "fr-1069",
+    "front": "Ces nouvelles lunettes connectées sont trop chères pour moi.",
+    "pronunciation": "[say noo-vel lü-net koh-nek-TAY sohn troh SHEHR poor MWAH]",
+    "back": "These new smart glasses are too expensive for me.",
+    "context": "'Connecté' = smart (device)."
+  },
+  {
+    "id": "fr-1070",
+    "front": "La technologie évolue tellement vite !",
+    "pronunciation": "[lah tek-noh-loh-ZHEE ay-voh-LÜ tel-mahn VEET]",
+    "back": "Technology changes so fast!",
+    "context": "'Tellement' = so (much)."
+  }
+]

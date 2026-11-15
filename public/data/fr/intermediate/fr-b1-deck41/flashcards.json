@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-1351",
+    "front": "Tu connais Paul ? Oui, je le connais bien.",
+    "pronunciation": "[tü koh-neh POL ? WEE, zhuh luh koh-neh BYAN]",
+    "back": "Do you know Paul? Yes, I know him well.",
+    "context": "Direct object pronouns (COD): le, la, les replace a person or thing directly after the verb. They go BEFORE the verb."
+  },
+  {
+    "id": "fr-1352",
+    "front": "Tu as vu ma clé ? Non, je ne l'ai pas vue.",
+    "pronunciation": "[tü ah vü mah KLAY ? NOHN, zhuh nuh lay pah VÜ]",
+    "back": "Have you seen my key? No, I haven't seen it.",
+    "context": "Le/la → l' before a vowel. In the passé composé the participle agrees with a preceding direct object: vue (la clé)."
+  },
+  {
+    "id": "fr-1353",
+    "front": "Les documents ? Je les ai envoyés ce matin.",
+    "pronunciation": "[lay doh-kü-MAHN ? zhuh lay zay ahn-vwah-yay suh mah-TAN]",
+    "back": "The documents? I sent them this morning.",
+    "context": "'Les' + agreement: envoyés."
+  },
+  {
+    "id": "fr-1354",
+    "front": "Je t'appelle ce soir.",
+    "pronunciation": "[zhuh tah-PEL suh SWAHR]",
+    "back": "I'll call you tonight.",
+    "context": "Me, te, nous, vous work as both direct and indirect pronouns."
+  },
+  {
+    "id": "fr-1355",
+    "front": "Tu as parlé à ta mère ? Oui, je lui ai parlé hier.",
+    "pronunciation": "[tü ah par-lay ah tah MEHR ? WEE, zhuh lwee ay par-lay YEHR]",
+    "back": "Did you talk to your mother? Yes, I talked to her yesterday.",
+    "context": "Indirect object pronouns (COI): lui (him/her), leur (them) replace 'à + person'."
+  },
+  {
+    "id": "fr-1356",
+    "front": "Je leur ai offert des fleurs.",
+    "pronunciation": "[zhuh luhr ay oh-fehr day FLUHR]",
+    "back": "I gave them flowers.",
+    "context": "'Leur' (to them) never takes an s. Don't confuse it with the possessive 'leurs'."
+  },
+  {
+    "id": "fr-1357",
+    "front": "Il me manque beaucoup.",
+    "pronunciation": "[eel muh mahnk boh-KOO]",
+    "back": "I miss him a lot.",
+    "context": "'Manquer à' takes an indirect object: il me manque = I miss him."
+  },
+  {
+    "id": "fr-1358",
+    "front": "Tu vas à Paris ? Oui, j'y vais demain.",
+    "pronunciation": "[tü vah ah pah-REE ? WEE, zhee veh duh-MAN]",
+    "back": "Are you going to Paris? Yes, I'm going there tomorrow.",
+    "context": "'Y' replaces a place introduced by à, en, dans, chez…: there."
+  },
+  {
+    "id": "fr-1359",
+    "front": "J'y pense souvent.",
+    "pronunciation": "[zhee pahns soo-VAHN]",
+    "back": "I often think about it.",
+    "context": "'Y' also replaces 'à + thing': penser à ce voyage → y penser."
+  },
+  {
+    "id": "fr-1360",
+    "front": "Tu as besoin d'aide ? Non, je n'en ai pas besoin.",
+    "pronunciation": "[tü ah buh-zwan DED ? NOHN, zhuh nahn nay pah buh-ZWAN]",
+    "back": "Do you need help? No, I don't need it.",
+    "context": "'En' replaces 'de + thing': avoir besoin de → en avoir besoin."
+  },
+  {
+    "id": "fr-1361",
+    "front": "Tu veux du café ? Oui, j'en veux bien.",
+    "pronunciation": "[tü vuh dü kah-FAY ? WEE, zhahn vuh BYAN]",
+    "back": "Do you want some coffee? Yes, I'd like some.",
+    "context": "'En' replaces du/de la/des + noun: some, any."
+  },
+  {
+    "id": "fr-1362",
+    "front": "Combien de frères as-tu ? J'en ai deux.",
+    "pronunciation": "[kohm-byan duh FREHR ah-TÜ ? zhahn nay DUH]",
+    "back": "How many brothers do you have? I have two.",
+    "context": "With numbers and quantities, 'en' is required: j'en ai deux (never 'j'ai deux')."
+  },
+  {
+    "id": "fr-1363",
+    "front": "Il y en a beaucoup.",
+    "pronunciation": "[eel yahn nah boh-KOO]",
+    "back": "There are a lot of them.",
+    "context": "'Il y en a' = there are some."
+  },
+  {
+    "id": "fr-1364",
+    "front": "Des pommes ? J'en ai acheté un kilo.",
+    "pronunciation": "[day PUM ? zhahn nay ahsh-tay an kee-LOH]",
+    "back": "Apples? I bought a kilo (of them).",
+    "context": "'En' + quantity: j'en ai acheté un kilo. The participle does NOT agree with 'en'."
+  },
+  {
+    "id": "fr-1365",
+    "front": "Je te l'ai déjà dit !",
+    "pronunciation": "[zhuh tuh lay day-zhah DEE]",
+    "back": "I already told you!",
+    "context": "Pronoun order: me/te/nous/vous BEFORE le/la/les."
+  },
+  {
+    "id": "fr-1366",
+    "front": "Je le lui ai donné.",
+    "pronunciation": "[zhuh luh lwee ay doh-NAY]",
+    "back": "I gave it to him.",
+    "context": "Order: le/la/les BEFORE lui/leur."
+  },
+  {
+    "id": "fr-1367",
+    "front": "Je lui en ai parlé.",
+    "pronunciation": "[zhuh lwee ahn nay par-LAY]",
+    "back": "I talked to him about it.",
+    "context": "'En' always comes last: lui en, leur en, m'en."
+  },
+  {
+    "id": "fr-1368",
+    "front": "Il y en a encore ?",
+    "pronunciation": "[eel yahn nah ahn-KOR]",
+    "back": "Is there any left?",
+    "context": "'Y' comes before 'en': il y en a."
+  },
+  {
+    "id": "fr-1369",
+    "front": "Donne-le-moi.",
+    "pronunciation": "[dun-luh-MWAH]",
+    "back": "Give it to me.",
+    "context": "In the affirmative imperative, pronouns go after the verb: le/la before moi/lui."
+  },
+  {
+    "id": "fr-1370",
+    "front": "Ne me le donne pas.",
+    "pronunciation": "[nuh muh luh dun PAH]",
+    "back": "Don't give it to me.",
+    "context": "In the negative imperative, the normal order comes back."
+  },
+  {
+    "id": "fr-1371",
+    "front": "Vas-y !",
+    "pronunciation": "[vah-ZEE]",
+    "back": "Go ahead! / Go for it!",
+    "context": "'Y' with the imperative of aller; the s returns for the liaison."
+  },
+  {
+    "id": "fr-1372",
+    "front": "Prends-en un.",
+    "pronunciation": "[prahn-ZAHN AN]",
+    "back": "Take one.",
+    "context": "'En' after the imperative: prends-en, manges-en (the s returns before en)."
+  },
+  {
+    "id": "fr-1373",
+    "front": "Je vais l'appeler demain.",
+    "pronunciation": "[zhuh veh lah-puh-LAY duh-MAN]",
+    "back": "I'm going to call him tomorrow.",
+    "context": "With two verbs, the pronoun goes before the infinitive: je vais LE voir."
+  },
+  {
+    "id": "fr-1374",
+    "front": "Je ne peux pas y aller ce soir.",
+    "pronunciation": "[zhuh nuh puh pah zee ah-lay suh SWAHR]",
+    "back": "I can't go there tonight.",
+    "context": "Pronoun before the infinitive."
+  },
+  {
+    "id": "fr-1375",
+    "front": "Tu t'en souviens ?",
+    "pronunciation": "[tü tahn soo-VYAN]",
+    "back": "Do you remember it?",
+    "context": "'Se souvenir de' → s'en souvenir."
+  },
+  {
+    "id": "fr-1376",
+    "front": "Je m'en occupe.",
+    "pronunciation": "[zhuh mahn noh-KÜP]",
+    "back": "I'll take care of it.",
+    "context": "'S'occuper de' → s'en occuper."
+  },
+  {
+    "id": "fr-1377",
+    "front": "Je m'en fiche.",
+    "pronunciation": "[zhuh mahn FEESH]",
+    "back": "I don't care.",
+    "context": "Informal. Stronger: 'je m'en fous' (vulgar)."
+  },
+  {
+    "id": "fr-1378",
+    "front": "Ça ne t'en empêche pas.",
+    "pronunciation": "[sah nuh tahn nahn-PESH PAH]",
+    "back": "That doesn't stop you from doing it.",
+    "context": "'Empêcher quelqu'un de' → l'en empêcher."
+  },
+  {
+    "id": "fr-1379",
+    "front": "Je les y ai emmenés.",
+    "pronunciation": "[zhuh lay zee ay ahm-muh-NAY]",
+    "back": "I took them there.",
+    "context": "Combination le/la/les + y."
+  },
+  {
+    "id": "fr-1380",
+    "front": "Ce livre ? Je l'ai trouvé passionnant.",
+    "pronunciation": "[suh LEE-vruh ? zhuh lay troo-vay pah-syoh-NAHN]",
+    "back": "This book? I found it gripping.",
+    "context": "Topic first, then the pronoun: very natural in spoken French."
+  },
+  {
+    "id": "fr-1381",
+    "front": "Qu'est-ce que tu leur as dit ?",
+    "pronunciation": "[kehs-kuh tü luhr ah DEE]",
+    "back": "What did you tell them?",
+    "context": "'Leur' = to them."
+  },
+  {
+    "id": "fr-1382",
+    "front": "Elle nous a invités à son mariage.",
+    "pronunciation": "[el noo zah an-vee-tay ah sohn mah-RYAZH]",
+    "back": "She invited us to her wedding.",
+    "context": "'Nous' as a direct object: the participle agrees (invités)."
+  },
+  {
+    "id": "fr-1383",
+    "front": "On en parle demain ?",
+    "pronunciation": "[ohn nahn parl duh-MAN]",
+    "back": "Shall we talk about it tomorrow?",
+    "context": "'Parler de' → en parler."
+  },
+  {
+    "id": "fr-1384",
+    "front": "Je n'y arrive pas.",
+    "pronunciation": "[zhuh nee ah-reev PAH]",
+    "back": "I can't manage it.",
+    "context": "'Arriver à faire quelque chose' → y arriver = to manage."
+  },
+  {
+    "id": "fr-1385",
+    "front": "Je t'en veux.",
+    "pronunciation": "[zhuh tahn VUH]",
+    "back": "I hold it against you.",
+    "context": "'En vouloir à quelqu'un' = to be angry with someone. 'Je ne t'en veux pas' = I'm not angry with you."
+  }
+]

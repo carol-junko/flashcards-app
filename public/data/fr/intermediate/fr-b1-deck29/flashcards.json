@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-931",
+    "front": "Qu'est-ce qu'il y a à voir dans la région ?",
+    "pronunciation": "[kehs-keel yah ah VWAHR dahn lah ray-ZHYOHN]",
+    "back": "What is there to see in the area?",
+    "context": "A good question for the tourist office ('l'office de tourisme')."
+  },
+  {
+    "id": "fr-932",
+    "front": "Le musée est fermé le mardi.",
+    "pronunciation": "[luh mü-ZAY eh fehr-MAY luh mar-DEE]",
+    "back": "The museum is closed on Tuesdays.",
+    "context": "Many national museums close on Tuesday (the Louvre) or Monday (the Musée d'Orsay)."
+  },
+  {
+    "id": "fr-933",
+    "front": "Combien coûte l'entrée ?",
+    "pronunciation": "[kohm-byan koot lahn-TRAY]",
+    "back": "How much is admission?",
+    "context": "'L'entrée' = admission (and also the entrance, and the starter in a meal)."
+  },
+  {
+    "id": "fr-934",
+    "front": "L'entrée est gratuite pour les moins de vingt-six ans.",
+    "pronunciation": "[lahn-tray eh grah-TWEET poor lay mwan duh vant-SEE ZAHN]",
+    "back": "Entry is free for under-26s.",
+    "context": "EU residents under 26 get free access to French national museums."
+  },
+  {
+    "id": "fr-935",
+    "front": "Il y a une visite guidée en anglais ?",
+    "pronunciation": "[eel yah ün vee-zeet ghee-DAY ahn nahn-GLEH]",
+    "back": "Is there a guided tour in English?",
+    "context": "'Un audioguide' is often available too."
+  },
+  {
+    "id": "fr-936",
+    "front": "On a fait la queue pendant une heure pour voir la Joconde.",
+    "pronunciation": "[ohn nah feh lah KUH pahn-dahn tün UHR poor vwahr lah zhoh-KOHND]",
+    "back": "We queued for an hour to see the Mona Lisa.",
+    "context": "'Faire la queue' = to stand in line. 'La Joconde' = the Mona Lisa."
+  },
+  {
+    "id": "fr-937",
+    "front": "Il est conseillé de réserver les billets à l'avance.",
+    "pronunciation": "[ee leh kohn-seh-YAY duh ray-zehr-vay lay bee-YEH ah lah-VAHNS]",
+    "back": "Booking tickets in advance is recommended.",
+    "context": "'Il est conseillé de' + infinitive = it's advisable to."
+  },
+  {
+    "id": "fr-938",
+    "front": "La tour Eiffel a été construite pour l'Exposition universelle de 1889.",
+    "pronunciation": "[lah toor eh-FEL ah ay-tay kohns-TRWEET poor lek-spoh-zee-syohn ü-nee-vehr-SEL duh meelweet sahn kah-truh-van-NUHF]",
+    "back": "The Eiffel Tower was built for the 1889 World's Fair.",
+    "context": "Passive voice in the past. It was meant to be temporary!"
+  },
+  {
+    "id": "fr-939",
+    "front": "Le château de Versailles se trouve à vingt kilomètres de Paris.",
+    "pronunciation": "[luh shah-toh duh vehr-SAHY suh troov ah van kee-loh-MEH-truh duh pah-REE]",
+    "back": "The Palace of Versailles is 20 km from Paris.",
+    "context": "'Se trouver' = to be located."
+  },
+  {
+    "id": "fr-940",
+    "front": "Les châteaux de la Loire valent vraiment le détour.",
+    "pronunciation": "[lay shah-TOH duh lah LWAHR vahl vreh-mahn luh day-TOOR]",
+    "back": "The Loire Valley châteaux are really worth the detour.",
+    "context": "'Valoir le détour' / 'valoir le coup' = to be worth it."
+  },
+  {
+    "id": "fr-941",
+    "front": "Le Mont-Saint-Michel est entouré par la mer à marée haute.",
+    "pronunciation": "[luh mohn san mee-SHEL eh tahn-too-RAY par lah MEHR ah mah-ray OHT]",
+    "back": "Mont-Saint-Michel is surrounded by the sea at high tide.",
+    "context": "'Marée haute / basse' = high / low tide."
+  },
+  {
+    "id": "fr-942",
+    "front": "On peut monter en haut de la tour ?",
+    "pronunciation": "[ohn puh mohn-tay ahn OH duh lah TOOR]",
+    "back": "Can we go up to the top of the tower?",
+    "context": "'En haut de' = at the top of."
+  },
+  {
+    "id": "fr-943",
+    "front": "La vue d'en haut est à couper le souffle.",
+    "pronunciation": "[lah vü dahn OH eh tah koo-pay luh SOO-fluh]",
+    "back": "The view from the top is breathtaking.",
+    "context": "'À couper le souffle' = breathtaking."
+  },
+  {
+    "id": "fr-944",
+    "front": "C'est un quartier très animé le soir.",
+    "pronunciation": "[seh tan kar-tyay treh zah-nee-MAY luh SWAHR]",
+    "back": "It's a very lively neighborhood in the evening.",
+    "context": "'Animé' = lively, busy."
+  },
+  {
+    "id": "fr-945",
+    "front": "Ce village a gardé tout son charme d'autrefois.",
+    "pronunciation": "[suh vee-LAHZH ah gar-DAY too sohn sharm doh-truh-FWAH]",
+    "back": "This village has kept all its old-time charm.",
+    "context": "'D'autrefois' = of the past."
+  },
+  {
+    "id": "fr-946",
+    "front": "La cathédrale date du treizième siècle.",
+    "pronunciation": "[lah kah-tay-DRAL daht dü treh-zyem SYEH-kluh]",
+    "back": "The cathedral dates from the 13th century.",
+    "context": "'Dater de' = to date from. Centuries use ordinal numbers."
+  },
+  {
+    "id": "fr-947",
+    "front": "Il est interdit de prendre des photos avec flash.",
+    "pronunciation": "[ee leh tan-tehr-DEE duh prahn-druh day foh-TOH ah-vek FLASH]",
+    "back": "Flash photography is forbidden.",
+    "context": "'Il est interdit de' + infinitive."
+  },
+  {
+    "id": "fr-948",
+    "front": "On s'est perdus dans les petites rues du vieux Lyon.",
+    "pronunciation": "[ohn seh pehr-DÜ dahn lay puh-teet RÜ dü vyuh lee-OHN]",
+    "back": "We got lost in the little streets of old Lyon.",
+    "context": "With 'on' = nous, the participle often agrees (perdus)."
+  },
+  {
+    "id": "fr-949",
+    "front": "Je vous conseille de visiter la ville à pied.",
+    "pronunciation": "[zhuh voo kohn-SAY duh vee-zee-tay lah veel ah PYAY]",
+    "back": "I advise you to visit the town on foot.",
+    "context": "'Conseiller à quelqu'un de' + infinitive."
+  },
+  {
+    "id": "fr-950",
+    "front": "Le marché de Noël de Strasbourg est très célèbre.",
+    "pronunciation": "[luh mar-shay duh noh-EL duh straz-BOOR eh treh say-LEH-bruh]",
+    "back": "Strasbourg's Christmas market is very famous.",
+    "context": "One of the oldest Christmas markets in Europe."
+  },
+  {
+    "id": "fr-951",
+    "front": "On a fait une balade en bateau sur la Seine.",
+    "pronunciation": "[ohn nah feh tün bah-lahd ahn bah-TOH sür lah SEN]",
+    "back": "We took a boat trip on the Seine.",
+    "context": "'Les bateaux-mouches' are the famous Paris tour boats."
+  },
+  {
+    "id": "fr-952",
+    "front": "La plage est bondée en plein été.",
+    "pronunciation": "[lah plahzh eh bohn-DAY ahn plan nay-TAY]",
+    "back": "The beach is packed in midsummer.",
+    "context": "'Bondé' = packed. 'En plein été' = in the height of summer."
+  },
+  {
+    "id": "fr-953",
+    "front": "J'ai acheté quelques souvenirs pour ma famille.",
+    "pronunciation": "[zhay ahsh-TAY kel-kuh soov-NEER poor mah fah-MEE]",
+    "back": "I bought a few souvenirs for my family.",
+    "context": "'Un souvenir' = a souvenir (and also a memory)."
+  },
+  {
+    "id": "fr-954",
+    "front": "Le guide nous a raconté l'histoire du château.",
+    "pronunciation": "[luh GHEED noo zah rah-kohn-TAY lees-twahr dü shah-TOH]",
+    "back": "The guide told us the history of the castle.",
+    "context": "'Raconter' = to tell (a story)."
+  },
+  {
+    "id": "fr-955",
+    "front": "Cette église est classée au patrimoine mondial de l'Unesco.",
+    "pronunciation": "[set ay-GLEEZ eh klah-SAY oh pah-tree-mwahn mohn-DYAL duh lü-nes-KOH]",
+    "back": "This church is a UNESCO World Heritage Site.",
+    "context": "'Le patrimoine' = heritage."
+  },
+  {
+    "id": "fr-956",
+    "front": "Les Journées du patrimoine ont lieu en septembre.",
+    "pronunciation": "[lay zhoor-nay dü pah-tree-MWAHN ohn lyuh ahn sep-TAHM-bruh]",
+    "back": "Heritage Days take place in September.",
+    "context": "Many normally closed buildings open to the public for free."
+  },
+  {
+    "id": "fr-957",
+    "front": "On a loué des vélos pour faire le tour de l'île.",
+    "pronunciation": "[ohn nah loo-AY day vay-LOH poor fehr luh toor duh LEEL]",
+    "back": "We rented bikes to go around the island.",
+    "context": "'Faire le tour de' = to go around."
+  },
+  {
+    "id": "fr-958",
+    "front": "Le coucher de soleil sur la baie était inoubliable.",
+    "pronunciation": "[luh koo-shay duh soh-LAY sür lah BEH ay-teh tee-noo-blee-YAH-bluh]",
+    "back": "The sunset over the bay was unforgettable.",
+    "context": "'Inoubliable' = unforgettable."
+  },
+  {
+    "id": "fr-959",
+    "front": "Ce restaurant est un vrai piège à touristes.",
+    "pronunciation": "[suh res-toh-RAHN eh tan vreh pyezh ah too-REEST]",
+    "back": "This restaurant is a real tourist trap.",
+    "context": "'Un piège à touristes' = tourist trap."
+  },
+  {
+    "id": "fr-960",
+    "front": "Tu connais un endroit moins touristique ?",
+    "pronunciation": "[tü koh-neh an nahn-drwah mwan too-rees-TEEK]",
+    "back": "Do you know a less touristy place?",
+    "context": "'Un endroit' = a place."
+  },
+  {
+    "id": "fr-961",
+    "front": "On a passé la journée au bord du lac d'Annecy.",
+    "pronunciation": "[ohn nah pah-say lah zhoor-nay oh bor dü lak dan-SEE]",
+    "back": "We spent the day by Lake Annecy.",
+    "context": "'Au bord de' = by, on the edge of."
+  },
+  {
+    "id": "fr-962",
+    "front": "Les gorges du Verdon sont un paradis pour les randonneurs.",
+    "pronunciation": "[lay gorzh dü vehr-DOHN sohn tan pah-rah-DEE poor lay rahn-doh-NUHR]",
+    "back": "The Verdon Gorge is a paradise for hikers.",
+    "context": "'Un randonneur' = a hiker."
+  },
+  {
+    "id": "fr-963",
+    "front": "J'ai pris plein de photos.",
+    "pronunciation": "[zhay pree plan duh foh-TOH]",
+    "back": "I took loads of photos.",
+    "context": "'Plein de' = lots of (informal)."
+  },
+  {
+    "id": "fr-964",
+    "front": "Il faut absolument goûter les spécialités locales.",
+    "pronunciation": "[eel foh tab-soh-lü-MAHN goo-tay lay spay-syah-lee-tay loh-KAL]",
+    "back": "You absolutely have to try the local specialties.",
+    "context": "'Goûter' = to taste, try (food)."
+  },
+  {
+    "id": "fr-965",
+    "front": "Ce voyage restera gravé dans ma mémoire.",
+    "pronunciation": "[suh vwah-YAHZH res-tuh-RAH grah-VAY dahn mah may-MWAHR]",
+    "back": "This trip will stay engraved in my memory.",
+    "context": "Futur simple: restera. 'Gravé' = engraved."
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-1176",
+    "front": "Elle s'habille toujours avec beaucoup d'élégance.",
+    "pronunciation": "[el sah-beey too-zhoor ah-vek boh-koo day-lay-GAHNS]",
+    "back": "She always dresses very elegantly.",
+    "context": "'S'habiller' = to get dressed / to dress (in a style)."
+  },
+  {
+    "id": "fr-1177",
+    "front": "Il a un style très décontracté.",
+    "pronunciation": "[ee lah an steel treh day-kohn-trak-TAY]",
+    "back": "He has a very casual style.",
+    "context": "'Décontracté' = casual, relaxed."
+  },
+  {
+    "id": "fr-1178",
+    "front": "Je porte un costume pour l'entretien.",
+    "pronunciation": "[zhuh port an kos-TÜM poor lahn-truh-TYAN]",
+    "back": "I'm wearing a suit for the interview.",
+    "context": "False friend: 'un costume' = a suit (a costume is 'un déguisement')."
+  },
+  {
+    "id": "fr-1179",
+    "front": "Cette robe te va à merveille.",
+    "pronunciation": "[set rob tuh vah ah mehr-VAY]",
+    "back": "That dress looks wonderful on you.",
+    "context": "'Aller à merveille' = to suit perfectly."
+  },
+  {
+    "id": "fr-1180",
+    "front": "Ce pantalon est trop moulant.",
+    "pronunciation": "[suh pahn-tah-lohn eh troh moo-LAHN]",
+    "back": "These trousers are too tight.",
+    "context": "'Moulant' = tight-fitting; 'ample' = loose."
+  },
+  {
+    "id": "fr-1181",
+    "front": "La veste est un peu trop large aux épaules.",
+    "pronunciation": "[lah vest eh tan puh troh LARZH oh zay-POHL]",
+    "back": "The jacket is a bit too wide at the shoulders.",
+    "context": "False friend: 'large' = wide (big = 'grand')."
+  },
+  {
+    "id": "fr-1182",
+    "front": "Cette chemise en lin est parfaite pour l'été.",
+    "pronunciation": "[set shuh-meez ahn LAN eh par-feh poor lay-TAY]",
+    "back": "This linen shirt is perfect for summer.",
+    "context": "Fabrics: le coton, le lin (linen), la laine (wool), la soie (silk), le cuir (leather)."
+  },
+  {
+    "id": "fr-1183",
+    "front": "Un pull en laine, c'est indispensable en hiver.",
+    "pronunciation": "[an pül ahn LEN, seh tan-dees-pahn-SAH-bluh ahn nee-VEHR]",
+    "back": "A wool sweater is essential in winter.",
+    "context": "'En' + material: en laine, en coton, en cuir."
+  },
+  {
+    "id": "fr-1184",
+    "front": "Il porte une chemise à rayures avec un pantalon uni.",
+    "pronunciation": "[eel port ün shuh-meez ah rah-YÜR ah-vek an pahn-tah-lohn ü-NEE]",
+    "back": "He's wearing a striped shirt with plain trousers.",
+    "context": "Patterns: à rayures (striped), à carreaux (checked), à fleurs (floral), à pois (polka dot), uni (plain)."
+  },
+  {
+    "id": "fr-1185",
+    "front": "Le noir, ça va avec tout.",
+    "pronunciation": "[luh NWAHR, sah vah ah-vek TOO]",
+    "back": "Black goes with everything.",
+    "context": "'Aller avec' = to go with, match."
+  },
+  {
+    "id": "fr-1186",
+    "front": "Ces chaussures ne vont pas avec ta robe.",
+    "pronunciation": "[say shoh-sür nuh vohn pah ah-vek tah ROB]",
+    "back": "These shoes don't go with your dress.",
+    "context": "'Ne pas aller avec' = not to match."
+  },
+  {
+    "id": "fr-1187",
+    "front": "Elle est toujours à la mode.",
+    "pronunciation": "[el eh too-zhoor ah lah MOD]",
+    "back": "She's always fashionable.",
+    "context": "'À la mode' = in fashion; 'démodé' = out of fashion."
+  },
+  {
+    "id": "fr-1188",
+    "front": "C'est complètement démodé !",
+    "pronunciation": "[seh kohm-plet-mahn day-moh-DAY]",
+    "back": "That's completely out of fashion!",
+    "context": "Also 'ringard' (informal) = tacky, old-fashioned."
+  },
+  {
+    "id": "fr-1189",
+    "front": "Le style parisien, c'est simple, chic et un peu négligé.",
+    "pronunciation": "[luh steel pah-ree-ZYAN, seh SAN-pluh, SHEEK ay an puh nay-glee-ZHAY]",
+    "back": "Parisian style is simple, chic and a little effortless.",
+    "context": "'Négligé' here = deliberately casual. 'Le chic à la française'."
+  },
+  {
+    "id": "fr-1190",
+    "front": "J'aime m'habiller en friperie.",
+    "pronunciation": "[zhem mah-bee-yay ahn free-puh-REE]",
+    "back": "I like buying clothes at thrift stores.",
+    "context": "'Une friperie' = second-hand clothing shop. 'La seconde main' = second-hand."
+  },
+  {
+    "id": "fr-1191",
+    "front": "Je fais attention à acheter des vêtements éthiques.",
+    "pronunciation": "[zhuh feh zah-tahn-SYOHN ah ahsh-tay day vet-mahn ay-TEEK]",
+    "back": "I'm careful to buy ethical clothing.",
+    "context": "'La mode éthique / durable' = ethical / sustainable fashion."
+  },
+  {
+    "id": "fr-1192",
+    "front": "La fast fashion pollue énormément.",
+    "pronunciation": "[lah fast FASH-un poh-LÜ ay-nor-may-MAHN]",
+    "back": "Fast fashion pollutes enormously.",
+    "context": "Also called 'la mode jetable' (disposable fashion)."
+  },
+  {
+    "id": "fr-1193",
+    "front": "Il a mis un jean et des baskets blanches.",
+    "pronunciation": "[ee lah mee an DJEEN ay day bas-ket BLAHNSH]",
+    "back": "He put on jeans and white sneakers.",
+    "context": "'Mettre' = to put on (clothes)."
+  },
+  {
+    "id": "fr-1194",
+    "front": "Enlève tes chaussures en entrant.",
+    "pronunciation": "[ahn-lev tay shoh-SÜR ahn nahn-TRAHN]",
+    "back": "Take your shoes off when you come in.",
+    "context": "'Enlever' = to take off; 'en entrant' = when coming in."
+  },
+  {
+    "id": "fr-1195",
+    "front": "Elle s'est changée avant de sortir.",
+    "pronunciation": "[el seh shahn-ZHAY ah-vahn duh sor-TEER]",
+    "back": "She got changed before going out.",
+    "context": "'Se changer' = to change clothes."
+  },
+  {
+    "id": "fr-1196",
+    "front": "Ce manteau est trop chaud pour la saison.",
+    "pronunciation": "[suh mahn-toh eh troh SHOH poor lah seh-ZOHN]",
+    "back": "This coat is too warm for the season.",
+    "context": "'Chaud' for clothes = warm."
+  },
+  {
+    "id": "fr-1197",
+    "front": "Il faut repasser cette chemise, elle est toute froissée.",
+    "pronunciation": "[eel foh ruh-pah-say set shuh-MEEZ, el eh toot frwah-SAY]",
+    "back": "This shirt needs ironing, it's all creased.",
+    "context": "'Repasser' = to iron. 'Froissé' = creased."
+  },
+  {
+    "id": "fr-1198",
+    "front": "Ce pull a rétréci au lavage.",
+    "pronunciation": "[suh pül ah ray-tray-SEE oh lah-VAHZH]",
+    "back": "This sweater shrank in the wash.",
+    "context": "'Rétrécir' = to shrink."
+  },
+  {
+    "id": "fr-1199",
+    "front": "Elle porte des boucles d'oreilles en or.",
+    "pronunciation": "[el port day boo-kluh doh-RAY ahn NOR]",
+    "back": "She's wearing gold earrings.",
+    "context": "Accessories: un collier (necklace), une bague (ring), un bracelet."
+  },
+  {
+    "id": "fr-1200",
+    "front": "Il ne sort jamais sans sa casquette.",
+    "pronunciation": "[eel nuh sor zhah-meh sahn sah kas-KET]",
+    "back": "He never goes out without his cap.",
+    "context": "'Une casquette' = cap; 'un chapeau' = hat."
+  },
+  {
+    "id": "fr-1201",
+    "front": "Pour la soirée, la tenue est correcte exigée.",
+    "pronunciation": "[poor lah swah-RAY, lah tuh-nü eh koh-rekt eg-zee-ZHAY]",
+    "back": "For the event, smart dress is required.",
+    "context": "'Tenue correcte exigée' = dress code: smart."
+  },
+  {
+    "id": "fr-1202",
+    "front": "Il était habillé n'importe comment.",
+    "pronunciation": "[ee lay-teh tah-bee-yay nan-port koh-MAHN]",
+    "back": "He was dressed any old how.",
+    "context": "'N'importe comment' = carelessly."
+  },
+  {
+    "id": "fr-1203",
+    "front": "Je me sens mieux dans des vêtements amples.",
+    "pronunciation": "[zhuh muh sahn MYUH dahn day vet-mahn ZAHM-pluh]",
+    "back": "I feel better in loose clothes.",
+    "context": "'Ample' = loose, roomy."
+  },
+  {
+    "id": "fr-1204",
+    "front": "La Fashion Week de Paris attire le monde entier.",
+    "pronunciation": "[lah fash-un WEEK duh pah-REE ah-teer luh mohnd ahn-TYAY]",
+    "back": "Paris Fashion Week attracts the whole world.",
+    "context": "'La haute couture' is a protected label in France."
+  },
+  {
+    "id": "fr-1205",
+    "front": "Coco Chanel a révolutionné la mode féminine.",
+    "pronunciation": "[koh-koh shah-NEL ah ray-voh-lü-syoh-nay lah mod fay-mee-NEEN]",
+    "back": "Coco Chanel revolutionized women's fashion.",
+    "context": "Known for the little black dress ('la petite robe noire')."
+  },
+  {
+    "id": "fr-1206",
+    "front": "Tu trouves que ça me va ?",
+    "pronunciation": "[tü troov kuh sah muh VAH]",
+    "back": "Do you think it suits me?",
+    "context": "'Trouver que' = to think that."
+  },
+  {
+    "id": "fr-1207",
+    "front": "Franchement, ce n'est pas trop ton style.",
+    "pronunciation": "[frahnsh-MAHN, suh neh pah troh tohn STEEL]",
+    "back": "Honestly, it's not really your style.",
+    "context": "'Franchement' = frankly. 'Pas trop' = not really."
+  },
+  {
+    "id": "fr-1208",
+    "front": "Je n'ai rien à me mettre !",
+    "pronunciation": "[zhuh neh ryan nah muh MEH-truh]",
+    "back": "I have nothing to wear!",
+    "context": "The universal complaint before going out."
+  },
+  {
+    "id": "fr-1209",
+    "front": "Elle a le sens du détail.",
+    "pronunciation": "[el ah luh sahns dü day-TAHY]",
+    "back": "She has an eye for detail.",
+    "context": "'Avoir le sens de' = to have a sense of."
+  },
+  {
+    "id": "fr-1210",
+    "front": "Ce qui compte, c'est de se sentir bien dans ses vêtements.",
+    "pronunciation": "[suh kee KOHNT, seh duh suh sahn-teer BYAN dahn say vet-MAHN]",
+    "back": "What matters is feeling good in your clothes.",
+    "context": "'Ce qui compte' = what matters."
+  }
+]
