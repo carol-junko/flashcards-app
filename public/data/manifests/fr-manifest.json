@@ -411,8 +411,7 @@
     "category": "Current Events & News",
     "title": "Modern France: Economy, Society & Environment",
     "description": "Discuss the economy, strikes, social debates and ecology in today's France.",
-    "cardCount": 50,
-    "comingSoon": true
+    "cardCount": 50
   },
   {
     "id": "fr-b2-deck47",
@@ -421,8 +420,7 @@
     "category": "Business & Negotiations",
     "title": "Business & Professional Communication",
     "description": "Emails, meetings, negotiation and formal registers at work.",
-    "cardCount": 45,
-    "comingSoon": true
+    "cardCount": 45
   },
   {
     "id": "fr-b2-deck48",
@@ -470,7 +468,7 @@
     "level": "Upper-Intermediate",
     "category": "Advanced Idioms",
     "title": "Everyday French Idioms",
-    "description": "Colorful idioms like avoir le cafard, poser un lapin and coûter les yeux de la tête.",
+    "description": "Colorful idioms like avoir le cafard, poser un lapin and casser les pieds.",
     "cardCount": 45,
     "comingSoon": true
   },

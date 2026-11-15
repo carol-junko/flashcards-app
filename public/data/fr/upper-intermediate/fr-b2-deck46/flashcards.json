@@ -1,0 +1,352 @@
+[
+  {
+    "id": "fr-1526",
+    "front": "Le pouvoir d'achat est la première préoccupation des Français.",
+    "pronunciation": "[luh poo-vwahr dah-SHAH eh lah pruh-myehr pray-oh-kü-pah-SYOHN day frahn-SEH]",
+    "back": "Purchasing power is French people's top concern.",
+    "context": "'Le pouvoir d'achat' comes up in almost every French political debate."
+  },
+  {
+    "id": "fr-1527",
+    "front": "L'inflation a fait grimper les prix de l'alimentation.",
+    "pronunciation": "[lan-flah-SYOHN ah feh gran-pay lay pree duh lah-lee-mahn-tah-SYOHN]",
+    "back": "Inflation has pushed up food prices.",
+    "context": "'Grimper' = to climb, rise."
+  },
+  {
+    "id": "fr-1528",
+    "front": "Les syndicats ont appelé à une grève nationale.",
+    "pronunciation": "[lay san-dee-KAH ohn tah-puh-lay ah ün grev nah-syoh-NAL]",
+    "back": "The unions have called a national strike.",
+    "context": "'Un syndicat' = trade union. Strikes are a frequent, legal form of protest in France."
+  },
+  {
+    "id": "fr-1529",
+    "front": "La réforme des retraites a repoussé l'âge légal de départ à soixante-quatre ans.",
+    "pronunciation": "[lah ray-form day ruh-TRET ah ruh-poo-say lahzh lay-gal duh day-par ah swah-sahnt-KAT-ruh AHN]",
+    "back": "The pension reform raised the legal retirement age to 64.",
+    "context": "The 2023 reform moved it from 62 to 64 and sparked months of protests."
+  },
+  {
+    "id": "fr-1530",
+    "front": "Le gouvernement a eu recours au 49.3 pour faire passer le texte.",
+    "pronunciation": "[luh goo-vehr-nuh-mahn ah ü ruh-koor oh kah-rahnt-nuhf-TRWAH poor fehr pah-say luh TEKST]",
+    "back": "The government used Article 49.3 to push the bill through.",
+    "context": "Article 49.3 of the Constitution lets a bill pass without a vote unless the government is toppled."
+  },
+  {
+    "id": "fr-1531",
+    "front": "Le SMIC a été revalorisé en janvier.",
+    "pronunciation": "[luh SMEEK ah ay-tay ruh-vah-loh-ree-ZAY ahn zhahn-VYAY]",
+    "back": "The minimum wage was increased in January.",
+    "context": "'Le SMIC' = the statutory minimum wage. 'Revaloriser' = to raise (a wage, a pension)."
+  },
+  {
+    "id": "fr-1532",
+    "front": "Le taux de chômage reste autour de sept pour cent.",
+    "pronunciation": "[luh toh duh shoh-MAHZH rest oh-toor duh set poor SAHN]",
+    "back": "The unemployment rate stays around seven percent.",
+    "context": "'Le taux de chômage' = unemployment rate. 'Autour de' = around."
+  },
+  {
+    "id": "fr-1533",
+    "front": "Les jeunes peinent à trouver un logement abordable.",
+    "pronunciation": "[lay ZHUHN pen ah troo-vay an lozh-mahn ah-bor-DAH-bluh]",
+    "back": "Young people struggle to find affordable housing.",
+    "context": "'Peiner à' = to struggle to. 'Abordable' = affordable."
+  },
+  {
+    "id": "fr-1534",
+    "front": "La crise du logement touche surtout les grandes villes.",
+    "pronunciation": "[lah kreez dü lozh-MAHN toosh sür-too lay grahnd VEEL]",
+    "back": "The housing crisis mainly affects the big cities.",
+    "context": "'Toucher' = to affect."
+  },
+  {
+    "id": "fr-1535",
+    "front": "Dans certaines régions rurales, il y a des déserts médicaux.",
+    "pronunciation": "[dahn sehr-ten ray-zhyohn rü-RAL, eel yah day day-zehr may-dee-KOH]",
+    "back": "In some rural areas, there are 'medical deserts'.",
+    "context": "'Un désert médical' = an area with too few doctors."
+  },
+  {
+    "id": "fr-1536",
+    "front": "La population française vieillit.",
+    "pronunciation": "[lah poh-pü-lah-syohn frahn-sez vyeh-YEE]",
+    "back": "The French population is aging.",
+    "context": "'Vieillir' = to grow old."
+  },
+  {
+    "id": "fr-1537",
+    "front": "La France produit l'essentiel de son électricité grâce au nucléaire.",
+    "pronunciation": "[lah frahns proh-dwee leh-sahn-syel duh sohn nay-lek-tree-see-TAY grahs oh nü-klay-EHR]",
+    "back": "France produces most of its electricity from nuclear power.",
+    "context": "Nuclear provides roughly two-thirds of French electricity, more than in almost any other country."
+  },
+  {
+    "id": "fr-1538",
+    "front": "La transition énergétique est un enjeu majeur.",
+    "pronunciation": "[lah trahn-zee-syohn ay-nehr-zhay-TEEK eh tan nahn-zhuh ma-ZHUHR]",
+    "back": "The energy transition is a major issue.",
+    "context": "'Un enjeu' = an issue, what is at stake. Very frequent in news French."
+  },
+  {
+    "id": "fr-1539",
+    "front": "Il faut réduire les émissions de gaz à effet de serre.",
+    "pronunciation": "[eel foh ray-dweer lay zay-mee-syohn duh gahz ah eh-feh duh SEHR]",
+    "back": "We need to reduce greenhouse gas emissions.",
+    "context": "'Le gaz à effet de serre' = greenhouse gas."
+  },
+  {
+    "id": "fr-1540",
+    "front": "De plus en plus de villes créent des zones à faibles émissions.",
+    "pronunciation": "[duh plü zahn plü duh VEEL kray day zohn ah feh-bluh zay-mee-SYOHN]",
+    "back": "More and more cities are creating low-emission zones.",
+    "context": "'ZFE' = zone à faibles émissions: older polluting cars are banned."
+  },
+  {
+    "id": "fr-1541",
+    "front": "Le vélo a connu un véritable essor à Paris.",
+    "pronunciation": "[luh vay-LOH ah koh-nü an vay-ree-tah-bluh eh-SOR ah pah-REE]",
+    "back": "Cycling has really taken off in Paris.",
+    "context": "'Un essor' = a boom, rapid growth."
+  },
+  {
+    "id": "fr-1542",
+    "front": "La canicule de l'été dernier a battu des records.",
+    "pronunciation": "[lah kah-nee-kül duh lay-tay dehr-NYAY ah bah-tü day ruh-KOR]",
+    "back": "Last summer's heatwave broke records.",
+    "context": "'Battre un record' = to break a record."
+  },
+  {
+    "id": "fr-1543",
+    "front": "Le mouvement des gilets jaunes est né d'une hausse du prix du carburant.",
+    "pronunciation": "[luh moov-mahn day zhee-leh ZHOHN eh nay dün ohs dü pree dü kar-bü-RAHN]",
+    "back": "The yellow vest movement began with a rise in fuel prices.",
+    "context": "In 2018. 'Une hausse' = a rise; 'une baisse' = a fall."
+  },
+  {
+    "id": "fr-1544",
+    "front": "Les manifestants défilent de la République à la Nation.",
+    "pronunciation": "[lay mah-nee-fes-TAHN day-feel duh lah ray-pü-BLEEK ah lah nah-SYOHN]",
+    "back": "The protesters are marching from République to Nation.",
+    "context": "Classic Paris protest route between two squares. 'Défiler' = to march."
+  },
+  {
+    "id": "fr-1545",
+    "front": "La laïcité est un principe fondamental de la République.",
+    "pronunciation": "[lah lah-ee-see-TAY eh tan pran-seep fohn-dah-mahn-TAL duh lah ray-pü-BLEEK]",
+    "back": "Secularism is a fundamental principle of the Republic.",
+    "context": "'La laïcité': separation of religion and state, established by the 1905 law."
+  },
+  {
+    "id": "fr-1546",
+    "front": "Le débat sur l'immigration divise profondément la société.",
+    "pronunciation": "[luh day-bah sür lee-mee-grah-SYOHN dee-veez proh-fohn-day-MAHN lah soh-syay-TAY]",
+    "back": "The debate on immigration deeply divides society.",
+    "context": "'Diviser' = to divide."
+  },
+  {
+    "id": "fr-1547",
+    "front": "Les inégalités entre Paris et la province se creusent.",
+    "pronunciation": "[lay zee-nay-gah-lee-TAY ahn-truh pah-REE ay lah proh-VANS suh KRUHZ]",
+    "back": "Inequalities between Paris and the rest of France are widening.",
+    "context": "'Se creuser' (to deepen) = to widen (a gap)."
+  },
+  {
+    "id": "fr-1548",
+    "front": "Le télétravail a transformé la vie de nombreux salariés.",
+    "pronunciation": "[luh tay-lay-trah-VAHY ah trahns-for-may lah vee duh nohm-bruh sah-lah-RYAY]",
+    "back": "Remote work has transformed the lives of many employees.",
+    "context": "'Un salarié' = an employee."
+  },
+  {
+    "id": "fr-1549",
+    "front": "Beaucoup de citadins se sont installés à la campagne après la pandémie.",
+    "pronunciation": "[boh-koo duh see-tah-DAN suh sohn tan-stah-lay ah lah kahm-PAN-yuh ah-preh lah pahn-day-MEE]",
+    "back": "Many city dwellers moved to the countryside after the pandemic.",
+    "context": "'Un citadin' = a city dweller."
+  },
+  {
+    "id": "fr-1550",
+    "front": "L'égalité salariale entre les femmes et les hommes n'est pas encore atteinte.",
+    "pronunciation": "[lay-gah-lee-tay sah-lah-RYAL ahn-truh lay fam ay lay ZUM neh pah zahn-kor ah-TANT]",
+    "back": "Equal pay between women and men has not yet been achieved.",
+    "context": "'Atteindre' = to reach, achieve → atteint(e)."
+  },
+  {
+    "id": "fr-1551",
+    "front": "La loi impose la parité sur les listes électorales.",
+    "pronunciation": "[lah lwah an-pohz lah pah-ree-TAY sür lay leest ay-lek-toh-RAL]",
+    "back": "The law requires gender parity on electoral lists.",
+    "context": "'La parité' = equal numbers of women and men."
+  },
+  {
+    "id": "fr-1552",
+    "front": "Les Jeux olympiques de Paris en 2024 ont été un grand succès populaire.",
+    "pronunciation": "[lay zhuh oh-lan-PEEK duh pah-REE ahn duh meel van-KAT ohn tay-TAY an grahn sük-seh poh-pü-LEHR]",
+    "back": "The 2024 Paris Olympics were a great popular success.",
+    "context": "'Un succès' = a success (not 'succession')."
+  },
+  {
+    "id": "fr-1553",
+    "front": "L'économie française repose en grande partie sur les services.",
+    "pronunciation": "[lay-koh-noh-mee frahn-SEZ ruh-pohz ahn grahnd par-TEE sür lay sehr-VEES]",
+    "back": "The French economy relies largely on services.",
+    "context": "'Reposer sur' = to rely on. 'En grande partie' = largely."
+  },
+  {
+    "id": "fr-1554",
+    "front": "Le tourisme représente une part importante du PIB.",
+    "pronunciation": "[luh too-REEZM ruh-pray-zahnt ün par an-por-TAHNT dü pay-ee-BAY]",
+    "back": "Tourism represents a significant share of GDP.",
+    "context": "'Le PIB' (produit intérieur brut) = GDP. France is one of the most visited countries in the world."
+  },
+  {
+    "id": "fr-1555",
+    "front": "La dette publique inquiète les économistes.",
+    "pronunciation": "[lah det pü-BLEEK an-KYET lay zay-koh-noh-MEEST]",
+    "back": "The public debt worries economists.",
+    "context": "'La dette publique' = national debt."
+  },
+  {
+    "id": "fr-1556",
+    "front": "Les agriculteurs protestent contre la baisse de leurs revenus.",
+    "pronunciation": "[lay zah-gree-kül-TUHR proh-test kohn-truh lah bes duh luhr ruh-vuh-NÜ]",
+    "back": "Farmers are protesting against the fall in their income.",
+    "context": "'Les revenus' = income."
+  },
+  {
+    "id": "fr-1557",
+    "front": "Le gaspillage alimentaire est désormais interdit dans les supermarchés.",
+    "pronunciation": "[luh gas-pee-yahzh ah-lee-mahn-TEHR eh day-zor-meh zan-tehr-DEE dahn lay sü-pehr-mar-SHAY]",
+    "back": "Food waste is now banned in supermarkets.",
+    "context": "Since 2016 French supermarkets must donate unsold food. 'Désormais' = from now on."
+  },
+  {
+    "id": "fr-1558",
+    "front": "Le tri des déchets est obligatoire.",
+    "pronunciation": "[luh tree day day-SHEH eh toh-blee-gah-TWAHR]",
+    "back": "Sorting waste is compulsory.",
+    "context": "'Les déchets' = waste. 'La poubelle jaune' = recycling bin in many towns."
+  },
+  {
+    "id": "fr-1559",
+    "front": "Le gouvernement veut relancer la croissance.",
+    "pronunciation": "[luh goo-vehr-nuh-MAHN vuh ruh-lahn-say lah krwah-SAHNS]",
+    "back": "The government wants to boost growth.",
+    "context": "'Relancer' = to revive, boost. 'La croissance' = growth."
+  },
+  {
+    "id": "fr-1560",
+    "front": "Les élections législatives ont abouti à une Assemblée sans majorité absolue.",
+    "pronunciation": "[lay zay-lek-syohn lay-zhees-lah-TEEV ohn tah-boo-tee ah ün nah-sahm-blay sahn mah-zhoh-ree-tay ab-soh-LÜ]",
+    "back": "The legislative elections produced an Assembly with no absolute majority.",
+    "context": "'Aboutir à' = to result in. 'L'Assemblée nationale' = lower house of Parliament."
+  },
+  {
+    "id": "fr-1561",
+    "front": "Le président de la République est élu pour cinq ans.",
+    "pronunciation": "[luh pray-zee-dahn duh lah ray-pü-BLEEK eh tay-LÜ poor san KAHN]",
+    "back": "The President of the Republic is elected for five years.",
+    "context": "'Le quinquennat' = the five-year term (since 2002)."
+  },
+  {
+    "id": "fr-1562",
+    "front": "Le Premier ministre dirige l'action du gouvernement.",
+    "pronunciation": "[luh pruh-myay mee-NEES-truh dee-reezh lak-syohn dü goo-vehr-nuh-MAHN]",
+    "back": "The Prime Minister directs the government's work.",
+    "context": "France has both a president and a prime minister."
+  },
+  {
+    "id": "fr-1563",
+    "front": "Les Français sont très attachés à leur système de santé.",
+    "pronunciation": "[lay frahn-SEH sohn treh zah-tah-shay ah luhr sees-tem duh sahn-TAY]",
+    "back": "French people are very attached to their healthcare system.",
+    "context": "'Être attaché à' = to be attached to, value."
+  },
+  {
+    "id": "fr-1564",
+    "front": "La Sécurité sociale rembourse une grande partie des soins.",
+    "pronunciation": "[lah say-kü-ree-tay soh-SYAL rahm-boors ün grahnd par-tee day SWAN]",
+    "back": "Social Security reimburses a large share of healthcare costs.",
+    "context": "'La Sécu' (informal). 'Les soins' = healthcare, treatment."
+  },
+  {
+    "id": "fr-1565",
+    "front": "Le modèle social français coûte cher, mais il protège.",
+    "pronunciation": "[luh moh-del soh-syal frahn-SEH koot SHEHR, meh eel proh-TEZH]",
+    "back": "The French social model is expensive, but it protects people.",
+    "context": "A sentence that sums up a recurring national debate."
+  },
+  {
+    "id": "fr-1566",
+    "front": "L'abstention a atteint un niveau record.",
+    "pronunciation": "[lab-stahn-syohn ah ah-tan tan nee-voh ruh-KOR]",
+    "back": "Abstention reached a record level.",
+    "context": "'L'abstention' = not voting."
+  },
+  {
+    "id": "fr-1567",
+    "front": "Les jeunes s'engagent pour le climat.",
+    "pronunciation": "[lay zhuhn sahn-gahzh poor luh klee-MAH]",
+    "back": "Young people are getting involved in climate action.",
+    "context": "'S'engager' = to commit, get involved."
+  },
+  {
+    "id": "fr-1568",
+    "front": "La filière automobile se tourne vers l'électrique.",
+    "pronunciation": "[lah fee-lyehr oh-toh-moh-BEEL suh toorn vehr lay-lek-TREEK]",
+    "back": "The car industry is turning to electric vehicles.",
+    "context": "'Une filière' = an industry sector, supply chain."
+  },
+  {
+    "id": "fr-1569",
+    "front": "Le prix de l'énergie pèse sur les ménages modestes.",
+    "pronunciation": "[luh pree duh lay-nehr-ZHEE pez sür lay may-nahzh moh-DEST]",
+    "back": "Energy prices weigh on low-income households.",
+    "context": "'Un ménage' = a household. 'Modeste' = low-income."
+  },
+  {
+    "id": "fr-1570",
+    "front": "Les banlieues souffrent d'un manque de services publics.",
+    "pronunciation": "[lay bahn-LYUH soofr dan mahnk duh sehr-vees pü-BLEEK]",
+    "back": "The suburbs suffer from a lack of public services.",
+    "context": "'Les banlieues' often refers to disadvantaged suburban areas around big cities."
+  },
+  {
+    "id": "fr-1571",
+    "front": "Le gouvernement a annoncé un plan de rénovation énergétique des logements.",
+    "pronunciation": "[luh goo-vehr-nuh-mahn ah ah-noh-say an plahn duh ray-noh-vah-syohn ay-nehr-zhay-TEEK day lozh-MAHN]",
+    "back": "The government announced a plan to make housing more energy-efficient.",
+    "context": "'Les passoires thermiques' (thermal sieves) = badly insulated homes."
+  },
+  {
+    "id": "fr-1572",
+    "front": "Selon un sondage récent, la majorité des Français est pessimiste.",
+    "pronunciation": "[suh-lohn an sohn-dahzh ray-SAHN, lah mah-zhoh-ree-tay day frahn-seh eh peh-see-MEEST]",
+    "back": "According to a recent poll, most French people are pessimistic.",
+    "context": "'Un sondage' = a poll. French people often rank as pessimistic in international surveys."
+  },
+  {
+    "id": "fr-1573",
+    "front": "Le débat public est de plus en plus polarisé.",
+    "pronunciation": "[luh day-bah pü-BLEEK eh duh plü zahn plü poh-lah-ree-ZAY]",
+    "back": "Public debate is increasingly polarized.",
+    "context": "'Polarisé' = polarized."
+  },
+  {
+    "id": "fr-1574",
+    "front": "Les associations jouent un rôle clé dans l'aide aux plus démunis.",
+    "pronunciation": "[lay zah-soh-syah-SYOHN zhoo tan rohl KLAY dahn led oh plü day-mü-NEE]",
+    "back": "Charities play a key role in helping the most disadvantaged.",
+    "context": "'Les Restos du cœur' is a famous charity founded by Coluche in 1985. 'Démuni' = destitute."
+  },
+  {
+    "id": "fr-1575",
+    "front": "La France reste l'un des pays les plus visités au monde.",
+    "pronunciation": "[lah frahns rest lan day pay-EE lay plü vee-zee-TAY oh MOHND]",
+    "back": "France remains one of the most visited countries in the world.",
+    "context": "'Au monde' = in the world."
+  }
+]
