@@ -1,0 +1,212 @@
+[
+  {
+    "id": "fr-766",
+    "front": "Je me réveille à six heures et demie.",
+    "pronunciation": "[zhuh muh ray-VAY ah see zuhr ay duh-MEE]",
+    "back": "I wake up at half past six.",
+    "context": "'Se réveiller' = to wake up. Reflexive verbs need the pronoun: je me, tu te, il se, nous nous, vous vous, ils se."
+  },
+  {
+    "id": "fr-767",
+    "front": "Je me lève tout de suite.",
+    "pronunciation": "[zhuh muh LEV toot SWEET]",
+    "back": "I get up right away.",
+    "context": "'Se lever' = to get up. 'Tout de suite' = right away."
+  },
+  {
+    "id": "fr-768",
+    "front": "Je me douche et je m'habille.",
+    "pronunciation": "[zhuh muh DOOSH ay zhuh mah-BEE]",
+    "back": "I shower and get dressed.",
+    "context": "Me → m' before a vowel: je m'habille."
+  },
+  {
+    "id": "fr-769",
+    "front": "Il se brosse les dents après le petit-déjeuner.",
+    "pronunciation": "[eel suh bros lay DAHN ah-preh luh puh-tee day-zhuh-NAY]",
+    "back": "He brushes his teeth after breakfast.",
+    "context": "With body parts, use the reflexive + 'les': se brosser les dents (not 'ses dents')."
+  },
+  {
+    "id": "fr-770",
+    "front": "Elle se maquille dans la salle de bain.",
+    "pronunciation": "[el suh mah-KEE dahn lah sal duh BAN]",
+    "back": "She does her makeup in the bathroom.",
+    "context": "'Se maquiller' = to put on makeup. 'Se raser' = to shave."
+  },
+  {
+    "id": "fr-771",
+    "front": "Je prends mon petit-déjeuner vers sept heures.",
+    "pronunciation": "[zhuh prahn mohn puh-tee day-zhuh-NAY vehr seh TUHR]",
+    "back": "I have breakfast around seven.",
+    "context": "'Prendre son petit-déjeuner' = to have breakfast."
+  },
+  {
+    "id": "fr-772",
+    "front": "Je pars de chez moi à huit heures.",
+    "pronunciation": "[zhuh par duh shay MWAH ah wee TUHR]",
+    "back": "I leave home at eight.",
+    "context": "'Partir de' = to leave from."
+  },
+  {
+    "id": "fr-773",
+    "front": "Je mets une demi-heure pour aller au travail.",
+    "pronunciation": "[zhuh meh tün duh-mee-UHR poor ah-lay oh trah-VAHY]",
+    "back": "It takes me half an hour to get to work.",
+    "context": "'Mettre' + time = to take (time) to do something."
+  },
+  {
+    "id": "fr-774",
+    "front": "Le midi, je déjeune avec mes collègues.",
+    "pronunciation": "[luh mee-DEE, zhuh day-zhuhn ah-vek may koh-LEG]",
+    "back": "At lunchtime, I have lunch with my colleagues.",
+    "context": "'Déjeuner' = to have lunch (in France)."
+  },
+  {
+    "id": "fr-775",
+    "front": "L'après-midi, je suis souvent en réunion.",
+    "pronunciation": "[lah-preh-mee-DEE, zhuh swee soo-vahn tahn ray-ü-NYOHN]",
+    "back": "In the afternoon, I'm often in meetings.",
+    "context": "'L'après-midi' can be masculine or feminine."
+  },
+  {
+    "id": "fr-776",
+    "front": "Je rentre vers dix-huit heures trente.",
+    "pronunciation": "[zhuh rahn-truh vehr dee-zwee tuhr TRAHNT]",
+    "back": "I get home around 6:30 p.m.",
+    "context": "'Rentrer' = to come back home."
+  },
+  {
+    "id": "fr-777",
+    "front": "Je fais les courses en rentrant du travail.",
+    "pronunciation": "[zhuh feh lay KOORS ahn rahn-trahn dü trah-VAHY]",
+    "back": "I do the shopping on my way home from work.",
+    "context": "Gérondif 'en rentrant' = while/on the way coming home."
+  },
+  {
+    "id": "fr-778",
+    "front": "On dîne vers vingt heures.",
+    "pronunciation": "[ohn deen vehr van TUHR]",
+    "back": "We have dinner around 8 p.m.",
+    "context": "French families often eat dinner together around 7:30–8:30 p.m."
+  },
+  {
+    "id": "fr-779",
+    "front": "Après le dîner, je me repose devant la télé.",
+    "pronunciation": "[ah-preh luh dee-NAY, zhuh muh ruh-pohz duh-vahn lah tay-LAY]",
+    "back": "After dinner, I relax in front of the TV.",
+    "context": "'Se reposer' = to rest."
+  },
+  {
+    "id": "fr-780",
+    "front": "Je me couche vers vingt-trois heures.",
+    "pronunciation": "[zhuh muh koosh vehr vant-trwah ZUHR]",
+    "back": "I go to bed around 11 p.m.",
+    "context": "'Se coucher' = to go to bed; 's'endormir' = to fall asleep."
+  },
+  {
+    "id": "fr-781",
+    "front": "Je m'endors très vite.",
+    "pronunciation": "[zhuh mahn-dor treh VEET]",
+    "back": "I fall asleep very quickly.",
+    "context": "'S'endormir' conjugates like dormir: je m'endors."
+  },
+  {
+    "id": "fr-782",
+    "front": "Tu te couches tard, toi !",
+    "pronunciation": "[tü tuh koosh TAR, TWAH]",
+    "back": "You go to bed late!",
+    "context": "Stressed pronoun 'toi' at the end adds emphasis."
+  },
+  {
+    "id": "fr-783",
+    "front": "Nous nous promenons le dimanche matin.",
+    "pronunciation": "[noo noo proh-muh-NOHN luh dee-mahnsh mah-TAN]",
+    "back": "We go for a walk on Sunday mornings.",
+    "context": "'Se promener' = to go for a walk. Note the double 'nous'."
+  },
+  {
+    "id": "fr-784",
+    "front": "Vous vous entendez bien avec vos voisins ?",
+    "pronunciation": "[voo voo zahn-tahn-day BYAN ah-vek voh vwah-ZAN]",
+    "back": "Do you get along well with your neighbors?",
+    "context": "'S'entendre avec' = to get along with."
+  },
+  {
+    "id": "fr-785",
+    "front": "Ils s'occupent des enfants le mercredi.",
+    "pronunciation": "[eel soh-KÜP day zahn-FAHN luh mehr-kruh-DEE]",
+    "back": "They look after the children on Wednesdays.",
+    "context": "'S'occuper de' = to take care of."
+  },
+  {
+    "id": "fr-786",
+    "front": "Je m'habille vite le matin.",
+    "pronunciation": "[zhuh mah-beey VEET luh mah-TAN]",
+    "back": "I get dressed quickly in the morning.",
+    "context": "Reflexive: s'habiller. Without the reflexive, 'habiller quelqu'un' = to dress someone else."
+  },
+  {
+    "id": "fr-787",
+    "front": "Je ne me lève jamais avant sept heures le week-end.",
+    "pronunciation": "[zhuh nuh muh lev zhah-meh ah-vahn seh TUHR luh wee-KEND]",
+    "back": "I never get up before seven at weekends.",
+    "context": "Negation wraps pronoun + verb: je ne me lève pas."
+  },
+  {
+    "id": "fr-788",
+    "front": "D'abord je prends un café, ensuite je lis mes mails.",
+    "pronunciation": "[dah-BOR zhuh prahn an kah-FAY, ahn-sweet zhuh lee may MEL]",
+    "back": "First I have a coffee, then I read my emails.",
+    "context": "Sequence words: d'abord, ensuite, puis, après, enfin."
+  },
+  {
+    "id": "fr-789",
+    "front": "Enfin, je me mets au travail.",
+    "pronunciation": "[ahn-FAN, zhuh muh meh oh trah-VAHY]",
+    "back": "Finally, I get down to work.",
+    "context": "'Se mettre à' = to start, get down to."
+  },
+  {
+    "id": "fr-790",
+    "front": "Tous les jours, c'est la même routine.",
+    "pronunciation": "[too lay ZHOOR, seh lah mem roo-TEEN]",
+    "back": "Every day, it's the same routine.",
+    "context": "'Tous les jours' = every day; 'toujours' = always."
+  },
+  {
+    "id": "fr-791",
+    "front": "Le mardi, je vais à la piscine.",
+    "pronunciation": "[luh mar-DEE, zhuh veh ah lah pee-SEEN]",
+    "back": "On Tuesdays, I go to the swimming pool.",
+    "context": "'Le' + day = every (Tuesday)."
+  },
+  {
+    "id": "fr-792",
+    "front": "Je fais le ménage le samedi matin.",
+    "pronunciation": "[zhuh feh luh may-NAHZH luh sahm-dee mah-TAN]",
+    "back": "I do the housework on Saturday mornings.",
+    "context": "'Faire le ménage' = to clean the house; 'faire la lessive' = to do the laundry."
+  },
+  {
+    "id": "fr-793",
+    "front": "Je me suis réveillé en retard ce matin.",
+    "pronunciation": "[zhuh muh swee ray-veh-YAY ahn ruh-TAR suh mah-TAN]",
+    "back": "I woke up late this morning.",
+    "context": "Reflexive verbs use être in the passé composé."
+  },
+  {
+    "id": "fr-794",
+    "front": "Elle s'est endormie devant le film.",
+    "pronunciation": "[el seh tahn-dor-MEE duh-vahn luh FEELM]",
+    "back": "She fell asleep during the film.",
+    "context": "Agreement: s'est endormie (+e) for a woman."
+  },
+  {
+    "id": "fr-795",
+    "front": "Couche-toi, il est tard !",
+    "pronunciation": "[koosh-TWAH, ee leh TAR]",
+    "back": "Go to bed, it's late!",
+    "context": "Reflexive imperative: couche-toi, lève-toi, dépêche-toi."
+  }
+]
