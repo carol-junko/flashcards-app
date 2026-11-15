@@ -1,0 +1,352 @@
+[
+  {
+    "id": "fr-2076",
+    "front": "Je cherche un appartement à louer, meublé de préférence.",
+    "pronunciation": "[zhuh shersh an nah-par-tuh-MAHN ah loo-AY, muh-blay duh pray-fay-RAHNS]",
+    "back": "I'm looking for an apartment to rent, preferably furnished.",
+    "context": "'Un meublé' = a furnished rental; leases for furnished flats are usually one year."
+  },
+  {
+    "id": "fr-2077",
+    "front": "Le propriétaire exige un garant.",
+    "pronunciation": "[luh proh-pree-ay-TEHR eg-zeezh an gah-RAHN]",
+    "back": "The landlord requires a guarantor.",
+    "context": "A 'garant' signs to pay if you don't. Newcomers without one can apply for the free Visale guarantee."
+  },
+  {
+    "id": "fr-2078",
+    "front": "Il faut fournir vos trois dernières fiches de paie.",
+    "pronunciation": "[eel foh foor-neer voh trwah dehr-nyehr feesh duh PAY]",
+    "back": "You have to provide your last three payslips.",
+    "context": "'Une fiche de paie' / 'un bulletin de salaire' = a payslip."
+  },
+  {
+    "id": "fr-2079",
+    "front": "Les charges sont-elles comprises dans le loyer ?",
+    "pronunciation": "[lay SHARZH sohn-tel kohm-preez dahn luh lwah-YAY]",
+    "back": "Are the service charges included in the rent?",
+    "context": "'Charges comprises (CC)' vs 'hors charges (HC)' in listings."
+  },
+  {
+    "id": "fr-2080",
+    "front": "Le dépôt de garantie correspond à un mois de loyer hors charges.",
+    "pronunciation": "[luh day-poh duh gah-rahn-TEE koh-res-pohn ah an mwah duh lwah-YAY or SHARZH]",
+    "back": "The security deposit is one month's rent excluding charges.",
+    "context": "For an unfurnished flat, the deposit is legally capped at one month; two for furnished."
+  },
+  {
+    "id": "fr-2081",
+    "front": "Nous ferons l'état des lieux d'entrée samedi.",
+    "pronunciation": "[noo fuh-rohn lay-tah day LYUH dahn-TRAY sahm-DEE]",
+    "back": "We'll do the move-in inspection on Saturday.",
+    "context": "'L'état des lieux' = the inventory and condition report, done on arrival and departure. Note every scratch!"
+  },
+  {
+    "id": "fr-2082",
+    "front": "Le bail est de trois ans pour une location vide.",
+    "pronunciation": "[luh BAHY eh duh trwah ZAHN poor ün loh-kah-syohn VEED]",
+    "back": "The lease is three years for an unfurnished rental.",
+    "context": "'Un bail' (plural 'des baux') = a lease."
+  },
+  {
+    "id": "fr-2083",
+    "front": "Je dois donner mon préavis un mois à l'avance.",
+    "pronunciation": "[zhuh dwah doh-nay mohn pray-ah-VEE an mwah ah lah-VAHNS]",
+    "back": "I have to give one month's notice.",
+    "context": "'Le préavis' = notice period. One month in tense housing areas, otherwise three for unfurnished flats."
+  },
+  {
+    "id": "fr-2084",
+    "front": "N'oubliez pas de souscrire une assurance habitation.",
+    "pronunciation": "[noo-blee-ay pah duh soos-kreer ün nah-sü-rahns ah-bee-tah-SYOHN]",
+    "back": "Don't forget to take out home insurance.",
+    "context": "Home insurance is compulsory for tenants in France."
+  },
+  {
+    "id": "fr-2085",
+    "front": "Il me faut un justificatif de domicile de moins de trois mois.",
+    "pronunciation": "[eel muh foh an zhüs-tee-fee-kah-teef duh doh-mee-SEEL duh mwan duh trwah MWAH]",
+    "back": "I need proof of address less than three months old.",
+    "context": "Usually an electricity, gas or internet bill. Asked for almost everywhere."
+  },
+  {
+    "id": "fr-2086",
+    "front": "J'ai pris rendez-vous en ligne à la préfecture.",
+    "pronunciation": "[zhay pree rahn-day-VOO ahn LEE-nyuh ah lah pray-fek-TÜR]",
+    "back": "I booked an appointment online at the prefecture.",
+    "context": "The 'préfecture' handles residence permits; appointment slots are notoriously hard to get."
+  },
+  {
+    "id": "fr-2087",
+    "front": "Je viens déposer une demande de titre de séjour.",
+    "pronunciation": "[zhuh vyan day-poh-zay ün duh-mahnd duh TEE-truh duh say-ZHOOR]",
+    "back": "I've come to submit a residence permit application.",
+    "context": "'Un titre de séjour' = residence permit; 'déposer un dossier' = to submit an application."
+  },
+  {
+    "id": "fr-2088",
+    "front": "Mon récépissé expire à la fin du mois.",
+    "pronunciation": "[mohn ray-say-pee-SAY ek-speer ah lah fan dü MWAH]",
+    "back": "My temporary receipt expires at the end of the month.",
+    "context": "'Un récépissé' = an official receipt proving your application is in progress."
+  },
+  {
+    "id": "fr-2089",
+    "front": "Le dossier est incomplet : il manque l'acte de naissance traduit.",
+    "pronunciation": "[luh doh-SYAY eh tan-kohm-PLEH : eel mahnk lak-tuh duh neh-sahns trah-DWEE]",
+    "back": "The file is incomplete: the translated birth certificate is missing.",
+    "context": "Foreign documents often need a sworn translation ('traduction assermentée')."
+  },
+  {
+    "id": "fr-2090",
+    "front": "Pouvez-vous me délivrer une attestation ?",
+    "pronunciation": "[poo-vay-VOO muh day-lee-vray ün nah-tes-tah-SYOHN]",
+    "back": "Could you issue me a certificate?",
+    "context": "'Délivrer' = to issue (a document). 'Une attestation' = official written proof."
+  },
+  {
+    "id": "fr-2091",
+    "front": "Je voudrais faire une demande d'aide au logement auprès de la CAF.",
+    "pronunciation": "[zhuh voo-dreh fehr ün duh-mahnd ded oh lozh-MAHN oh-preh duh lah KAF]",
+    "back": "I'd like to apply for housing benefit from the CAF.",
+    "context": "The CAF (Caisse d'allocations familiales) pays housing and family benefits; students often get the APL."
+  },
+  {
+    "id": "fr-2092",
+    "front": "Je suis affilié à la Sécurité sociale depuis mars.",
+    "pronunciation": "[zhuh swee zah-fee-LYAY ah lah say-kü-ree-tay soh-SYAL duh-pwee MARS]",
+    "back": "I've been registered with Social Security since March.",
+    "context": "'La Sécu' covers part of health costs. Your 'numéro de sécu' starts with 1 (men) or 2 (women)."
+  },
+  {
+    "id": "fr-2093",
+    "front": "J'attends toujours ma carte Vitale.",
+    "pronunciation": "[zhah-tahn too-zhoor mah kart vee-TAL]",
+    "back": "I'm still waiting for my carte Vitale.",
+    "context": "The green health insurance card you show at the doctor's and pharmacy."
+  },
+  {
+    "id": "fr-2094",
+    "front": "Avez-vous une mutuelle ?",
+    "pronunciation": "[ah-vay-VOO ün mü-TWEL]",
+    "back": "Do you have top-up health insurance?",
+    "context": "'Une mutuelle' covers what the Sécu doesn't. Employers must offer one."
+  },
+  {
+    "id": "fr-2095",
+    "front": "J'ai déclaré mon médecin traitant.",
+    "pronunciation": "[zhay day-klah-ray mohn mayd-san treh-TAHN]",
+    "back": "I've registered my GP.",
+    "context": "Declaring a 'médecin traitant' gets you better reimbursement rates."
+  },
+  {
+    "id": "fr-2096",
+    "front": "Je dois remplir ma déclaration de revenus avant fin mai.",
+    "pronunciation": "[zhuh dwah rahm-pleer mah day-klah-rah-syohn duh ruh-vuh-NÜ ah-vahn fan MEH]",
+    "back": "I have to fill in my tax return before the end of May.",
+    "context": "Since 2019, income tax is withheld at source ('prélèvement à la source'), but you still file a return."
+  },
+  {
+    "id": "fr-2097",
+    "front": "Le prélèvement sera effectué le cinq de chaque mois.",
+    "pronunciation": "[luh pray-lev-MAHN suh-rah eh-fek-TWAY luh sank duh shak MWAH]",
+    "back": "The direct debit will be taken on the fifth of each month.",
+    "context": "'Un prélèvement automatique' = direct debit."
+  },
+  {
+    "id": "fr-2098",
+    "front": "Pour ouvrir un compte, il faut un RIB et une pièce d'identité.",
+    "pronunciation": "[poor oo-vreer an KOHNT, eel foh an REEB ay ün pyes dee-dahn-tee-TAY]",
+    "back": "To open an account you need bank details and ID.",
+    "context": "A 'RIB' (relevé d'identité bancaire) is the slip with your IBAN. Employers and landlords ask for it."
+  },
+  {
+    "id": "fr-2099",
+    "front": "Je vous écris au sujet de la facture du 12 mars.",
+    "pronunciation": "[zhuh voo zay-kree oh sü-zheh duh lah fak-tür dü dooz MARS]",
+    "back": "I'm writing to you regarding the invoice of March 12.",
+    "context": "'Au sujet de' = regarding. A standard opening for a formal letter."
+  },
+  {
+    "id": "fr-2100",
+    "front": "Je vous adresse ce courrier afin de signaler un dégât des eaux.",
+    "pronunciation": "[zhuh voo zah-dres suh koo-RYAY ah-fan duh see-nyah-lay an day-gah day ZOH]",
+    "back": "I am writing to report water damage.",
+    "context": "'Adresser un courrier' = to send a letter (formal). 'Un dégât des eaux' = water damage, an insurance classic. Formal letters to strangers open with 'Madame, Monsieur,'."
+  },
+  {
+    "id": "fr-2101",
+    "front": "Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.",
+    "pronunciation": "[zhuh voo pree dah-gray-AY, mah-DAM, muh-SYUH, lek-spreh-SYOHN duh may sah-lü-tah-syohn dees-tan-GAY]",
+    "back": "Yours faithfully.",
+    "context": "The traditional French formal closing. 'Veuillez agréer…' is equally correct."
+  },
+  {
+    "id": "fr-2102",
+    "front": "Je vous serais reconnaissant de bien vouloir me répondre rapidement.",
+    "pronunciation": "[zhuh voo suh-reh ruh-koh-neh-SAHN duh byan voo-lwahr muh ray-pohn-druh rah-peed-MAHN]",
+    "back": "I would be grateful if you could reply promptly.",
+    "context": "'Bien vouloir' + infinitive = kindly. Very formal and polite."
+  },
+  {
+    "id": "fr-2103",
+    "front": "Veuillez trouver ci-joint les documents demandés.",
+    "pronunciation": "[vuh-yay troo-vay see-ZHWAN lay doh-kü-mahn duh-mahn-DAY]",
+    "back": "Please find attached the requested documents.",
+    "context": "'Ci-joint' = attached / enclosed."
+  },
+  {
+    "id": "fr-2104",
+    "front": "J'ai envoyé le courrier en recommandé avec accusé de réception.",
+    "pronunciation": "[zhay ahn-vwah-yay luh koo-RYAY ahn ruh-koh-mahn-DAY ah-vek ah-kü-zay duh ray-sep-SYOHN]",
+    "back": "I sent the letter by registered mail with acknowledgment of receipt.",
+    "context": "The legal way to terminate a lease, contract or subscription in France."
+  },
+  {
+    "id": "fr-2105",
+    "front": "Je souhaite résilier mon abonnement.",
+    "pronunciation": "[zhuh sweht ray-zee-lyay mohn nah-bun-MAHN]",
+    "back": "I wish to cancel my subscription.",
+    "context": "'Résilier' = to terminate a contract (formal)."
+  },
+  {
+    "id": "fr-2106",
+    "front": "Je conteste cette amende.",
+    "pronunciation": "[zhuh kohn-test set ah-MAHND]",
+    "back": "I'm contesting this fine.",
+    "context": "Traffic fines are contested on the ANTAI website within 45 days."
+  },
+  {
+    "id": "fr-2107",
+    "front": "Tout se fait en ligne sur le site de l'administration.",
+    "pronunciation": "[too suh feh ahn LEE-nyuh sür luh seet duh lad-mee-nees-trah-SYOHN]",
+    "back": "Everything is done online on the government website.",
+    "context": "Most procedures go through service-public.fr or FranceConnect."
+  },
+  {
+    "id": "fr-2108",
+    "front": "Il faut se connecter via FranceConnect.",
+    "pronunciation": "[eel foh suh koh-nek-tay vee-AH frahns-koh-NEKT]",
+    "back": "You have to log in via FranceConnect.",
+    "context": "The national login system used for taxes, the Sécu and the CAF."
+  },
+  {
+    "id": "fr-2109",
+    "front": "La paperasse administrative me rend fou.",
+    "pronunciation": "[lah pah-PRAS ad-mee-nees-trah-TEEV muh rahn FOO]",
+    "back": "The administrative red tape is driving me crazy.",
+    "context": "'La paperasse' (informal) = paperwork, red tape."
+  },
+  {
+    "id": "fr-2110",
+    "front": "On m'a renvoyé d'un guichet à l'autre toute la matinée.",
+    "pronunciation": "[ohn mah rahn-vwah-yay dan gee-SHEH ah LOH-truh toot lah mah-tee-NAY]",
+    "back": "They sent me from one counter to another all morning.",
+    "context": "'Un guichet' = a service counter or window."
+  },
+  {
+    "id": "fr-2111",
+    "front": "Il faut faire valider votre diplôme étranger.",
+    "pronunciation": "[eel foh fehr vah-lee-day voh-truh dee-plohm ay-trahn-ZHAY]",
+    "back": "Your foreign degree has to be recognized.",
+    "context": "The ENIC-NARIC center issues comparability certificates for foreign diplomas."
+  },
+  {
+    "id": "fr-2112",
+    "front": "Je dois échanger mon permis de conduire.",
+    "pronunciation": "[zhuh dwah ay-shahn-zhay mohn pehr-mee duh kohn-DWEER]",
+    "back": "I have to exchange my driving license.",
+    "context": "Non-EU licenses must usually be exchanged within a year of settling in France."
+  },
+  {
+    "id": "fr-2113",
+    "front": "Je me suis inscrit à Pôle emploi, qui s'appelle maintenant France Travail.",
+    "pronunciation": "[zhuh muh swee zan-SKREE ah pohl ahm-PLWAH, kee sah-pel mant-nahn frahns trah-VAHY]",
+    "back": "I registered with Pôle emploi, which is now called France Travail.",
+    "context": "The public employment agency was renamed France Travail in 2024."
+  },
+  {
+    "id": "fr-2114",
+    "front": "Mon contrat de travail comporte une période d'essai de deux mois.",
+    "pronunciation": "[mohn kohn-trah duh trah-VAHY kohm-port ün pay-ryud deh-SEH duh duh MWAH]",
+    "back": "My employment contract includes a two-month trial period.",
+    "context": "'La période d'essai' = probation period."
+  },
+  {
+    "id": "fr-2115",
+    "front": "C'est un CDI, enfin !",
+    "pronunciation": "[seh tan say-day-EE, ahn-FAN]",
+    "back": "It's a permanent contract, at last!",
+    "context": "CDI = contrat à durée indéterminée (permanent); CDD = fixed-term. A CDI makes renting much easier."
+  },
+  {
+    "id": "fr-2116",
+    "front": "J'ai rempli le formulaire Cerfa en trois exemplaires.",
+    "pronunciation": "[zhay rahn-plee luh for-mü-lehr sehr-FAH ahn trwah zeg-zahn-PLEHR]",
+    "back": "I filled in the Cerfa form in triplicate.",
+    "context": "'Un Cerfa' = an official numbered government form."
+  },
+  {
+    "id": "fr-2117",
+    "front": "Faites certifier la copie conforme à la mairie.",
+    "pronunciation": "[fet sehr-tee-fyay lah koh-pee kohn-FORM ah lah meh-REE]",
+    "back": "Have the true copy certified at the town hall.",
+    "context": "Copies certifiées conformes are rarely needed now, but some foreign authorities still ask for them."
+  },
+  {
+    "id": "fr-2118",
+    "front": "J'ai fait une procuration pour que ma sœur puisse voter à ma place.",
+    "pronunciation": "[zhay feh tün proh-kü-rah-SYOHN poor kuh mah suhr pwees voh-tay ah mah PLAS]",
+    "back": "I gave my sister a proxy so she could vote on my behalf.",
+    "context": "'Une procuration' = power of attorney / proxy."
+  },
+  {
+    "id": "fr-2119",
+    "front": "Le délai de traitement est de deux à trois mois.",
+    "pronunciation": "[luh day-LEH duh tret-MAHN eh duh duh zah trwah MWAH]",
+    "back": "The processing time is two to three months.",
+    "context": "'Le délai' = time limit, waiting period."
+  },
+  {
+    "id": "fr-2120",
+    "front": "Votre demande est en cours d'instruction.",
+    "pronunciation": "[voh-truh duh-mahnd eh tahn koor dan-strük-SYOHN]",
+    "back": "Your application is being processed.",
+    "context": "Administrative jargon: 'instruire un dossier' = to examine an application."
+  },
+  {
+    "id": "fr-2121",
+    "front": "Je souhaiterais faire une réclamation.",
+    "pronunciation": "[zhuh sweh-tuh-reh fehr ün ray-klah-mah-SYOHN]",
+    "back": "I would like to make a complaint.",
+    "context": "'Une réclamation' = a formal complaint."
+  },
+  {
+    "id": "fr-2122",
+    "front": "Le syndic n'a toujours pas réparé l'ascenseur.",
+    "pronunciation": "[luh san-DEEK nah too-zhoor pah ray-pah-ray lah-sahn-SUHR]",
+    "back": "The building management still hasn't repaired the lift.",
+    "context": "'Le syndic' = the managing agent of a co-owned building."
+  },
+  {
+    "id": "fr-2123",
+    "front": "Je cotise pour ma retraite depuis vingt ans.",
+    "pronunciation": "[zhuh koh-teez poor mah ruh-TRET duh-pwee van TAHN]",
+    "back": "I've been paying into my pension for twenty years.",
+    "context": "'Cotiser' = to pay contributions. 'Les cotisations sociales' come off every payslip."
+  },
+  {
+    "id": "fr-2124",
+    "front": "Ma demande de naturalisation a été acceptée.",
+    "pronunciation": "[mah duh-mahnd duh nah-tü-rah-lee-zah-SYOHN ah ay-tay ak-sep-TAY]",
+    "back": "My naturalization application was accepted.",
+    "context": "Candidates need a B2 French certificate (from 2026) and an interview on French values."
+  },
+  {
+    "id": "fr-2125",
+    "front": "Je suis enfin en règle.",
+    "pronunciation": "[zhuh swee zahn-FAN ahn REH-gluh]",
+    "back": "My papers are finally in order.",
+    "context": "'Être en règle' = to have everything legally in order."
+  }
+]
