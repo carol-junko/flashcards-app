@@ -1,0 +1,317 @@
+[
+  {
+    "id": "fr-1846",
+    "front": "Qu'est-ce qui compte le plus pour toi dans la vie ?",
+    "pronunciation": "[kes-kee kohnt luh plüs poor TWAH dahn lah VEE]",
+    "back": "What matters most to you in life?",
+    "context": "'Ce qui compte' = what matters. A deep conversation starter."
+  },
+  {
+    "id": "fr-1847",
+    "front": "Pour moi, la famille passe avant tout.",
+    "pronunciation": "[poor MWAH, lah fah-MEE pas ah-vahn TOO]",
+    "back": "For me, family comes before everything.",
+    "context": "'Passer avant' = to come first."
+  },
+  {
+    "id": "fr-1848",
+    "front": "Je me suis fixé des objectifs ambitieux.",
+    "pronunciation": "[zhuh muh swee feek-SAY day zob-zhek-teef zahn-bee-SYUH]",
+    "back": "I've set myself ambitious goals.",
+    "context": "'Se fixer un objectif' = to set oneself a goal."
+  },
+  {
+    "id": "fr-1849",
+    "front": "Il rêve de créer sa propre entreprise.",
+    "pronunciation": "[eel rev duh kray-ay sah proh-prahn-truh-PREEZ]",
+    "back": "He dreams of starting his own company.",
+    "context": "'Propre' before the noun = own; after = clean."
+  },
+  {
+    "id": "fr-1850",
+    "front": "Elle a réussi à force de travail.",
+    "pronunciation": "[el ah ray-ü-SEE ah fors duh trah-VAHY]",
+    "back": "She succeeded through hard work.",
+    "context": "'À force de' = by dint of."
+  },
+  {
+    "id": "fr-1851",
+    "front": "La réussite ne se mesure pas seulement à l'argent.",
+    "pronunciation": "[lah ray-ü-SEET nuh suh muh-zür pah suhl-mahn ah lar-ZHAHN]",
+    "back": "Success isn't measured only by money.",
+    "context": "'Se mesurer à' = to be measured by."
+  },
+  {
+    "id": "fr-1852",
+    "front": "Il faut savoir tirer des leçons de ses échecs.",
+    "pronunciation": "[eel foh sah-vwahr tee-ray day luh-SOHN duh say zay-SHEK]",
+    "back": "You need to know how to learn from your failures.",
+    "context": "'Tirer des leçons de' = to learn lessons from. 'Un échec' = a failure."
+  },
+  {
+    "id": "fr-1853",
+    "front": "J'ai décidé de changer de vie.",
+    "pronunciation": "[zhay day-see-day duh shahn-zhay duh VEE]",
+    "back": "I decided to change my life.",
+    "context": "'Changer de vie' = to make a big life change."
+  },
+  {
+    "id": "fr-1854",
+    "front": "Elle a tout plaqué pour partir vivre à la campagne.",
+    "pronunciation": "[el ah too plah-KAY poor par-teer vee-vruh ah lah kahm-PAN-yuh]",
+    "back": "She dropped everything to go and live in the countryside.",
+    "context": "'Tout plaquer' = to quit everything (informal)."
+  },
+  {
+    "id": "fr-1855",
+    "front": "Beaucoup de cadres se reconvertissent dans l'artisanat.",
+    "pronunciation": "[boh-koo duh KAH-druh suh ruh-kohn-vehr-TEES dahn lar-tee-zah-NAH]",
+    "back": "Many executives are retraining as craftspeople.",
+    "context": "'Se reconvertir' = to retrain, change career. 'Un cadre' = a manager, executive."
+  },
+  {
+    "id": "fr-1856",
+    "front": "Je cherche un meilleur équilibre entre vie pro et vie perso.",
+    "pronunciation": "[zhuh shersh an meh-yuhr ay-kee-LEE-bruh ahn-truh vee PROH ay vee pehr-SOH]",
+    "back": "I'm looking for a better work-life balance.",
+    "context": "'Vie pro / vie perso' = professional / personal life (informal abbreviations)."
+  },
+  {
+    "id": "fr-1857",
+    "front": "L'argent ne fait pas le bonheur.",
+    "pronunciation": "[lar-zhahn nuh feh pah luh boh-NUHR]",
+    "back": "Money doesn't buy happiness.",
+    "context": "Proverb. Often completed jokingly: '…mais il y contribue' (but it helps)."
+  },
+  {
+    "id": "fr-1858",
+    "front": "Je préfère la qualité de vie à un gros salaire.",
+    "pronunciation": "[zhuh pray-fehr lah kah-lee-tay duh VEE ah an groh sah-LEHR]",
+    "back": "I prefer quality of life to a big salary.",
+    "context": "'Préférer A à B'."
+  },
+  {
+    "id": "fr-1859",
+    "front": "La liberté est une valeur essentielle pour moi.",
+    "pronunciation": "[lah lee-behr-tay eh tün vah-luhr eh-sahn-SYEL poor MWAH]",
+    "back": "Freedom is an essential value for me.",
+    "context": "'Une valeur' = a value."
+  },
+  {
+    "id": "fr-1860",
+    "front": "Liberté, Égalité, Fraternité : c'est la devise de la République.",
+    "pronunciation": "[lee-behr-TAY, ay-gah-lee-TAY, frah-tehr-nee-TAY : seh lah duh-veez duh lah ray-pü-BLEEK]",
+    "back": "Liberty, Equality, Fraternity: that's the motto of the Republic.",
+    "context": "'La devise' = motto. It's written on every town hall."
+  },
+  {
+    "id": "fr-1861",
+    "front": "Il est très attaché à la justice sociale.",
+    "pronunciation": "[ee leh treh zah-tah-shay ah lah zhüs-tees soh-SYAL]",
+    "back": "He cares deeply about social justice.",
+    "context": "'Être attaché à' = to value, be committed to."
+  },
+  {
+    "id": "fr-1862",
+    "front": "Elle s'engage bénévolement dans une association.",
+    "pronunciation": "[el sahn-gahzh bay-nay-vol-mahn dahn zün nah-soh-syah-SYOHN]",
+    "back": "She volunteers with a charity.",
+    "context": "'Bénévole' = volunteer. 'Une association' = non-profit organization."
+  },
+  {
+    "id": "fr-1863",
+    "front": "Je veux donner un sens à mon travail.",
+    "pronunciation": "[zhuh vuh doh-nay an SAHNS ah mohn trah-VAHY]",
+    "back": "I want my work to be meaningful.",
+    "context": "'Donner du sens à' = to give meaning to. A big theme for younger French workers."
+  },
+  {
+    "id": "fr-1864",
+    "front": "Il manque de confiance en lui.",
+    "pronunciation": "[eel mahnk duh kohn-fyahns ahn LWEE]",
+    "back": "He lacks self-confidence.",
+    "context": "'La confiance en soi' = self-confidence."
+  },
+  {
+    "id": "fr-1865",
+    "front": "Il faut oser sortir de sa zone de confort.",
+    "pronunciation": "[eel foh oh-zay sor-teer duh sah zohn duh kohn-FOR]",
+    "back": "You have to dare to leave your comfort zone.",
+    "context": "'Oser' = to dare."
+  },
+  {
+    "id": "fr-1866",
+    "front": "Je n'ai aucun regret.",
+    "pronunciation": "[zhuh neh oh-kan ruh-GREH]",
+    "back": "I have no regrets.",
+    "context": "'Ne… aucun' = no, not a single."
+  },
+  {
+    "id": "fr-1867",
+    "front": "Avec le recul, j'aurais fait autrement.",
+    "pronunciation": "[ah-vek luh ruh-KÜL, zhoh-reh feh oh-truh-MAHN]",
+    "back": "With hindsight, I'd have done it differently.",
+    "context": "'Avec le recul' = with hindsight. Past conditional."
+  },
+  {
+    "id": "fr-1868",
+    "front": "Il a toujours été très ambitieux.",
+    "pronunciation": "[ee lah too-zhoor ay-tay treh zahn-bee-SYUH]",
+    "back": "He's always been very ambitious.",
+    "context": "In France, open ambition is sometimes viewed with suspicion."
+  },
+  {
+    "id": "fr-1869",
+    "front": "Elle ne vit que pour son travail.",
+    "pronunciation": "[el nuh vee kuh poor sohn trah-VAHY]",
+    "back": "She lives only for her work.",
+    "context": "'Ne… que' = only."
+  },
+  {
+    "id": "fr-1870",
+    "front": "Le temps, c'est de l'argent.",
+    "pronunciation": "[luh TAHN, seh duh lar-ZHAHN]",
+    "back": "Time is money.",
+    "context": "Same proverb as in English."
+  },
+  {
+    "id": "fr-1871",
+    "front": "Il ne faut pas remettre à demain ce qu'on peut faire le jour même.",
+    "pronunciation": "[eel nuh foh pah ruh-meh-truh ah duh-MAN suh kohn puh fehr luh zhoor MEM]",
+    "back": "Don't put off until tomorrow what you can do today.",
+    "context": "'Remettre à plus tard' = to postpone."
+  },
+  {
+    "id": "fr-1872",
+    "front": "Rien n'est impossible à qui veut vraiment.",
+    "pronunciation": "[ryan neh tan-poh-SEE-bluh ah kee vuh vreh-MAHN]",
+    "back": "Nothing is impossible for someone who really wants it.",
+    "context": "Compare 'Vouloir, c'est pouvoir' (where there's a will, there's a way)."
+  },
+  {
+    "id": "fr-1873",
+    "front": "Vouloir, c'est pouvoir.",
+    "pronunciation": "[voo-LWAHR, seh poo-VWAHR]",
+    "back": "Where there's a will, there's a way.",
+    "context": "Literally 'to want is to be able'."
+  },
+  {
+    "id": "fr-1874",
+    "front": "Je me sens enfin à ma place.",
+    "pronunciation": "[zhuh muh sahn ahn-FAN ah mah PLAS]",
+    "back": "I finally feel I'm where I belong.",
+    "context": "'Être à sa place' = to be in the right place, fit in."
+  },
+  {
+    "id": "fr-1875",
+    "front": "Il traverse une crise de la quarantaine.",
+    "pronunciation": "[eel trah-vehrs ün kreez duh lah kah-rahn-TEN]",
+    "back": "He's going through a midlife crisis.",
+    "context": "'La quarantaine' = one's forties (also quarantine)."
+  },
+  {
+    "id": "fr-1876",
+    "front": "Elle a le sens des responsabilités.",
+    "pronunciation": "[el ah luh sahns day res-pohn-sah-bee-lee-TAY]",
+    "back": "She has a sense of responsibility.",
+    "context": "'Avoir le sens de' = to have a sense of."
+  },
+  {
+    "id": "fr-1877",
+    "front": "L'honnêteté est la qualité que j'apprécie le plus.",
+    "pronunciation": "[loh-net-TAY eh lah kah-lee-TAY kuh zhah-pray-see luh PLÜS]",
+    "back": "Honesty is the quality I value most.",
+    "context": "'Apprécier' = to value, appreciate."
+  },
+  {
+    "id": "fr-1878",
+    "front": "Je déteste l'hypocrisie.",
+    "pronunciation": "[zhuh day-test lee-poh-kree-ZEE]",
+    "back": "I hate hypocrisy.",
+    "context": "'Hypocrite' is the same word in both languages."
+  },
+  {
+    "id": "fr-1879",
+    "front": "Le bonheur, c'est dans les petites choses.",
+    "pronunciation": "[luh boh-NUHR, seh dahn lay puh-teet SHOHZ]",
+    "back": "Happiness is in the little things.",
+    "context": "A popular philosophy of life."
+  },
+  {
+    "id": "fr-1880",
+    "front": "Il faut profiter de chaque instant.",
+    "pronunciation": "[eel foh proh-fee-tay duh shak an-STAHN]",
+    "back": "You have to make the most of every moment.",
+    "context": "'Profiter de' = to enjoy, make the most of."
+  },
+  {
+    "id": "fr-1881",
+    "front": "Elle a une soif d'apprendre impressionnante.",
+    "pronunciation": "[el ah ün swahf dah-prahn-druh an-preh-syoh-NAHNT]",
+    "back": "She has an impressive thirst for learning.",
+    "context": "'Une soif de' = a thirst for."
+  },
+  {
+    "id": "fr-1882",
+    "front": "Mes parents m'ont transmis le goût de l'effort.",
+    "pronunciation": "[may pah-rahn mohn trahns-mee luh goo duh leh-FOR]",
+    "back": "My parents passed on to me the value of hard work.",
+    "context": "'Transmettre' = to pass on."
+  },
+  {
+    "id": "fr-1883",
+    "front": "Je ne me compare plus aux autres.",
+    "pronunciation": "[zhuh nuh muh kohm-par plü oh ZOH-truh]",
+    "back": "I don't compare myself to others anymore.",
+    "context": "'Ne… plus' = no longer."
+  },
+  {
+    "id": "fr-1884",
+    "front": "Le plus important, c'est d'être fidèle à soi-même.",
+    "pronunciation": "[luh plü zan-por-TAHN, seh deh-truh fee-del ah swah-MEM]",
+    "back": "The most important thing is to stay true to yourself.",
+    "context": "'Fidèle à soi-même' = true to oneself."
+  },
+  {
+    "id": "fr-1885",
+    "front": "Il a réalisé le rêve de sa vie.",
+    "pronunciation": "[ee lah ray-ah-lee-ZAY luh rev duh sah VEE]",
+    "back": "He fulfilled his lifelong dream.",
+    "context": "'Réaliser un rêve' = to make a dream come true."
+  },
+  {
+    "id": "fr-1886",
+    "front": "Elle a fait preuve d'un courage exemplaire.",
+    "pronunciation": "[el ah feh pruhv dan koo-rahzh eg-zahm-PLEHR]",
+    "back": "She showed exemplary courage.",
+    "context": "'Faire preuve de' = to show, demonstrate."
+  },
+  {
+    "id": "fr-1887",
+    "front": "Je suis prête à faire des sacrifices pour réussir.",
+    "pronunciation": "[zhuh swee pret ah fehr day sah-kree-FEES poor ray-ü-SEER]",
+    "back": "I'm ready to make sacrifices to succeed.",
+    "context": "'Être prêt(e) à' + infinitive."
+  },
+  {
+    "id": "fr-1888",
+    "front": "On n'a qu'une vie.",
+    "pronunciation": "[ohn nah kün VEE]",
+    "back": "You only live once.",
+    "context": "'Ne… que' = only."
+  },
+  {
+    "id": "fr-1889",
+    "front": "Chacun voit midi à sa porte.",
+    "pronunciation": "[shah-kan vwah mee-DEE ah sah PORT]",
+    "back": "Everyone sees things from their own point of view.",
+    "context": "Proverb: literally 'everyone sees noon at their own door'."
+  },
+  {
+    "id": "fr-1890",
+    "front": "La vie est un long fleuve tranquille… ou pas !",
+    "pronunciation": "[lah vee eh tan lohn fluhv trahn-KEEL… oo PAH]",
+    "back": "Life is a long, quiet river… or not!",
+    "context": "From the title of a famous 1988 French comedy, used ironically."
+  }
+]
