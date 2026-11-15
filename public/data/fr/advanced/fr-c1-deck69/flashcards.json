@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-2576",
+    "front": "Mon grand-père a septante ans.",
+    "pronunciation": "[mohn grahn-PEHR ah sep-TAHNT AHN]",
+    "back": "My grandfather is seventy.",
+    "context": "Belgium and Switzerland say 'septante' (70) instead of 'soixante-dix'."
+  },
+  {
+    "id": "fr-2577",
+    "front": "Ça fait nonante-neuf euros.",
+    "pronunciation": "[sah feh noh-nahnt-NUHF uh-ROH]",
+    "back": "That comes to ninety-nine euros.",
+    "context": "'Nonante' = 90 in Belgium and Switzerland, instead of 'quatre-vingt-dix'."
+  },
+  {
+    "id": "fr-2578",
+    "front": "Ça coûte huitante francs.",
+    "pronunciation": "[sah koot wee-TAHNT FRAHN]",
+    "back": "It costs eighty francs.",
+    "context": "'Huitante' = 80 in the cantons of Vaud, Valais and Fribourg. Belgians say 'quatre-vingts'."
+  },
+  {
+    "id": "fr-2579",
+    "front": "Voilà votre café, s'il vous plaît.",
+    "pronunciation": "[vwah-LAH voh-truh kah-FAY, seel voo PLEH]",
+    "back": "Here's your coffee.",
+    "context": "In Belgium, 's'il vous plaît' also means 'here you are' when handing something over."
+  },
+  {
+    "id": "fr-2580",
+    "front": "Viens une fois ici !",
+    "pronunciation": "[vyan zün FWAH ee-SEE]",
+    "back": "Come here a sec!",
+    "context": "Belgian 'une fois' softens a request. The cliché is overused in jokes about Belgians."
+  },
+  {
+    "id": "fr-2581",
+    "front": "Tu sais me passer le sel ?",
+    "pronunciation": "[tü seh muh pah-say luh SEL]",
+    "back": "Can you pass me the salt?",
+    "context": "Belgium: 'savoir' is often used for 'pouvoir' (to be able)."
+  },
+  {
+    "id": "fr-2582",
+    "front": "On a bon ici, hein !",
+    "pronunciation": "[ohn nah BOHN ee-SEE, AN]",
+    "back": "It's nice here, isn't it!",
+    "context": "Belgian 'avoir bon' = to feel good, enjoy oneself."
+  },
+  {
+    "id": "fr-2583",
+    "front": "Il drache depuis ce matin.",
+    "pronunciation": "[eel DRASH duh-pwee suh mah-TAN]",
+    "back": "It's been pouring since this morning.",
+    "context": "Belgian 'dracher' / 'une drache' = to pour / a downpour."
+  },
+  {
+    "id": "fr-2584",
+    "front": "À tantôt !",
+    "pronunciation": "[ah tahn-TOH]",
+    "back": "See you later!",
+    "context": "Belgium: 'tantôt' = later today (France: à tout à l'heure)."
+  },
+  {
+    "id": "fr-2585",
+    "front": "Je loue un kot à Louvain-la-Neuve.",
+    "pronunciation": "[zhuh loo an KOT ah loo-van-lah-NUHV]",
+    "back": "I'm renting a student room in Louvain-la-Neuve.",
+    "context": "'Un kot' (from Flemish) = a student room. 'Koter' = to live in one."
+  },
+  {
+    "id": "fr-2586",
+    "front": "J'ai oublié mon GSM à la maison.",
+    "pronunciation": "[zhay oo-blee-ay mohn zhay-es-EM ah lah meh-ZOHN]",
+    "back": "I left my mobile at home.",
+    "context": "Belgium: 'un GSM' = a mobile phone. Switzerland: 'un natel'."
+  },
+  {
+    "id": "fr-2587",
+    "front": "Tu peux m'envoyer un SMS sur mon natel ?",
+    "pronunciation": "[tü puh mahn-vwah-yay an es-em-ES sür mohn nah-TEL]",
+    "back": "Can you text my mobile?",
+    "context": "Swiss French: 'un natel' = mobile phone (originally a brand name)."
+  },
+  {
+    "id": "fr-2588",
+    "front": "Prends un essuie pour la piscine.",
+    "pronunciation": "[prahn zan neh-SWEE poor lah pee-SEEN]",
+    "back": "Take a towel for the pool.",
+    "context": "Belgium: 'un essuie' = a towel (France: une serviette)."
+  },
+  {
+    "id": "fr-2589",
+    "front": "Range tout ce brol !",
+    "pronunciation": "[rahnzh too suh BROL]",
+    "back": "Tidy up all this junk!",
+    "context": "Belgian 'du brol' = clutter, mess (from Flemish)."
+  },
+  {
+    "id": "fr-2590",
+    "front": "Un cornet de frites avec une fricadelle, s'il vous plaît.",
+    "pronunciation": "[an kor-NEH duh FREET ah-vek ün free-kah-DEL, seel voo PLEH]",
+    "back": "A cone of fries with a fricadelle sausage, please.",
+    "context": "Ordered at 'une friterie' or 'une baraque à frites'. Fries are fried twice in Belgium."
+  },
+  {
+    "id": "fr-2591",
+    "front": "Je prends deux pistolets pour le petit-déjeuner.",
+    "pronunciation": "[zhuh prahn duh pees-toh-LEH poor luh puh-tee-day-zhuh-NAY]",
+    "back": "I'll take two bread rolls for breakfast.",
+    "context": "Belgium: 'un pistolet' = a crusty bread roll."
+  },
+  {
+    "id": "fr-2592",
+    "front": "Vous devez répondre endéans les huit jours.",
+    "pronunciation": "[voo duh-vay ray-pohn-druh ahn-day-AHN lay wee ZHOOR]",
+    "back": "You must reply within a week.",
+    "context": "Belgian administrative French: 'endéans' = within."
+  },
+  {
+    "id": "fr-2593",
+    "front": "Il sait tirer son plan.",
+    "pronunciation": "[eel seh tee-ray sohn PLAHN]",
+    "back": "He knows how to manage on his own.",
+    "context": "Belgian: 'tirer son plan' = to cope, get by (France: se débrouiller)."
+  },
+  {
+    "id": "fr-2594",
+    "front": "Tu vas le faire ? – Non, peut-être !",
+    "pronunciation": "[tü vah luh FEHR ? – nohn, puh-TEH-truh]",
+    "back": "Are you going to do it? – Of course I am!",
+    "context": "Belgian irony: 'non, peut-être' means 'yes, obviously'."
+  },
+  {
+    "id": "fr-2595",
+    "front": "Laisse une dringuelle au serveur.",
+    "pronunciation": "[les ün dran-GEL oh sehr-VUHR]",
+    "back": "Leave the waiter a tip.",
+    "context": "Belgium: 'une dringuelle' = a tip (France: un pourboire)."
+  },
+  {
+    "id": "fr-2596",
+    "front": "La Belgique a trois langues officielles.",
+    "pronunciation": "[lah bel-ZHEEK ah trwah lahng zoh-fee-SYEL]",
+    "back": "Belgium has three official languages.",
+    "context": "Dutch, French and German. Brussels is officially bilingual."
+  },
+  {
+    "id": "fr-2597",
+    "front": "Le Manneken-Pis a plus de mille costumes.",
+    "pronunciation": "[luh mah-nuh-kahn-PEES ah plüs duh meel kos-TÜM]",
+    "back": "The Manneken Pis has more than a thousand costumes.",
+    "context": "Brussels' famous little statue is dressed up for special occasions."
+  },
+  {
+    "id": "fr-2598",
+    "front": "Merci ! – Service !",
+    "pronunciation": "[mehr-SEE ! – sehr-VEES]",
+    "back": "Thanks! – You're welcome!",
+    "context": "Swiss French reply to thanks, alongside 'avec plaisir'."
+  },
+  {
+    "id": "fr-2599",
+    "front": "Ça joue pour toi si on se voit à huit heures ?",
+    "pronunciation": "[sah ZHOO poor TWAH see ohn suh vwah ah wee TUHR]",
+    "back": "Does it work for you if we meet at eight?",
+    "context": "Swiss 'ça joue' = that works, OK."
+  },
+  {
+    "id": "fr-2600",
+    "front": "Vous voulez un cornet ?",
+    "pronunciation": "[voo voo-lay zan kor-NEH]",
+    "back": "Would you like a bag?",
+    "context": "Swiss: 'un cornet' = a shopping bag (France: un sac)."
+  },
+  {
+    "id": "fr-2601",
+    "front": "Je dois passer au bancomat.",
+    "pronunciation": "[zhuh dwah pah-say oh bahn-koh-MAT]",
+    "back": "I need to stop at the ATM.",
+    "context": "Swiss: 'le bancomat' (France: le distributeur)."
+  },
+  {
+    "id": "fr-2602",
+    "front": "Passe la panosse dans la cuisine.",
+    "pronunciation": "[pas lah pah-NOS dahn lah kwee-ZEEN]",
+    "back": "Mop the kitchen floor.",
+    "context": "Swiss: 'la panosse' = a floor cloth (France: la serpillière)."
+  },
+  {
+    "id": "fr-2603",
+    "front": "Je me suis encoublé dans le tapis.",
+    "pronunciation": "[zhuh muh swee zahn-koo-BLAY dahn luh tah-PEE]",
+    "back": "I tripped over the rug.",
+    "context": "Swiss: 's'encoubler' = to trip."
+  },
+  {
+    "id": "fr-2604",
+    "front": "J'ai été déçu en bien.",
+    "pronunciation": "[zhay ay-tay day-SÜ ahn BYAN]",
+    "back": "I was pleasantly surprised.",
+    "context": "A Swiss expression: 'disappointed in a good way'."
+  },
+  {
+    "id": "fr-2605",
+    "front": "Les Suisses votent environ quatre fois par an.",
+    "pronunciation": "[lay SWEES vot ahn-vee-rohn kah-truh FWAH par AHN]",
+    "back": "The Swiss vote about four times a year.",
+    "context": "'Une votation' = a popular vote on a specific issue, the core of Swiss direct democracy."
+  },
+  {
+    "id": "fr-2606",
+    "front": "Les Romands représentent environ un quart de la population suisse.",
+    "pronunciation": "[lay roh-MAHN ruh-pray-zahnt ahn-vee-rohn an KAR duh lah poh-pü-lah-syohn SWEES]",
+    "back": "French-speaking Swiss make up about a quarter of the Swiss population.",
+    "context": "'La Suisse romande' = French-speaking Switzerland."
+  },
+  {
+    "id": "fr-2607",
+    "front": "Le Röstigraben sépare la Suisse romande de la Suisse alémanique.",
+    "pronunciation": "[luh ruhsh-tee-GRAH-ben say-par lah swees roh-MAHND duh lah swees ah-lay-mah-NEEK]",
+    "back": "The 'Röstigraben' separates French- and German-speaking Switzerland.",
+    "context": "Named after the potato dish 'rösti'. Referendums often split along this line."
+  },
+  {
+    "id": "fr-2608",
+    "front": "On mange une fondue moitié-moitié ?",
+    "pronunciation": "[ohn mahnzh ün fohn-DÜ mwah-tyay-mwah-TYAY]",
+    "back": "Shall we have a half-and-half fondue?",
+    "context": "Half Gruyère, half Vacherin fribourgeois: the Fribourg classic."
+  },
+  {
+    "id": "fr-2609",
+    "front": "Tout de bon !",
+    "pronunciation": "[too duh BOHN]",
+    "back": "All the best!",
+    "context": "A Swiss way to say goodbye and wish someone well."
+  },
+  {
+    "id": "fr-2610",
+    "front": "Le français de Belgique et de Suisse n'est pas un mauvais français.",
+    "pronunciation": "[luh frahn-SEH duh bel-ZHEEK ay duh SWEES neh pah zan moh-veh frahn-SEH]",
+    "back": "Belgian and Swiss French aren't 'bad' French.",
+    "context": "These regional forms are fully standard in their countries."
+  }
+]

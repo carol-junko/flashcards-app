@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-2541",
+    "front": "Mon char est stationné en face.",
+    "pronunciation": "[mohn SHAR eh stah-syoh-nay ahn FAS]",
+    "back": "My car is parked across the street.",
+    "context": "Québec: 'un char' = a car (France: une voiture). 'Stationner' = to park (France: se garer)."
+  },
+  {
+    "id": "fr-2542",
+    "front": "Je vais magasiner au centre d'achats.",
+    "pronunciation": "[zhuh veh mah-gah-zee-NAY oh sahn-truh dah-SHAH]",
+    "back": "I'm going shopping at the mall.",
+    "context": "'Magasiner' = to shop (France: faire du shopping). 'Un centre d'achats' = a mall."
+  },
+  {
+    "id": "fr-2543",
+    "front": "C'est ben plate, ce film-là.",
+    "pronunciation": "[seh BAN PLAT, suh feelm-LAH]",
+    "back": "That movie is really boring.",
+    "context": "'Plate' = boring. 'Ben' = bien (really)."
+  },
+  {
+    "id": "fr-2544",
+    "front": "Tiguidou, on se voit demain !",
+    "pronunciation": "[tee-gee-DOO, ohn suh vwah duh-MAN]",
+    "back": "Perfect, see you tomorrow!",
+    "context": "'Tiguidou' = great, all good. Very Québécois."
+  },
+  {
+    "id": "fr-2545",
+    "front": "Merci ! – Bienvenue !",
+    "pronunciation": "[mehr-SEE ! – byan-vuh-NÜ]",
+    "back": "Thanks! – You're welcome!",
+    "context": "In Québec 'bienvenue' also means 'you're welcome', a calque of English."
+  },
+  {
+    "id": "fr-2546",
+    "front": "Il fait frette à matin !",
+    "pronunciation": "[eel feh FRET ah mah-TAN]",
+    "back": "It's freezing cold this morning!",
+    "context": "'Frette' = very cold. 'À matin' = ce matin."
+  },
+  {
+    "id": "fr-2547",
+    "front": "Mets ta tuque, il neige.",
+    "pronunciation": "[meh tah TÜK, eel NEZH]",
+    "back": "Put your winter hat on, it's snowing.",
+    "context": "'Une tuque' = a knitted winter hat (France: un bonnet)."
+  },
+  {
+    "id": "fr-2548",
+    "front": "Je suis tanné de l'hiver.",
+    "pronunciation": "[zhuh swee tah-NAY duh lee-VEHR]",
+    "back": "I'm fed up with winter.",
+    "context": "'Être tanné' = to be fed up."
+  },
+  {
+    "id": "fr-2549",
+    "front": "J'ai de la misère à comprendre son accent.",
+    "pronunciation": "[zhay duh lah mee-ZEHR ah kohm-prahn-druh soh nak-SAHN]",
+    "back": "I have trouble understanding his accent.",
+    "context": "'Avoir de la misère à' = to have difficulty (France: avoir du mal à)."
+  },
+  {
+    "id": "fr-2550",
+    "front": "Ma blonde pis moi, on part en fin de semaine.",
+    "pronunciation": "[mah BLOHND pee MWAH, ohn par ahn fan duh suh-MEN]",
+    "back": "My girlfriend and I are going away this weekend.",
+    "context": "'Ma blonde' = my girlfriend (whatever her hair color). 'Pis' = and/then. 'La fin de semaine' = the weekend."
+  },
+  {
+    "id": "fr-2551",
+    "front": "C'est mon chum depuis le cégep.",
+    "pronunciation": "[seh mohn TSHUM duh-pwee luh say-ZHEP]",
+    "back": "He's been my boyfriend since college.",
+    "context": "'Un chum' = boyfriend or buddy. 'Le cégep' = pre-university college."
+  },
+  {
+    "id": "fr-2552",
+    "front": "Je vais au dépanneur chercher du lait.",
+    "pronunciation": "[zhuh veh zoh day-pah-NUHR shehr-shay dü LEH]",
+    "back": "I'm going to the corner store for some milk.",
+    "context": "'Le dépanneur' (le dep) = convenience store."
+  },
+  {
+    "id": "fr-2553",
+    "front": "On déjeune à sept heures, on dîne à midi pis on soupe à six heures.",
+    "pronunciation": "[ohn day-zhuhn ah set UHR, ohn deen ah mee-DEE pee ohn soop ah see ZUHR]",
+    "back": "We have breakfast at seven, lunch at noon and dinner at six.",
+    "context": "Québec keeps the old meal names: déjeuner, dîner, souper."
+  },
+  {
+    "id": "fr-2554",
+    "front": "T'as-tu faim ?",
+    "pronunciation": "[tah-TSÜ FAN]",
+    "back": "Are you hungry?",
+    "context": "The particle '-tu' turns a statement into a yes/no question, even with 'tu': 'tu veux-tu un café ?'"
+  },
+  {
+    "id": "fr-2555",
+    "front": "Je capote, c'est tellement beau !",
+    "pronunciation": "[zhuh kah-POT, seh tel-mahn BOH]",
+    "back": "I'm freaking out, it's so beautiful!",
+    "context": "'Capoter' = to go crazy (with joy or panic)."
+  },
+  {
+    "id": "fr-2556",
+    "front": "Arrête de niaiser !",
+    "pronunciation": "[ah-ret duh nyeh-ZAY]",
+    "back": "Stop fooling around!",
+    "context": "'Niaiser' = to joke around, or to waste someone's time."
+  },
+  {
+    "id": "fr-2557",
+    "front": "C'est le fun en masse !",
+    "pronunciation": "[seh luh FUN ahn MAS]",
+    "back": "It's so much fun!",
+    "context": "'Le fun' (pronounced 'fonne') = fun. 'En masse' = a lot."
+  },
+  {
+    "id": "fr-2558",
+    "front": "Il était en beau fusil.",
+    "pronunciation": "[ee lay-teh ahn boh fü-ZEE]",
+    "back": "He was furious.",
+    "context": "'Être en beau fusil' = to be hopping mad."
+  },
+  {
+    "id": "fr-2559",
+    "front": "Ça a pas d'allure !",
+    "pronunciation": "[sah ah pah dah-LÜR]",
+    "back": "That's ridiculous!",
+    "context": "'Ça a pas d'allure' = that makes no sense. Note the dropped 'ne', typical of informal speech."
+  },
+  {
+    "id": "fr-2560",
+    "front": "J'ai mon voyage !",
+    "pronunciation": "[zhay mohn vwah-YAHZH]",
+    "back": "I can't believe it!",
+    "context": "Astonishment or exasperation, nothing to do with travel."
+  },
+  {
+    "id": "fr-2561",
+    "front": "Arrête de m'achaler.",
+    "pronunciation": "[ah-ret duh mah-shah-LAY]",
+    "back": "Stop bugging me.",
+    "context": "'Achaler' = to annoy."
+  },
+  {
+    "id": "fr-2562",
+    "front": "Elles ont placoté toute la soirée.",
+    "pronunciation": "[el zohn plah-koh-TAY toot lah swah-RAY]",
+    "back": "They chatted all evening.",
+    "context": "'Placoter' = to chat, gossip."
+  },
+  {
+    "id": "fr-2563",
+    "front": "J'avais la chienne avant mon examen.",
+    "pronunciation": "[zhah-veh lah SHYEN ah-vahn mohn neg-zah-MAN]",
+    "back": "I was scared stiff before my exam.",
+    "context": "'Avoir la chienne' = to be scared (informal)."
+  },
+  {
+    "id": "fr-2564",
+    "front": "On va prendre une marche après souper.",
+    "pronunciation": "[ohn vah prahn-druh ün MARSH ah-preh soo-PAY]",
+    "back": "We'll go for a walk after dinner.",
+    "context": "Calque of English 'take a walk' (France: faire une promenade)."
+  },
+  {
+    "id": "fr-2565",
+    "front": "Ça coûte vingt piasses.",
+    "pronunciation": "[sah koot van PYAS]",
+    "back": "It costs twenty bucks.",
+    "context": "'Une piastre' (piasse) = a dollar, informal."
+  },
+  {
+    "id": "fr-2566",
+    "front": "Faque on est partis.",
+    "pronunciation": "[FAK ohn neh par-TEE]",
+    "back": "So we left.",
+    "context": "'Faque' (fait que) = so, a very frequent spoken connector."
+  },
+  {
+    "id": "fr-2567",
+    "front": "Je t'envoie un courriel.",
+    "pronunciation": "[zhuh tahn-vwah an koo-RYEL]",
+    "back": "I'll send you an email.",
+    "context": "'Courriel' was coined in Québec and recommended in France too, where 'un mail' still dominates."
+  },
+  {
+    "id": "fr-2568",
+    "front": "Au Québec, les panneaux disent « Arrêt » et non « Stop ».",
+    "pronunciation": "[oh kay-BEK, lay pah-NOH deez ah-REH ay nohn STOP]",
+    "back": "In Québec, signs say 'Arrêt', not 'Stop'.",
+    "context": "A visible sign of Québec's language policy."
+  },
+  {
+    "id": "fr-2569",
+    "front": "La loi 101 a fait du français la seule langue officielle du Québec.",
+    "pronunciation": "[lah lwah sahn-AN ah feh dü frahn-SEH lah suhl lahng oh-fee-SYEL dü kay-BEK]",
+    "back": "Bill 101 made French the sole official language of Québec.",
+    "context": "The Charter of the French Language, 1977."
+  },
+  {
+    "id": "fr-2570",
+    "front": "Vive le Québec libre !",
+    "pronunciation": "[veev luh kay-BEK LEE-bruh]",
+    "back": "Long live free Québec!",
+    "context": "De Gaulle's 1967 cry from Montréal city hall caused a diplomatic crisis with Canada."
+  },
+  {
+    "id": "fr-2571",
+    "front": "Une poutine, s'il vous plaît.",
+    "pronunciation": "[ün poo-TSIN, seel voo PLEH]",
+    "back": "A poutine, please.",
+    "context": "Fries, cheese curds and gravy. Note the Québec 't' → 'ts' before i."
+  },
+  {
+    "id": "fr-2572",
+    "front": "Tu dis ça pour rire ?",
+    "pronunciation": "[tsü dzee SAH poor REER]",
+    "back": "Are you saying that as a joke?",
+    "context": "Accent: 't' and 'd' before i and u become 'ts' and 'dz': 'tsu dzis'."
+  },
+  {
+    "id": "fr-2573",
+    "front": "Ici, on dit « icitte ».",
+    "pronunciation": "[ee-SEE, ohn dee ee-SEET]",
+    "back": "Here, people say 'icitte'.",
+    "context": "'Icitte' = ici, from old French. Many Québec words preserve 17th-century usage."
+  },
+  {
+    "id": "fr-2574",
+    "front": "Bonne fête, mon chum !",
+    "pronunciation": "[bun FET, mohn TSHUM]",
+    "back": "Happy birthday, buddy!",
+    "context": "In Québec 'bonne fête' = happy birthday; France says 'joyeux anniversaire'."
+  },
+  {
+    "id": "fr-2575",
+    "front": "Je me souviens.",
+    "pronunciation": "[zhuh muh soo-VYAN]",
+    "back": "I remember.",
+    "context": "Québec's motto, printed on every licence plate."
+  }
+]
