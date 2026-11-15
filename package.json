@@ -10,9 +10,12 @@
     "lint": "run-s \"lint:*\"",
     "lint:oxlint": "oxlint . --fix",
     "lint:eslint": "eslint . --fix --cache",
-    "format": "prettier --write --experimental-cli src/"
+    "format": "prettier --write --experimental-cli src/",
+    "validate:data": "node scripts/validate-data.mjs",
+    "test": "node --test \"tests/*.test.mjs\""
   },
   "dependencies": {
+    "ts-fsrs": "5.4.2",
     "vue": "^3.5.38",
     "vue-router": "^5.1.0"
   },

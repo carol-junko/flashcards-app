@@ -1,0 +1,317 @@
+[
+  {
+    "id": "br-2310",
+    "front": "A startup captou vinte milhões de reais na última rodada de investimento.",
+    "pronunciation": "ah stahr-TAH-pee kahp-TOH VEEN-chee mee-LYOYNGZ jee rreh-AHYS nah OOL-chee-mah rroh-DAH-dah jee een-vehs-chee-MEHN-too.",
+    "back": "The startup raised twenty million reais in its latest funding round.",
+    "context": "'Captar' = to raise (funds). 'Rodada de investimento' = funding round. Brazilians say 'startup' with a feminine article: 'a startup'."
+  },
+  {
+    "id": "br-2311",
+    "front": "O aporte veio de um fundo de capital de risco com foco em fintechs.",
+    "pronunciation": "oo ah-POHR-chee VAY-oo jee oong FOON-doo jee kah-pee-TOW jee RREES-koo kohng FOH-koo eng FEEN-tehks.",
+    "back": "The investment came from a venture capital fund focused on fintechs.",
+    "context": "'Aporte' = capital injection. 'Capital de risco' = venture capital. Brazil has one of the largest fintech markets in the world."
+  },
+  {
+    "id": "br-2312",
+    "front": "Nosso desafio agora é escalar o negócio sem perder a qualidade.",
+    "pronunciation": "NOH-soo deh-zah-FEE-oo ah-GOH-rah EH ehs-kah-LAHR oo neh-GOH-syoo seng pehr-DEHR ah kwah-lee-DAH-jee.",
+    "back": "Our challenge now is to scale the business without losing quality.",
+    "context": "'Escalar' (to climb) is used in business for 'to scale'."
+  },
+  {
+    "id": "br-2313",
+    "front": "O faturamento cresceu, mas a margem de lucro encolheu.",
+    "pronunciation": "oo fah-too-rah-MEHN-too kreh-SEH-oo, mahz ah MAHR-zheng jee LOO-kroo ehn-koh-LYEH-oo.",
+    "back": "Revenue grew, but the profit margin shrank.",
+    "context": "'Faturamento' = revenue/turnover. 'Lucro' = profit. 'Encolher' = to shrink."
+  },
+  {
+    "id": "br-2314",
+    "front": "Precisamos garantir uma receita recorrente para reduzir a volatilidade.",
+    "pronunciation": "preh-see-ZAH-mooz gah-rahn-CHEER OO-mah rreh-SAY-tah rreh-koh-RREHN-chee PAH-rah rreh-doo-ZEER ah voh-lah-chee-lee-DAH-jee.",
+    "back": "We need to secure recurring revenue to reduce volatility.",
+    "context": "'Receita' = revenue (also recipe or prescription!). 'Receita recorrente' = subscriptions, contracts, etc."
+  },
+  {
+    "id": "br-2315",
+    "front": "O fluxo de caixa está negativo há três trimestres.",
+    "pronunciation": "oo FLOOK-soo jee KAHY-shah ehs-TAH neh-gah-CHEE-voo AH TREHS tree-MEHS-trees.",
+    "back": "Cash flow has been negative for three quarters.",
+    "context": "'Caixa' = cash (also cashier, box). 'Há' + time + present = for (ongoing period)."
+  },
+  {
+    "id": "br-2316",
+    "front": "A diretoria anunciou um plano de reestruturação para enxugar custos.",
+    "pronunciation": "ah jee-reh-toh-REE-ah ah-noon-SYOH oong PLAH-noo jee rreh-ehs-troo-too-rah-SOWNG PAH-rah ehn-shoo-GAHR KOOS-toos.",
+    "back": "The board announced a restructuring plan to cut costs.",
+    "context": "'Enxugar' (to dry off) = to trim, streamline. 'Diretoria' = executive board."
+  },
+  {
+    "id": "br-2317",
+    "front": "A empresa entrou com pedido de recuperação judicial.",
+    "pronunciation": "ah ehm-PREH-zah ehn-TROH kohng peh-JEE-doo jee rreh-koo-peh-rah-SOWNG zhoo-jee-SYOW.",
+    "back": "The company filed for court-supervised restructuring.",
+    "context": "'Recuperação judicial' is the Brazilian equivalent of Chapter 11, a step before 'falência' (bankruptcy)."
+  },
+  {
+    "id": "br-2318",
+    "front": "Vamos renegociar as dívidas com os credores para alongar os prazos.",
+    "pronunciation": "VAH-mooz rreh-neh-goh-see-AHR ahz JEE-vee-dahs kohng ooz kreh-DOH-reez PAH-rah ah-lohn-GAHR oos PRAH-zoos.",
+    "back": "We're going to renegotiate the debts with creditors to extend the terms.",
+    "context": "'Credor' = creditor; 'devedor' = debtor. 'Alongar prazos' = to extend repayment terms."
+  },
+  {
+    "id": "br-2319",
+    "front": "O conselho de administração aprovou a fusão com a concorrente.",
+    "pronunciation": "oo kohn-SEH-lyoo jee ahj-mee-nees-trah-SOWNG ah-proh-VOH ah foo-ZOWNG kohng ah kohn-koh-RREHN-chee.",
+    "back": "The board of directors approved the merger with the competitor.",
+    "context": "'Conselho de administração' = board of directors (above the 'diretoria'). 'Fusão' = merger; 'aquisição' = acquisition."
+  },
+  {
+    "id": "br-2320",
+    "front": "A aquisição precisa ser aprovada pelo Cade antes de ser concluída.",
+    "pronunciation": "ah ah-kee-zee-SOWNG preh-SEE-zah SEHR ah-proh-VAH-dah PEH-loo KAH-jee AHN-cheez jee SEHR kohn-kloo-EE-dah.",
+    "back": "The acquisition must be approved by CADE before it can be completed.",
+    "context": "CADE is Brazil's antitrust authority."
+  },
+  {
+    "id": "br-2321",
+    "front": "Nossa governança precisa ser mais transparente para atrair investidores.",
+    "pronunciation": "NOH-sah goh-vehr-NAHN-sah preh-SEE-zah SEHR MAHYS trahns-pah-REHN-chee PAH-rah ah-trah-EER een-vehs-chee-DOH-rees.",
+    "back": "Our governance needs to be more transparent to attract investors.",
+    "context": "'Governança corporativa' = corporate governance. Brazilian business Portuguese also uses 'compliance' directly."
+  },
+  {
+    "id": "br-2322",
+    "front": "O setor de compliance barrou o contrato por conflito de interesses.",
+    "pronunciation": "oo seh-TOHR jee kohm-PLAHY-ahns bah-RROH oo kohn-TRAH-too pohr kohn-FLEE-too jee een-teh-REH-sees.",
+    "back": "The compliance department blocked the contract due to a conflict of interest.",
+    "context": "'Barrar' = to block, stop. 'Conflito de interesses' = conflict of interest."
+  },
+  {
+    "id": "br-2323",
+    "front": "Um bom líder sabe delegar e confiar na equipe.",
+    "pronunciation": "oong BOHNG LEE-dehr SAH-bee deh-leh-GAHR ee kohn-fee-AHR nah eh-KEE-pee.",
+    "back": "A good leader knows how to delegate and trust the team.",
+    "context": "'Saber' + infinitive = to know how to. 'Confiar em' = to trust."
+  },
+  {
+    "id": "br-2324",
+    "front": "Delegar não é largar: é preciso acompanhar sem microgerenciar.",
+    "pronunciation": "deh-leh-GAHR NOWNG EH lahr-GAHR: EH preh-SEE-zoo ah-kohm-pah-NYAHR seng mee-kroh-zheh-rehn-see-AHR.",
+    "back": "Delegating isn't abandoning: you need to follow up without micromanaging.",
+    "context": "Wordplay: 'delegar' vs 'largar' (to drop, let go). 'Microgerenciar' = to micromanage."
+  },
+  {
+    "id": "br-2325",
+    "front": "Vou te passar essa demanda, e você tem autonomia para decidir o caminho.",
+    "pronunciation": "VOH chee pah-SAHR EH-sah deh-MAHN-dah, ee voh-SEH teng ow-toh-noh-MEE-ah PAH-rah deh-see-JEER oo kah-MEE-nyoo.",
+    "back": "I'm handing this task over to you, and you're free to decide how to approach it.",
+    "context": "'Demanda' = task, request (very common in Brazilian offices). 'Ter autonomia' = to be empowered to decide."
+  },
+  {
+    "id": "br-2326",
+    "front": "Quais são os indicadores que vamos usar para medir o sucesso?",
+    "pronunciation": "KWAHYS SOWNG ooz een-jee-kah-DOH-rees keh VAH-mooz oo-ZAHR PAH-rah meh-JEER oo soo-SEH-soo?",
+    "back": "Which indicators are we going to use to measure success?",
+    "context": "'Indicadores' = KPIs/metrics (Brazilians also say 'KPIs', pronounced 'kah-peh-EES')."
+  },
+  {
+    "id": "br-2327",
+    "front": "Batemos a meta do trimestre com folga.",
+    "pronunciation": "bah-CHEE-mooz ah MEH-tah doo tree-MEHS-tree kohng FOHL-gah.",
+    "back": "We hit the quarter's target comfortably.",
+    "context": "'Bater a meta' = to hit the target. 'Com folga' = with room to spare."
+  },
+  {
+    "id": "br-2328",
+    "front": "Precisamos alinhar as expectativas antes de fechar o escopo.",
+    "pronunciation": "preh-see-ZAH-mooz ah-lee-NYAHR ahz ehs-pehk-tah-CHEE-vahz AHN-cheez jee feh-SHAHR oo ehs-KOH-poo.",
+    "back": "We need to align expectations before closing the scope.",
+    "context": "'Alinhar' (to align) is a favorite corporate verb in Brazil: 'vamos alinhar' = let's get on the same page."
+  },
+  {
+    "id": "br-2329",
+    "front": "Foi uma decisão estratégica, não apenas financeira.",
+    "pronunciation": "FOY OO-mah deh-see-ZOWNG ehs-trah-TEH-zhee-kah, NOWNG ah-PEH-nahs fee-nahn-SAY-rah.",
+    "back": "It was a strategic decision, not just a financial one.",
+    "context": "'Não apenas' = not just/only."
+  },
+  {
+    "id": "br-2330",
+    "front": "A empresa decidiu pivotar o modelo de negócio para o B2B.",
+    "pronunciation": "ah ehm-PREH-zah deh-see-JEE-oo pee-voh-TAHR oo moh-DEH-loo jee neh-GOH-syoo PAH-rah oo beh-DOYS-beh.",
+    "back": "The company decided to pivot its business model to B2B.",
+    "context": "'Pivotar' = to pivot (startup jargon). 'B2B' is read 'bê dois bê'."
+  },
+  {
+    "id": "br-2331",
+    "front": "O mercado está saturado; precisamos de um diferencial competitivo.",
+    "pronunciation": "oo mehr-KAH-doo ehs-TAH sah-too-RAH-doo; preh-see-ZAH-mooz jee oong jee-feh-rehn-SYOW kohm-peh-chee-CHEE-voo.",
+    "back": "The market is saturated; we need a competitive edge.",
+    "context": "'Diferencial' = differentiator, edge (used as a noun)."
+  },
+  {
+    "id": "br-2332",
+    "front": "O Brasil já tem mais de uma dezena de startups unicórnio.",
+    "pronunciation": "oo brah-ZEE-oo ZHAH teng MAHYZ jee OO-mah deh-ZEH-nah jee stahr-TAH-peez oo-nee-KOHR-nyoo.",
+    "back": "Brazil already has more than a dozen unicorn startups.",
+    "context": "'Unicórnio' = startup valued at over a billion dollars. 'Dezena' = a set of ten."
+  },
+  {
+    "id": "br-2333",
+    "front": "A inteligência artificial vai transformar a forma como trabalhamos.",
+    "pronunciation": "ah een-teh-lee-ZHEHN-syah ahr-chee-fee-SYOW VAHY trahns-fohr-MAHR ah FOHR-mah KOH-moo trah-bah-LYAH-moos.",
+    "back": "Artificial intelligence will transform the way we work.",
+    "context": "'A forma como' = the way (that). Brazilians usually say 'IA' (ee-AH)."
+  },
+  {
+    "id": "br-2334",
+    "front": "Estamos investindo pesado em automação para ganhar eficiência.",
+    "pronunciation": "ehs-TAH-mooz een-vehs-CHEEN-doo peh-ZAH-doo eng ow-toh-mah-SOWNG PAH-rah gah-NYAHR eh-fee-see-EHN-syah.",
+    "back": "We're investing heavily in automation to become more efficient.",
+    "context": "'Investir pesado' = to invest heavily ('pesado' as an adverb)."
+  },
+  {
+    "id": "br-2335",
+    "front": "O corte de pessoal deve ser a última opção, não a primeira.",
+    "pronunciation": "oo KOHR-chee jee peh-soh-AHL DEH-vee SEHR ah OOL-chee-mah ohp-SOWNG, NOWNG ah pree-MAY-rah.",
+    "back": "Cutting staff should be the last option, not the first.",
+    "context": "'Corte de pessoal' = layoffs. 'Pessoal' as a noun = staff, personnel."
+  },
+  {
+    "id": "br-2336",
+    "front": "Precisamos comunicar a mudança com clareza para evitar boatos.",
+    "pronunciation": "preh-see-ZAH-mooz koh-moo-nee-KAHR ah moo-DAHN-sah kohng klah-REH-zah PAH-rah eh-vee-TAHR boh-AH-toos.",
+    "back": "We need to communicate the change clearly to avoid rumors.",
+    "context": "'Boato' = rumor. Change management starts with honest communication."
+  },
+  {
+    "id": "br-2337",
+    "front": "Ele é ótimo tecnicamente, mas ainda precisa desenvolver habilidades de gestão.",
+    "pronunciation": "EH-lee EH OH-chee-moo tehk-nee-kah-MEHN-chee, mahz ah-EEN-dah preh-SEE-zah deh-zehn-vohl-VEHR ah-bee-lee-DAH-jeez jee zhehs-TOWNG.",
+    "back": "He's great technically, but still needs to develop management skills.",
+    "context": "'Gestão' = management. Typical performance-review sentence."
+  },
+  {
+    "id": "br-2338",
+    "front": "Na reunião de resultados, apresentamos o balanço do ano aos acionistas.",
+    "pronunciation": "nah rreh-oo-nee-OWNG jee rreh-zool-TAH-doos, ah-preh-zehn-TAH-mooz oo bah-LAHN-soo doo AH-noo ah-ooz ah-syoh-NEES-tahs.",
+    "back": "At the results meeting, we presented the year's balance sheet to the shareholders.",
+    "context": "'Balanço' = balance sheet/financial results. 'Acionista' = shareholder."
+  },
+  {
+    "id": "br-2339",
+    "front": "As ações da empresa despencaram após a divulgação do prejuízo.",
+    "pronunciation": "ahz ah-SOYNGZ dah ehm-PREH-zah jehs-pehn-KAH-rowng ah-POHZ ah jee-vool-gah-SOWNG doo preh-zhoo-EE-zoo.",
+    "back": "The company's shares plummeted after the loss was announced.",
+    "context": "'Ações' = shares (also actions). 'Despencar' = to plummet. 'Prejuízo' = loss (opposite of 'lucro')."
+  },
+  {
+    "id": "br-2340",
+    "front": "O CEO assumiu a responsabilidade pelo erro em vez de culpar a equipe.",
+    "pronunciation": "oo see-ee-OH ah-soo-MEE-oo ah rrehs-pohn-sah-bee-lee-DAH-jee PEH-loo EH-rroo eng VEHS jee kool-PAHR ah eh-KEE-pee.",
+    "back": "The CEO took responsibility for the mistake instead of blaming the team.",
+    "context": "'Assumir a responsabilidade' = to take responsibility. Brazilians usually say CEO in English (see-ee-OH)."
+  },
+  {
+    "id": "br-2341",
+    "front": "Liderar pelo exemplo vale mais do que mil discursos.",
+    "pronunciation": "lee-deh-RAHR PEH-loo eh-ZEHM-ploo VAH-lee MAHYZ doo keh MEE-oo jees-KOOR-soos.",
+    "back": "Leading by example is worth more than a thousand speeches.",
+    "context": "'Valer mais do que' = to be worth more than."
+  },
+  {
+    "id": "br-2342",
+    "front": "Toda crise também é uma oportunidade de repensar processos.",
+    "pronunciation": "TOH-dah KREE-zee tahm-BENG EH OO-mah oh-pohr-too-nee-DAH-jee jee rreh-pehn-SAHR proh-SEH-soos.",
+    "back": "Every crisis is also an opportunity to rethink processes.",
+    "context": "'Toda' + singular noun without article = every. 'Repensar' = to rethink."
+  },
+  {
+    "id": "br-2343",
+    "front": "Vamos fazer um piloto antes de implementar em todas as filiais.",
+    "pronunciation": "VAH-mooz fah-ZEHR oong pee-LOH-too AHN-cheez jee eem-pleh-mehn-TAHR eng TOH-dahs ahs fee-lee-AHYS.",
+    "back": "Let's run a pilot before rolling it out to all branches.",
+    "context": "'Piloto' = pilot project. 'Filial' = branch office (headquarters = 'matriz' or 'sede')."
+  },
+  {
+    "id": "br-2344",
+    "front": "O retorno sobre o investimento só virá no longo prazo.",
+    "pronunciation": "oo rreh-TOHR-noo SOH-bree oo een-vehs-chee-MEHN-too SOH vee-RAH noo LOHN-goo PRAH-zoo.",
+    "back": "The return on investment will only come in the long term.",
+    "context": "'Retorno sobre o investimento' = ROI. 'A longo prazo' and 'no longo prazo' are both used."
+  },
+  {
+    "id": "br-2345",
+    "front": "Precisamos de um plano B caso a parceria não se concretize.",
+    "pronunciation": "preh-see-ZAH-mooz jee oong PLAH-noo BEH KAH-zoo ah pahr-seh-REE-ah NOWNG see kohn-kreh-CHEE-zee.",
+    "back": "We need a plan B in case the partnership doesn't materialize.",
+    "context": "'Caso' + subjunctive = in case. 'Concretizar-se' = to materialize."
+  },
+  {
+    "id": "br-2346",
+    "front": "A cultura organizacional devora a estratégia no café da manhã.",
+    "pronunciation": "ah kool-TOO-rah ohr-gah-nee-zah-syoh-NOW deh-VOH-rah ah ehs-trah-TEH-zhyah noo kah-FEH dah mah-NYAH.",
+    "back": "Culture eats strategy for breakfast.",
+    "context": "Translation of the quote attributed to Peter Drucker, very popular in Brazilian management talks."
+  },
+  {
+    "id": "br-2347",
+    "front": "Os colaboradores precisam se sentir ouvidos e valorizados.",
+    "pronunciation": "ooz koh-lah-boh-rah-DOH-rees preh-SEE-zowng see sehn-CHEER oh-VEE-dooz ee vah-loh-ree-ZAH-doos.",
+    "back": "Employees need to feel heard and valued.",
+    "context": "Brazilian companies prefer 'colaboradores' (collaborators) to 'funcionários' (employees)."
+  },
+  {
+    "id": "br-2348",
+    "front": "A rotatividade alta está custando caro para a empresa.",
+    "pronunciation": "ah rroh-tah-chee-vee-DAH-jee AHL-tah ehs-TAH koos-TAHN-doo KAH-roo PAH-rah ah ehm-PREH-zah.",
+    "back": "High staff turnover is costing the company dearly.",
+    "context": "'Rotatividade' = turnover (also 'turnover' in corporate speech). 'Custar caro' = to cost dearly."
+  },
+  {
+    "id": "br-2349",
+    "front": "Dar feedback negativo exige empatia e objetividade.",
+    "pronunciation": "DAHR fee-BEH-kee neh-gah-CHEE-voo eh-ZEE-zhee ehm-pah-CHEE-ah ee ohb-zheh-chee-vee-DAH-jee.",
+    "back": "Giving negative feedback requires empathy and objectivity.",
+    "context": "'Feedback' is fully adopted in Brazilian Portuguese, pronounced roughly 'fee-BEH-kee'."
+  },
+  {
+    "id": "br-2350",
+    "front": "Nada de reuniões sem pauta: tempo também é recurso.",
+    "pronunciation": "NAH-dah jee rreh-oo-nee-OYNGS seng POW-tah: TEHM-poo tahm-BENG EH rreh-KOOR-soo.",
+    "back": "No meetings without an agenda: time is also a resource.",
+    "context": "'Pauta' = meeting agenda (also news agenda). 'Nada de' + noun = no more…"
+  },
+  {
+    "id": "br-2351",
+    "front": "Precisamos tirar o projeto do papel ainda este semestre.",
+    "pronunciation": "preh-see-ZAH-mooz chee-RAHR oo proh-ZHEH-too doo pah-PEH-oo ah-EEN-dah EHS-chee seh-MEHS-tree.",
+    "back": "We need to get the project off the ground this semester.",
+    "context": "'Tirar do papel' (take off the paper) = to put a plan into action."
+  },
+  {
+    "id": "br-2352",
+    "front": "A sucessão na liderança foi planejada com dois anos de antecedência.",
+    "pronunciation": "ah soo-seh-SOWNG nah lee-deh-RAHN-sah FOY plah-neh-ZHAH-dah kohng DOYZ AH-nooz jee ahn-teh-seh-DEHN-syah.",
+    "back": "The leadership succession was planned two years in advance.",
+    "context": "'Sucessão' = succession; family businesses in Brazil often struggle with it."
+  },
+  {
+    "id": "br-2353",
+    "front": "Errar rápido e barato faz parte da cultura de inovação.",
+    "pronunciation": "eh-RRAHR RRAH-pee-doo ee bah-RAH-too FAHS PAHR-chee dah kool-TOO-rah jee ee-noh-vah-SOWNG.",
+    "back": "Failing fast and cheaply is part of an innovation culture.",
+    "context": "Adjectives used as adverbs ('rápido', 'barato') are common in speech. 'Fazer parte de' = to be part of."
+  },
+  {
+    "id": "br-2354",
+    "front": "No fim das contas, quem decide é o cliente.",
+    "pronunciation": "noo FEENG dahs KOHN-tahs, KENG deh-SEE-jee EH oo klee-EHN-chee.",
+    "back": "At the end of the day, it's the customer who decides.",
+    "context": "'No fim das contas' = at the end of the day, ultimately."
+  }
+]

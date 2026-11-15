@@ -1,0 +1,3 @@
+# Netlify: serve the app for any path (Vue Router uses clean URLs like /learn/br/...).
+# Real files such as /data/*.json are still served first.
+/*    /index.html   200

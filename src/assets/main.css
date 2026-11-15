@@ -1,4 +1,5 @@
 @import "./exercises.css"; /* <-- Seamlessly injects your 8-type engine styles */
+@import "./plan.css"; /* study plan, placement test and home "today" card */
 
 /* ==========================================================================
    1. Core Base Layout Reset
@@ -439,6 +440,24 @@ header.app-navigation-header {
   transform: translateX(3px);
 }
 
+/* Decks whose content isn't published yet (manifest "comingSoon": true) */
+.deck-card.is-locked {
+  cursor: not-allowed;
+  opacity: 0.55;
+}
+
+.deck-card.is-locked:hover {
+  border-color: #e2e8f0;
+  transform: none;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.01);
+}
+
+.deck-card.is-locked:hover .action-prompt,
+.deck-card.is-locked:hover .action-arrow {
+  color: inherit;
+  transform: none;
+}
+
 /* Modes Selection Layout Framework */
 .modes-grid {
   display: grid;
@@ -596,13 +615,15 @@ gap: 1.5rem;
 .flashcard-perspective {
 perspective: 1000px;
 width: 100%;
-height: 350px;
 cursor: pointer;
 }
+/* Both faces sit in the same grid cell, so the card grows to fit the
+   taller face (long B1/B2 sentences) instead of overflowing a fixed height */
 .flashcard-inner {
 position: relative;
+display: grid;
 width: 100%;
-height: 100%;
+min-height: 350px;
 transition: transform 0.5s;
 transform-style: preserve-3d;
 }
@@ -610,9 +631,9 @@ transform-style: preserve-3d;
 transform: rotateY(180deg);
 }
 .face {
-position: absolute;
+grid-area: 1 / 1;
 width: 100%;
-height: 100%;
+min-height: 350px;
 -webkit-backface-visibility: hidden;
 backface-visibility: hidden;
 border-radius: 20px;
@@ -839,4 +860,118 @@ transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
 }
 .slide-up-enter-from, .slide-up-leave-to {
 transform: translateY(100%);
+}
+/* ==========================================================================
+   Spaced repetition (FlashcardsView)
+   ========================================================================== */
+.srs-card-tag {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.15rem 0.5rem;
+  border-radius: 999px;
+}
+.srs-card-tag.tag-new { background: #eef2ff; color: #4338ca; }
+.srs-card-tag.tag-review { background: #ecfdf5; color: #047857; }
+
+.deck-navigation kbd,
+.srs-rate-btn kbd {
+  font-family: inherit;
+  font-size: 0.7rem;
+  font-weight: 600;
+  opacity: 0.6;
+  border: 1px solid currentColor;
+  border-radius: 4px;
+  padding: 0 0.3rem;
+  margin-left: 0.4rem;
+}
+
+.srs-rate-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.15rem;
+  padding: 0.75rem 0.5rem;
+}
+.srs-rate-btn kbd { margin-left: 0; }
+.srs-rate-btn .rate-label { font-size: 1rem; }
+.srs-rate-btn .rate-interval { font-size: 0.8rem; font-weight: 600; opacity: 0.75; }
+.srs-rate-btn.rate-again { border-color: #fca5a5; color: #b91c1c; }
+.srs-rate-btn.rate-hard  { border-color: #fcd34d; color: #92400e; }
+.srs-rate-btn.rate-good  { border-color: #86efac; color: #15803d; }
+.srs-rate-btn.rate-easy  { border-color: #93c5fd; color: #1d4ed8; }
+.srs-rate-btn:hover { background: #f8fafc; transform: translateY(-1px); }
+
+@media (max-width: 520px) {
+  .deck-navigation { flex-wrap: wrap; }
+  .srs-rate-btn { flex: 1 1 calc(50% - 0.5rem); }
+}
+
+.srs-done-panel {
+  text-align: center;
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 1rem;
+  padding: 2.5rem 1.5rem;
+}
+.srs-done-icon { font-size: 3rem; }
+.srs-done-panel h2 { margin: 0.5rem 0; }
+.srs-done-summary { color: #475569; }
+.srs-stats-row {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0;
+  color: #64748b;
+}
+.srs-stats-row strong { display: block; font-size: 1.5rem; color: #1e293b; }
+.srs-next-due { color: #64748b; font-size: 0.95rem; }
+.srs-done-actions {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+/* Per-deck study stats on the deck list and deck hub */
+.deck-srs-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.25rem 0 0.75rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+.deck-srs-stats span {
+  padding: 0.15rem 0.5rem;
+  border-radius: 999px;
+  background: #f1f5f9;
+  color: #475569;
+}
+.deck-srs-stats .stat-due { background: #fef3c7; color: #92400e; }
+.deck-srs-stats .stat-mastered { background: #ecfdf5; color: #047857; }
+
+/* Mode cards are <button>s (keyboard accessible): reset button defaults */
+button.mode-card {
+  font: inherit;
+  color: inherit;
+  text-align: left;
+  width: 100%;
+}
+button.mode-card:focus-visible,
+.flashcard-perspective:focus-visible {
+  outline: 3px solid #4f46e5;
+  outline-offset: 3px;
+}
+.hub-deck-title { margin-bottom: 0.25rem; }
+
+@media (max-width: 520px) {
+  .face { padding: 1.25rem; }
+  .term-display, .meaning-display { font-size: 1.75rem; }
+  .workspace-controls { gap: 0.75rem; }
 }

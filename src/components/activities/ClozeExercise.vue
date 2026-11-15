@@ -2,7 +2,7 @@
   <div class="cloze-exercise-container">
     <div class="exercise-instruction-block">
       <h3 class="game-instruction">{{ data?.instruction }}</h3>
-      <p class="game-translation"><em>Preencha as lacunas com as palavras corretas.</em></p>
+      <p class="game-translation"><em>Fill in the blanks.</em></p>
     </div>
 
     <!-- Sentence with Inline Inputs -->
@@ -29,7 +29,7 @@
         :disabled="!hasEnteredAllBlanks" 
         @click="evaluateSubmission"
       >
-        Verificar Resposta
+        Check answer
       </button>
     </div>
   </div>
@@ -87,7 +87,11 @@ const evaluateSubmission = () => {
     }
   })
 
-  emit('answered', { exerciseId: props.data.id, isCorrect, mistakes })
+  // Full sentence with every blank filled in, shown after a mistake
+  const correctAnswer = sentenceChunks.value
+    .map((c) => (c.type === 'blank' ? expectedMap[c.blankId] : c.value))
+    .join('')
+  emit('answered', { exerciseId: props.data.id, isCorrect, mistakes, correctAnswer })
 }
 
 watch(() => props.data, initializeClozeWorkspace, { deep: true })

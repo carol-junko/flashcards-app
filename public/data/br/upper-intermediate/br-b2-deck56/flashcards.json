@@ -1,0 +1,317 @@
+[
+  {
+    "id": "br-1980",
+    "front": "O livro de que te falei ontem acabou de ser lançado em português.",
+    "pronunciation": "oo LEE-vroo jee keh chee fah-LAY ohn-TENG ah-kah-BOH jee SEHR lahn-SAH-doo eng pohr-too-GAYS.",
+    "back": "The book I told you about yesterday has just been released in Portuguese.",
+    "context": "Formal Portuguese keeps the preposition before the relative pronoun: 'falar DE algo' → 'o livro DE QUE te falei'. In casual speech it is often dropped ('o livro que te falei')."
+  },
+  {
+    "id": "br-1981",
+    "front": "A empresa cujo diretor foi entrevistado ontem anunciou demissões.",
+    "pronunciation": "ah ehm-PREH-zah KOO-zhoo jee-reh-TOHR FOY ehn-treh-vees-TAH-doo ohn-TENG ah-noon-SYOH jee-mee-SOYNGS.",
+    "back": "The company whose director was interviewed yesterday announced layoffs.",
+    "context": "'Cujo/cuja/cujos/cujas' (whose) agrees with the thing possessed (diretor → cujo) and is never followed by an article ('cujo o' is wrong)."
+  },
+  {
+    "id": "br-1982",
+    "front": "A cidade onde nasci mudou muito nos últimos vinte anos.",
+    "pronunciation": "ah see-DAH-jee OHN-jee nah-SEE moo-DOH MOOY-too nooz OOL-chee-mooz VEEN-chee AH-nooz.",
+    "back": "The city where I was born has changed a lot in the last twenty years.",
+    "context": "'Onde' only refers to places. For time, use 'em que' or 'quando': 'o ano em que nasci'."
+  },
+  {
+    "id": "br-1983",
+    "front": "Essa é a professora a quem devo minha paixão pela leitura.",
+    "pronunciation": "EH-sah EH ah proh-feh-SOH-rah ah KENG DEH-voo MEE-nyah pahy-SHOWNG PEH-lah lay-TOO-rah.",
+    "back": "That's the teacher to whom I owe my passion for reading.",
+    "context": "As a relative pronoun, 'quem' refers to people and always follows a preposition: 'a quem', 'com quem', 'para quem'."
+  },
+  {
+    "id": "br-1984",
+    "front": "O projeto no qual trabalhamos durante meses foi finalmente aprovado.",
+    "pronunciation": "oo proh-ZHEH-too noo KWAHL trah-bah-LYAH-mooz doo-RAHN-chee MEH-zeez FOY fee-nah-oo-MEHN-chee ah-proh-VAH-doo.",
+    "back": "The project we worked on for months was finally approved.",
+    "context": "'O qual / a qual / os quais / as quais' replace 'que' after prepositions and agree in gender and number: 'no qual' = em + o qual."
+  },
+  {
+    "id": "br-1985",
+    "front": "As razões pelas quais ele pediu demissão nunca ficaram claras.",
+    "pronunciation": "ahz rrah-ZOYNGS PEH-lahs KWAHYS EH-lee peh-JEE-oo jee-mee-SOWNG NOON-kah fee-KAH-rowng KLAH-rahs.",
+    "back": "The reasons why he resigned never became clear.",
+    "context": "'Pelas quais' (por + as quais) agrees with 'razões' (feminine plural). It is the formal way to say 'the reasons why'."
+  },
+  {
+    "id": "br-1986",
+    "front": "Tudo o que você disser poderá ser usado contra você.",
+    "pronunciation": "TOO-doo oo keh voh-SEH jee-SEHR poh-deh-RAH SEHR oo-ZAH-doo KOHN-trah voh-SEH.",
+    "back": "Anything you say can be used against you.",
+    "context": "'Tudo o que' = everything/anything that. 'Disser' is the future subjunctive of 'dizer', required for an open future condition."
+  },
+  {
+    "id": "br-1987",
+    "front": "Quem avisa amigo é.",
+    "pronunciation": "KENG ah-VEE-zah ah-MEE-goo EH.",
+    "back": "A true friend is the one who warns you.",
+    "context": "Proverb with 'quem' and no antecedent ('the one who'). Said right before giving someone a frank warning."
+  },
+  {
+    "id": "br-1988",
+    "front": "Os candidatos cujas propostas foram rejeitadas podem recorrer da decisão.",
+    "pronunciation": "ooz kahn-jee-DAH-tooz KOO-zhahs proh-POHS-tahs FOH-rowng rreh-zhay-TAH-dahs POH-deng rreh-koh-RREHR dah deh-see-ZOWNG.",
+    "back": "Candidates whose proposals were rejected can appeal the decision.",
+    "context": "'Cujas' agrees with 'propostas' (feminine plural), not with 'candidatos'."
+  },
+  {
+    "id": "br-1989",
+    "front": "Foram encontradas falhas graves no sistema de segurança do banco.",
+    "pronunciation": "FOH-rowng ehn-kohn-TRAH-dahs FAH-lyahs GRAH-veez noo sees-TEH-mah jee seh-goo-RAHN-sah doo BAHN-koo.",
+    "back": "Serious flaws were found in the bank's security system.",
+    "context": "Analytic passive (ser + past participle). The participle agrees with the subject: 'falhas' → 'encontradas'. Typical of news reports."
+  },
+  {
+    "id": "br-1990",
+    "front": "Vendem-se apartamentos com vista para o mar.",
+    "pronunciation": "VEHN-deng-see ah-pahr-tah-MEHN-tooz kohng VEES-tah PAH-rah oo MAHR.",
+    "back": "Apartments with an ocean view for sale.",
+    "context": "Synthetic passive with 'se': the verb agrees with the subject ('apartamentos' → 'vendem'). On real signs you'll often see 'vende-se apartamentos', which grammar books reject."
+  },
+  {
+    "id": "br-1991",
+    "front": "Aluga-se uma sala comercial no centro da cidade.",
+    "pronunciation": "ah-LOO-gah-see OO-mah SAH-lah koh-mehr-SYOW noo SEHN-troo dah see-DAH-jee.",
+    "back": "Commercial office for rent downtown.",
+    "context": "Synthetic passive in the singular: 'aluga-se' agrees with 'uma sala'. Typical of classified ads and signs."
+  },
+  {
+    "id": "br-1992",
+    "front": "Precisa-se de vendedores com experiência.",
+    "pronunciation": "preh-SEE-zah-see jee vehn-deh-DOH-reez kohng ehs-peh-ree-EHN-syah.",
+    "back": "Experienced salespeople wanted.",
+    "context": "Here 'se' marks an indeterminate subject, not the passive: 'precisar DE' takes a preposition, so the verb stays singular even with a plural noun."
+  },
+  {
+    "id": "br-1993",
+    "front": "O contrato será assinado pelas duas partes na semana que vem.",
+    "pronunciation": "oo kohn-TRAH-too seh-RAH ah-see-NAH-doo PEH-lahz DOO-ahs PAHR-cheez nah seh-MAH-nah kee VENG.",
+    "back": "The contract will be signed by both parties next week.",
+    "context": "Passive in the future: 'ser' carries the tense (será) and 'pelas' (por + as) introduces the agent."
+  },
+  {
+    "id": "br-1994",
+    "front": "A ponte que está sendo construída deve ficar pronta até dezembro.",
+    "pronunciation": "ah POHN-chee keh ehs-TAH SEHN-doo kohns-troo-EE-dah DEH-vee fee-KAHR PROHN-tah ah-TEH deh-ZEHM-broo.",
+    "back": "The bridge being built should be ready by December.",
+    "context": "Progressive passive: 'estar sendo' + participle for an action in progress. Very common in Brazil (Portugal prefers 'a ser construída')."
+  },
+  {
+    "id": "br-1995",
+    "front": "Fui informado de que a reunião tinha sido cancelada.",
+    "pronunciation": "FOO-ee een-fohr-MAH-doo jee keh ah rreh-oo-nee-OWNG CHEE-nyah SEE-doo kahn-seh-LAH-dah.",
+    "back": "I was informed that the meeting had been cancelled.",
+    "context": "Two passives: 'fui informado' and the pluperfect passive 'tinha sido cancelada'. Formally, 'informar alguém DE algo' keeps 'de' before 'que'."
+  },
+  {
+    "id": "br-1996",
+    "front": "É um assunto sobre o qual prefiro não opinar.",
+    "pronunciation": "EH oong ah-SOON-too SOH-bree oo KWAHL preh-FEE-roo NOWNG oh-pee-NAHR.",
+    "back": "It's a subject I'd rather not give my opinion on.",
+    "context": "After two-syllable prepositions (sobre, entre, contra, durante), 'o qual' sounds more natural than 'que'."
+  },
+  {
+    "id": "br-1997",
+    "front": "Conheci uma pessoa com quem posso contar para tudo.",
+    "pronunciation": "koh-nyeh-SEE OO-mah peh-SOH-ah kohng KENG POH-soo kohn-TAHR PAH-rah TOO-doo.",
+    "back": "I met someone I can count on for everything.",
+    "context": "'Contar COM alguém' → 'alguém com quem posso contar'. The preposition moves in front of the relative pronoun."
+  },
+  {
+    "id": "br-1998",
+    "front": "O motivo por que ele saiu cedo ainda é um mistério.",
+    "pronunciation": "oo moh-CHEE-voo pohr KEH EH-lee sah-EE-oo SEH-doo ah-EEN-dah EH oong mees-TEH-ryoo.",
+    "back": "The reason he left early is still a mystery.",
+    "context": "'Por que' (two words, no accent) here means 'pelo qual'. Don't confuse it with 'porque' (because) or 'por quê' (why, at the end of a sentence)."
+  },
+  {
+    "id": "br-1999",
+    "front": "Os documentos de que você precisa estão na segunda gaveta.",
+    "pronunciation": "ooz doh-koo-MEHN-tooz jee keh voh-SEH preh-SEE-zah ehs-TOWNG nah seh-GOON-dah gah-VEH-tah.",
+    "back": "The documents you need are in the second drawer.",
+    "context": "'Precisar DE' → 'de que você precisa'. In speech 'que você precisa' is common, but exams and formal writing expect the preposition."
+  },
+  {
+    "id": "br-2000",
+    "front": "Era uma época em que ninguém tinha celular.",
+    "pronunciation": "EH-rah OO-mah EH-poh-kah eng keh neen-GENG CHEE-nyah seh-loo-LAHR.",
+    "back": "It was a time when nobody had a cell phone.",
+    "context": "For time, use 'em que' (or 'quando'), not 'onde'. 'Uma época onde' is very common in speech but considered incorrect."
+  },
+  {
+    "id": "br-2001",
+    "front": "O que mais me incomoda é a falta de transparência.",
+    "pronunciation": "oo keh MAHYS mee een-koh-MOH-dah EH ah FAHL-tah jee trahns-pah-REHN-syah.",
+    "back": "What bothers me most is the lack of transparency.",
+    "context": "'O que' opening a sentence = 'what / the thing that'. A cleft structure that puts the main point at the end."
+  },
+  {
+    "id": "br-2002",
+    "front": "Foi o Marcos quem resolveu o problema, não eu.",
+    "pronunciation": "FOY oo MAHR-kooz KENG rreh-zohl-VEH-oo oo proh-BLEH-mah, NOWNG EH-oo.",
+    "back": "It was Marcos who solved the problem, not me.",
+    "context": "Cleft sentence 'foi X quem…' to highlight who did something. 'Foi o Marcos que resolveu' is also correct."
+  },
+  {
+    "id": "br-2003",
+    "front": "Os alunos, os quais haviam estudado muito, foram aprovados com louvor.",
+    "pronunciation": "ooz ah-LOO-nooz, ooz KWAHYS ah-VEE-owng ehs-too-DAH-doo MOOY-too, FOH-rowng ah-proh-VAH-dooz kohng loh-VOHR.",
+    "back": "The students, who had studied hard, passed with honors.",
+    "context": "In clauses between commas, 'os quais' is a formal alternative to 'que'. 'Haviam estudado' is the written pluperfect."
+  },
+  {
+    "id": "br-2004",
+    "front": "Esta é a casa cujas janelas foram pintadas de azul.",
+    "pronunciation": "EHS-tah EH ah KAH-zah KOO-zhahz zhah-NEH-lahs FOH-rowng peen-TAH-dahz jee ah-ZOOL.",
+    "back": "This is the house whose windows were painted blue.",
+    "context": "'Cujas janelas' combines possession (the house's windows) with a passive verb that agrees with 'janelas'."
+  },
+  {
+    "id": "br-2005",
+    "front": "Quem tem boca vai a Roma.",
+    "pronunciation": "KENG teng BOH-kah VAHY ah RROH-mah.",
+    "back": "If you ask, you'll find your way.",
+    "context": "Proverb with 'quem' meaning 'whoever': literally 'whoever has a mouth gets to Rome', i.e. don't be shy to ask for directions or help."
+  },
+  {
+    "id": "br-2006",
+    "front": "O acordo foi fechado sem que os acionistas fossem consultados.",
+    "pronunciation": "oo ah-KOHR-doo FOY feh-SHAH-doo seng keh ooz ah-syoh-NEES-tahs FOH-seng kohn-sool-TAH-dooz.",
+    "back": "The deal was closed without the shareholders being consulted.",
+    "context": "'Sem que' always takes the subjunctive; here a passive subjunctive: 'fossem consultados'."
+  },
+  {
+    "id": "br-2007",
+    "front": "Não sei a quem devo me dirigir para resolver isso.",
+    "pronunciation": "NOWNG SAY ah KENG DEH-voo mee jee-ree-ZHEER PAH-rah rreh-zohl-VEHR EE-soo.",
+    "back": "I don't know who I should turn to in order to sort this out.",
+    "context": "'Dirigir-se A alguém' (to address or turn to someone) → 'a quem'. Very useful in bureaucratic situations."
+  },
+  {
+    "id": "br-2008",
+    "front": "A casa foi vendida por um preço bem abaixo do mercado.",
+    "pronunciation": "ah KAH-zah FOY vehn-JEE-dah pohr oong PREH-soo BENG ah-BAHY-shoo doo mehr-KAH-doo.",
+    "back": "The house was sold for a price well below market value.",
+    "context": "Simple analytic passive. Here 'por' introduces the price, not the agent: context tells you which."
+  },
+  {
+    "id": "br-2009",
+    "front": "Diz-se que o prédio é mal-assombrado.",
+    "pronunciation": "JEES-see keh oo PREH-jee-oo EH mahl-ah-sohm-BRAH-doo.",
+    "back": "It is said that the building is haunted.",
+    "context": "'Diz-se que' is the formal impersonal form. In everyday Brazilian speech: 'dizem que' or 'falam que'."
+  },
+  {
+    "id": "br-2010",
+    "front": "Muitas das decisões que foram tomadas ontem serão revistas.",
+    "pronunciation": "MOOY-tahz dahz deh-see-ZOYNGS keh FOH-rowng toh-MAH-dahz ohn-TENG seh-ROWNG rreh-VEES-tahs.",
+    "back": "Many of the decisions made yesterday will be reviewed.",
+    "context": "'Tomar uma decisão' (to make a decision) in the passive: 'decisões foram tomadas'. 'Revistas' is the participle of 'rever'."
+  },
+  {
+    "id": "br-2011",
+    "front": "Aquele é o escritor de cujos livros te falei.",
+    "pronunciation": "ah-KEH-lee EH oo ehs-kree-TOHR jee KOO-zhooz LEE-vroos chee fah-LAY.",
+    "back": "That's the writer whose books I told you about.",
+    "context": "Preposition + cujo: 'falar DOS livros dele' → 'de cujos livros'. Elegant, but rare in speech."
+  },
+  {
+    "id": "br-2012",
+    "front": "O bairro onde moro é tranquilo, mas a região aonde vou todo dia é bem movimentada.",
+    "pronunciation": "oo BAHY-rroo OHN-jee MOH-roo EH trahn-KWEE-loo, mahz ah rreh-zhee-OWNG ah-OHN-jee VOH TOH-doo JEE-ah EH BENG moh-vee-mehn-TAH-dah.",
+    "back": "The neighborhood where I live is quiet, but the area I go to every day is very busy.",
+    "context": "'Onde' = where (location, with verbs like morar/estar). 'Aonde' = to where (with verbs of movement like ir/chegar)."
+  },
+  {
+    "id": "br-2013",
+    "front": "Isso é tudo de que me lembro sobre aquela noite.",
+    "pronunciation": "EE-soo EH TOO-doo jee keh mee LEHM-broo SOH-bree ah-KEH-lah NOY-chee.",
+    "back": "That's all I remember about that night.",
+    "context": "'Lembrar-se DE' → 'tudo de que me lembro'. Without the pronoun 'me', 'lembrar' takes no preposition: 'tudo que lembro'."
+  },
+  {
+    "id": "br-2014",
+    "front": "A proposta, cuja aprovação depende do Senado, divide opiniões.",
+    "pronunciation": "ah proh-POHS-tah, KOO-zhah ah-proh-vah-SOWNG deh-PEHN-jee doo seh-NAH-doo, jee-VEE-jee oh-pee-nee-OYNGS.",
+    "back": "The proposal, whose approval depends on the Senate, divides opinion.",
+    "context": "News-style sentence: 'cuja' agrees with 'aprovação' (feminine singular)."
+  },
+  {
+    "id": "br-2015",
+    "front": "Será que fomos enganados?",
+    "pronunciation": "seh-RAH keh FOH-mooz ehn-gah-NAH-dooz?",
+    "back": "Could it be that we were tricked?",
+    "context": "'Será que…?' introduces a wondering question. 'Fomos enganados' is a passive with 'ser' in the preterite."
+  },
+  {
+    "id": "br-2016",
+    "front": "As vagas restantes serão preenchidas por ordem de chegada.",
+    "pronunciation": "ahz VAH-gahz rrehs-TAHN-cheez seh-ROWNG pree-ehn-SHEE-dahs pohr OHR-deng jee sheh-GAH-dah.",
+    "back": "The remaining places will be filled on a first-come, first-served basis.",
+    "context": "Formal passive typical of announcements. 'Por ordem de chegada' = in order of arrival."
+  },
+  {
+    "id": "br-2017",
+    "front": "Não há nada que eu possa fazer agora.",
+    "pronunciation": "NOWNG AH NAH-dah kee EH-oo POH-sah fah-ZEHR ah-GOH-rah.",
+    "back": "There's nothing I can do now.",
+    "context": "After a negative antecedent ('nada', 'ninguém'), the relative clause takes the subjunctive: 'que eu possa'."
+  },
+  {
+    "id": "br-2018",
+    "front": "Procuro um apartamento que tenha varanda e aceite animais.",
+    "pronunciation": "proh-KOO-roo oong ah-pahr-tah-MEHN-too keh TEH-nyah vah-RAHN-dah ee ah-SAY-chee ah-nee-MAHYS.",
+    "back": "I'm looking for an apartment that has a balcony and allows pets.",
+    "context": "When the antecedent is hypothetical (you don't know if it exists), the relative clause uses the subjunctive: 'que tenha', 'aceite'."
+  },
+  {
+    "id": "br-2019",
+    "front": "Quem quer que tenha feito isso vai ter que se explicar.",
+    "pronunciation": "KENG KEHR kee TEH-nyah FAY-too EE-soo VAHY TEHR kee see ehs-plee-KAHR.",
+    "back": "Whoever did this will have to explain themselves.",
+    "context": "'Quem quer que' (whoever) requires the subjunctive: 'tenha feito' (perfect subjunctive)."
+  },
+  {
+    "id": "br-2020",
+    "front": "Onde quer que você vá, leve um guarda-chuva.",
+    "pronunciation": "OHN-jee KEHR kee voh-SEH VAH, LEH-vee oong GWAHR-dah-SHOO-vah.",
+    "back": "Wherever you go, take an umbrella.",
+    "context": "'Onde quer que' (wherever) + present subjunctive 'vá'."
+  },
+  {
+    "id": "br-2021",
+    "front": "Este é o motivo pelo qual decidimos adiar o lançamento.",
+    "pronunciation": "EHS-chee EH oo moh-CHEE-voo PEH-loo KWAHL deh-see-JEE-mooz ah-jee-AHR oo lahn-sah-MEHN-too.",
+    "back": "This is the reason why we decided to postpone the launch.",
+    "context": "'Pelo qual' (por + o qual) agrees with 'motivo' (masculine singular)."
+  },
+  {
+    "id": "br-2022",
+    "front": "O filme, que foi gravado inteiramente no Recife, ganhou vários prêmios.",
+    "pronunciation": "oo FEE-oo-mee, keh FOY grah-VAH-doo een-tay-rah-MEHN-chee noo rreh-SEE-fee, gah-NYOH VAH-ryooz PREH-myooz.",
+    "back": "The film, which was shot entirely in Recife, won several awards.",
+    "context": "Non-restrictive relative clause (between commas) adding extra information, with a passive inside ('foi gravado')."
+  },
+  {
+    "id": "br-2023",
+    "front": "As pessoas que moram aqui há mais tempo conhecem todos os atalhos.",
+    "pronunciation": "ahs peh-SOH-ahs keh MOH-rowng ah-KEE AH MAHYS TEHM-poo koh-NYEH-seng TOH-dooz ooz ah-TAH-lyoos.",
+    "back": "The people who have lived here longer know all the shortcuts.",
+    "context": "Restrictive clause (no commas): it identifies which people. 'Há mais tempo' = for longer."
+  },
+  {
+    "id": "br-2024",
+    "front": "Foi-me dito que o prazo seria prorrogado.",
+    "pronunciation": "FOY-mee JEE-too keh oo PRAH-zoo seh-REE-ah proh-rroh-GAH-doo.",
+    "back": "I was told that the deadline would be extended.",
+    "context": "Very formal passive with an indirect object pronoun ('foi-me dito'). In everyday speech: 'me disseram que o prazo ia ser prorrogado'."
+  }
+]

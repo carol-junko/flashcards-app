@@ -1,0 +1,142 @@
+[
+  {
+    "id": "fr-001",
+    "front": "Bonjour !",
+    "pronunciation": "[bohn-ZHOOR]",
+    "back": "Hello! / Good morning!",
+    "context": "The standard greeting all day until early evening. Always say it when entering a shop."
+  },
+  {
+    "id": "fr-002",
+    "front": "Bonsoir !",
+    "pronunciation": "[bohn-SWAHR]",
+    "back": "Good evening!",
+    "context": "Replaces 'bonjour' from early evening (around 6 PM)."
+  },
+  {
+    "id": "fr-003",
+    "front": "Salut !",
+    "pronunciation": "[sah-LÜ]",
+    "back": "Hi! / Bye!",
+    "context": "Informal: friends, family and people your age. Works for hello and goodbye."
+  },
+  {
+    "id": "fr-004",
+    "front": "Au revoir !",
+    "pronunciation": "[oh ruh-VWAHR]",
+    "back": "Goodbye!",
+    "context": "Polite goodbye for any situation."
+  },
+  {
+    "id": "fr-005",
+    "front": "Merci beaucoup.",
+    "pronunciation": "[mehr-SEE boh-KOO]",
+    "back": "Thank you very much.",
+    "context": "'Merci' alone is also fine; 'beaucoup' adds warmth."
+  },
+  {
+    "id": "fr-006",
+    "front": "De rien.",
+    "pronunciation": "[duh RYAN]",
+    "back": "You're welcome.",
+    "context": "Casual reply to 'merci'. A more formal option is 'je vous en prie'."
+  },
+  {
+    "id": "fr-007",
+    "front": "S'il vous plaît.",
+    "pronunciation": "[seel voo PLEH]",
+    "back": "Please.",
+    "context": "Formal/polite form. With friends you say 's'il te plaît'."
+  },
+  {
+    "id": "fr-008",
+    "front": "Excusez-moi.",
+    "pronunciation": "[ex-kü-zay MWAH]",
+    "back": "Excuse me.",
+    "context": "To get someone's attention or to get past someone politely."
+  },
+  {
+    "id": "fr-009",
+    "front": "Pardon !",
+    "pronunciation": "[pahr-DOHN]",
+    "back": "Sorry! / Pardon?",
+    "context": "Quick apology (e.g. bumping into someone) or asking someone to repeat."
+  },
+  {
+    "id": "fr-010",
+    "front": "Comment ça va ?",
+    "pronunciation": "[koh-mahn sah VAH]",
+    "back": "How are you?",
+    "context": "Friendly everyday question. Often shortened to 'Ça va ?'."
+  },
+  {
+    "id": "fr-011",
+    "front": "Ça va bien, merci. Et vous ?",
+    "pronunciation": "[sah vah BYAN, mehr-SEE. ay VOO]",
+    "back": "I'm fine, thanks. And you?",
+    "context": "Standard answer. Use 'et toi ?' with friends."
+  },
+  {
+    "id": "fr-012",
+    "front": "Je m'appelle Anna.",
+    "pronunciation": "[zhuh mah-PEL ah-NAH]",
+    "back": "My name is Anna.",
+    "context": "Literally 'I call myself Anna'. Replace the name with yours."
+  },
+  {
+    "id": "fr-013",
+    "front": "Enchanté.",
+    "pronunciation": "[ahn-shahn-TAY]",
+    "back": "Nice to meet you.",
+    "context": "Written 'enchantée' when a woman says it; the pronunciation is the same."
+  },
+  {
+    "id": "fr-014",
+    "front": "Je ne comprends pas.",
+    "pronunciation": "[zhuh nuh kohm-PRAHN PAH]",
+    "back": "I don't understand.",
+    "context": "In speech the 'ne' is often dropped: 'Je comprends pas'."
+  },
+  {
+    "id": "fr-015",
+    "front": "Vous pouvez répéter, s'il vous plaît ?",
+    "pronunciation": "[voo poo-VAY ray-pay-TAY, seel voo PLEH]",
+    "back": "Can you repeat that, please?",
+    "context": "Your best friend as a beginner. Add 'plus lentement' to ask for slower speech."
+  },
+  {
+    "id": "fr-016",
+    "front": "Vous parlez anglais ?",
+    "pronunciation": "[voo pahr-lay ahn-GLEH]",
+    "back": "Do you speak English?",
+    "context": "Rising intonation turns a statement into a question."
+  },
+  {
+    "id": "fr-017",
+    "front": "Où sont les toilettes ?",
+    "pronunciation": "[oo sohn lay twah-LET]",
+    "back": "Where is the restroom?",
+    "context": "'Toilettes' is always plural in French."
+  },
+  {
+    "id": "fr-018",
+    "front": "C'est combien ?",
+    "pronunciation": "[say kohm-BYAN]",
+    "back": "How much is it?",
+    "context": "Point at the item and ask. Very common in markets and shops."
+  },
+  {
+    "id": "fr-019",
+    "front": "Je voudrais un café, s'il vous plaît.",
+    "pronunciation": "[zhuh voo-DREH an kah-FAY, seel voo PLEH]",
+    "back": "I would like a coffee, please.",
+    "context": "'Je voudrais' is the polite way to order. 'Un café' is an espresso."
+  },
+  {
+    "id": "fr-020",
+    "front": "L'addition, s'il vous plaît.",
+    "pronunciation": "[lah-dee-SYOHN, seel voo PLEH]",
+    "back": "The check, please.",
+    "context": "Waiters in France won't bring the bill until you ask for it."
+  }
+]

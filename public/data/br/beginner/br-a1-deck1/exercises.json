@@ -17,7 +17,7 @@
     "type": "scramble",
     "payload": {
       "instruction": "Organize as palavras para formar uma saudação correta:",
-      "wordsPool": ["muito", "Olá!", "Tudo", "bem?", "bom"],
+      "wordsPool": ["Tudo", "Olá!", "Tudo", "bem?", "bom"],
       "correctSentence": "Olá! Tudo bem? Tudo bom"
     }
   },
@@ -84,7 +84,6 @@
     "type": "listening",
     "payload": {
       "instruction": "Ouça o áudio com atenção e digite exatamente o que foi dito:",
-      "audioUrl": "/audio/br-basics/bom-dia.mp3",
       "transcript": "Bom dia, como você está hoje?",
       "acceptedVariations": ["bom dia como voce esta hoje", "bom dia, como voce esta hoje?"]
     }
@@ -122,12 +121,17 @@
     "id": "ex_008_nounArticle",
     "type": "nounArticle",
     "payload": {
-      "instruction": "Selecione o artigo correto (Gênero/Número) para o substantivo abaixo:",
-      "noun": "água",
-      "gender": "feminine",
-      "number": "singular",
-      "options": ["o", "a", "um", "uma"],
-      "correctArticle": "a"
+      "instruction": "Classifique cada substantivo pelo gênero: bom dia, boa tarde, boa noite...",
+      "labels": { "masculine": "o / um", "feminine": "a / uma" },
+      "nounsList": ["dia", "tarde", "noite", "água", "pão", "café"],
+      "truthMap": {
+        "dia": "masculine",
+        "tarde": "feminine",
+        "noite": "feminine",
+        "água": "feminine",
+        "pão": "masculine",
+        "café": "masculine"
+      }
     }
   }
 ]

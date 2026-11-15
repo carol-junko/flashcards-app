@@ -15,7 +15,7 @@
     "category": "Numbers & Time",
     "title": "Numbers, Days & Months",
     "description": "Learn to count, talk about days of the week, and mention months.",
-    "cardCount": 35
+    "cardCount": 50
   },
   {
     "id": "br-a1-deck3",
@@ -69,7 +69,7 @@
     "category": "Grammar Verbs",
     "title": "The Verbs 'Ser' & 'Estar'",
     "description": "Master the two essential ways to say 'to be' in permanent and temporary situations.",
-    "cardCount": 35
+    "cardCount": 25
   },
   {
     "id": "br-a1-deck9",
@@ -78,7 +78,7 @@
     "category": "Grammar Verbs",
     "title": "The Verbs 'Ter' & 'Ir'",
     "description": "Learn to express possession (to have) and future intentions/movement (to go).",
-    "cardCount": 35
+    "cardCount": 25
   },
   {
     "id": "br-a1-deck10",
@@ -123,7 +123,7 @@
     "category": "Weather & Climate",
     "title": "Talking About the Weather",
     "description": "Describe hot, cold, or rainy days and discuss Brazil's diverse seasons.",
-    "cardCount": 30
+    "cardCount": 35
   },
   {
     "id": "br-a2-deck15",
@@ -132,7 +132,7 @@
     "category": "Workplace Basics",
     "title": "Professions & Office Life",
     "description": "Identify common professions, office tools, and basic work routines.",
-    "cardCount": 30
+    "cardCount": 35
   },
   {
     "id": "br-a2-deck16",
@@ -159,7 +159,7 @@
     "category": "Local Slang",
     "title": "Essential Brazilian Slang",
     "description": "Sound like a native using universal expressions like 'legal', 'beleza', and 'cara'.",
-    "cardCount": 30
+    "cardCount": 35
   },
   {
     "id": "br-a2-deck19",
@@ -213,7 +213,7 @@
     "category": "Daily Routine",
     "title": "From Morning to Night",
     "description": "Describe daily reflexive actions like waking up, showering, and going to sleep.",
-    "cardCount": 35
+    "cardCount": 30
   },
   {
     "id": "br-a2-deck25",
@@ -285,7 +285,7 @@
     "category": "Technology & Media",
     "title": "Computers & Gadgets",
     "description": "Master essential terminology for hardware, software, files, and digital tools.",
-    "cardCount": 30
+    "cardCount": 35
   },
   {
     "id": "br-b1-deck33",
@@ -312,7 +312,7 @@
     "category": "Emergencies",
     "title": "Safety & Urgent Situations",
     "description": "Essential phrases for reporting losses, contacting police, or handling accidents safely.",
-    "cardCount": 30
+    "cardCount": 35
   },
   {
     "id": "br-b1-deck36",
@@ -321,7 +321,7 @@
     "category": "Style & Fashion",
     "title": "Describing Outfits & Styles",
     "description": "Discuss fashion preferences, fit, style trends, and various clothing materials.",
-    "cardCount": 30
+    "cardCount": 35
   },
   {
     "id": "br-b1-deck37",
@@ -330,7 +330,7 @@
     "category": "Grammar Basics",
     "title": "Past Tense: The Imperfect Past",
     "description": "Learn to talk about continuous childhood habits and what you used to do.",
-    "cardCount": 40
+    "cardCount": 35
   },
   {
     "id": "br-b1-deck38",
@@ -366,7 +366,7 @@
     "category": "Grammar Basics",
     "title": "Direct Object Pronouns",
     "description": "Avoid repetition by replacing nouns with compact structural objects like 'o', 'a', 'os', 'as'.",
-    "cardCount": 30
+    "cardCount": 35
   },
   {
     "id": "br-b1-deck42",
@@ -402,7 +402,7 @@
     "category": "Preferences",
     "title": "Superlatives & Extremes",
     "description": "Express when something is the absolute best, worst, biggest, or smallest.",
-    "cardCount": 30
+    "cardCount": 35
   },
   {
     "id": "br-b2-deck46",
@@ -456,7 +456,7 @@
     "category": "Advanced Idioms",
     "title": "Gírias Cariocas (Rio de Janeiro)",
     "description": "Sound like a local from Rio de Janeiro using authentic slang like 'mermão' and 'irado'.",
-    "cardCount": 35
+    "cardCount": 45
   },
   {
     "id": "br-b2-deck52",
@@ -465,7 +465,7 @@
     "category": "Advanced Idioms",
     "title": "Gírias Paulistas (São Paulo)",
     "description": "Adopt authentic, urban slang from São Paulo like 'meu', 'bicho', and 'da hora'.",
-    "cardCount": 35
+    "cardCount": 45
   },
   {
     "id": "br-b2-deck53",
@@ -635,7 +635,7 @@
     "level": "Fluency Milestone",
     "title": "The Native Integration Exam",
     "description": "The ultimate test containing highly obscure idioms and rapid-fire conversational scenarios.",
-    "cardCount": 50
+    "cardCount": 50,
+    "category": "Final Challenge"
   }
-
 ]

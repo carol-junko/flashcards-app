@@ -2,7 +2,7 @@
   <div class="match-exercise-container">
     <div class="exercise-instruction-block">
       <h3 class="game-instruction">{{ data?.instruction }}</h3>
-      <p class="game-translation"><em>Combine os pares corretos.</em></p>
+      <p class="game-translation"><em>Match each item with its pair.</em></p>
     </div>
 
     <div class="match-columns-grid">
@@ -47,7 +47,7 @@
         :disabled="!hasCompletedAllMatches" 
         @click="evaluateSubmission"
       >
-        Verificar Resposta
+        Check answer
       </button>
     </div>
   </div>
@@ -116,7 +116,11 @@ const evaluateSubmission = () => {
     }
   })
 
-  emit('answered', { exerciseId: props.data.id, isCorrect, mistakes })
+  const textOf = (list, id) => list.find((item) => String(item.id) === String(id))?.text
+  const correctAnswer = (props.data?.sources || [])
+    .map((s) => `${s.text} → ${textOf(props.data.targets, expectedMap[s.id])}`)
+    .join(' · ')
+  emit('answered', { exerciseId: props.data.id, isCorrect, mistakes, correctAnswer })
 }
 
 watch(() => props.data, initializeMatchDeck, { deep: true })

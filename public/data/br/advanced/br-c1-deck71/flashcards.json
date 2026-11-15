@@ -1,0 +1,352 @@
+[
+  {
+    "id": "br-2655",
+    "front": "Passa lá em casa qualquer dia!",
+    "pronunciation": "PAH-sah LAH eng KAH-zah kwahl-KEHR JEE-ah!",
+    "back": "Drop by my place sometime!",
+    "context": "Integration test #1: this is usually friendly politeness, not a real invitation. Wait for a date and an address before you show up."
+  },
+  {
+    "id": "br-2656",
+    "front": "Vamos marcar um café, sim! Te chamo.",
+    "pronunciation": "VAH-mooz mahr-KAHR oong kah-FEH, SEENG! chee SHAH-moo.",
+    "back": "Let's definitely get coffee! I'll message you.",
+    "context": "'Vamos marcar' is often a warm way to end a chat with no concrete plan. If no date is set, it may never happen, and that's normal."
+  },
+  {
+    "id": "br-2657",
+    "front": "Vou ver e te falo.",
+    "pronunciation": "VOH VEHR ee chee FAH-loo.",
+    "back": "I'll see and let you know.",
+    "context": "Often a soft 'no'. Brazilians avoid saying a direct 'não' to invitations; reading this subtext is a real fluency skill."
+  },
+  {
+    "id": "br-2658",
+    "front": "A gente se fala!",
+    "pronunciation": "ah ZHEHN-chee see FAH-lah!",
+    "back": "Talk to you later!",
+    "context": "A standard goodbye. Like 'see you around', it doesn't commit to anything specific."
+  },
+  {
+    "id": "br-2659",
+    "front": "Me vê um pingado e um pão na chapa, por favor.",
+    "pronunciation": "mee VEH oong peen-GAH-doo ee oong POWNG nah SHAH-pah, pohr fah-VOHR.",
+    "back": "I'll have a coffee with a splash of milk and a buttered toasted roll, please.",
+    "context": "Classic São Paulo bakery order. 'Me vê' (literally 'see me') = I'll have. 'Pingado' = coffee with a 'drop' of milk."
+  },
+  {
+    "id": "br-2660",
+    "front": "Desce mais uma gelada aqui, chefe!",
+    "pronunciation": "DEH-see MAHYZ OO-mah zheh-LAH-dah ah-KEE, SHEH-fee!",
+    "back": "Bring us another cold one, boss!",
+    "context": "Bar language: 'descer' (come down) = to bring/serve, 'gelada' = ice-cold beer. Waiters are often called 'chefe' or 'amigo'."
+  },
+  {
+    "id": "br-2661",
+    "front": "Essa é a saideira, juro!",
+    "pronunciation": "EH-sah EH ah sahy-DAY-rah, ZHOO-roo!",
+    "back": "This is the last one, I swear!",
+    "context": "'Saideira' = the last round before leaving. Ritually, it's almost never the last one."
+  },
+  {
+    "id": "br-2662",
+    "front": "Bora rachar a conta?",
+    "pronunciation": "BOH-rah rrah-SHAHR ah KOHN-tah?",
+    "back": "Shall we split the bill?",
+    "context": "'Rachar' (to crack, split) = to divide equally. Remember the 10% service charge is usually added to the bill."
+  },
+  {
+    "id": "br-2663",
+    "front": "Vamos fazer uma vaquinha para o presente da Ana.",
+    "pronunciation": "VAH-mooz fah-ZEHR OO-mah vah-KEE-nyah PAH-rah oo preh-ZEHN-chee dah AH-nah.",
+    "back": "Let's chip in for Ana's present.",
+    "context": "'Vaquinha' (little cow) = a group collection of money. Online fundraisers are also called 'vaquinhas'."
+  },
+  {
+    "id": "br-2664",
+    "front": "Ô, de casa! Tem alguém aí?",
+    "pronunciation": "OH, jee KAH-zah! teng ahl-GENG ah-EE?",
+    "back": "Hello, anybody home?",
+    "context": "Traditional way to call at a house without a doorbell, especially in small towns."
+  },
+  {
+    "id": "br-2665",
+    "front": "Com licença, quem é o último da fila?",
+    "pronunciation": "kohng lee-SEHN-sah, KENG EH oo OOL-chee-moo dah FEE-lah?",
+    "back": "Excuse me, who's last in line?",
+    "context": "Asking this is the polite way to join a disorganized queue at a clinic, bank or bakery."
+  },
+  {
+    "id": "br-2666",
+    "front": "Ele me deu um bolo: fiquei esperando uma hora e ele nem apareceu.",
+    "pronunciation": "EH-lee mee DEH-oo oong BOH-loo: fee-KAY ehs-peh-RAHN-doo OO-mah OH-rah ee EH-lee NENG ah-pah-reh-SEH-oo.",
+    "back": "He stood me up: I waited an hour and he didn't even show up.",
+    "context": "'Dar um bolo' (to give a cake) = to stand someone up."
+  },
+  {
+    "id": "br-2667",
+    "front": "Ela levou um fora do crush e ficou arrasada.",
+    "pronunciation": "EH-lah leh-VOH oong FOH-rah doo KRAHSH ee fee-KOH ah-rrah-ZAH-dah.",
+    "back": "She got turned down by her crush and was devastated.",
+    "context": "'Levar um fora' = to be rejected; 'dar um fora' = to reject someone. 'Crush' is fully adopted slang."
+  },
+  {
+    "id": "br-2668",
+    "front": "Ele simplesmente sumiu, me deu um perdido.",
+    "pronunciation": "EH-lee seem-plehz-MEHN-chee soo-MEE-oo, mee DEH-oo oong pehr-JEE-doo.",
+    "back": "He just disappeared on me; he ghosted me.",
+    "context": "'Dar um perdido' = to disappear on someone (also 'dar ghost'). 'Sumir' = to vanish."
+  },
+  {
+    "id": "br-2669",
+    "front": "Peguei ranço dele depois daquela discussão.",
+    "pronunciation": "peh-GAY RRAHN-soo DEH-lee deh-POYZ dah-KEH-lah jees-koo-SOWNG.",
+    "back": "I can't stand him anymore after that argument.",
+    "context": "'Pegar ranço' (to catch rancidness) = to develop an aversion to someone. Very current slang."
+  },
+  {
+    "id": "br-2670",
+    "front": "Tô passada com essa notícia!",
+    "pronunciation": "TOH pah-SAH-dah kohng EH-sah noh-CHEE-syah!",
+    "back": "I'm shocked by this news!",
+    "context": "'Estar passado/a' = to be stunned or shocked. Informal and expressive."
+  },
+  {
+    "id": "br-2671",
+    "front": "Ela lacrou na resposta e ninguém mais teve argumento.",
+    "pronunciation": "EH-lah lah-KROH nah rrehs-POHS-tah ee neen-GENG MAHYS TEH-vee ahr-goo-MEHN-too.",
+    "back": "She nailed that comeback and nobody had anything left to say.",
+    "context": "'Lacrar' (to seal) = to win a discussion with an unbeatable line. Internet slang."
+  },
+  {
+    "id": "br-2672",
+    "front": "Ele só posta foto na academia, é muito biscoiteiro.",
+    "pronunciation": "EH-lee SOH POHS-tah FOH-too nah ah-kah-deh-MEE-ah, EH MOOY-too bees-koy-TAY-roo.",
+    "back": "He only posts gym photos; he's such an attention-seeker.",
+    "context": "'Biscoiteiro' (cookie-seeker) = someone fishing for likes and praise, from 'dar biscoito' (to feed attention)."
+  },
+  {
+    "id": "br-2673",
+    "front": "Quando cobrei o dinheiro, ela fez a egípcia.",
+    "pronunciation": "KWAHN-doo koh-BRAY oo jee-NYAY-roo, EH-lah FEHZ ah eh-ZHEEP-syah.",
+    "back": "When I asked for the money back, she pretended not to hear.",
+    "context": "'Fazer a egípcia' (to do the Egyptian) = to act like nothing happened, looking away like a profile in Egyptian art."
+  },
+  {
+    "id": "br-2674",
+    "front": "Rolou a maior treta no grupo da família.",
+    "pronunciation": "rroh-LOH ah mah-YOHR TREH-tah noo GROO-poo dah fah-MEE-lyah.",
+    "back": "A huge fight broke out in the family group chat.",
+    "context": "'Treta' = fight, drama. 'Rolar' = to happen. Family WhatsApp groups are famous battlegrounds."
+  },
+  {
+    "id": "br-2675",
+    "front": "Ela armou o maior barraco no meio da festa.",
+    "pronunciation": "EH-lah ahr-MOH oo mah-YOHR bah-RRAH-koo noo MAY-oo dah FEHS-tah.",
+    "back": "She made a huge scene in the middle of the party.",
+    "context": "'Armar um barraco' = to cause a loud public scene."
+  },
+  {
+    "id": "br-2676",
+    "front": "Deu ruim: o sistema caiu bem na hora da apresentação.",
+    "pronunciation": "DEH-oo rroo-EENG: oo sees-TEH-mah kah-EE-oo BENG nah OH-rah dah ah-preh-zehn-tah-SOWNG.",
+    "back": "Things went wrong: the system crashed right during the presentation.",
+    "context": "'Deu ruim' = it went badly; 'deu bom' = it worked out. Very common slang."
+  },
+  {
+    "id": "br-2677",
+    "front": "Sextou! Partiu praia?",
+    "pronunciation": "sehs-TOH! pahr-CHEE-oo PRAHY-ah?",
+    "back": "It's Friday! Beach, anyone?",
+    "context": "'Sextou' (it Fridayed) celebrates the start of the weekend. 'Partiu' + place = let's go to."
+  },
+  {
+    "id": "br-2678",
+    "front": "Fala sério, você acreditou nessa história?",
+    "pronunciation": "FAH-lah SEH-ryoo, voh-SEH ah-kreh-jee-TOH NEH-sah ees-TOH-ryah?",
+    "back": "Come on, you believed that story?",
+    "context": "'Fala sério' (speak seriously) = come on / you can't be serious."
+  },
+  {
+    "id": "br-2679",
+    "front": "Nem a pau que eu vou trabalhar no feriado!",
+    "pronunciation": "NENG ah POW keh EH-oo VOH trah-bah-LYAHR noo feh-ree-AH-doo!",
+    "back": "No way am I working on the holiday!",
+    "context": "'Nem a pau' = no way, not a chance. Informal."
+  },
+  {
+    "id": "br-2680",
+    "front": "Tô nem aí para o que os outros pensam.",
+    "pronunciation": "TOH NENG ah-EE PAH-rah oo keh ooz OH-troos PEHN-sowng.",
+    "back": "I couldn't care less what other people think.",
+    "context": "'Não estar nem aí' = to not care at all. Usually shortened to 'tô nem aí'."
+  },
+  {
+    "id": "br-2681",
+    "front": "Valeu pela força, tamo junto!",
+    "pronunciation": "vah-LEH-oo PEH-lah FOHR-sah, TAH-moo ZHOON-too!",
+    "back": "Thanks for the help, I've got your back!",
+    "context": "'Valeu' = thanks. 'Dar uma força' = to help. 'Tamo junto' = we're in this together."
+  },
+  {
+    "id": "br-2682",
+    "front": "Mó calor hoje, né?",
+    "pronunciation": "MOH kah-LOHR OH-zhee, NEH?",
+    "back": "It's so hot today, right?",
+    "context": "'Mó' = 'maior' (huge), used as an intensifier in youth slang, especially in Rio and São Paulo. Weather is the safest small-talk topic."
+  },
+  {
+    "id": "br-2683",
+    "front": "Para de me zoar, eu tô falando sério.",
+    "pronunciation": "PAH-rah jee mee zoh-AHR, EH-oo TOH fah-LAHN-doo SEH-ryoo.",
+    "back": "Stop teasing me, I'm serious.",
+    "context": "'Zoar' = to tease, mock, mess around. 'Zoeira' = joking around."
+  },
+  {
+    "id": "br-2684",
+    "front": "Ele vive pagando de rico, mas está na pindaíba.",
+    "pronunciation": "EH-lee VEE-vee pah-GAHN-doo jee RREE-koo, mahs ehs-TAH nah peen-dah-EE-bah.",
+    "back": "He's always showing off like he's rich, but he's broke.",
+    "context": "'Pagar de' = to pose as, show off as. 'Estar na pindaíba' = to be broke."
+  },
+  {
+    "id": "br-2685",
+    "front": "Pode pendurar na conta? Pago no fim do mês.",
+    "pronunciation": "POH-jee pehn-doo-RAHR nah KOHN-tah? PAH-goo noo FEENG doo MEHS.",
+    "back": "Can you put it on my tab? I'll pay at the end of the month.",
+    "context": "'Pendurar (na conta)' = to buy on credit at a local shop. 'Comprar fiado' means the same."
+  },
+  {
+    "id": "br-2686",
+    "front": "Esse vestido caiu como uma luva em você.",
+    "pronunciation": "EH-see vehs-CHEE-doo kah-EE-oo KOH-moo OO-mah LOO-vah eng voh-SEH.",
+    "back": "That dress fits you like a glove.",
+    "context": "'Cair como uma luva' = to fit perfectly, also used for situations: 'a ajuda caiu como uma luva'."
+  },
+  {
+    "id": "br-2687",
+    "front": "Tô de molho em casa por causa da gripe.",
+    "pronunciation": "TOH jee MOH-lyoo eng KAH-zah pohr KOW-zah dah GREE-pee.",
+    "back": "I'm laid up at home because of the flu.",
+    "context": "'Ficar/estar de molho' (soaking) = to stay in to rest and recover."
+  },
+  {
+    "id": "br-2688",
+    "front": "Ela tem jogo de cintura para lidar com clientes difíceis.",
+    "pronunciation": "EH-lah teng ZHOH-goo jee seen-TOO-rah PAH-rah lee-DAHR kohng klee-EHN-cheez jee-FEE-says.",
+    "back": "She knows how to handle difficult clients smoothly.",
+    "context": "'Jogo de cintura' (hip movement, as in samba) = flexibility, the ability to handle tricky situations gracefully."
+  },
+  {
+    "id": "br-2689",
+    "front": "Calma, a gente dá um jeito.",
+    "pronunciation": "KAHL-mah, ah ZHEHN-chee DAH oong ZHAY-too.",
+    "back": "Relax, we'll find a way.",
+    "context": "'Dar um jeito' = to find a solution or workaround. Related to the famous, sometimes criticized, 'jeitinho brasileiro'."
+  },
+  {
+    "id": "br-2690",
+    "front": "O tal do jeitinho brasileiro pode ser criatividade ou pura malandragem.",
+    "pronunciation": "oo TAHL doo zhay-CHEE-nyoo brah-zee-LAY-roo POH-jee SEHR kree-ah-chee-vee-DAH-jee oh POO-rah mah-lahn-DRAH-zheng.",
+    "back": "The so-called Brazilian 'jeitinho' can be creativity or pure trickery.",
+    "context": "Integration test: understanding both sides of the 'jeitinho' (resourcefulness vs bending rules). 'O tal do' = the so-called."
+  },
+  {
+    "id": "br-2691",
+    "front": "Ponho a mão no fogo por ela: é a pessoa mais honesta que conheço.",
+    "pronunciation": "POH-nyoo ah MOWNG noo FOH-goo pohr EH-lah: EH ah peh-SOH-ah MAHYZ oh-NEHS-tah keh koh-NYEH-soo.",
+    "back": "I'd vouch for her with my life: she's the most honest person I know.",
+    "context": "'Pôr a mão no fogo por alguém' (put your hand in the fire) = to vouch completely for someone."
+  },
+  {
+    "id": "br-2692",
+    "front": "Ele fez corpo mole e deixou todo o trabalho para nós.",
+    "pronunciation": "EH-lee FEHS KOHR-poo MOH-lee ee day-SHOH TOH-doo oo trah-BAH-lyoo PAH-rah NOHS.",
+    "back": "He slacked off and left all the work to us.",
+    "context": "'Fazer corpo mole' (to make your body soft) = to avoid effort, slack off."
+  },
+  {
+    "id": "br-2693",
+    "front": "Fizeram a obra a toque de caixa por causa da eleição.",
+    "pronunciation": "fee-ZEH-rowng ah OH-brah ah TOH-kee jee KAHY-shah pohr KOW-zah dah eh-lay-SOWNG.",
+    "back": "They rushed the construction work because of the election.",
+    "context": "'A toque de caixa' (to the drumbeat) = in a great hurry, often carelessly."
+  },
+  {
+    "id": "br-2694",
+    "front": "Isso é conversa fiada, ninguém vai cumprir essa promessa.",
+    "pronunciation": "EE-soo EH kohn-VEHR-sah fee-AH-dah, neen-GENG VAHY koom-PREER EH-sah proh-MEH-sah.",
+    "back": "That's just empty talk; nobody's going to keep that promise.",
+    "context": "'Conversa fiada' = idle talk, hot air. 'Cumprir uma promessa' = to keep a promise."
+  },
+  {
+    "id": "br-2695",
+    "front": "Depois da promoção, ele está com a bola toda.",
+    "pronunciation": "deh-POYZ dah proh-moh-SOWNG, EH-lee ehs-TAH kohng ah BOH-lah TOH-dah.",
+    "back": "After the promotion, he's on top of the world.",
+    "context": "'Estar com a bola toda' (to have the whole ball) = to be at your peak, very confident or popular."
+  },
+  {
+    "id": "br-2696",
+    "front": "Ah, vá! Não acredito que você passou no concurso!",
+    "pronunciation": "AH, VAH! NOWNG ah-kreh-JEE-too keh voh-SEH pah-SOH noo kohn-KOOR-soo!",
+    "back": "No way! I can't believe you passed the civil service exam!",
+    "context": "'Ah, vá!' (oh, go!) = no way!, expressing pleasant or skeptical surprise."
+  },
+  {
+    "id": "br-2697",
+    "front": "Deus me livre ter que acordar às cinco todo dia!",
+    "pronunciation": "DEH-oos mee LEE-vree TEHR keh ah-kohr-DAHR AHS SEEN-koo TOH-doo JEE-ah!",
+    "back": "God forbid I have to wake up at five every day!",
+    "context": "'Deus me livre' = God forbid / no way. A very common exclamation."
+  },
+  {
+    "id": "br-2698",
+    "front": "Manda um áudio que eu escuto quando sair da reunião.",
+    "pronunciation": "MAHN-dah oong OW-jee-oo keh EH-oo ehs-KOO-too KWAHN-doo sah-EER dah rreh-oo-nee-OWNG.",
+    "back": "Send me a voice message and I'll listen when I'm out of the meeting.",
+    "context": "Brazilians love WhatsApp voice messages ('áudios'), sometimes several minutes long. 'Quando sair' = future subjunctive."
+  },
+  {
+    "id": "br-2699",
+    "front": "Tô chegando, cinco minutinhos!",
+    "pronunciation": "TOH sheh-GAHN-doo, SEEN-koo mee-noo-CHEE-nyoos!",
+    "back": "I'm almost there, five minutes!",
+    "context": "Integration test: 'tô chegando' and 'cinco minutinhos' are elastic. They can mean twenty minutes or more."
+  },
+  {
+    "id": "br-2700",
+    "front": "Que horas a festa começa de verdade?",
+    "pronunciation": "keh OH-rahz ah FEHS-tah koh-MEH-sah jee vehr-DAH-jee?",
+    "back": "What time does the party actually start?",
+    "context": "At Brazilian parties, the time on the invitation and the real start time are often different. Ask a local!"
+  },
+  {
+    "id": "br-2701",
+    "front": "Opa, tudo joia? Quanto tempo!",
+    "pronunciation": "OH-pah, TOO-doo ZHOY-ah? KWAHN-too TEHM-poo!",
+    "back": "Hey, everything good? Long time no see!",
+    "context": "'Opa' = hey (also 'oops'). 'Tudo joia?' = all good? 'Quanto tempo!' = long time no see!"
+  },
+  {
+    "id": "br-2702",
+    "front": "Não precisa trazer nada, só a sua presença!",
+    "pronunciation": "NOWNG preh-SEE-zah trah-ZEHR NAH-dah, SOH ah SOO-ah preh-ZEHN-sah!",
+    "back": "No need to bring anything, just yourself!",
+    "context": "Polite formula; arriving with a drink or dessert is still a nice gesture at a Brazilian get-together."
+  },
+  {
+    "id": "br-2703",
+    "front": "Pô, que vacilo! Esqueci o seu aniversário.",
+    "pronunciation": "POH, keh vah-SEE-loo! ehs-keh-SEE oo SEH-oo ah-nee-vehr-SAH-ryoo.",
+    "back": "Man, my bad! I forgot your birthday.",
+    "context": "'Vacilo' = a slip-up, a careless mistake; 'vacilar' = to mess up. 'Pô' is a mild, very common interjection of frustration."
+  },
+  {
+    "id": "br-2704",
+    "front": "Já é de casa, pode abrir a geladeira à vontade.",
+    "pronunciation": "ZHAH EH jee KAH-zah, POH-jee ah-BREER ah zheh-lah-DAY-rah AH vohn-TAH-jee.",
+    "back": "You're family now; feel free to open the fridge.",
+    "context": "'Ser de casa' = to be like family. 'À vontade' = freely, make yourself comfortable. The final integration test passed!"
+  }
+]

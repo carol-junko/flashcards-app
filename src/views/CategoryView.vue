@@ -1,6 +1,7 @@
 <script setup>
 import { ref, onMounted, computed } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
+import { createProgressStore, deckStats } from '@/utils/srs'
 
 const route = useRoute()
 const router = useRouter()
@@ -9,6 +10,12 @@ const langId = computed(() => route.params.langId)
 const decks = ref([])
 const isLoading = ref(true)
 const fetchError = ref(null)
+const store = createProgressStore()
+
+// Due / new / mastered counts for a deck, from progress saved in this browser
+function studyStats(deck) {
+  return deckStats(store.getDeck(`${langId.value}/${deck.id}`), deck.cardCount)
+}
 
 
 // 🔄 Syncing the fetching logic with your file naming scheme
@@ -51,7 +58,7 @@ function selectDeck(deckId) {
 
   router.push({
     name: 'ExerciseHub',    // Matches the exact 'name' key in your routes array
-    params: { deckId: deckId } // Safely injects your dynamic property
+    params: { langId: langId.value, deckId }, // language + deck live in the URL now
   })
 }
 
@@ -67,6 +74,10 @@ function goBack() {
       <button @click="goBack" class="back-link">← Choose a different language</button>
       <h2>Study Tracks</h2>
       <p class="subtitle">Select a subject deck below to begin parsing vocabulary and grammar rules</p>
+      <div class="category-actions">
+        <RouterLink class="btn btn-secondary" :to="`/placement/${langId}`">🎯 Find my level</RouterLink>
+        <RouterLink class="btn btn-primary" :to="`/plan/${langId}`">🗓️ Build my study plan</RouterLink>
+      </div>
     </header>
 
     <!-- Loading Placeholder view -->
@@ -102,18 +113,28 @@ function goBack() {
             v-for="deck in levelDecks" 
             :key="deck.id" 
             class="deck-card"
-            @click="selectDeck(deck.id)"
+            :class="{ 'is-locked': deck.comingSoon }"
+            :aria-disabled="deck.comingSoon ? 'true' : null"
+            @click="!deck.comingSoon && selectDeck(deck.id)"
           >
             <div class="deck-top-meta">
               <span class="category-tag">{{ deck.category }}</span>
-              <span class="card-counter">{{ deck.cardCount }} Cards</span>
+              <span class="card-counter">{{ deck.comingSoon ? 'Coming soon' : `${deck.cardCount} Cards` }}</span>
             </div>
             
             <h4 class="deck-title">{{ deck.title }}</h4>
             <p class="deck-description">{{ deck.description }}</p>
+
+            <div v-if="!deck.comingSoon" class="deck-srs-stats">
+              <span v-if="studyStats(deck).due" class="stat-due">{{ studyStats(deck).due }} due</span>
+              <span>{{ studyStats(deck).unseen }} new</span>
+              <span v-if="studyStats(deck).mastered" class="stat-mastered">
+                {{ studyStats(deck).mastered }} mastered
+              </span>
+            </div>
             
             <div class="deck-action-row">
-              <span class="action-prompt">Open Deck Dashboard</span>
+              <span class="action-prompt">{{ deck.comingSoon ? 'Content in preparation' : 'Open Deck Dashboard' }}</span>
               <span class="action-arrow">→</span>
             </div>
           </div>

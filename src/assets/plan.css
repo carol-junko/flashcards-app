@@ -1,0 +1,111 @@
+/* ==========================================================================
+   Study plan, placement test and home "today" card
+   ========================================================================== */
+.plan-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  margin-bottom: 1.25rem;
+}
+.plan-card h3 { margin: 0 0 0.75rem; }
+.plan-card h4 { margin: 0 0 0.5rem; color: #4f46e5; }
+
+.plan-form {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+.plan-form label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #475569;
+}
+.plan-form select {
+  font: inherit;
+  font-weight: 500;
+  color: #1e293b;
+  padding: 0.6rem 0.75rem;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  background: #fff;
+}
+
+.plan-verdict.is-realistic { border-color: #86efac; background: #f0fdf4; }
+.plan-verdict.is-ambitious { border-color: #fcd34d; background: #fffbeb; }
+.plan-choice { display: flex; flex-wrap: wrap; gap: 0.75rem; margin-top: 1rem; }
+.plan-choice .btn { flex: 1 1 240px; }
+.plan-footnote { font-size: 0.8rem; color: #64748b; margin: 0.75rem 0 0; }
+.plan-warning { display: block; color: #92400e; background: #fef3c7; border-radius: 8px; padding: 0.5rem 0.75rem; margin-top: 0.5rem; }
+
+.plan-routine { list-style: none; padding: 0; margin: 0 0 1rem; display: grid; gap: 0.5rem; }
+.plan-routine li { display: flex; gap: 0.75rem; align-items: baseline; }
+.plan-routine strong { min-width: 4.5rem; color: #4f46e5; }
+
+.plan-grammar { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1.25rem; }
+.plan-list { margin: 0; padding-left: 1.2rem; display: grid; gap: 0.35rem; color: #334155; }
+
+.plan-weeks { list-style: none; padding: 0; margin: 0; display: grid; gap: 0.5rem; }
+.plan-weeks li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.6rem 0.75rem;
+  border-radius: 10px;
+  background: #f8fafc;
+}
+.plan-weeks li.is-current { background: #eef2ff; outline: 2px solid #4f46e5; }
+.plan-weeks li.is-review { color: #64748b; }
+.plan-week-label { font-weight: 700; min-width: 5.5rem; font-size: 0.9rem; }
+.plan-week-review { font-size: 0.9rem; }
+
+.plan-deck-chip {
+  font: inherit;
+  font-size: 0.85rem;
+  font-weight: 600;
+  border: 1px solid #c7d2fe;
+  background: #ffffff;
+  color: #3730a3;
+  border-radius: 999px;
+  padding: 0.3rem 0.75rem;
+  cursor: pointer;
+}
+.plan-deck-chip:hover { background: #eef2ff; }
+.plan-deck-chip small { margin-left: 0.35rem; color: #64748b; font-weight: 500; }
+
+.category-actions { display: flex; flex-wrap: wrap; gap: 0.75rem; margin-top: 1rem; }
+.category-actions .btn { text-decoration: none; }
+
+/* Placement test */
+.placement-meta { display: flex; justify-content: space-between; align-items: center; color: #64748b; font-size: 0.9rem; }
+.placement-ask { color: #64748b; margin: 1rem 0 0.25rem; }
+.placement-prompt { font-size: 1.6rem; margin: 0 0 1.25rem; display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap; }
+.placement-options { display: grid; gap: 0.6rem; }
+.placement-option {
+  font: inherit;
+  text-align: left;
+  padding: 0.85rem 1rem;
+  border: 1px solid #cbd5e1;
+  border-radius: 10px;
+  background: #fff;
+  cursor: pointer;
+}
+.placement-option:hover:not(:disabled) { border-color: #4f46e5; background: #f8fafc; }
+.placement-option:disabled { cursor: default; color: inherit; }
+.placement-option.is-right { border-color: #22c55e; background: #f0fdf4; font-weight: 600; }
+.placement-option.is-wrong { border-color: #ef4444; background: #fef2f2; }
+.placement-option.dont-know { color: #64748b; font-style: italic; }
+.placement-result { text-align: center; }
+.placement-level { font-size: 2rem; margin: 0.25rem 0 1rem; color: #4f46e5; }
+
+/* Home "today" card */
+.today-card { text-align: left; }
+.today-eyebrow { color: #64748b; font-weight: 600; margin: 0; }
+.today-label { font-weight: 700; color: #475569; margin: 1rem 0 0.5rem; }
+.today-decks { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; }
+.today-decks .today-label { width: 100%; }
+.today-card .btn { text-decoration: none; }

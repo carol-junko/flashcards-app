@@ -2,16 +2,16 @@
   <div class="noun-article-exercise-container">
     <div class="exercise-instruction-block">
       <h3 class="game-instruction">{{ data?.instruction }}</h3>
-      <p class="game-translation"><em>Classifique os substantivos com os seus artigos correspondentes.</em></p>
+      <p class="game-translation"><em>Sort each noun by its gender.</em></p>
     </div>
 
     <div class="noun-card-stack-zone">
       <div v-if="currentNoun" class="active-noun-card" draggable="true" @dragstart="onDragStart">
         <span class="noun-text-display">{{ currentNoun }}</span>
-        <span class="hint-tap-instruction">Arraste ou toque nas colunas abaixo</span>
+        <span class="hint-tap-instruction">Drag it or tap a column below</span>
       </div>
       <div v-else class="stack-depleted-msg">
-        🎉 Todos os substantivos foram alocados!
+        🎉 All nouns sorted!
       </div>
     </div>
 
@@ -27,7 +27,9 @@
         @click="assignViaClick(category)"
       >
         <div class="column-title-header">
-          {{ category === 'masculine' ? 'O / Um (Masculino)' : 'A / Uma (Feminino)' }}
+          <!-- Article hints (e.g. "o / um") come from the data, so this works for any language -->
+          {{ category === 'masculine' ? 'Masculine' : 'Feminine' }}
+          <span v-if="data?.labels?.[category]" class="column-article-hint">({{ data.labels[category] }})</span>
         </div>
         <div class="allocated-tags-list">
           <span v-for="(noun, idx) in allocatedLists[category]" :key="idx" class="sorted-noun-tag">
@@ -44,7 +46,7 @@
         :disabled="unallocatedNouns.length > 0" 
         @click="evaluateSubmission"
       >
-        Verificar Resposta
+        Check answer
       </button>
     </div>
   </div>
@@ -113,8 +115,11 @@ const evaluateSubmission = () => {
   let isCorrect = true
   const mistakes = []
   const expectedMap = props.data?.truthMap || {}
+  // Name the array instead of starting a line with "[": without semicolons,
+  // JavaScript would glue that line onto the previous one ({}[...].forEach).
+  const categories = ['masculine', 'feminine']
 
-  ['masculine', 'feminine'].forEach(category => {
+  categories.forEach(category => {
     allocatedLists.value[category].forEach(noun => {
       if (expectedMap[noun] !== category) {
         isCorrect = false
@@ -123,7 +128,9 @@ const evaluateSubmission = () => {
     })
   })
 
-  emit('answered', { exerciseId: props.data.id, isCorrect, mistakes })
+  const nounsOf = (gender) => Object.keys(expectedMap).filter((n) => expectedMap[n] === gender).join(', ')
+  const correctAnswer = `Masculine: ${nounsOf('masculine')} · Feminine: ${nounsOf('feminine')}`
+  emit('answered', { exerciseId: props.data.id, isCorrect, mistakes, correctAnswer })
 }
 
 watch(() => props.data, initializeSortingDeck, { deep: true })

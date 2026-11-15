@@ -1,0 +1,352 @@
+[
+  {
+    "id": "br-2355",
+    "front": "É importante vocês chegarem cedo amanhã.",
+    "pronunciation": "EH eem-pohr-TAHN-chee voh-SEHS sheh-GAH-reng SEH-doo ah-mah-NYAH.",
+    "back": "It's important for you all to arrive early tomorrow.",
+    "context": "Personal (inflected) infinitive: the infinitive takes a person ending (chegar → chegarem) when it has its own subject. A feature unique to Portuguese."
+  },
+  {
+    "id": "br-2356",
+    "front": "Para fazermos isso, precisamos de mais tempo.",
+    "pronunciation": "PAH-rah fah-ZEHR-mooz EE-soo, preh-see-ZAH-mooz jee MAHYS TEHM-poo.",
+    "back": "For us to do this, we need more time.",
+    "context": "'Para fazermos' = for us to do. The ending -mos makes the subject explicit without 'que + subjunctive'."
+  },
+  {
+    "id": "br-2357",
+    "front": "Ao saírem, apaguem as luzes, por favor.",
+    "pronunciation": "ah-oo sah-EE-reng, ah-PAH-geng ahz LOO-zees, pohr fah-VOHR.",
+    "back": "When you leave, please turn off the lights.",
+    "context": "'Ao' + personal infinitive = when (doing). 'Saírem' keeps the accent to separate the vowels a-í."
+  },
+  {
+    "id": "br-2358",
+    "front": "O professor pediu para os alunos lerem o capítulo antes da aula.",
+    "pronunciation": "oo proh-feh-SOHR peh-JEE-oo PAH-rah ooz ah-LOO-noos LEH-reng oo kah-PEE-too-loo AHN-cheez dah OW-lah.",
+    "back": "The teacher asked the students to read the chapter before class.",
+    "context": "'Os alunos lerem': the infinitive agrees with its own subject. In formal writing, 'pediu que os alunos lessem' is also correct."
+  },
+  {
+    "id": "br-2359",
+    "front": "Apesar de estarmos cansados, terminamos o relatório.",
+    "pronunciation": "ah-peh-ZAHR jee ehs-TAHR-mooz kahn-SAH-doos, tehr-mee-NAH-mooz oo rreh-lah-TOH-ryoo.",
+    "back": "Despite being tired, we finished the report.",
+    "context": "'Apesar de' + personal infinitive. Compare 'apesar de que estávamos cansados', which is heavier."
+  },
+  {
+    "id": "br-2360",
+    "front": "Far-se-á o possível para atender a todos.",
+    "pronunciation": "FAHR-see-AH oo poh-SEE-vehl PAH-rah ah-tehn-DEHR ah TOH-doos.",
+    "back": "Everything possible will be done to serve everyone.",
+    "context": "Mesoclisis: the pronoun goes INSIDE the future verb (far-SE-á). It appears only in very formal writing and official speeches; in Brazilian speech you'd say 'vai se fazer'."
+  },
+  {
+    "id": "br-2361",
+    "front": "Dir-lhe-ei a verdade quando for a hora certa.",
+    "pronunciation": "JEER-lyee-AY ah vehr-DAH-jee KWAHN-doo FOHR ah OH-rah SEHR-tah.",
+    "back": "I shall tell you the truth when the time is right.",
+    "context": "Mesoclisis in the future: dir- + lhe + -ei. It sounds very literary today and often appears in jokes about pompous speech."
+  },
+  {
+    "id": "br-2362",
+    "front": "Ser-lhe-ia possível enviar os documentos ainda hoje?",
+    "pronunciation": "SEHR-lyee-EE-ah poh-SEE-vehl ehn-vee-AHR ooz doh-koo-MEHN-tooz ah-EEN-dah OH-zhee?",
+    "back": "Would it be possible for you to send the documents today?",
+    "context": "Mesoclisis in the conditional (ser-lhe-ia). Recognize it in formal letters; don't use it in conversation."
+  },
+  {
+    "id": "br-2363",
+    "front": "Me empresta a caneta?",
+    "pronunciation": "mee ehm-PREHS-tah ah kah-NEH-tah?",
+    "back": "Can you lend me your pen?",
+    "context": "Starting a sentence with a clitic pronoun ('me empresta') is completely natural in Brazil, though traditional grammar prefers 'Empresta-me'."
+  },
+  {
+    "id": "br-2364",
+    "front": "Não me diga que você esqueceu de novo!",
+    "pronunciation": "NOWNG mee JEE-gah keh voh-SEH ehs-keh-SEH-oo jee NOH-voo!",
+    "back": "Don't tell me you forgot again!",
+    "context": "After negative words (não, nunca, ninguém), the pronoun must come before the verb (proclisis): 'não me diga', never 'não diga-me'."
+  },
+  {
+    "id": "br-2365",
+    "front": "Quem te contou isso?",
+    "pronunciation": "KENG chee kohn-TOH EE-soo?",
+    "back": "Who told you that?",
+    "context": "Question words (quem, que, onde) also attract the pronoun before the verb."
+  },
+  {
+    "id": "br-2366",
+    "front": "Vou à Bahia nas férias, mas volto a Recife na semana seguinte.",
+    "pronunciation": "VOH AH bah-EE-ah nahs FEH-ryahs, mahs VOHL-too ah rreh-SEE-fee nah seh-MAH-nah seh-GEEN-chee.",
+    "back": "I'm going to Bahia on vacation, but going back to Recife the following week.",
+    "context": "Crase trick: 'Vou a, volto da, crase há; vou a, volto de, crase pra quê?' You come back DA Bahia (à) but DE Recife (a)."
+  },
+  {
+    "id": "br-2367",
+    "front": "Ela chegou às oito e saiu à meia-noite.",
+    "pronunciation": "EH-lah sheh-GOH AHZ OY-too ee sah-EE-oo AH MAY-ah-NOY-chee.",
+    "back": "She arrived at eight and left at midnight.",
+    "context": "Crase is used before clock times: 'às oito', 'à uma', 'à meia-noite' (a + as horas)."
+  },
+  {
+    "id": "br-2368",
+    "front": "Fizemos o trabalho a partir de zero.",
+    "pronunciation": "fee-ZEH-mooz oo trah-BAH-lyoo ah pahr-CHEER jee ZEH-roo.",
+    "back": "We did the work from scratch.",
+    "context": "No crase before verbs or masculine words: 'a partir', 'a pé', 'a prazo'."
+  },
+  {
+    "id": "br-2369",
+    "front": "Às vezes prefiro ficar em casa à noite.",
+    "pronunciation": "AHZ VEH-zees preh-FEE-roo fee-KAHR eng KAH-zah AH NOY-chee.",
+    "back": "Sometimes I prefer to stay home at night.",
+    "context": "Feminine adverbial phrases take crase: 'às vezes', 'à noite', 'à tarde', 'às pressas'. But 'em casa' (no article)."
+  },
+  {
+    "id": "br-2370",
+    "front": "Pedi um bife à milanesa e arroz à grega.",
+    "pronunciation": "peh-JEE oong BEE-fee AH mee-lah-NEH-zah ee ah-RROHZ AH GREH-gah.",
+    "back": "I ordered a breaded steak and Greek-style rice.",
+    "context": "'À' = 'à moda de' (in the style of), even before masculine words: 'bife à milanesa', 'arroz à grega'."
+  },
+  {
+    "id": "br-2371",
+    "front": "Entreguei o relatório àquele senhor de terno azul.",
+    "pronunciation": "ehn-treh-GAY oo rreh-lah-TOH-ryoo ah-KEH-lee see-NYOHR jee TEHR-noo ah-ZOOL.",
+    "back": "I handed the report to that gentleman in the blue suit.",
+    "context": "'Entregar a' + 'aquele' = 'àquele'. Crase can also fall on 'aquele/aquela/aquilo'."
+  },
+  {
+    "id": "br-2372",
+    "front": "Prefiro mil vezes o trabalho remoto ao presencial.",
+    "pronunciation": "preh-FEE-roo MEE-oo VEH-zeez oo trah-BAH-lyoo rreh-MOH-too ah-oo preh-zehn-SYOW.",
+    "back": "I much prefer remote work to working in the office.",
+    "context": "Formal 'regência': 'preferir X a Y'. 'Preferir X do que Y' is common in speech but considered wrong."
+  },
+  {
+    "id": "br-2373",
+    "front": "Assisti ao filme ontem, mas não gostei do final.",
+    "pronunciation": "ah-sees-CHEE ah-oo FEE-oo-mee ohn-TENG, mahz NOWNG gohs-TAY doo fee-NOW.",
+    "back": "I watched the film yesterday, but didn't like the ending.",
+    "context": "'Assistir' meaning 'to watch' formally requires 'a' (assistir AO filme). Without 'a', it means 'to assist': 'o médico assistiu o paciente'."
+  },
+  {
+    "id": "br-2374",
+    "front": "O projeto visa à redução das desigualdades.",
+    "pronunciation": "oo proh-ZHEH-too VEE-zah AH rreh-doo-SOWNG dahz jee-zee-gwahl-DAH-jees.",
+    "back": "The project aims at reducing inequality.",
+    "context": "'Visar' meaning 'to aim at' requires 'a', hence the crase. Without 'a' it means 'to sign off on' a document."
+  },
+  {
+    "id": "br-2375",
+    "front": "Essa decisão implica mudanças em toda a equipe.",
+    "pronunciation": "EH-sah deh-see-ZOWNG eem-PLEE-kah moo-DAHN-sahz eng TOH-dah ah eh-KEE-pee.",
+    "back": "This decision entails changes across the whole team.",
+    "context": "'Implicar' meaning 'to entail' takes a direct object: 'implica mudanças' (not 'implica em', though common in speech)."
+  },
+  {
+    "id": "br-2376",
+    "front": "Obedeça às regras e respeite os colegas.",
+    "pronunciation": "oh-beh-DEH-sah AHZ RREH-grahz ee rrehs-PAY-chee ooz koh-LEH-gahs.",
+    "back": "Follow the rules and respect your colleagues.",
+    "context": "'Obedecer a' takes 'a' (hence 'às regras'), while 'respeitar' takes a direct object."
+  },
+  {
+    "id": "br-2377",
+    "front": "Houve muitos problemas na implantação do sistema.",
+    "pronunciation": "OH-vee MOOY-tooz proh-BLEH-mahz nah eem-plahn-tah-SOWNG doo sees-TEH-mah.",
+    "back": "There were many problems implementing the system.",
+    "context": "'Haver' meaning 'there is/are' is impersonal and stays singular: 'houve problemas', never 'houveram'."
+  },
+  {
+    "id": "br-2378",
+    "front": "Faz dois anos que não vejo meus pais.",
+    "pronunciation": "FAHZ DOYZ AH-nooz keh NOWNG VEH-zhoo MEH-oos PAHYS.",
+    "back": "It's been two years since I've seen my parents.",
+    "context": "'Fazer' for elapsed time is also impersonal: 'faz dois anos', never 'fazem dois anos'."
+  },
+  {
+    "id": "br-2379",
+    "front": "Deve haver outras soluções para esse impasse.",
+    "pronunciation": "DEH-vee ah-VEHR OH-trahs soh-loo-SOYNGS PAH-rah EH-see eem-PAH-see.",
+    "back": "There must be other solutions to this deadlock.",
+    "context": "With an auxiliary, the impersonal stays singular too: 'deve haver', not 'devem haver'."
+  },
+  {
+    "id": "br-2380",
+    "front": "Ela mesma resolveu o problema, e eles mesmos admitiram o erro.",
+    "pronunciation": "EH-lah MEHZ-mah rreh-zohl-VEH-oo oo proh-BLEH-mah, ee EH-leez MEHZ-mooz ahj-mee-CHEE-rowng oo EH-rroo.",
+    "back": "She solved the problem herself, and they themselves admitted the mistake.",
+    "context": "'Mesmo' meaning '-self' agrees in gender and number: ela mesma, eles mesmos."
+  },
+  {
+    "id": "br-2381",
+    "front": "Ela ficou meio chateada com a notícia.",
+    "pronunciation": "EH-lah fee-KOH MAY-oo shah-chee-AH-dah kohng ah noh-CHEE-syah.",
+    "back": "She was a bit upset by the news.",
+    "context": "'Meio' as an adverb (= a bit) never changes: 'meio chateada' (not 'meia chateada'). But 'meia hora' (half an hour) agrees."
+  },
+  {
+    "id": "br-2382",
+    "front": "Seguem anexas as planilhas solicitadas.",
+    "pronunciation": "SEH-geng ah-NEHK-sahz ahs plah-NEE-lyahs soh-lee-see-TAH-dahs.",
+    "back": "Please find attached the requested spreadsheets.",
+    "context": "'Anexo' agrees with the noun (anexas as planilhas). Many prefer the invariable 'Seguem em anexo as planilhas'."
+  },
+  {
+    "id": "br-2383",
+    "front": "É proibido entrada de pessoas não autorizadas.",
+    "pronunciation": "EH proy-BEE-doo ehn-TRAH-dah jee peh-SOH-ahz NOWNG ow-toh-ree-ZAH-dahs.",
+    "back": "Entry of unauthorized persons is prohibited.",
+    "context": "With no article, 'é proibido' stays masculine. With an article it agrees: 'é proibida a entrada'."
+  },
+  {
+    "id": "br-2384",
+    "front": "Eles tinham bastantes motivos para desconfiar.",
+    "pronunciation": "EH-leez CHEE-nyowng bahs-TAHN-cheez moh-CHEE-vooz PAH-rah jehs-kohn-fee-AHR.",
+    "back": "They had plenty of reasons to be suspicious.",
+    "context": "'Bastante' as an adjective (= enough/plenty) agrees: 'bastantes motivos'. As an adverb it doesn't: 'são bastante inteligentes'."
+  },
+  {
+    "id": "br-2385",
+    "front": "Ele estava de mau humor, por isso respondeu mal.",
+    "pronunciation": "EH-lee ehs-TAH-vah jee MAH-oo oo-MOHR, pohr EE-soo rrehs-pohn-DEH-oo MAH-oo.",
+    "back": "He was in a bad mood, so he answered rudely.",
+    "context": "'Mau' (adjective, opposite of 'bom') vs 'mal' (adverb/noun, opposite of 'bem'). They sound identical in Brazil."
+  },
+  {
+    "id": "br-2386",
+    "front": "Daqui a dois meses, há de se lembrar do que eu disse.",
+    "pronunciation": "dah-KEE ah DOYZ MEH-zees, AH jee see lehm-BRAHR doo keh EH-oo JEE-see.",
+    "back": "Two months from now, you'll remember what I said.",
+    "context": "'Daqui a' (future, no 'h') vs 'há' (past: 'há dois meses'). 'Haver de' + infinitive = a firm or prophetic future."
+  },
+  {
+    "id": "br-2387",
+    "front": "Estudei bastante a fim de passar no concurso.",
+    "pronunciation": "ehs-too-DAY bahs-TAHN-chee ah FEENG jee pah-SAHR noo kohn-KOOR-soo.",
+    "back": "I studied hard in order to pass the civil service exam.",
+    "context": "'A fim de' = in order to. Don't confuse it with 'afim' (related). 'Concurso' = competitive public-sector exam."
+  },
+  {
+    "id": "br-2388",
+    "front": "Em vez de reclamar, apresente uma solução.",
+    "pronunciation": "eng VEHZ jee rreh-klah-MAHR, ah-preh-ZEHN-chee OO-mah soh-loo-SOWNG.",
+    "back": "Instead of complaining, come up with a solution.",
+    "context": "'Em vez de' = instead of (general). 'Ao invés de' strictly means 'contrary to': 'ao invés de subir, desceu'."
+  },
+  {
+    "id": "br-2389",
+    "front": "Se não chover no sábado, vamos à praia.",
+    "pronunciation": "see NOWNG shoh-VEHR noo SAH-bah-doo, VAH-mooz AH PRAHY-ah.",
+    "back": "If it doesn't rain on Saturday, we'll go to the beach.",
+    "context": "'Se não' (two words) = if not: the conditional 'se' plus the negation 'não'. Don't confuse it with 'senão' (one word) = otherwise/or else."
+  },
+  {
+    "id": "br-2390",
+    "front": "Corra, senão vamos perder o voo.",
+    "pronunciation": "KOH-rrah, seh-NOWNG VAH-mooz pehr-DEHR oo VOH-oo.",
+    "back": "Run, otherwise we'll miss the flight.",
+    "context": "'Senão' (one word) = otherwise/or else. Don't confuse it with 'se não' (two words) = if not: 'Se não correr, vamos perder o voo'."
+  },
+  {
+    "id": "br-2391",
+    "front": "Se eu soubesse, teria avisado você.",
+    "pronunciation": "see EH-oo soh-BEH-see, teh-REE-ah ah-vee-ZAH-doo voh-SEH.",
+    "back": "If I had known, I would have warned you.",
+    "context": "Imperfect subjunctive + compound conditional. In speech: 'Se eu soubesse, tinha te avisado'."
+  },
+  {
+    "id": "br-2392",
+    "front": "Quando você tiver tempo, me liga.",
+    "pronunciation": "KWAHN-doo voh-SEH chee-VEHR TEHM-poo, mee LEE-gah.",
+    "back": "When you have time, give me a call.",
+    "context": "Future subjunctive after 'quando' for future events. A typical learner mistake is saying 'quando você tem tempo'."
+  },
+  {
+    "id": "br-2393",
+    "front": "Ele já saíra quando a polícia chegou.",
+    "pronunciation": "EH-lee ZHAH sah-EE-rah KWAHN-doo ah poh-LEE-syah sheh-GOH.",
+    "back": "He had already left when the police arrived.",
+    "context": "Simple pluperfect (saíra) belongs to literary and journalistic writing; in speech, 'já tinha saído'."
+  },
+  {
+    "id": "br-2394",
+    "front": "Tomara que não chova no casamento!",
+    "pronunciation": "toh-MAH-rah keh NOWNG SHOH-vah noo kah-zah-MEHN-too!",
+    "back": "Let's hope it doesn't rain at the wedding!",
+    "context": "'Tomara' (hopefully) is the old simple pluperfect of 'tomar', frozen as an expression. Always followed by 'que' + subjunctive."
+  },
+  {
+    "id": "br-2395",
+    "front": "Quisera eu ter a sua disposição!",
+    "pronunciation": "kee-ZEH-rah EH-oo TEHR ah SOO-ah jees-poh-zee-SOWNG!",
+    "back": "I wish I had your energy!",
+    "context": "'Quisera eu' = I wish (literary pluperfect used as a wish). 'Disposição' = energy, willingness."
+  },
+  {
+    "id": "br-2396",
+    "front": "A maioria dos eleitores votou contra a proposta.",
+    "pronunciation": "ah mah-yoh-REE-ah dooz eh-lay-TOH-reez voh-TOH KOHN-trah ah proh-POHS-tah.",
+    "back": "Most voters voted against the proposal.",
+    "context": "With 'a maioria de', the verb can agree with 'maioria' (votou) or with the plural (votaram). Both are accepted."
+  },
+  {
+    "id": "br-2397",
+    "front": "Fui eu que paguei a conta, não ele.",
+    "pronunciation": "FOO-ee EH-oo keh pah-GAY ah KOHN-tah, NOWNG EH-lee.",
+    "back": "I was the one who paid the bill, not him.",
+    "context": "With 'que', the verb agrees with the pronoun: 'fui eu que paguei'. With 'quem', 'fui eu quem pagou' is also correct."
+  },
+  {
+    "id": "br-2398",
+    "front": "Tu vais à festa hoje? Lá no Sul se usa muito o tu.",
+    "pronunciation": "TOO VAHYZ AH FEHS-tah OH-zhee? LAH noo SOOL see OO-zah MOOY-too oo TOO.",
+    "back": "Are you going to the party today? Down South, people use 'tu' a lot.",
+    "context": "'Tu' with its own conjugation (vais) is heard in Porto Alegre and parts of the North and Northeast. In Rio and elsewhere, 'tu vai' (with the 'você' verb) is common in speech."
+  },
+  {
+    "id": "br-2399",
+    "front": "A gente vai sair mais tarde, você vem com a gente?",
+    "pronunciation": "ah ZHEHN-chee VAHY sah-EER MAHYS TAHR-jee, voh-SEH VENG kohng ah ZHEHN-chee?",
+    "back": "We're going out later, are you coming with us?",
+    "context": "'A gente' (= nós) takes the 3rd-person singular verb: 'a gente vai'. Saying 'a gente vamos' is stigmatized."
+  },
+  {
+    "id": "br-2400",
+    "front": "Nem sempre o mais óbvio é o mais correto.",
+    "pronunciation": "NENG SEHM-pree oo MAHYZ OHB-vyoo EH oo MAHYS koh-RREH-too.",
+    "back": "The most obvious answer isn't always the most correct.",
+    "context": "'O mais' + adjective as a noun. A good motto for grammar exams!"
+  },
+  {
+    "id": "br-2401",
+    "front": "Por que você não veio? Não sei por quê.",
+    "pronunciation": "pohr KEH voh-SEH NOWNG VAY-oo? NOWNG SAY pohr KEH.",
+    "back": "Why didn't you come? I don't know why.",
+    "context": "'Por que' (why, start or middle of a question) vs 'por quê' (with an accent at the end of a sentence)."
+  },
+  {
+    "id": "br-2402",
+    "front": "Não vim porque estava doente; esse foi o porquê da minha ausência.",
+    "pronunciation": "NOWNG VEENG POHR-keh ehs-TAH-vah doh-EHN-chee; EH-see FOY oo pohr-KEH dah MEE-nyah ow-ZEHN-syah.",
+    "back": "I didn't come because I was sick; that was the reason for my absence.",
+    "context": "'Porque' = because. 'O porquê' (noun, with an article) = the reason. Together with 'por que' and 'por quê', that's all four!"
+  },
+  {
+    "id": "br-2403",
+    "front": "Os dados foram analisados à exaustão.",
+    "pronunciation": "ooz DAH-dooz FOH-rowng ah-nah-lee-ZAH-dooz AH eh-zows-TOWNG.",
+    "back": "The data was analyzed exhaustively.",
+    "context": "'À exaustão' = exhaustively. Another adverbial phrase with a feminine noun and crase."
+  },
+  {
+    "id": "br-2404",
+    "front": "Haja paciência para tanta burocracia!",
+    "pronunciation": "AH-zhah pah-see-EHN-syah PAH-rah TAHN-tah boo-roh-krah-SEE-ah!",
+    "back": "Give me strength with all this bureaucracy!",
+    "context": "'Haja' (present subjunctive of 'haver') in exclamations = may there be… Brazilians use it to vent frustration."
+  }
+]

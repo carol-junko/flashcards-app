@@ -448,6 +448,13 @@
    7. INTERACTIVE DIALOGUE THREAD WORKSPACE
    ========================================================================== */
 
+/* Scene line above the chat, e.g. "Na padaria:" */
+.dialogue-context {
+  margin: 0 0 0.75rem;
+  font-weight: 600;
+  color: var(--text-muted, #64748b);
+}
+
 .dialogue-chat-thread {
   display: flex;
   flex-direction: column;
@@ -598,3 +605,33 @@
   font-size: 0.8rem;
   color: var(--text-muted, #64748b);
 }
+/* ==========================================================================
+   Feedback details + end-of-session summary (ExerciseDashboard)
+   ========================================================================== */
+.feedback-correct-answer strong { font-weight: 700; }
+.feedback-explanation { margin-top: 0.35rem; font-style: italic; }
+
+.exercise-summary { text-align: center; padding: 1rem 0; }
+.exercise-summary h3 { margin: 0.5rem 0; }
+.missed-list {
+  list-style: none;
+  padding: 0;
+  margin: 1rem auto;
+  max-width: 520px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+.missed-list li {
+  background: #fff7ed;
+  border: 1px solid #fed7aa;
+  border-radius: 10px;
+  padding: 0.75rem 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+.missed-instruction { font-size: 0.85rem; color: #64748b; }
+.session-meta-info { display: flex; align-items: center; gap: 1rem; }
+.column-article-hint { font-weight: 500; opacity: 0.75; margin-left: 0.25rem; }
