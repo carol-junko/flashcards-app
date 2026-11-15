@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-636",
+    "front": "Je finis, tu finis, il finit, nous finissons, vous finissez, ils finissent.",
+    "pronunciation": "[zhuh fee-NEE, tü fee-NEE, eel fee-NEE, noo fee-nee-SOHN, voo fee-nee-SAY, eel fee-NEES]",
+    "back": "I finish, you finish… they finish.",
+    "context": "Model of regular -IR verbs (2nd group): -iss- appears in the plural. Like choisir, réussir, grandir."
+  },
+  {
+    "id": "fr-637",
+    "front": "Je finis le travail à dix-sept heures.",
+    "pronunciation": "[zhuh fee-nee luh trah-VAHY ah dee-seh-TUHR]",
+    "back": "I finish work at 5 p.m.",
+    "context": "'Finir' (to finish) is the model of the second group."
+  },
+  {
+    "id": "fr-638",
+    "front": "Nous choisissons le menu du jour.",
+    "pronunciation": "[noo shwah-zee-SOHN luh muh-nü dü ZHOOR]",
+    "back": "We're choosing the menu of the day.",
+    "context": "'Choisir' = to choose: nous choisissons."
+  },
+  {
+    "id": "fr-639",
+    "front": "Les enfants grandissent vite !",
+    "pronunciation": "[lay zahn-fahn grahn-DEES VEET]",
+    "back": "Children grow up fast!",
+    "context": "'Grandir' = to grow up. Many -IR verbs come from adjectives: grand → grandir, rouge → rougir."
+  },
+  {
+    "id": "fr-640",
+    "front": "Tu réussis toujours tes examens.",
+    "pronunciation": "[tü ray-ü-SEE too-zhoor tay zeg-zah-MAN]",
+    "back": "You always pass your exams.",
+    "context": "'Réussir un examen' = to pass an exam. 'Passer un examen' = to TAKE an exam."
+  },
+  {
+    "id": "fr-641",
+    "front": "Je pars en vacances demain.",
+    "pronunciation": "[zhuh par ahn vah-KAHNS duh-MAN]",
+    "back": "I'm leaving on vacation tomorrow.",
+    "context": "'Partir' is NOT like finir: je pars, nous partons (no -iss-). Same pattern: sortir, dormir, sentir."
+  },
+  {
+    "id": "fr-642",
+    "front": "Nous sortons ce soir.",
+    "pronunciation": "[noo sor-TOHN suh SWAHR]",
+    "back": "We're going out tonight.",
+    "context": "'Sortir' = to go out: je sors, nous sortons."
+  },
+  {
+    "id": "fr-643",
+    "front": "Il dort encore.",
+    "pronunciation": "[eel dor ahn-KOR]",
+    "back": "He's still sleeping.",
+    "context": "'Dormir': je dors, tu dors, il dort, nous dormons."
+  },
+  {
+    "id": "fr-644",
+    "front": "Ça sent bon dans la cuisine !",
+    "pronunciation": "[sah sahn BOHN dahn lah kwee-ZEEN]",
+    "back": "It smells good in the kitchen!",
+    "context": "'Sentir' = to smell (and to feel). 'Se sentir bien' = to feel well."
+  },
+  {
+    "id": "fr-645",
+    "front": "Tu viens avec nous ?",
+    "pronunciation": "[tü vyan ah-vek NOO]",
+    "back": "Are you coming with us?",
+    "context": "'Venir': je viens, tu viens, il vient, nous venons, vous venez, ils viennent."
+  },
+  {
+    "id": "fr-646",
+    "front": "Ils viennent de Belgique.",
+    "pronunciation": "[eel vyen duh bel-ZHEEK]",
+    "back": "They come from Belgium.",
+    "context": "'Ils viennent' doubles the n. 'Venir de' + country."
+  },
+  {
+    "id": "fr-647",
+    "front": "Je viens de manger.",
+    "pronunciation": "[zhuh vyan duh mahn-ZHAY]",
+    "back": "I've just eaten.",
+    "context": "Passé récent: venir de + infinitive = to have just done something."
+  },
+  {
+    "id": "fr-648",
+    "front": "Je tiens à te remercier.",
+    "pronunciation": "[zhuh tyan ah tuh ruh-mehr-SYAY]",
+    "back": "I really want to thank you.",
+    "context": "'Tenir' (like venir): je tiens. 'Tenir à' = to really want to, to care about."
+  },
+  {
+    "id": "fr-649",
+    "front": "J'ouvre la fenêtre, il fait chaud.",
+    "pronunciation": "[ZHOO-vruh lah fuh-NEH-truh, eel feh SHOH]",
+    "back": "I'll open the window, it's hot.",
+    "context": "'Ouvrir' ends in -ir but conjugates like an -ER verb: j'ouvre, tu ouvres."
+  },
+  {
+    "id": "fr-650",
+    "front": "Je prends le bus tous les matins.",
+    "pronunciation": "[zhuh prahn luh BÜS too lay mah-TAN]",
+    "back": "I take the bus every morning.",
+    "context": "'Prendre': je prends, nous prenons, ils prennent (double n)."
+  },
+  {
+    "id": "fr-651",
+    "front": "Vous comprenez ?",
+    "pronunciation": "[voo kohm-pruh-NAY]",
+    "back": "Do you understand?",
+    "context": "Like prendre: comprendre, apprendre. 'Je comprends', 'ils comprennent'."
+  },
+  {
+    "id": "fr-652",
+    "front": "J'apprends le français en ligne.",
+    "pronunciation": "[zhah-PRAHN luh frahn-SEH ahn LEEN]",
+    "back": "I'm learning French online.",
+    "context": "'Apprendre' = to learn (also to teach: 'apprendre quelque chose à quelqu'un')."
+  },
+  {
+    "id": "fr-653",
+    "front": "J'attends le bus depuis vingt minutes.",
+    "pronunciation": "[zhah-TAHN luh BÜS duh-pwee van mee-NÜT]",
+    "back": "I've been waiting for the bus for twenty minutes.",
+    "context": "'Attendre' = to wait for (no 'pour'): j'attends le bus. Regular -RE: j'attends, nous attendons."
+  },
+  {
+    "id": "fr-654",
+    "front": "Tu entends ce bruit ?",
+    "pronunciation": "[tü ahn-TAHN suh BRWEE]",
+    "back": "Do you hear that noise?",
+    "context": "'Entendre' = to hear. Regular -RE verb like attendre, répondre, vendre."
+  },
+  {
+    "id": "fr-655",
+    "front": "Il répond toujours très vite à mes messages.",
+    "pronunciation": "[eel ray-POHN too-zhoor treh VEET ah may meh-SAHZH]",
+    "back": "He always replies to my messages very quickly.",
+    "context": "'Répondre à' = to answer, reply to. 'Il répond': the d is silent."
+  },
+  {
+    "id": "fr-656",
+    "front": "Ils vendent des légumes bio au marché.",
+    "pronunciation": "[eel VAHND day lay-güm BYOH oh mar-SHAY]",
+    "back": "They sell organic vegetables at the market.",
+    "context": "'Ils vendent': the d is pronounced in the plural."
+  },
+  {
+    "id": "fr-657",
+    "front": "Je perds toujours mes lunettes.",
+    "pronunciation": "[zhuh PEHR too-zhoor may lü-NET]",
+    "back": "I always lose my glasses.",
+    "context": "'Perdre' = to lose. Regular -RE."
+  },
+  {
+    "id": "fr-658",
+    "front": "Nous descendons à la prochaine station.",
+    "pronunciation": "[noo day-sahn-DOHN ah lah proh-shen stah-SYOHN]",
+    "back": "We're getting off at the next station.",
+    "context": "'Descendre' = to go down, get off. Regular -RE."
+  },
+  {
+    "id": "fr-659",
+    "front": "Je mets la table.",
+    "pronunciation": "[zhuh meh lah TAH-bluh]",
+    "back": "I'm setting the table.",
+    "context": "'Mettre' = to put: je mets, nous mettons. 'Mettre la table' = to set the table."
+  },
+  {
+    "id": "fr-660",
+    "front": "Qu'est-ce que tu mets pour la soirée ?",
+    "pronunciation": "[kehs-kuh tü meh poor lah swah-RAY]",
+    "back": "What are you wearing to the party?",
+    "context": "'Mettre' also means to put on (clothes)."
+  },
+  {
+    "id": "fr-661",
+    "front": "Je lis le journal le matin.",
+    "pronunciation": "[zhuh lee luh zhoor-NAL luh mah-TAN]",
+    "back": "I read the newspaper in the morning.",
+    "context": "'Lire': je lis, nous lisons, ils lisent."
+  },
+  {
+    "id": "fr-662",
+    "front": "Elle écrit un roman.",
+    "pronunciation": "[el ay-KREE an roh-MAHN]",
+    "back": "She's writing a novel.",
+    "context": "'Écrire': j'écris, nous écrivons, ils écrivent."
+  },
+  {
+    "id": "fr-663",
+    "front": "Qu'est-ce que tu dis ?",
+    "pronunciation": "[kehs-kuh tü DEE]",
+    "back": "What are you saying?",
+    "context": "'Dire': je dis, nous disons, but 'vous dites' (irregular, like 'vous faites')."
+  },
+  {
+    "id": "fr-664",
+    "front": "Je connais un bon restaurant près d'ici.",
+    "pronunciation": "[zhuh koh-neh an bohn res-toh-RAHN preh dee-SEE]",
+    "back": "I know a good restaurant near here.",
+    "context": "'Connaître' = to know (people, places). 'Savoir' = to know (facts, how to)."
+  },
+  {
+    "id": "fr-665",
+    "front": "Je sais nager, mais je ne connais pas cette plage.",
+    "pronunciation": "[zhuh seh nah-ZHAY, meh zhuh nuh koh-neh pah set PLAZH]",
+    "back": "I can swim, but I don't know this beach.",
+    "context": "'Savoir' + infinitive = to know how to. 'Connaître' + place or person."
+  },
+  {
+    "id": "fr-666",
+    "front": "Je peux t'aider ?",
+    "pronunciation": "[zhuh puh teh-DAY]",
+    "back": "Can I help you?",
+    "context": "'Pouvoir': je peux, nous pouvons, ils peuvent."
+  },
+  {
+    "id": "fr-667",
+    "front": "Tu veux venir dîner ?",
+    "pronunciation": "[tü vuh vuh-neer dee-NAY]",
+    "back": "Do you want to come for dinner?",
+    "context": "'Vouloir': je veux, nous voulons, ils veulent."
+  },
+  {
+    "id": "fr-668",
+    "front": "Je dois partir, désolé.",
+    "pronunciation": "[zhuh dwah par-TEER, day-zoh-LAY]",
+    "back": "I have to go, sorry.",
+    "context": "'Devoir': je dois, nous devons, ils doivent."
+  },
+  {
+    "id": "fr-669",
+    "front": "Je bois un verre avec des amis.",
+    "pronunciation": "[zhuh bwah an VEHR ah-vek day zah-MEE]",
+    "back": "I'm having a drink with friends.",
+    "context": "'Boire': je bois, nous buvons, ils boivent. 'Boire un verre' = to have a drink."
+  },
+  {
+    "id": "fr-670",
+    "front": "Je crois que tu as raison.",
+    "pronunciation": "[zhuh krwah kuh tü ah reh-ZOHN]",
+    "back": "I think you're right.",
+    "context": "'Croire' (to believe): je crois, nous croyons. 'Je crois que' = I think that."
+  }
+]

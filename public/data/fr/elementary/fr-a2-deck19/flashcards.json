@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-601",
+    "front": "Je parle, tu parles, il parle, nous parlons, vous parlez, ils parlent.",
+    "pronunciation": "[zhuh PARL, tü PARL, eel PARL, noo par-LOHN, voo par-LAY, eel PARL]",
+    "back": "I speak, you speak, he speaks, we speak, you speak, they speak.",
+    "context": "The model -ER verb. Four forms sound identical: parle, parles, parle, parlent."
+  },
+  {
+    "id": "fr-602",
+    "front": "Nous habitons à Nantes depuis deux ans.",
+    "pronunciation": "[noo zah-bee-TOHN ah NAHNT duh-pwee duh ZAHN]",
+    "back": "We've been living in Nantes for two years.",
+    "context": "Liaison: nous habitons [noo zah-bee-TOHN]."
+  },
+  {
+    "id": "fr-603",
+    "front": "Vous travaillez le samedi ?",
+    "pronunciation": "[voo trah-vah-YAY luh sahm-DEE]",
+    "back": "Do you work on Saturdays?",
+    "context": "'-ez' sounds like 'ay'."
+  },
+  {
+    "id": "fr-604",
+    "front": "Ils écoutent la radio dans la voiture.",
+    "pronunciation": "[eel zay-koot lah rah-DYOH dahn lah vwah-TÜR]",
+    "back": "They listen to the radio in the car.",
+    "context": "The -ent ending of verbs is always silent."
+  },
+  {
+    "id": "fr-605",
+    "front": "Tu cherches quelque chose ?",
+    "pronunciation": "[tü shersh kel-kuh SHOHZ]",
+    "back": "Are you looking for something?",
+    "context": "The -s of 'tu cherches' is silent."
+  },
+  {
+    "id": "fr-606",
+    "front": "Elle aime beaucoup danser.",
+    "pronunciation": "[el em boh-koo dahn-SAY]",
+    "back": "She really likes dancing.",
+    "context": "Verb + infinitive: aimer, adorer, détester, préférer + infinitive."
+  },
+  {
+    "id": "fr-607",
+    "front": "Nous mangeons à midi.",
+    "pronunciation": "[noo mahn-ZHOHN ah mee-DEE]",
+    "back": "We eat at noon.",
+    "context": "Spelling change: verbs in -ger keep an e before -ons to keep the soft g sound: mangeons, voyageons."
+  },
+  {
+    "id": "fr-608",
+    "front": "Nous commençons le cours à neuf heures.",
+    "pronunciation": "[noo koh-mahn-SOHN luh koor ah nuh-VUHR]",
+    "back": "We start the class at nine.",
+    "context": "Verbs in -cer take ç before -ons to keep the soft c: commençons, lançons."
+  },
+  {
+    "id": "fr-609",
+    "front": "Je m'appelle Julie, et mes parents s'appellent Marc et Anne.",
+    "pronunciation": "[zhuh mah-PEL zhü-LEE, ay may pah-rahn sah-PEL mark ay AN]",
+    "back": "My name is Julie, and my parents are called Marc and Anne.",
+    "context": "Appeler doubles the l when the ending is silent: j'appelle, ils appellent, but nous appelons."
+  },
+  {
+    "id": "fr-610",
+    "front": "Je jette les vieux papiers.",
+    "pronunciation": "[zhuh ZHET lay vyuh pah-PYAY]",
+    "back": "I throw away the old papers.",
+    "context": "Jeter doubles the t: je jette, but nous jetons."
+  },
+  {
+    "id": "fr-611",
+    "front": "J'achète du pain tous les jours.",
+    "pronunciation": "[zhah-SHET dü PAN too lay ZHOOR]",
+    "back": "I buy bread every day.",
+    "context": "Acheter takes an accent grave: j'achète, ils achètent, but nous achetons."
+  },
+  {
+    "id": "fr-612",
+    "front": "Je préfère le thé au café.",
+    "pronunciation": "[zhuh pray-FEHR luh tay oh kah-FAY]",
+    "back": "I prefer tea to coffee.",
+    "context": "Préférer: é → è in the singular and ils forms: je préfère, nous préférons."
+  },
+  {
+    "id": "fr-613",
+    "front": "Tu paies ou je paie ?",
+    "pronunciation": "[tü PEH oo zhuh PEH]",
+    "back": "Are you paying or am I?",
+    "context": "Payer can keep the y or change it to i: je paie / je paye. Both are correct."
+  },
+  {
+    "id": "fr-614",
+    "front": "J'envoie un message à ma sœur.",
+    "pronunciation": "[zhahn-VWAH an meh-SAHZH ah mah SUHR]",
+    "back": "I'm sending a message to my sister.",
+    "context": "-oyer verbs change y to i: j'envoie, nous envoyons."
+  },
+  {
+    "id": "fr-615",
+    "front": "Il étudie la médecine à Montpellier.",
+    "pronunciation": "[eel ay-tü-DEE lah mayd-SEEN ah mohn-puh-LYAY]",
+    "back": "He studies medicine in Montpellier.",
+    "context": "Étudier: the i stays: nous étudions, vous étudiez."
+  },
+  {
+    "id": "fr-616",
+    "front": "Vous visitez Paris pour la première fois ?",
+    "pronunciation": "[voo vee-zee-TAY pah-REE poor lah pruh-myehr FWAH]",
+    "back": "Is this your first time visiting Paris?",
+    "context": "'Visiter' is for places; to visit people use 'rendre visite à'."
+  },
+  {
+    "id": "fr-617",
+    "front": "On regarde un film ce soir ?",
+    "pronunciation": "[ohn ruh-GARD an FEELM suh SWAHR]",
+    "back": "Shall we watch a film tonight?",
+    "context": "'Regarder' = to watch/look at (no 'at' needed): regarder la télé."
+  },
+  {
+    "id": "fr-618",
+    "front": "Je rentre à la maison vers dix-neuf heures.",
+    "pronunciation": "[zhuh RAHN-truh ah lah meh-ZOHN vehr deez-nuh-VUHR]",
+    "back": "I get home around 7 p.m.",
+    "context": "'Rentrer' = to go back home; 'entrer' = to enter."
+  },
+  {
+    "id": "fr-619",
+    "front": "Ils arrivent demain matin.",
+    "pronunciation": "[eel zah-REEV duh-man mah-TAN]",
+    "back": "They arrive tomorrow morning.",
+    "context": "The present can express the near future, as in English."
+  },
+  {
+    "id": "fr-620",
+    "front": "Je ne fume pas.",
+    "pronunciation": "[zhuh nuh füm PAH]",
+    "back": "I don't smoke.",
+    "context": "Negation wraps the conjugated verb."
+  },
+  {
+    "id": "fr-621",
+    "front": "Tu joues de quel instrument ?",
+    "pronunciation": "[tü zhoo duh kel an-strü-MAHN]",
+    "back": "What instrument do you play?",
+    "context": "Jouer de + instrument; jouer à + game or sport."
+  },
+  {
+    "id": "fr-622",
+    "front": "Nous cherchons un appartement près du centre.",
+    "pronunciation": "[noo shehr-SHOHN an nah-par-tuh-MAHN preh dü SAHN-truh]",
+    "back": "We're looking for an apartment near the center.",
+    "context": "'Près de' + le = près du."
+  },
+  {
+    "id": "fr-623",
+    "front": "Elle oublie toujours ses clés.",
+    "pronunciation": "[el oo-BLEE too-zhoor say KLAY]",
+    "back": "She always forgets her keys.",
+    "context": "'Oublier' = to forget."
+  },
+  {
+    "id": "fr-624",
+    "front": "Vous parlez trop vite, je ne comprends pas.",
+    "pronunciation": "[voo par-lay troh VEET, zhuh nuh kohm-prahn PAH]",
+    "back": "You're speaking too fast, I don't understand.",
+    "context": "'Vite' = fast (adverb). Useful in any conversation!"
+  },
+  {
+    "id": "fr-625",
+    "front": "J'essaie d'apprendre dix mots par jour.",
+    "pronunciation": "[zheh-SEH dah-prahn-druh dee MOH par ZHOOR]",
+    "back": "I try to learn ten words a day.",
+    "context": "Essayer: j'essaie or j'essaye. 'Essayer de' + infinitive = to try to."
+  },
+  {
+    "id": "fr-626",
+    "front": "Tu te lèves à quelle heure ?",
+    "pronunciation": "[tü tuh LEV ah kel UHR]",
+    "back": "What time do you get up?",
+    "context": "Lever: e → è when the ending is silent (je me lève, nous nous levons)."
+  },
+  {
+    "id": "fr-627",
+    "front": "Nous espérons vous revoir bientôt.",
+    "pronunciation": "[noo zes-pay-ROHN voo ruh-vwahr byan-TOH]",
+    "back": "We hope to see you again soon.",
+    "context": "Espérer: j'espère but nous espérons. 'Espérer' + infinitive, no 'de'."
+  },
+  {
+    "id": "fr-628",
+    "front": "Ils aiment voyager en été.",
+    "pronunciation": "[eel zem vwah-yah-ZHAY ahn nay-TAY]",
+    "back": "They like traveling in summer.",
+    "context": "Liaison: ils aiment [eel ZEM]."
+  },
+  {
+    "id": "fr-629",
+    "front": "Qu'est-ce que tu penses de ce livre ?",
+    "pronunciation": "[kehs-kuh tü pahns duh suh LEE-vruh]",
+    "back": "What do you think of this book?",
+    "context": "'Penser de' = to have an opinion about; 'penser à' = to think about."
+  },
+  {
+    "id": "fr-630",
+    "front": "Je pense à toi.",
+    "pronunciation": "[zhuh pahns ah TWAH]",
+    "back": "I'm thinking of you.",
+    "context": "'Penser à quelqu'un' = to think about someone. A nice message to send."
+  },
+  {
+    "id": "fr-631",
+    "front": "Nous partageons un appartement avec deux amis.",
+    "pronunciation": "[noo par-tah-ZHOHN an nah-par-tuh-MAHN ah-vek duh zah-MEE]",
+    "back": "We share an apartment with two friends.",
+    "context": "-ger verb: partageons. 'Une colocation' (une coloc) = flat share."
+  },
+  {
+    "id": "fr-632",
+    "front": "Il pleure à la fin du film.",
+    "pronunciation": "[eel PLUHR ah lah fan dü FEELM]",
+    "back": "He cries at the end of the film.",
+    "context": "'Pleurer' (to cry) is regular. Don't confuse with 'il pleut' (it's raining)."
+  },
+  {
+    "id": "fr-633",
+    "front": "Vous fermez à quelle heure ?",
+    "pronunciation": "[voo fehr-may ah kel UHR]",
+    "back": "What time do you close?",
+    "context": "'Fermer' = to close; 'ouvrir' (to open) is NOT an -ER verb: j'ouvre, nous ouvrons."
+  },
+  {
+    "id": "fr-634",
+    "front": "Je gagne bien ma vie.",
+    "pronunciation": "[zhuh GAN-yuh byan mah VEE]",
+    "back": "I earn a good living.",
+    "context": "'Gagner' = to earn or to win. 'Gagner sa vie' = to earn one's living."
+  },
+  {
+    "id": "fr-635",
+    "front": "Tu m'aides à porter ce carton ?",
+    "pronunciation": "[tü MED ah por-tay suh kar-TOHN]",
+    "back": "Can you help me carry this box?",
+    "context": "'Aider quelqu'un à' + infinitive = to help someone do something."
+  }
+]
