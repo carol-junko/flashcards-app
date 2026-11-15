@@ -96,8 +96,7 @@
     "category": "Shopping & Money",
     "title": "Prices, Shops & Clothes",
     "description": "Ask for prices and sizes, shop at the market and talk about clothes.",
-    "cardCount": 35,
-    "comingSoon": true
+    "cardCount": 35
   },
   {
     "id": "fr-a2-deck12",
@@ -106,8 +105,7 @@
     "category": "Dining Out",
     "title": "Ordering at a Restaurant & Café",
     "description": "Book a table, order, ask for the bill and understand French dining etiquette.",
-    "cardCount": 35,
-    "comingSoon": true
+    "cardCount": 35
   },
   {
     "id": "fr-a2-deck13",
