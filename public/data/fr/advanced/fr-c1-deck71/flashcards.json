@@ -1,0 +1,352 @@
+[
+  {
+    "id": "fr-2656",
+    "front": "Bonjour madame, je voudrais une baguette pas trop cuite.",
+    "pronunciation": "[bohn-ZHOOR mah-DAM, zhuh voo-dreh zün bah-GET pah troh KWEET]",
+    "back": "Hello madam, I'd like a baguette that's not too well done.",
+    "context": "Always say 'bonjour' before anything else in a shop. Skipping it is considered rude."
+  },
+  {
+    "id": "fr-2657",
+    "front": "On se fait combien de bises ici ?",
+    "pronunciation": "[ohn suh feh kohm-byan duh BEEZ ee-SEE]",
+    "back": "How many kisses do people give here?",
+    "context": "Two in Paris, three around Montpellier, sometimes four in parts of the north. Even the French ask."
+  },
+  {
+    "id": "fr-2658",
+    "front": "Une tradition alsacienne ? Je ne connaissais pas.",
+    "pronunciation": "[ün trah-dee-SYOHN al-zah-SYEN ? zhuh nuh koh-neh-seh PAH]",
+    "back": "An Alsatian tradition? I didn't know about it.",
+    "context": "Regions are a source of pride. Showing curiosity about local customs is always appreciated."
+  },
+  {
+    "id": "fr-2659",
+    "front": "Merci pour l'invitation, j'apporte quelque chose ?",
+    "pronunciation": "[mehr-SEE poor lan-vee-tah-SYOHN, zhah-port kel-kuh SHOHZ]",
+    "back": "Thanks for the invitation, shall I bring something?",
+    "context": "Bring flowers, chocolates or wine. Don't be offended if your wine isn't opened: the host has planned the meal."
+  },
+  {
+    "id": "fr-2660",
+    "front": "Ne coupe pas le nez du fromage !",
+    "pronunciation": "[nuh koop pah luh nay dü froh-MAHZH]",
+    "back": "Don't cut the tip off the cheese!",
+    "context": "Cut wedges lengthwise so everyone gets some of the rind and some of the heart."
+  },
+  {
+    "id": "fr-2661",
+    "front": "On ne coupe pas la salade, on la plie.",
+    "pronunciation": "[ohn nuh koop pah lah sah-LAD, ohn lah PLEE]",
+    "back": "You don't cut the salad, you fold it.",
+    "context": "Old table etiquette: fold lettuce leaves with your fork and knife."
+  },
+  {
+    "id": "fr-2662",
+    "front": "Ne pose pas le pain à l'envers, ça porte malheur.",
+    "pronunciation": "[nuh pohz pah luh pan ah lahn-VEHR, sah port mah-LUHR]",
+    "back": "Don't put the bread upside down, it's bad luck.",
+    "context": "An old superstition, still respected in many families."
+  },
+  {
+    "id": "fr-2663",
+    "front": "On commence par l'apéro, puis on passe à table.",
+    "pronunciation": "[ohn koh-mahns par lah-pay-ROH, pwee ohn pas ah TAH-bluh]",
+    "back": "We start with drinks and nibbles, then sit down to eat.",
+    "context": "A dinner can last four hours: apéro, entrée, plat, fromage, dessert, café."
+  },
+  {
+    "id": "fr-2664",
+    "front": "Je n'en peux plus, c'était délicieux.",
+    "pronunciation": "[zhuh nahn puh PLÜ, say-teh day-lee-SYUH]",
+    "back": "I can't eat another bite, it was delicious.",
+    "context": "The polite way to refuse a second helping."
+  },
+  {
+    "id": "fr-2665",
+    "front": "Combien tu gagnes ? – Ça, on ne le demande pas.",
+    "pronunciation": "[kohm-byan tü GAN-yuh ? – SAH, ohn nuh luh duh-mahnd PAH]",
+    "back": "How much do you earn? – That's something you don't ask.",
+    "context": "Money is a taboo topic in France, even among friends."
+  },
+  {
+    "id": "fr-2666",
+    "front": "Tu votes pour qui ?",
+    "pronunciation": "[tü vot poor KEE]",
+    "back": "Who do you vote for?",
+    "context": "A question many French people consider private: 'le secret de l'isoloir'."
+  },
+  {
+    "id": "fr-2667",
+    "front": "Encore une grève ? Ça ne m'étonne pas.",
+    "pronunciation": "[ahn-kor ün GREV ? sah nuh may-tun PAH]",
+    "back": "Another strike? I'm not surprised.",
+    "context": "Strikes are part of French life, and so is complaining about them."
+  },
+  {
+    "id": "fr-2668",
+    "front": "Râler, c'est un sport national.",
+    "pronunciation": "[rah-LAY, seh tan spor nah-syoh-NAL]",
+    "back": "Grumbling is a national sport.",
+    "context": "'Râler' = to moan. Complaining is often a way to bond."
+  },
+  {
+    "id": "fr-2669",
+    "front": "C'était la croix et la bannière pour trouver une place.",
+    "pronunciation": "[say-teh lah krwah ay lah bah-NYEHR poor troo-vay ün PLAS]",
+    "back": "It was a real ordeal to find a parking space.",
+    "context": "'La croix et la bannière' (the cross and the banner) = a huge hassle."
+  },
+  {
+    "id": "fr-2670",
+    "front": "On a cherché toute la journée, mais on a fait chou blanc.",
+    "pronunciation": "[ohn nah shehr-SHAY toot lah zhoor-NAY, meh ohn nah feh shoo BLAHN]",
+    "back": "We searched all day but came up empty-handed.",
+    "context": "'Faire chou blanc' = to fail, draw a blank."
+  },
+  {
+    "id": "fr-2671",
+    "front": "Elle s'est mise sur son trente et un pour le mariage.",
+    "pronunciation": "[el seh meez sür sohn trahnt ay AN poor luh mah-RYAHZH]",
+    "back": "She got dressed to the nines for the wedding.",
+    "context": "'Se mettre sur son trente et un' = to dress up."
+  },
+  {
+    "id": "fr-2672",
+    "front": "Il y a anguille sous roche.",
+    "pronunciation": "[eel yah ahn-GEE soo ROSH]",
+    "back": "There's something fishy going on.",
+    "context": "Literally 'there's an eel under the rock'."
+  },
+  {
+    "id": "fr-2673",
+    "front": "Depuis qu'il a perdu son emploi, il tire le diable par la queue.",
+    "pronunciation": "[duh-pwee keel ah pehr-dü soh nahm-PLWAH, eel teer luh DYAH-bluh par lah KUH]",
+    "back": "Since he lost his job, he's been struggling to make ends meet.",
+    "context": "'Tirer le diable par la queue' (pull the devil by the tail) = to be broke."
+  },
+  {
+    "id": "fr-2674",
+    "front": "Il a eu son permis les doigts dans le nez.",
+    "pronunciation": "[ee lah ü sohn pehr-MEE lay dwah dahn luh NAY]",
+    "back": "He passed his driving test with no effort at all.",
+    "context": "'Les doigts dans le nez' (fingers up the nose) = easily."
+  },
+  {
+    "id": "fr-2675",
+    "front": "Vers seize heures, j'ai toujours un coup de barre.",
+    "pronunciation": "[vehr sez UHR, zhay too-zhoor an koo duh BAR]",
+    "back": "Around 4 p.m., I always hit a wall.",
+    "context": "'Un coup de barre' = sudden tiredness."
+  },
+  {
+    "id": "fr-2676",
+    "front": "Ne me raconte pas de bobards.",
+    "pronunciation": "[nuh muh rah-kohnt pah duh boh-BAR]",
+    "back": "Don't tell me fibs.",
+    "context": "'Un bobard' = a lie (informal)."
+  },
+  {
+    "id": "fr-2677",
+    "front": "J'ai le seum, on a perdu le match.",
+    "pronunciation": "[zhay luh SUM, ohn nah pehr-dü luh MATCH]",
+    "back": "I'm gutted, we lost the match.",
+    "context": "Youth slang from Arabic: 'avoir le seum' = to be bitter, frustrated."
+  },
+  {
+    "id": "fr-2678",
+    "front": "Ça me fait une belle jambe !",
+    "pronunciation": "[sah muh feh tün bel ZHAHMB]",
+    "back": "A fat lot of good that does me!",
+    "context": "Ironic: that's no use to me at all."
+  },
+  {
+    "id": "fr-2679",
+    "front": "Il avait un verre dans le nez.",
+    "pronunciation": "[ee lah-veh tan VEHR dahn luh NAY]",
+    "back": "He'd had one too many.",
+    "context": "A humorous euphemism for being tipsy."
+  },
+  {
+    "id": "fr-2680",
+    "front": "Je suis chocolat, le magasin est fermé.",
+    "pronunciation": "[zhuh swee shoh-koh-LAH, luh mah-gah-zan eh fehr-MAY]",
+    "back": "I'm out of luck, the shop is closed.",
+    "context": "'Être chocolat' = to be done for, disappointed."
+  },
+  {
+    "id": "fr-2681",
+    "front": "C'est dimanche, tout est fermé sauf la boulangerie.",
+    "pronunciation": "[seh dee-MAHNSH, too teh fehr-MAY sohf lah boo-lahnzh-REE]",
+    "back": "It's Sunday, everything's closed except the bakery.",
+    "context": "Many shops close on Sundays; some also close on Monday mornings."
+  },
+  {
+    "id": "fr-2682",
+    "front": "Ici, on ne dérange pas les gens entre midi et deux.",
+    "pronunciation": "[ee-SEE, ohn nuh day-rahnzh pah lay ZHAHN ahn-truh mee-DEE ay DUH]",
+    "back": "Here, you don't disturb people between noon and two.",
+    "context": "Lunchtime is sacred, especially in the provinces."
+  },
+  {
+    "id": "fr-2683",
+    "front": "Au restaurant, on ne parle pas trop fort.",
+    "pronunciation": "[oh res-toh-RAHN, ohn nuh parl pah troh FOR]",
+    "back": "In restaurants, people don't talk too loudly.",
+    "context": "Speaking loudly marks you as a tourist."
+  },
+  {
+    "id": "fr-2684",
+    "front": "L'addition, c'est à vous de la demander.",
+    "pronunciation": "[lah-dee-SYOHN, seh tah VOO duh lah duh-mahn-DAY]",
+    "back": "It's up to you to ask for the bill.",
+    "context": "Bringing it unasked would seem like rushing you out."
+  },
+  {
+    "id": "fr-2685",
+    "front": "Le service est compris, le pourboire est un geste.",
+    "pronunciation": "[luh sehr-vees eh kohm-PREE, luh poor-bwahr eh tan ZHEST]",
+    "back": "Service is included; a tip is a gesture.",
+    "context": "Leaving a few coins is appreciated, but 15–20% isn't expected."
+  },
+  {
+    "id": "fr-2686",
+    "front": "On peut avoir une carafe d'eau, s'il vous plaît ?",
+    "pronunciation": "[ohn puh tah-vwahr ün kah-raf DOH, seel voo PLEH]",
+    "back": "Could we have a jug of tap water, please?",
+    "context": "Restaurants must serve tap water free of charge."
+  },
+  {
+    "id": "fr-2687",
+    "front": "Au café, c'est moins cher au comptoir qu'en terrasse.",
+    "pronunciation": "[oh kah-FAY, seh mwan SHEHR oh kohn-TWAHR kahn teh-RAS]",
+    "back": "In a café, it's cheaper at the counter than on the terrace.",
+    "context": "Many cafés have different prices depending on where you drink."
+  },
+  {
+    "id": "fr-2688",
+    "front": "Un petit noir, s'il vous plaît.",
+    "pronunciation": "[an puh-tee NWAHR, seel voo PLEH]",
+    "back": "An espresso, please.",
+    "context": "'Un petit noir' / 'un express' = an espresso. Ordering a cappuccino after lunch raises eyebrows."
+  },
+  {
+    "id": "fr-2689",
+    "front": "Le samedi soir, on refait le monde autour d'une bouteille.",
+    "pronunciation": "[luh sahm-dee SWAHR, ohn ruh-feh luh MOHND oh-toor dün boo-TAY]",
+    "back": "On Saturday nights, we put the world to rights over a bottle.",
+    "context": "'Refaire le monde' = to have long political or philosophical discussions."
+  },
+  {
+    "id": "fr-2690",
+    "front": "Il faut toujours vouvoyer les beaux-parents au début.",
+    "pronunciation": "[eel foh too-zhoor voo-vwah-yay lay boh-pah-RAHN oh day-BÜ]",
+    "back": "You should always use 'vous' with your in-laws at first.",
+    "context": "Wait for them to suggest 'tu'. Some families keep 'vous' for life."
+  },
+  {
+    "id": "fr-2691",
+    "front": "Il vaut mieux attendre qu'on vous propose de se tutoyer.",
+    "pronunciation": "[eel voh myuh ah-tahn-druh kohn voo proh-pohz duh suh tü-twah-YAY]",
+    "back": "It's better to wait until you're offered 'tu'.",
+    "context": "At work, colleagues often use 'tu' quickly, but not always with the boss."
+  },
+  {
+    "id": "fr-2692",
+    "front": "Avant d'envoyer un mail formel, vérifiez la formule de politesse.",
+    "pronunciation": "[ah-vahn dahn-vwah-yay an mel for-MEL, vay-ree-fyay lah for-mül duh poh-lee-TES]",
+    "back": "Before sending a formal email, check the closing formula.",
+    "context": "'Bien cordialement' is the safe default at work."
+  },
+  {
+    "id": "fr-2693",
+    "front": "On est en août : Paris est vide.",
+    "pronunciation": "[ohn neh tahn NOOT : pah-REE eh VEED]",
+    "back": "It's August: Paris is empty.",
+    "context": "Many businesses close for 'les grandes vacances'."
+  },
+  {
+    "id": "fr-2694",
+    "front": "Cette année, le 8 mai tombe un jeudi : on fait le pont.",
+    "pronunciation": "[set ah-NAY, luh wee MEH tohmb an zhuh-DEE : ohn feh luh POHN]",
+    "back": "This year May 8 is a Thursday, so we're taking Friday off.",
+    "context": "May is full of public holidays: 1 May, 8 May, Ascension and sometimes Whit Monday."
+  },
+  {
+    "id": "fr-2695",
+    "front": "Les soldes commencent mercredi.",
+    "pronunciation": "[lay SOLD koh-mahns mehr-kruh-DEE]",
+    "back": "The sales start on Wednesday.",
+    "context": "Sale dates are fixed by law: in January and in summer."
+  },
+  {
+    "id": "fr-2696",
+    "front": "Il faut prendre un ticket et attendre son tour.",
+    "pronunciation": "[eel foh prahn-druh an tee-KEH ay ah-tahn-druh sohn TOOR]",
+    "back": "You have to take a ticket and wait your turn.",
+    "context": "Jumping the queue ('griller la file') is badly received."
+  },
+  {
+    "id": "fr-2697",
+    "front": "Je ne mange jamais de pain avec les pâtes.",
+    "pronunciation": "[zhuh nuh mahnzh zhah-meh duh PAN ah-vek lay PAHT]",
+    "back": "I never eat bread with pasta.",
+    "context": "Bread is eaten with almost everything else, placed directly on the tablecloth."
+  },
+  {
+    "id": "fr-2698",
+    "front": "On ne met pas de ketchup sur le steak tartare.",
+    "pronunciation": "[ohn nuh meh pah duh ket-SHUP sür luh stek tar-TAR]",
+    "back": "You don't put ketchup on steak tartare.",
+    "context": "French cooks can be very firm about how a dish should be eaten."
+  },
+  {
+    "id": "fr-2699",
+    "front": "Le pastis se boit avec de l'eau fraîche.",
+    "pronunciation": "[luh pas-TEES suh bwah ah-vek duh loh FRESH]",
+    "back": "Pastis is drunk with cold water.",
+    "context": "The aniseed aperitif of the south, about five parts water to one."
+  },
+  {
+    "id": "fr-2700",
+    "front": "S'il te taquine, c'est qu'il t'aime bien.",
+    "pronunciation": "[seel tuh tah-KEEN, seh keel tem BYAN]",
+    "back": "If he teases you, it means he likes you.",
+    "context": "Teasing is a form of affection. Being able to tease back is a sign of integration."
+  },
+  {
+    "id": "fr-2701",
+    "front": "Tu es devenu plus français que les Français !",
+    "pronunciation": "[tü eh duh-vuh-nü plü frahn-SEH kuh lay frahn-SEH]",
+    "back": "You've become more French than the French!",
+    "context": "The ultimate compliment for a newcomer."
+  },
+  {
+    "id": "fr-2702",
+    "front": "Je rêve en français maintenant.",
+    "pronunciation": "[zhuh rev ahn frahn-SEH mant-NAHN]",
+    "back": "I dream in French now.",
+    "context": "Many learners notice this as a milestone of fluency."
+  },
+  {
+    "id": "fr-2703",
+    "front": "Je ne comprends pas toutes les blagues, mais je ris quand même.",
+    "pronunciation": "[zhuh nuh kohm-prahn pah toot lay BLAG, meh zhuh ree kahn MEM]",
+    "back": "I don't get all the jokes, but I laugh anyway.",
+    "context": "Humor is the last frontier of a foreign language."
+  },
+  {
+    "id": "fr-2704",
+    "front": "Vous avez un léger accent, vous êtes d'où ?",
+    "pronunciation": "[voo zah-vay an lay-zhay ak-SAHN, voo zet DOO]",
+    "back": "You have a slight accent, where are you from?",
+    "context": "Usually a sign of interest, not criticism."
+  },
+  {
+    "id": "fr-2705",
+    "front": "Félicitations, vous parlez français comme un natif !",
+    "pronunciation": "[fay-lee-see-tah-SYOHN, voo par-lay frahn-SEH kum an nah-TEEF]",
+    "back": "Congratulations, you speak French like a native!",
+    "context": "You've completed the course. Bravo!"
+  }
+]

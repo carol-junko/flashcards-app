@@ -1,0 +1,317 @@
+[
+  {
+    "id": "fr-2126",
+    "front": "La dissertation suit un plan en trois parties : thèse, antithèse, synthèse.",
+    "pronunciation": "[lah dee-sehr-tah-SYOHN swee tan PLAHN ahn trwah par-TEE : TEZ, ahn-tee-TEZ, san-TEZ]",
+    "back": "The dissertation follows a three-part plan: thesis, antithesis, synthesis.",
+    "context": "The 'plan dialectique', drilled into every French lycée student."
+  },
+  {
+    "id": "fr-2127",
+    "front": "L'introduction comporte une accroche, une problématique et l'annonce du plan.",
+    "pronunciation": "[lan-troh-dük-SYOHN kohm-port ün nah-KROSH, ün proh-blay-mah-TEEK ay lah-nohns dü PLAHN]",
+    "back": "The introduction includes a hook, the central question and an outline of the plan.",
+    "context": "French academic writing announces its structure explicitly."
+  },
+  {
+    "id": "fr-2128",
+    "front": "Quelle est la problématique de votre mémoire ?",
+    "pronunciation": "[kel eh lah proh-blay-mah-TEEK duh voh-truh may-MWAHR]",
+    "back": "What is the research question of your thesis?",
+    "context": "'La problématique' = the central question. 'Un mémoire' (masc.) = a thesis; 'la mémoire' = memory."
+  },
+  {
+    "id": "fr-2129",
+    "front": "Dans un premier temps, nous analyserons les causes du phénomène.",
+    "pronunciation": "[dahn zan pruh-myay TAHN, noo zah-nah-lee-zuh-rohn lay kohz dü fay-noh-MEN]",
+    "back": "First, we will analyze the causes of the phenomenon.",
+    "context": "'Dans un premier temps… dans un second temps' structures a plan. Academic 'nous' = I."
+  },
+  {
+    "id": "fr-2130",
+    "front": "Dans un second temps, nous en examinerons les conséquences.",
+    "pronunciation": "[dahn zan suh-gohn TAHN, noo zahn eg-zah-mee-nuh-rohn lay kohn-say-KAHNS]",
+    "back": "Secondly, we will examine its consequences.",
+    "context": "Note 'second' is pronounced 'segond'."
+  },
+  {
+    "id": "fr-2131",
+    "front": "Il convient tout d'abord de définir les termes du sujet.",
+    "pronunciation": "[eel kohn-vyan too dah-BOR duh day-fee-neer lay tehrm dü sü-ZHEH]",
+    "back": "First of all, the terms of the question need to be defined.",
+    "context": "'Il convient de' = it is appropriate to (formal)."
+  },
+  {
+    "id": "fr-2132",
+    "front": "Il s'agit dès lors de se demander si la liberté est possible sans loi.",
+    "pronunciation": "[eel sah-zhee deh LOR duh suh duh-mahn-day see lah lee-behr-TAY eh poh-see-bluh sahn LWAH]",
+    "back": "The question then is whether freedom is possible without law.",
+    "context": "'Dès lors' = from then on, consequently."
+  },
+  {
+    "id": "fr-2133",
+    "front": "Cette hypothèse mérite d'être nuancée.",
+    "pronunciation": "[set ee-poh-TEZ may-reet deh-truh nü-ahn-SAY]",
+    "back": "This hypothesis deserves to be qualified.",
+    "context": "'Nuancer' = to qualify, add nuance. A key verb in French argument."
+  },
+  {
+    "id": "fr-2134",
+    "front": "Il convient toutefois de relativiser ces résultats.",
+    "pronunciation": "[eel kohn-vyan toot-FWAH duh ruh-lah-tee-vee-zay say ray-zül-TAH]",
+    "back": "These results should nevertheless be put into perspective.",
+    "context": "'Toutefois' = however, nevertheless."
+  },
+  {
+    "id": "fr-2135",
+    "front": "Or, cette affirmation ne résiste pas à l'analyse.",
+    "pronunciation": "[OR, set ah-feer-mah-SYOHN nuh ray-zeest pah ah lah-nah-LEEZ]",
+    "back": "Yet this claim doesn't stand up to analysis.",
+    "context": "'Or' introduces a new element that challenges what precedes. Not 'gold' here!"
+  },
+  {
+    "id": "fr-2136",
+    "front": "Ainsi, l'auteur dénonce les dérives de la société de consommation.",
+    "pronunciation": "[an-SEE, loh-tuhr day-nohns lay day-reev duh lah soh-syay-tay duh kohn-soh-mah-SYOHN]",
+    "back": "Thus the author denounces the excesses of consumer society.",
+    "context": "'Ainsi' at the start = thus. 'Les dérives' = excesses, drift."
+  },
+  {
+    "id": "fr-2137",
+    "front": "En effet, les chiffres confirment cette tendance.",
+    "pronunciation": "[ahn neh-FEH, lay SHEE-fruh kohn-feerm set tahn-DAHNS]",
+    "back": "Indeed, the figures confirm this trend.",
+    "context": "'En effet' justifies the previous statement. It doesn't mean 'in effect'."
+  },
+  {
+    "id": "fr-2138",
+    "front": "De surcroît, cette mesure coûterait cher.",
+    "pronunciation": "[duh sür-KRWAH, set muh-zür koo-tuh-reh SHEHR]",
+    "back": "Moreover, this measure would be costly.",
+    "context": "'De surcroît' = furthermore (formal). Also 'en outre', 'par ailleurs'."
+  },
+  {
+    "id": "fr-2139",
+    "front": "Par ailleurs, il faut tenir compte du contexte historique.",
+    "pronunciation": "[par ah-YUHR, eel foh tuh-neer kohnt dü kohn-tekst ees-toh-REEK]",
+    "back": "In addition, the historical context must be taken into account.",
+    "context": "'Par ailleurs' = moreover, in another respect."
+  },
+  {
+    "id": "fr-2140",
+    "front": "Néanmoins, cette position présente des limites.",
+    "pronunciation": "[nay-ahn-MWAN, set poh-zee-syohn pray-zahnt day lee-MEET]",
+    "back": "Nonetheless, this position has its limits.",
+    "context": "'Néanmoins' = nonetheless."
+  },
+  {
+    "id": "fr-2141",
+    "front": "Contrairement à une idée reçue, Napoléon n'était pas petit.",
+    "pronunciation": "[kohn-trehr-mahn ah ün nee-day ruh-SÜ, nah-poh-lay-OHN nay-teh pah puh-TEE]",
+    "back": "Contrary to popular belief, Napoleon wasn't short.",
+    "context": "'Une idée reçue' = a common misconception."
+  },
+  {
+    "id": "fr-2142",
+    "front": "Loin de condamner la science, Rousseau en critique les usages.",
+    "pronunciation": "[lwan duh kohn-dah-nay lah SYAHNS, roo-SOH ahn kree-teek lay zü-ZAHZH]",
+    "back": "Far from condemning science, Rousseau criticizes how it is used.",
+    "context": "'Loin de' + infinitive = far from."
+  },
+  {
+    "id": "fr-2143",
+    "front": "Autrement dit, le progrès n'est pas toujours synonyme de bonheur.",
+    "pronunciation": "[oh-truh-mahn DEE, luh proh-GREH neh pah too-zhoor see-noh-neem duh boh-NUHR]",
+    "back": "In other words, progress doesn't always mean happiness.",
+    "context": "'Autrement dit' = in other words."
+  },
+  {
+    "id": "fr-2144",
+    "front": "Comme le souligne Tocqueville, l'égalité peut menacer la liberté.",
+    "pronunciation": "[kum luh soo-LEE-nyuh tok-VEEL, lay-gah-lee-TAY puh muh-nah-say lah lee-behr-TAY]",
+    "back": "As Tocqueville points out, equality can threaten freedom.",
+    "context": "Introducing a quotation: comme le souligne / l'affirme / le rappelle…"
+  },
+  {
+    "id": "fr-2145",
+    "front": "Cette citation illustre parfaitement notre propos.",
+    "pronunciation": "[set see-tah-SYOHN ee-lüs-truh par-fet-MAHN noh-truh proh-POH]",
+    "back": "This quotation perfectly illustrates our point.",
+    "context": "'Le propos' = the point being made."
+  },
+  {
+    "id": "fr-2146",
+    "front": "En définitive, la question reste ouverte.",
+    "pronunciation": "[ahn day-fee-nee-TEEV, lah kes-tyohn rest oo-VEHRT]",
+    "back": "Ultimately, the question remains open.",
+    "context": "'En définitive' = in the final analysis."
+  },
+  {
+    "id": "fr-2147",
+    "front": "Au terme de cette analyse, nous pouvons conclure que…",
+    "pronunciation": "[oh TEHRM duh set ah-nah-LEEZ, noo poo-vohn kohn-klür kuh]",
+    "back": "At the end of this analysis, we can conclude that…",
+    "context": "Standard opening of a conclusion."
+  },
+  {
+    "id": "fr-2148",
+    "front": "La conclusion doit ouvrir sur une question plus large.",
+    "pronunciation": "[lah kohn-klü-ZYOHN dwah oo-vreer sür ün kes-tyohn plü LARZH]",
+    "back": "The conclusion should open onto a wider question.",
+    "context": "'L'ouverture' = the final opening, expected in French conclusions."
+  },
+  {
+    "id": "fr-2149",
+    "front": "Il faut éviter la paraphrase.",
+    "pronunciation": "[eel foh ay-vee-tay lah pah-rah-FRAHZ]",
+    "back": "You must avoid paraphrasing.",
+    "context": "A frequent teacher's comment in the margin: 'paraphrase !'"
+  },
+  {
+    "id": "fr-2150",
+    "front": "Votre argumentation manque de rigueur.",
+    "pronunciation": "[voh-truh ar-gü-mahn-tah-SYOHN mahnk duh ree-GUHR]",
+    "back": "Your argument lacks rigor.",
+    "context": "'La rigueur' is a core French academic value."
+  },
+  {
+    "id": "fr-2151",
+    "front": "Il faut citer vos sources en note de bas de page.",
+    "pronunciation": "[eel foh see-tay voh SOORS ahn not duh bah duh PAHZH]",
+    "back": "You must cite your sources in footnotes.",
+    "context": "'Une note de bas de page' = a footnote."
+  },
+  {
+    "id": "fr-2152",
+    "front": "Ce passage relève du plagiat.",
+    "pronunciation": "[suh pah-SAHZH ruh-lev dü plah-ZHYAH]",
+    "back": "This passage counts as plagiarism.",
+    "context": "'Relever de' = to fall within, be a matter of."
+  },
+  {
+    "id": "fr-2153",
+    "front": "Ma soutenance de thèse aura lieu en juin.",
+    "pronunciation": "[mah soot-NAHNS duh TEZ oh-rah lyuh ahn ZHWAN]",
+    "back": "My thesis defense will take place in June.",
+    "context": "'La soutenance' = the oral defense of a thesis."
+  },
+  {
+    "id": "fr-2154",
+    "front": "Le jury m'a posé des questions pointues.",
+    "pronunciation": "[luh zhü-REE mah poh-zay day kes-tyohn pwan-TÜ]",
+    "back": "The panel asked me very specialized questions.",
+    "context": "'Pointu' = sharp; here, highly specialized."
+  },
+  {
+    "id": "fr-2155",
+    "front": "J'ai obtenu la mention très bien.",
+    "pronunciation": "[zhay ob-tuh-nü lah mahn-syohn treh BYAN]",
+    "back": "I graduated with highest honors.",
+    "context": "Mentions: passable, assez bien, bien, très bien. 20/20 is almost never given."
+  },
+  {
+    "id": "fr-2156",
+    "front": "Mon exposé portera sur la laïcité.",
+    "pronunciation": "[mohn nek-spoh-ZAY por-tuh-rah sür lah lah-ee-see-TAY]",
+    "back": "My presentation will be about secularism.",
+    "context": "'Porter sur' = to be about. 'La laïcité' = French secularism, a classic topic."
+  },
+  {
+    "id": "fr-2157",
+    "front": "Je vais d'abord présenter le contexte, puis j'aborderai les enjeux.",
+    "pronunciation": "[zhuh veh dah-bor pray-zahn-tay luh kohn-TEKST, pwee zhah-bor-duh-reh lay zahn-ZHUH]",
+    "back": "I'll first present the context, then turn to the issues at stake.",
+    "context": "'Les enjeux' = what's at stake. 'Aborder' = to tackle a subject."
+  },
+  {
+    "id": "fr-2158",
+    "front": "Comme vous pouvez le constater sur cette diapositive…",
+    "pronunciation": "[kum voo poo-vay luh kohn-stah-TAY sür set dyah-poh-zee-TEEV]",
+    "back": "As you can see on this slide…",
+    "context": "'Une diapo' (informal) = a slide."
+  },
+  {
+    "id": "fr-2159",
+    "front": "Je passe maintenant la parole à ma collègue.",
+    "pronunciation": "[zhuh pas mant-nahn lah pah-ROL ah mah koh-LEG]",
+    "back": "I'll now hand over to my colleague.",
+    "context": "'Passer la parole' = to hand over the floor."
+  },
+  {
+    "id": "fr-2160",
+    "front": "J'en viens maintenant à mon deuxième point.",
+    "pronunciation": "[zhahn vyan mant-NAHN ah mohn duh-zyem PWAN]",
+    "back": "I now come to my second point.",
+    "context": "Transition phrase in oral presentations."
+  },
+  {
+    "id": "fr-2161",
+    "front": "Si vous me le permettez, j'aimerais revenir sur un point essentiel.",
+    "pronunciation": "[see voo muh luh pehr-meh-TAY, zheh-muh-reh ruh-vuh-neer sür an pwan eh-sahn-SYEL]",
+    "back": "If you'll allow me, I'd like to come back to an essential point.",
+    "context": "'Revenir sur' = to return to (a point)."
+  },
+  {
+    "id": "fr-2162",
+    "front": "Je vous remercie de votre attention.",
+    "pronunciation": "[zhuh voo ruh-mehr-SEE duh voh-trah-tahn-SYOHN]",
+    "back": "Thank you for your attention.",
+    "context": "The standard ending of a presentation."
+  },
+  {
+    "id": "fr-2163",
+    "front": "Avez-vous des questions ?",
+    "pronunciation": "[ah-vay-VOO day kes-TYOHN]",
+    "back": "Do you have any questions?",
+    "context": "Inviting questions after a talk."
+  },
+  {
+    "id": "fr-2164",
+    "front": "C'est une excellente question, merci de l'avoir posée.",
+    "pronunciation": "[seh tün nek-seh-lahnt kes-TYOHN, mehr-SEE duh lah-vwahr poh-ZAY]",
+    "back": "That's an excellent question, thank you for asking it.",
+    "context": "Past participle agreement: 'posée' agrees with 'l'' (= la question) placed before."
+  },
+  {
+    "id": "fr-2165",
+    "front": "Je ne suis pas spécialiste de la question, mais je peux vous orienter.",
+    "pronunciation": "[zhuh nuh swee pah spay-syah-leest duh lah kes-TYOHN, meh zhuh puh voo zoh-ryahn-TAY]",
+    "back": "I'm not a specialist on the matter, but I can point you in the right direction.",
+    "context": "An honest way to handle a question outside your field."
+  },
+  {
+    "id": "fr-2166",
+    "front": "Le grand oral du bac évalue la capacité à argumenter.",
+    "pronunciation": "[luh grahn toh-RAL dü BAK ay-vah-lü lah kah-pah-see-TAY ah ar-gü-mahn-TAY]",
+    "back": "The baccalaureate 'grand oral' assesses the ability to argue a case.",
+    "context": "A 20-minute oral exam introduced in 2021."
+  },
+  {
+    "id": "fr-2167",
+    "front": "Il a fait l'éloge de son ancien professeur.",
+    "pronunciation": "[ee lah feh lay-LOZH duh sohn nahn-syan proh-feh-SUHR]",
+    "back": "He paid tribute to his former teacher.",
+    "context": "'Faire l'éloge de' = to praise. 'Ancien' before the noun = former."
+  },
+  {
+    "id": "fr-2168",
+    "front": "Son discours était d'une clarté remarquable.",
+    "pronunciation": "[sohn dees-KOOR ay-teh dün klar-TAY ruh-mar-KAH-bluh]",
+    "back": "His speech was remarkably clear.",
+    "context": "'D'une… remarquable' is an elegant way to praise a quality."
+  },
+  {
+    "id": "fr-2169",
+    "front": "Ce que l'on conçoit bien s'énonce clairement.",
+    "pronunciation": "[suh kuh lohn kohn-swah BYAN say-nohns klehr-MAHN]",
+    "back": "What is well understood is clearly expressed.",
+    "context": "Boileau (1674). The rest: 'et les mots pour le dire arrivent aisément'."
+  },
+  {
+    "id": "fr-2170",
+    "front": "Le style, c'est l'homme même.",
+    "pronunciation": "[luh STEEL, seh lum MEM]",
+    "back": "Style is the man himself.",
+    "context": "Buffon (1753), often quoted about writing."
+  }
+]

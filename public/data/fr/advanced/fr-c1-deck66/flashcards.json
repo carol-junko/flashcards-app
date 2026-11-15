@@ -1,0 +1,317 @@
+[
+  {
+    "id": "fr-2451",
+    "front": "Elle est chercheuse au CNRS.",
+    "pronunciation": "[el eh shehr-SHUHZ oh say-en-ehr-ES]",
+    "back": "She's a researcher at the CNRS.",
+    "context": "The Centre national de la recherche scientifique is Europe's largest public research body."
+  },
+  {
+    "id": "fr-2452",
+    "front": "Pasteur a mis au point le vaccin contre la rage en 1885.",
+    "pronunciation": "[pas-TUHR ah mee zoh PWAN luh vak-SAN kohn-truh lah RAHZH ahn meel wee-sahn kah-truh-van-SANK]",
+    "back": "Pasteur developed the rabies vaccine in 1885.",
+    "context": "'Mettre au point' = to develop. The Institut Pasteur was founded in 1887."
+  },
+  {
+    "id": "fr-2453",
+    "front": "Marie Curie est la seule personne à avoir reçu deux prix Nobel scientifiques différents.",
+    "pronunciation": "[mah-ree kü-REE eh lah suhl pehr-sun ah ah-vwahr ruh-SÜ duh pree noh-BEL syahn-tee-FEEK dee-fay-RAHN]",
+    "back": "Marie Curie is the only person to have won Nobel Prizes in two different sciences.",
+    "context": "Physics in 1903, chemistry in 1911."
+  },
+  {
+    "id": "fr-2454",
+    "front": "Emmanuelle Charpentier a codécouvert les ciseaux génétiques.",
+    "pronunciation": "[ay-mah-nü-el shar-pahn-TYAY ah koh-day-koo-vehr lay see-zoh zhay-nay-TEEK]",
+    "back": "Emmanuelle Charpentier co-discovered the genetic scissors.",
+    "context": "CRISPR-Cas9: Nobel Prize in Chemistry 2020, shared with Jennifer Doudna."
+  },
+  {
+    "id": "fr-2455",
+    "front": "L'étude a été publiée dans une revue à comité de lecture.",
+    "pronunciation": "[lay-tüd ah ay-tay pü-blee-AY dahn zün ruh-vü ah koh-mee-tay duh lek-TÜR]",
+    "back": "The study was published in a peer-reviewed journal.",
+    "context": "'Une revue à comité de lecture' = peer-reviewed journal."
+  },
+  {
+    "id": "fr-2456",
+    "front": "L'essai clinique a été mené en double aveugle.",
+    "pronunciation": "[leh-say klee-NEEK ah ay-tay muh-nay ahn doo-blah-VUH-gluh]",
+    "back": "The clinical trial was double-blind.",
+    "context": "'Mener un essai' = to conduct a trial."
+  },
+  {
+    "id": "fr-2457",
+    "front": "Le groupe témoin a reçu un placebo.",
+    "pronunciation": "[luh groop tay-MWAN ah ruh-sü an plah-say-BOH]",
+    "back": "The control group received a placebo.",
+    "context": "'Un groupe témoin' = a control group."
+  },
+  {
+    "id": "fr-2458",
+    "front": "Ces résultats restent à confirmer.",
+    "pronunciation": "[say ray-zül-TAH rest tah kohn-feer-MAY]",
+    "back": "These results have yet to be confirmed.",
+    "context": "'Rester à' + infinitive = still to be done."
+  },
+  {
+    "id": "fr-2459",
+    "front": "L'échantillon n'est pas représentatif.",
+    "pronunciation": "[lay-shahn-tee-YOHN neh pah ruh-pray-zahn-tah-TEEF]",
+    "back": "The sample isn't representative.",
+    "context": "'Un échantillon' = a sample."
+  },
+  {
+    "id": "fr-2460",
+    "front": "Le patient doit donner son consentement éclairé.",
+    "pronunciation": "[luh pah-SYAHN dwah doh-nay sohn kohn-sahnt-mahn ay-kleh-RAY]",
+    "back": "The patient must give informed consent.",
+    "context": "'Éclairé' = enlightened, informed."
+  },
+  {
+    "id": "fr-2461",
+    "front": "Le Comité consultatif national d'éthique a rendu son avis.",
+    "pronunciation": "[luh koh-mee-tay kohn-sül-tah-teef nah-syoh-nal day-TEEK ah rahn-dü soh nah-VEE]",
+    "back": "The national ethics committee has delivered its opinion.",
+    "context": "The CCNE, created in 1983, was the world's first national bioethics committee."
+  },
+  {
+    "id": "fr-2462",
+    "front": "La PMA est ouverte à toutes les femmes depuis 2021.",
+    "pronunciation": "[lah pay-em-AH eh too-vehrt ah toot lay FAM duh-pwee duh-meel-van-tay-AN]",
+    "back": "Assisted reproduction has been open to all women since 2021.",
+    "context": "PMA = procréation médicalement assistée. Includes single women and lesbian couples."
+  },
+  {
+    "id": "fr-2463",
+    "front": "La gestation pour autrui reste interdite en France.",
+    "pronunciation": "[lah zhes-tah-SYOHN poor oh-TRWEE rest an-tehr-DEET ahn FRAHNS]",
+    "back": "Surrogacy remains banned in France.",
+    "context": "'La GPA'. A recurring bioethics debate."
+  },
+  {
+    "id": "fr-2464",
+    "front": "Le débat sur la fin de vie divise la société.",
+    "pronunciation": "[luh day-BAH sür lah fan duh VEE dee-veez lah soh-syay-TAY]",
+    "back": "The end-of-life debate divides society.",
+    "context": "Parliament has been debating an 'aide à mourir' (assisted dying) law."
+  },
+  {
+    "id": "fr-2465",
+    "front": "La loi autorise une sédation profonde et continue jusqu'au décès.",
+    "pronunciation": "[lah lwah oh-toh-reez ün say-dah-SYOHN proh-fohnd ay kohn-tee-NÜ zhüs-koh day-SEH]",
+    "back": "The law allows deep, continuous sedation until death.",
+    "context": "The Claeys-Leonetti law (2016), for terminally ill patients."
+  },
+  {
+    "id": "fr-2466",
+    "front": "En France, chacun est présumé donneur d'organes.",
+    "pronunciation": "[ahn FRAHNS, shah-kan eh pray-zü-may duh-nuhr dor-GAN]",
+    "back": "In France, everyone is presumed to be an organ donor.",
+    "context": "Unless you sign the national refusal register."
+  },
+  {
+    "id": "fr-2467",
+    "front": "Onze vaccins sont obligatoires pour les enfants nés depuis 2018.",
+    "pronunciation": "[ohnz vak-SAN sohn toh-blee-gah-TWAHR poor lay zahn-fahn nay duh-pwee duh-meel-dee-WEET]",
+    "back": "Eleven vaccines are compulsory for children born since 2018.",
+    "context": "Up from three before 2018."
+  },
+  {
+    "id": "fr-2468",
+    "front": "Le principe de précaution est inscrit dans la Constitution.",
+    "pronunciation": "[luh pran-seep duh pray-koh-SYOHN eh tan-skree dahn lah kohn-stee-tü-SYOHN]",
+    "back": "The precautionary principle is enshrined in the Constitution.",
+    "context": "Through the 2005 Environment Charter."
+  },
+  {
+    "id": "fr-2469",
+    "front": "Les OGM font l'objet d'un vif débat.",
+    "pronunciation": "[lay zoh-zhay-EM fohn lob-zheh dan veef day-BAH]",
+    "back": "GMOs are the subject of heated debate.",
+    "context": "OGM = organismes génétiquement modifiés. Growing them is banned in France."
+  },
+  {
+    "id": "fr-2470",
+    "front": "Les déserts médicaux se multiplient à la campagne.",
+    "pronunciation": "[lay day-zehr may-dee-KOH suh mül-tee-plee ah lah kahm-PAN-yuh]",
+    "back": "Medical deserts are spreading in rural areas.",
+    "context": "'Un désert médical' = an area with too few doctors."
+  },
+  {
+    "id": "fr-2471",
+    "front": "Il faut attendre six mois pour voir un ophtalmologue.",
+    "pronunciation": "[eel foh tah-tahn-druh see MWAH poor vwahr an nof-tal-moh-LOG]",
+    "back": "You have to wait six months to see an eye doctor.",
+    "context": "Long waits for specialists are a common complaint."
+  },
+  {
+    "id": "fr-2472",
+    "front": "Ce médecin pratique des dépassements d'honoraires.",
+    "pronunciation": "[suh mayd-SAN prah-teek day day-pas-mahn doh-noh-REHR]",
+    "back": "This doctor charges above the standard rate.",
+    "context": "'Secteur 2' doctors can charge more than the Sécu rate."
+  },
+  {
+    "id": "fr-2473",
+    "front": "Le trou de la Sécu se creuse chaque année.",
+    "pronunciation": "[luh troo duh lah say-KÜ suh kruhz shak ah-NAY]",
+    "back": "The Social Security deficit grows every year.",
+    "context": "'Le trou de la Sécu' = the health insurance deficit, a perennial news topic."
+  },
+  {
+    "id": "fr-2474",
+    "front": "Le pharmacien m'a proposé un générique.",
+    "pronunciation": "[luh far-mah-SYAN mah proh-poh-zay an zhay-nay-REEK]",
+    "back": "The pharmacist offered me a generic.",
+    "context": "Pharmacists substitute generics by default."
+  },
+  {
+    "id": "fr-2475",
+    "front": "Les antibiotiques, c'est pas automatique.",
+    "pronunciation": "[lay zahn-tee-byoh-TEEK, seh pah zoh-toh-mah-TEEK]",
+    "back": "Antibiotics aren't automatic.",
+    "context": "A famous 2002 public health campaign against antibiotic overuse."
+  },
+  {
+    "id": "fr-2476",
+    "front": "L'antibiorésistance est une menace majeure.",
+    "pronunciation": "[lahn-tee-byoh-ray-zees-TAHNS eh tün muh-nas mah-ZHUHR]",
+    "back": "Antibiotic resistance is a major threat.",
+    "context": "A long but logical compound word."
+  },
+  {
+    "id": "fr-2477",
+    "front": "L'automédication peut s'avérer dangereuse.",
+    "pronunciation": "[loh-toh-may-dee-kah-SYOHN puh sah-vay-ray dahnzh-RUHZ]",
+    "back": "Self-medication can prove dangerous.",
+    "context": "'S'avérer' = to turn out, prove to be."
+  },
+  {
+    "id": "fr-2478",
+    "front": "Depuis 2017, les paquets de cigarettes sont neutres.",
+    "pronunciation": "[duh-pwee duh-meel-dee-SET, lay pah-keh duh see-gah-RET sohn NUH-truh]",
+    "back": "Since 2017, cigarette packets have been plain.",
+    "context": "Plain packaging with large health warnings."
+  },
+  {
+    "id": "fr-2479",
+    "front": "Le Nutri-Score aide à choisir des aliments plus sains.",
+    "pronunciation": "[luh nü-tree-SKOR ed ah shwah-zeer day zah-lee-mahn plü SAN]",
+    "back": "The Nutri-Score helps you choose healthier food.",
+    "context": "A French-designed A–E label now used in several countries."
+  },
+  {
+    "id": "fr-2480",
+    "front": "L'espérance de vie dépasse quatre-vingt-cinq ans pour les femmes.",
+    "pronunciation": "[les-pay-rahns duh VEE day-pas kah-truh-van-SANK AHN poor lay FAM]",
+    "back": "Life expectancy exceeds 85 for women.",
+    "context": "About 80 for men: one of the widest gender gaps in Europe."
+  },
+  {
+    "id": "fr-2481",
+    "front": "Le vieillissement de la population pèse sur le système de santé.",
+    "pronunciation": "[luh vyeh-yees-mahn duh lah poh-pü-lah-SYOHN pez sür luh sees-tem duh sahn-TAY]",
+    "back": "The aging population is straining the health system.",
+    "context": "'Peser sur' = to weigh on."
+  },
+  {
+    "id": "fr-2482",
+    "front": "La santé mentale a été déclarée grande cause nationale.",
+    "pronunciation": "[lah sahn-tay mahn-TAL ah ay-tay day-klah-ray grahnd kohz nah-syoh-NAL]",
+    "back": "Mental health was declared a national cause.",
+    "context": "In 2025. A 'grande cause nationale' gets free public-service advertising."
+  },
+  {
+    "id": "fr-2483",
+    "front": "Les gestes barrières sont rentrés dans les mœurs.",
+    "pronunciation": "[lay zhest bah-RYEHR sohn rahn-tray dahn lay MUHRS]",
+    "back": "Protective habits have become second nature.",
+    "context": "'Les gestes barrières' (handwashing, masks, coughing into your elbow) date from Covid."
+  },
+  {
+    "id": "fr-2484",
+    "front": "Le premier confinement a commencé le 17 mars 2020.",
+    "pronunciation": "[luh pruh-myay kohn-feen-MAHN ah koh-mahn-SAY luh dee-SET mars duh-meel-van]",
+    "back": "The first lockdown began on March 17, 2020.",
+    "context": "'Le confinement' = lockdown; 'le déconfinement' = easing it."
+  },
+  {
+    "id": "fr-2485",
+    "front": "Un vaccin à ARN messager a été développé en moins d'un an.",
+    "pronunciation": "[an vak-SAN ah ah-ehr-EN meh-sah-ZHAY ah ay-tay dayv-loh-PAY ahn mwan dan NAHN]",
+    "back": "An mRNA vaccine was developed in less than a year.",
+    "context": "ARN = acide ribonucléique (RNA)."
+  },
+  {
+    "id": "fr-2486",
+    "front": "La recherche fondamentale manque de financements.",
+    "pronunciation": "[lah ruh-shersh fohn-dah-mahn-TAL mahnk duh fee-nahns-MAHN]",
+    "back": "Basic research lacks funding.",
+    "context": "France spends about 2.2% of GDP on research."
+  },
+  {
+    "id": "fr-2487",
+    "front": "Beaucoup de jeunes chercheurs partent à l'étranger.",
+    "pronunciation": "[boh-koo duh zhuhn shehr-SHUHR part ah lay-trahn-ZHAY]",
+    "back": "Many young researchers go abroad.",
+    "context": "'La fuite des cerveaux' = brain drain."
+  },
+  {
+    "id": "fr-2488",
+    "front": "Corrélation n'est pas causalité.",
+    "pronunciation": "[koh-ray-lah-SYOHN neh pah koh-zah-lee-TAY]",
+    "back": "Correlation is not causation.",
+    "context": "The golden rule of reading scientific news."
+  },
+  {
+    "id": "fr-2489",
+    "front": "Cette théorie n'a jamais été réfutée.",
+    "pronunciation": "[set tay-oh-REE nah zhah-meh ay-tay ray-fü-TAY]",
+    "back": "This theory has never been refuted.",
+    "context": "'Réfuter' = to disprove."
+  },
+  {
+    "id": "fr-2490",
+    "front": "L'intelligence artificielle aide déjà à détecter certains cancers.",
+    "pronunciation": "[lan-teh-lee-zhahns ar-tee-fee-SYEL ed day-ZHAH ah day-tek-tay sehr-tan kahn-SEH]",
+    "back": "AI already helps detect some cancers.",
+    "context": "Notably in reading mammograms and skin images."
+  },
+  {
+    "id": "fr-2491",
+    "front": "Le séquençage du génome coûte de moins en moins cher.",
+    "pronunciation": "[luh say-kahn-sahzh dü zhay-NOHM koot duh mwan zahn mwan SHEHR]",
+    "back": "Genome sequencing is getting cheaper and cheaper.",
+    "context": "'De moins en moins' = less and less."
+  },
+  {
+    "id": "fr-2492",
+    "front": "Les données de santé sont particulièrement sensibles.",
+    "pronunciation": "[lay doh-nay duh sahn-TAY sohn par-tee-kü-lyehr-mahn sahn-SEE-bluh]",
+    "back": "Health data is particularly sensitive.",
+    "context": "Protected by the GDPR, 'le RGPD' in French."
+  },
+  {
+    "id": "fr-2493",
+    "front": "Le serment d'Hippocrate engage le médecin à ne pas nuire.",
+    "pronunciation": "[luh sehr-mahn dee-poh-KRAT ahn-gahzh luh mayd-SAN ah nuh pah NWEER]",
+    "back": "The Hippocratic oath commits doctors to do no harm.",
+    "context": "'Nuire à' = to harm."
+  },
+  {
+    "id": "fr-2494",
+    "front": "Science sans conscience n'est que ruine de l'âme.",
+    "pronunciation": "[SYAHNS sahn kohn-SYAHNS neh kuh rü-een duh LAHM]",
+    "back": "Science without conscience is but the ruin of the soul.",
+    "context": "Rabelais, 'Pantagruel' (1532): the classic line on science and ethics."
+  },
+  {
+    "id": "fr-2495",
+    "front": "Mieux vaut prévenir que guérir.",
+    "pronunciation": "[myuh voh prayv-NEER kuh gay-REER]",
+    "back": "Prevention is better than cure.",
+    "context": "The motto of public health."
+  }
+]
