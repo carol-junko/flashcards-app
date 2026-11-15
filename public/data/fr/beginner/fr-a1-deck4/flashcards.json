@@ -1,0 +1,212 @@
+[
+  {
+    "id": "fr-116",
+    "front": "la mère / le père",
+    "pronunciation": "[lah MEHR / luh PEHR]",
+    "back": "mother / father",
+    "context": "Affectionate forms: maman, papa (used by adults too)."
+  },
+  {
+    "id": "fr-117",
+    "front": "les parents",
+    "pronunciation": "[lay pah-RAHN]",
+    "back": "parents (or relatives)",
+    "context": "'Parents' can mean both parents and relatives in general: 'des parents éloignés' = distant relatives."
+  },
+  {
+    "id": "fr-118",
+    "front": "le frère / la sœur",
+    "pronunciation": "[luh FREHR / lah SUHR]",
+    "back": "brother / sister",
+    "context": "'Œ' as in 'sœur' sounds like the vowel in 'fur'."
+  },
+  {
+    "id": "fr-119",
+    "front": "le fils / la fille",
+    "pronunciation": "[luh FEES / lah FEE]",
+    "back": "son / daughter",
+    "context": "In 'fils' the s is pronounced and the l is silent. 'La fille' also means girl."
+  },
+  {
+    "id": "fr-120",
+    "front": "le grand-père / la grand-mère",
+    "pronunciation": "[luh grahn-PEHR / lah grahn-MEHR]",
+    "back": "grandfather / grandmother",
+    "context": "Children say papi and mamie (or pépé, mémé)."
+  },
+  {
+    "id": "fr-121",
+    "front": "les grands-parents",
+    "pronunciation": "[lay grahn-pah-RAHN]",
+    "back": "grandparents",
+    "context": "Similarly: les petits-enfants (grandchildren)."
+  },
+  {
+    "id": "fr-122",
+    "front": "l'oncle / la tante",
+    "pronunciation": "[LOHN-kluh / lah TAHNT]",
+    "back": "uncle / aunt",
+    "context": "'Tata' and 'tonton' are the affectionate children's words."
+  },
+  {
+    "id": "fr-123",
+    "front": "le cousin / la cousine",
+    "pronunciation": "[luh koo-ZAN / lah koo-ZEEN]",
+    "back": "cousin (m/f)",
+    "context": "The feminine adds -e and the vowel changes: [an] → [een]."
+  },
+  {
+    "id": "fr-124",
+    "front": "le mari / la femme",
+    "pronunciation": "[luh mah-REE / lah FAM]",
+    "back": "husband / wife",
+    "context": "'Femme' means both woman and wife; pronounced [FAM], not [FEM]."
+  },
+  {
+    "id": "fr-125",
+    "front": "le copain / la copine",
+    "pronunciation": "[luh koh-PAN / lah koh-PEEN]",
+    "back": "boyfriend / girlfriend (or friend)",
+    "context": "With 'mon/ma', it usually means boyfriend/girlfriend; 'un copain' can just be a friend."
+  },
+  {
+    "id": "fr-126",
+    "front": "J'ai un frère et deux sœurs.",
+    "pronunciation": "[zhay an FREHR ay duh SUHR]",
+    "back": "I have one brother and two sisters.",
+    "context": "In 'deux sœurs' the x is silent before a consonant."
+  },
+  {
+    "id": "fr-127",
+    "front": "Je suis fils unique.",
+    "pronunciation": "[zhuh swee fees ü-NEEK]",
+    "back": "I'm an only child. (male)",
+    "context": "A woman says: 'Je suis fille unique'."
+  },
+  {
+    "id": "fr-128",
+    "front": "Ma sœur aînée habite à Marseille.",
+    "pronunciation": "[mah suhr eh-NAY ah-BEET ah mar-SAY]",
+    "back": "My older sister lives in Marseille.",
+    "context": "'Aîné(e)' = older/eldest; 'cadet(te)' = younger. Also: ma grande sœur, mon petit frère."
+  },
+  {
+    "id": "fr-129",
+    "front": "Comment s'appelle ton frère ?",
+    "pronunciation": "[koh-mahn sah-PEL tohn FREHR]",
+    "back": "What's your brother's name?",
+    "context": "'Ton' (your, informal) + masculine noun; 'ta' + feminine; 'tes' + plural."
+  },
+  {
+    "id": "fr-130",
+    "front": "Ma mère et son mari sont très gentils.",
+    "pronunciation": "[mah mehr ay sohn mah-REE sohn treh zhahn-TEE]",
+    "back": "My mother and her husband are very kind.",
+    "context": "'Son mari' = her husband: son/sa agree with the noun owned, not the owner."
+  },
+  {
+    "id": "fr-131",
+    "front": "la maison / l'appartement",
+    "pronunciation": "[lah meh-ZOHN / lah-par-tuh-MAHN]",
+    "back": "house / apartment",
+    "context": "'À la maison' also means at home."
+  },
+  {
+    "id": "fr-132",
+    "front": "la cuisine",
+    "pronunciation": "[lah kwee-ZEEN]",
+    "back": "kitchen (also cooking)",
+    "context": "'Faire la cuisine' = to cook."
+  },
+  {
+    "id": "fr-133",
+    "front": "la salle de bain",
+    "pronunciation": "[lah sal duh BAN]",
+    "back": "bathroom",
+    "context": "In France the toilet ('les toilettes', 'les WC') is often in a separate room."
+  },
+  {
+    "id": "fr-134",
+    "front": "la chambre",
+    "pronunciation": "[lah SHAHM-bruh]",
+    "back": "bedroom",
+    "context": "Not 'chamber'! 'Une chambre double' = a double room in a hotel."
+  },
+  {
+    "id": "fr-135",
+    "front": "le salon / la salle de séjour",
+    "pronunciation": "[luh sah-LOHN / lah sal duh say-ZHOOR]",
+    "back": "living room",
+    "context": "Also 'le séjour'. 'La salle à manger' = dining room."
+  },
+  {
+    "id": "fr-136",
+    "front": "le jardin",
+    "pronunciation": "[luh zhar-DAN]",
+    "back": "garden / yard",
+    "context": "'Le balcon' = balcony; 'la terrasse' = terrace."
+  },
+  {
+    "id": "fr-137",
+    "front": "L'appartement a trois pièces.",
+    "pronunciation": "[lah-par-tuh-MAHN ah trwah PYES]",
+    "back": "The apartment has three rooms.",
+    "context": "French listings count 'pièces' (rooms, excluding kitchen and bathroom): a T3 or F3 has a living room and two bedrooms."
+  },
+  {
+    "id": "fr-138",
+    "front": "J'habite au troisième étage.",
+    "pronunciation": "[zhah-BEET oh trwah-ZYEM ay-TAZH]",
+    "back": "I live on the third floor.",
+    "context": "In France, the ground floor is 'le rez-de-chaussée', so 'premier étage' is one floor up."
+  },
+  {
+    "id": "fr-139",
+    "front": "Il y a un canapé dans le salon.",
+    "pronunciation": "[eel yah an kah-nah-PAY dahn luh sah-LOHN]",
+    "back": "There's a sofa in the living room.",
+    "context": "'Il y a' = there is / there are, for singular and plural alike."
+  },
+  {
+    "id": "fr-140",
+    "front": "Le lit est dans la chambre.",
+    "pronunciation": "[luh lee eh dahn lah SHAHM-bruh]",
+    "back": "The bed is in the bedroom.",
+    "context": "'Le lit' (bed), 'l'armoire' (wardrobe), 'le bureau' (desk), 'la lampe' (lamp)."
+  },
+  {
+    "id": "fr-141",
+    "front": "La table est dans la salle à manger.",
+    "pronunciation": "[lah TAH-bluh eh dahn lah sal ah mahn-ZHAY]",
+    "back": "The table is in the dining room.",
+    "context": "'Les chaises' = chairs. Many French apartments combine living and dining room."
+  },
+  {
+    "id": "fr-142",
+    "front": "Je vis avec ma famille.",
+    "pronunciation": "[zhuh vee ah-vek mah fah-MEE]",
+    "back": "I live with my family.",
+    "context": "'Vivre' (to live) is irregular: je vis, tu vis, il vit, nous vivons."
+  },
+  {
+    "id": "fr-143",
+    "front": "Nous sommes une famille nombreuse.",
+    "pronunciation": "[noo sum ün fah-MEE nohm-BRUHZ]",
+    "back": "We're a big family.",
+    "context": "'Famille nombreuse' = large family (officially three or more children in France)."
+  },
+  {
+    "id": "fr-144",
+    "front": "Mes parents sont divorcés.",
+    "pronunciation": "[may pah-RAHN sohn dee-vor-SAY]",
+    "back": "My parents are divorced.",
+    "context": "'Une famille recomposée' = a blended family: beau-père (stepfather), belle-mère (stepmother)."
+  },
+  {
+    "id": "fr-145",
+    "front": "Viens, je te fais visiter l'appartement.",
+    "pronunciation": "[VYAN, zhuh tuh feh vee-zee-TAY lah-par-tuh-MAHN]",
+    "back": "Come, I'll show you around the apartment.",
+    "context": "'Faire visiter' = to show someone around. A typical welcome when a guest arrives."
+  }
+]

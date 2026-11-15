@@ -15,8 +15,7 @@
     "category": "Numbers & Time",
     "title": "Numbers, Days & Months",
     "description": "Count from 0 to 1,000, tell the time and talk about days, months and dates.",
-    "cardCount": 50,
-    "comingSoon": true
+    "cardCount": 50
   },
   {
     "id": "fr-a1-deck3",
@@ -25,8 +24,7 @@
     "category": "Personal Info",
     "title": "All About Me",
     "description": "Introduce yourself: name, age, nationality, profession and where you live.",
-    "cardCount": 30,
-    "comingSoon": true
+    "cardCount": 30
   },
   {
     "id": "fr-a1-deck4",
@@ -35,8 +33,7 @@
     "category": "Family & Home",
     "title": "Family Members & Rooms",
     "description": "Talk about your immediate family and the rooms and furniture of a home.",
-    "cardCount": 30,
-    "comingSoon": true
+    "cardCount": 30
   },
   {
     "id": "fr-a1-deck5",

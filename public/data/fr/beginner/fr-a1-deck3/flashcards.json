@@ -1,0 +1,212 @@
+[
+  {
+    "id": "fr-086",
+    "front": "Je m'appelle Lucas.",
+    "pronunciation": "[zhuh mah-PEL lü-KAH]",
+    "back": "My name is Lucas.",
+    "context": "'S'appeler' doubles the l when stressed: je m'appelle, but nous nous appelons."
+  },
+  {
+    "id": "fr-087",
+    "front": "Mon prénom, c'est Marie, et mon nom de famille, c'est Dubois.",
+    "pronunciation": "[mohn pray-NOHN, seh mah-REE, ay mohn nohn duh fah-MEE, seh dü-BWAH]",
+    "back": "My first name is Marie, and my last name is Dubois.",
+    "context": "'Prénom' = first name; 'nom (de famille)' = surname. Forms often ask for 'NOM' in capitals."
+  },
+  {
+    "id": "fr-088",
+    "front": "J'ai vingt-huit ans.",
+    "pronunciation": "[zhay vant-wee TAHN]",
+    "back": "I'm twenty-eight years old.",
+    "context": "Age uses avoir (to have), not être: j'ai 28 ans. Never drop 'ans'."
+  },
+  {
+    "id": "fr-089",
+    "front": "Quel âge avez-vous ?",
+    "pronunciation": "[kel AHZH ah-vay-VOO]",
+    "back": "How old are you?",
+    "context": "Formal. With friends: 'Tu as quel âge ?'"
+  },
+  {
+    "id": "fr-090",
+    "front": "Je suis brésilienne.",
+    "pronunciation": "[zhuh swee bray-zee-LYEN]",
+    "back": "I'm Brazilian. (female)",
+    "context": "Nationalities agree: brésilien (m), brésilienne (f). No capital letter when used as an adjective."
+  },
+  {
+    "id": "fr-091",
+    "front": "Il est américain, et elle est canadienne.",
+    "pronunciation": "[eel eh tah-may-ree-KAN, ay el eh kah-nah-DYEN]",
+    "back": "He's American, and she's Canadian.",
+    "context": "Many nationalities add -e or double the n in the feminine: américain/américaine, canadien/canadienne."
+  },
+  {
+    "id": "fr-092",
+    "front": "Je viens du Brésil.",
+    "pronunciation": "[zhuh vyan dü bray-ZEEL]",
+    "back": "I come from Brazil.",
+    "context": "'Venir de' + country: du Brésil (masc.), de France (fem.), des États-Unis (plural)."
+  },
+  {
+    "id": "fr-093",
+    "front": "J'habite à Lyon, en France.",
+    "pronunciation": "[zhah-BEET ah lee-OHN, ahn FRAHNS]",
+    "back": "I live in Lyon, in France.",
+    "context": "Cities take 'à'; feminine countries take 'en'; masculine countries take 'au': au Canada, au Brésil."
+  },
+  {
+    "id": "fr-094",
+    "front": "Je suis professeur de mathématiques.",
+    "pronunciation": "[zhuh swee proh-feh-SUHR duh mah-tay-mah-TEEK]",
+    "back": "I'm a math teacher.",
+    "context": "No article before professions after être: je suis médecin, je suis ingénieur."
+  },
+  {
+    "id": "fr-095",
+    "front": "Qu'est-ce que vous faites dans la vie ?",
+    "pronunciation": "[kehs-kuh voo FET dahn lah VEE]",
+    "back": "What do you do for a living?",
+    "context": "The natural way to ask about someone's job. Informal: 'Tu fais quoi dans la vie ?'"
+  },
+  {
+    "id": "fr-096",
+    "front": "Je travaille dans une banque.",
+    "pronunciation": "[zhuh trah-VYE dahn zün BAHNK]",
+    "back": "I work in a bank.",
+    "context": "'Travailler dans' + a place or sector: dans le commerce, dans l'informatique."
+  },
+  {
+    "id": "fr-097",
+    "front": "Je suis étudiant en droit.",
+    "pronunciation": "[zhuh swee zay-tü-DYAHN ahn DRWAH]",
+    "back": "I'm a law student.",
+    "context": "'Étudiant en' + subject. A woman: étudiante."
+  },
+  {
+    "id": "fr-098",
+    "front": "Je parle anglais, portugais et un peu de français.",
+    "pronunciation": "[zhuh parl ahn-GLEH, por-tü-GEH ay an puh duh frahn-SEH]",
+    "back": "I speak English, Portuguese and a little French.",
+    "context": "'Un peu de' = a little. Languages are masculine and lowercase."
+  },
+  {
+    "id": "fr-099",
+    "front": "Je suis marié et j'ai deux enfants.",
+    "pronunciation": "[zhuh swee mah-RYAY ay zhay duh zahn-FAHN]",
+    "back": "I'm married and I have two children.",
+    "context": "Other options: célibataire (single), divorcé(e), en couple (in a relationship)."
+  },
+  {
+    "id": "fr-100",
+    "front": "Mon adresse e-mail est marie point dubois arobase gmail point com.",
+    "pronunciation": "[mohn nah-DRES ee-MEL eh mah-REE pwan dü-BWAH ah-roh-BAZ zhee-MEL pwan KOM]",
+    "back": "My email is marie.dubois@gmail.com.",
+    "context": "'Arobase' = @, 'point' = dot, 'tiret' = hyphen, 'tiret du bas' = underscore."
+  },
+  {
+    "id": "fr-101",
+    "front": "Mon numéro de téléphone, c'est le zéro six, douze, trente-quatre, cinquante-six, soixante-dix-huit.",
+    "pronunciation": "[mohn nü-may-ROH duh tay-lay-FUN, seh luh zay-roh SEES, dooz, trahnt-KAT, san-kahnt-SEES, swah-sahnt-dee-ZWEET]",
+    "back": "My phone number is 06 12 34 56 78.",
+    "context": "French phone numbers are read in pairs. Mobile numbers start with 06 or 07."
+  },
+  {
+    "id": "fr-102",
+    "front": "Comment ça s'écrit ?",
+    "pronunciation": "[koh-mahn sah say-KREE]",
+    "back": "How do you spell that?",
+    "context": "Useful at any front desk. Then spell with the French alphabet."
+  },
+  {
+    "id": "fr-103",
+    "front": "Ça s'écrit D-U-B-O-I-S.",
+    "pronunciation": "[sah say-KREE day ü bay oh ee ES]",
+    "back": "It's spelled D-U-B-O-I-S.",
+    "context": "Tricky letters: e [uh], i [ee], u [ü], g [zhay], j [zhee], w [doo-bluh-VAY]."
+  },
+  {
+    "id": "fr-104",
+    "front": "J'aime lire, cuisiner et voyager.",
+    "pronunciation": "[zhem LEER, kwee-zee-NAY ay vwah-yah-ZHAY]",
+    "back": "I like reading, cooking and traveling.",
+    "context": "After 'aimer', use the infinitive: j'aime lire (I like to read)."
+  },
+  {
+    "id": "fr-105",
+    "front": "Je n'aime pas le sport.",
+    "pronunciation": "[zhuh nem pah luh SPOR]",
+    "back": "I don't like sports.",
+    "context": "With aimer, adorer and détester, use the definite article: j'aime LE café, je déteste LA pluie."
+  },
+  {
+    "id": "fr-106",
+    "front": "Je suis plutôt timide, mais très curieux.",
+    "pronunciation": "[zhuh swee plü-TOH tee-MEED, meh treh kü-RYUH]",
+    "back": "I'm rather shy, but very curious.",
+    "context": "'Plutôt' = rather. Feminine: curieuse."
+  },
+  {
+    "id": "fr-107",
+    "front": "Je suis grand, brun et j'ai les yeux verts.",
+    "pronunciation": "[zhuh swee GRAHN, BRAN ay zhay lay ZYUH VEHR]",
+    "back": "I'm tall, dark-haired and I have green eyes.",
+    "context": "'Les yeux' (eyes) is pronounced [lay ZYUH]. 'Brun' = dark-haired; 'blond', 'roux' (red-haired)."
+  },
+  {
+    "id": "fr-108",
+    "front": "Je porte des lunettes.",
+    "pronunciation": "[zhuh port day lü-NET]",
+    "back": "I wear glasses.",
+    "context": "'Lunettes' is always plural. 'Porter' = to wear."
+  },
+  {
+    "id": "fr-109",
+    "front": "Je suis né à Recife, au Brésil.",
+    "pronunciation": "[zhuh swee nay ah ruh-SEEF, oh bray-ZEEL]",
+    "back": "I was born in Recife, in Brazil.",
+    "context": "'Naître' uses être in the past: je suis né(e)."
+  },
+  {
+    "id": "fr-110",
+    "front": "Ça fait trois ans que j'habite ici.",
+    "pronunciation": "[sah feh trwah ZAHN kuh zhah-BEET ee-SEE]",
+    "back": "I've been living here for three years.",
+    "context": "'Ça fait + time + que' + present = for (something still going on). Also: 'J'habite ici depuis trois ans'."
+  },
+  {
+    "id": "fr-111",
+    "front": "Enchanté, moi c'est Paul.",
+    "pronunciation": "[ahn-shahn-TAY, mwah seh POL]",
+    "back": "Nice to meet you, I'm Paul.",
+    "context": "'Moi, c'est…' is a relaxed way to introduce yourself."
+  },
+  {
+    "id": "fr-112",
+    "front": "Je vous présente ma collègue, Sophie.",
+    "pronunciation": "[zhuh voo pray-ZAHNT mah koh-LEG, soh-FEE]",
+    "back": "Let me introduce my colleague, Sophie.",
+    "context": "'Présenter quelqu'un à quelqu'un' = to introduce someone to someone."
+  },
+  {
+    "id": "fr-113",
+    "front": "Tu es d'où ?",
+    "pronunciation": "[tü eh DOO]",
+    "back": "Where are you from?",
+    "context": "Casual. Formal: 'Vous venez d'où ?' or 'D'où venez-vous ?'"
+  },
+  {
+    "id": "fr-114",
+    "front": "Je suis en France pour mes études.",
+    "pronunciation": "[zhuh swee ahn FRAHNS poor may zay-TÜD]",
+    "back": "I'm in France for my studies.",
+    "context": "'Pour' + noun = for, explaining the reason for your stay."
+  },
+  {
+    "id": "fr-115",
+    "front": "Mon rêve, c'est de vivre à Paris.",
+    "pronunciation": "[mohn REV, seh duh VEE-vruh ah pah-REE]",
+    "back": "My dream is to live in Paris.",
+    "context": "'Mon rêve, c'est de' + infinitive: a natural way to talk about goals."
+  }
+]
