@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-966",
+    "front": "Je suis vraiment heureux pour toi.",
+    "pronunciation": "[zhuh swee vreh-mahn uh-RUH poor TWAH]",
+    "back": "I'm really happy for you.",
+    "context": "'Heureux / heureuse' = happy (deeper than 'content')."
+  },
+  {
+    "id": "fr-967",
+    "front": "Elle est déçue par les résultats.",
+    "pronunciation": "[el eh day-SÜ par lay ray-zül-TAH]",
+    "back": "She's disappointed with the results.",
+    "context": "False friend: 'déçu' = disappointed, not 'deceived' (which is 'trompé')."
+  },
+  {
+    "id": "fr-968",
+    "front": "Je suis inquiet pour mon père.",
+    "pronunciation": "[zhuh swee zan-KYEH poor mohn PEHR]",
+    "back": "I'm worried about my father.",
+    "context": "'Inquiet / inquiète' = worried. 'S'inquiéter pour' = to worry about."
+  },
+  {
+    "id": "fr-969",
+    "front": "Ça m'énerve quand il est en retard.",
+    "pronunciation": "[sah may-NEHRV kahn tee leh tahn ruh-TAR]",
+    "back": "It annoys me when he's late.",
+    "context": "'Énerver' = to annoy, irritate (not 'to make nervous')."
+  },
+  {
+    "id": "fr-970",
+    "front": "Il s'est mis en colère.",
+    "pronunciation": "[eel seh mee zahn koh-LEHR]",
+    "back": "He got angry.",
+    "context": "'Se mettre en colère' = to get angry. 'Être en colère' = to be angry."
+  },
+  {
+    "id": "fr-971",
+    "front": "J'ai le trac avant chaque examen.",
+    "pronunciation": "[zhay luh TRAK ah-vahn shak eg-zah-MAN]",
+    "back": "I get stage fright before every exam.",
+    "context": "'Avoir le trac' = to have stage fright, pre-performance nerves."
+  },
+  {
+    "id": "fr-972",
+    "front": "Je suis stressée par le déménagement.",
+    "pronunciation": "[zhuh swee streh-SAY par luh day-may-nahzh-MAHN]",
+    "back": "I'm stressed out by the move.",
+    "context": "'Le déménagement' = moving house."
+  },
+  {
+    "id": "fr-973",
+    "front": "Il a l'air triste aujourd'hui.",
+    "pronunciation": "[ee lah lehr TREEST oh-zhoor-DWEE]",
+    "back": "He looks sad today.",
+    "context": "'Avoir l'air' + adjective = to look/seem."
+  },
+  {
+    "id": "fr-974",
+    "front": "Elle était ravie de nous voir.",
+    "pronunciation": "[el ay-teh rah-VEE duh noo VWAHR]",
+    "back": "She was delighted to see us.",
+    "context": "'Ravi(e) de' + infinitive = delighted to."
+  },
+  {
+    "id": "fr-975",
+    "front": "Je suis fier de toi !",
+    "pronunciation": "[zhuh swee FYEHR duh TWAH]",
+    "back": "I'm proud of you!",
+    "context": "'Fier / fière de' = proud of."
+  },
+  {
+    "id": "fr-976",
+    "front": "J'ai honte de ce que j'ai dit.",
+    "pronunciation": "[zhay OHNT duh suh kuh zhay DEE]",
+    "back": "I'm ashamed of what I said.",
+    "context": "'Avoir honte de' = to be ashamed of. The h is aspirated: no liaison."
+  },
+  {
+    "id": "fr-977",
+    "front": "Ne sois pas jaloux.",
+    "pronunciation": "[nuh swah pah zhah-LOO]",
+    "back": "Don't be jealous.",
+    "context": "'Jaloux / jalouse' = jealous. 'Envieux' = envious."
+  },
+  {
+    "id": "fr-978",
+    "front": "Je me sens seul depuis que je suis arrivé.",
+    "pronunciation": "[zhuh muh sahn SUHL duh-pwee kuh zhuh swee zah-ree-VAY]",
+    "back": "I've felt lonely since I arrived.",
+    "context": "'Se sentir seul(e)' = to feel lonely."
+  },
+  {
+    "id": "fr-979",
+    "front": "J'en ai marre de ce temps pourri.",
+    "pronunciation": "[zhahn nay MAR duh suh tahn poo-REE]",
+    "back": "I'm fed up with this lousy weather.",
+    "context": "'En avoir marre de' = to be fed up with (informal)."
+  },
+  {
+    "id": "fr-980",
+    "front": "J'ai peur de ne pas y arriver.",
+    "pronunciation": "[zhay PUHR duh nuh pah zee ah-ree-VAY]",
+    "back": "I'm afraid I won't manage.",
+    "context": "'Avoir peur de' + infinitive. 'Y arriver' = to manage."
+  },
+  {
+    "id": "fr-981",
+    "front": "Ça me rend triste de voir ça.",
+    "pronunciation": "[sah muh rahn TREEST duh vwahr SAH]",
+    "back": "It makes me sad to see that.",
+    "context": "'Rendre' + adjective = to make (someone) feel."
+  },
+  {
+    "id": "fr-982",
+    "front": "Il est de bonne humeur ce matin.",
+    "pronunciation": "[ee leh duh bun ü-MUHR suh mah-TAN]",
+    "back": "He's in a good mood this morning.",
+    "context": "'Être de bonne / mauvaise humeur'."
+  },
+  {
+    "id": "fr-983",
+    "front": "Je suis soulagé que tout se soit bien passé.",
+    "pronunciation": "[zhuh swee soo-lah-ZHAY kuh too suh swah byan pah-SAY]",
+    "back": "I'm relieved everything went well.",
+    "context": "Emotion + que + subjunctive: 'que tout se soit bien passé' (past subjunctive)."
+  },
+  {
+    "id": "fr-984",
+    "front": "Je suis content que tu sois là.",
+    "pronunciation": "[zhuh swee kohn-tahn kuh tü swah LAH]",
+    "back": "I'm glad you're here.",
+    "context": "Feelings + que + subjunctive: 'que tu sois' (from être)."
+  },
+  {
+    "id": "fr-985",
+    "front": "Ça m'a beaucoup touché.",
+    "pronunciation": "[sah mah boh-koo too-SHAY]",
+    "back": "It really touched me.",
+    "context": "'Toucher' = to move emotionally."
+  },
+  {
+    "id": "fr-986",
+    "front": "Elle a fondu en larmes.",
+    "pronunciation": "[el ah fohn-DÜ ahn LARM]",
+    "back": "She burst into tears.",
+    "context": "'Fondre en larmes' (to melt into tears) = to burst into tears."
+  },
+  {
+    "id": "fr-987",
+    "front": "J'étais mort de rire !",
+    "pronunciation": "[zhay-teh mor duh REER]",
+    "back": "I was dying of laughter!",
+    "context": "'Mort de rire' = laughing your head off. Online: 'MDR' (like LOL)."
+  },
+  {
+    "id": "fr-988",
+    "front": "Calme-toi, ce n'est pas si grave.",
+    "pronunciation": "[kal-muh-TWAH, suh neh pah see GRAV]",
+    "back": "Calm down, it's not that bad.",
+    "context": "Reflexive imperative: calme-toi."
+  },
+  {
+    "id": "fr-989",
+    "front": "Il ne montre jamais ses émotions.",
+    "pronunciation": "[eel nuh mohn-truh zhah-meh say zay-moh-SYOHN]",
+    "back": "He never shows his emotions.",
+    "context": "'Montrer' = to show."
+  },
+  {
+    "id": "fr-990",
+    "front": "J'ai le moral à zéro.",
+    "pronunciation": "[zhay luh moh-RAL ah zay-ROH]",
+    "back": "I'm feeling really down.",
+    "context": "'Avoir le moral' = to be in good spirits; 'à zéro' = very low."
+  },
+  {
+    "id": "fr-991",
+    "front": "Ça me fait plaisir de t'entendre.",
+    "pronunciation": "[sah muh feh pleh-ZEER duh tahn-TAHN-druh]",
+    "back": "It's nice to hear from you.",
+    "context": "'Ça me fait plaisir' = it makes me happy, I'm glad."
+  },
+  {
+    "id": "fr-992",
+    "front": "Je suis surpris par sa réaction.",
+    "pronunciation": "[zhuh swee sür-PREE par sah ray-ak-SYOHN]",
+    "back": "I'm surprised by his reaction.",
+    "context": "'Surpris(e) par / de'."
+  },
+  {
+    "id": "fr-993",
+    "front": "Elle a eu un coup de foudre pour Paris.",
+    "pronunciation": "[el ah ü an koo duh FOO-druh poor pah-REE]",
+    "back": "She fell in love with Paris at first sight.",
+    "context": "'Un coup de foudre' (lightning bolt) = love at first sight, for people or places."
+  },
+  {
+    "id": "fr-994",
+    "front": "Je me suis senti mal à l'aise pendant le dîner.",
+    "pronunciation": "[zhuh muh swee sahn-TEE mahl ah LEZ pahn-dahn luh dee-NAY]",
+    "back": "I felt uncomfortable during the dinner.",
+    "context": "'Être / se sentir mal à l'aise' = to feel uncomfortable. 'À l'aise' = at ease."
+  },
+  {
+    "id": "fr-995",
+    "front": "Tu as l'air épuisé, tout va bien ?",
+    "pronunciation": "[tü ah lehr ay-pwee-ZAY, too vah BYAN]",
+    "back": "You look exhausted, is everything OK?",
+    "context": "'Épuisé' = exhausted."
+  },
+  {
+    "id": "fr-996",
+    "front": "Il est d'un naturel optimiste.",
+    "pronunciation": "[ee leh dan nah-tü-rel op-tee-MEEST]",
+    "back": "He's an optimist by nature.",
+    "context": "'D'un naturel' + adjective = by nature."
+  },
+  {
+    "id": "fr-997",
+    "front": "Je ne supporte pas l'injustice.",
+    "pronunciation": "[zhuh nuh sü-port pah lan-zhüs-TEES]",
+    "back": "I can't stand injustice.",
+    "context": "False friend: 'supporter' = to tolerate, bear (to support = 'soutenir')."
+  },
+  {
+    "id": "fr-998",
+    "front": "Merci de me soutenir dans ces moments difficiles.",
+    "pronunciation": "[mehr-SEE duh muh soot-NEER dahn say moh-mahn dee-fee-SEEL]",
+    "back": "Thank you for supporting me in these difficult times.",
+    "context": "'Soutenir' = to support."
+  },
+  {
+    "id": "fr-999",
+    "front": "Ça me manque de ne plus te voir.",
+    "pronunciation": "[sah muh MAHNK duh nuh plü tuh VWAHR]",
+    "back": "I miss seeing you.",
+    "context": "'Manquer' reverses the structure: 'Tu me manques' = I miss you (literally 'you are missing to me')."
+  },
+  {
+    "id": "fr-1000",
+    "front": "Tu me manques.",
+    "pronunciation": "[tü muh MAHNK]",
+    "back": "I miss you.",
+    "context": "The subject is the person missed: 'Tu me manques' = I miss you; 'Je te manque' = you miss me."
+  }
+]

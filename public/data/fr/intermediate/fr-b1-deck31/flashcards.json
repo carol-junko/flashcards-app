@@ -1,0 +1,247 @@
+[
+  {
+    "id": "fr-1001",
+    "front": "Tu es sur quels réseaux sociaux ?",
+    "pronunciation": "[tü eh sür kel ray-zoh soh-SYOH]",
+    "back": "Which social networks are you on?",
+    "context": "'Les réseaux sociaux' = social media."
+  },
+  {
+    "id": "fr-1002",
+    "front": "Je l'ai vu passer sur Instagram.",
+    "pronunciation": "[zhuh lay vü pah-say sür an-stah-GRAM]",
+    "back": "I saw it on Instagram.",
+    "context": "'Voir passer' = to come across something in your feed."
+  },
+  {
+    "id": "fr-1003",
+    "front": "Elle a publié une photo de ses vacances.",
+    "pronunciation": "[el ah pü-blee-YAY ün foh-TOH duh say vah-KAHNS]",
+    "back": "She posted a photo from her holiday.",
+    "context": "'Publier' = to post. Informally: 'poster'."
+  },
+  {
+    "id": "fr-1004",
+    "front": "Tu peux m'envoyer le lien ?",
+    "pronunciation": "[tü puh mahn-vwah-yay luh LYAN]",
+    "back": "Can you send me the link?",
+    "context": "'Le lien' = link."
+  },
+  {
+    "id": "fr-1005",
+    "front": "Partage la vidéo dans le groupe !",
+    "pronunciation": "[par-tahzh lah vee-DAY-oh dahn luh GROOP]",
+    "back": "Share the video in the group!",
+    "context": "'Partager' = to share."
+  },
+  {
+    "id": "fr-1006",
+    "front": "J'ai liké sa publication.",
+    "pronunciation": "[zhay lahy-KAY sah pü-blee-kah-SYOHN]",
+    "back": "I liked her post.",
+    "context": "'Liker' is everyday French; officially 'aimer'. 'Une publication' = a post."
+  },
+  {
+    "id": "fr-1007",
+    "front": "Il a plus de dix mille abonnés.",
+    "pronunciation": "[ee lah plü duh dee meel ah-boh-NAY]",
+    "back": "He has more than ten thousand followers.",
+    "context": "'Un abonné' = follower or subscriber. 'S'abonner à' = to follow/subscribe."
+  },
+  {
+    "id": "fr-1008",
+    "front": "Abonnez-vous à la chaîne !",
+    "pronunciation": "[ah-boh-nay-VOO ah lah SHEN]",
+    "back": "Subscribe to the channel!",
+    "context": "'La chaîne' = channel (YouTube, TV)."
+  },
+  {
+    "id": "fr-1009",
+    "front": "Je t'envoie un message privé.",
+    "pronunciation": "[zhuh tahn-vwah an meh-sahzh pree-VAY]",
+    "back": "I'll send you a private message.",
+    "context": "Also 'un MP' or 'un DM'."
+  },
+  {
+    "id": "fr-1010",
+    "front": "Tu as vu mon message ? Tu ne m'as pas répondu.",
+    "pronunciation": "[tü ah vü mohn meh-SAHZH ? tü nuh mah pah ray-pohn-DÜ]",
+    "back": "Did you see my message? You didn't reply.",
+    "context": "'Répondre à' = to reply to."
+  },
+  {
+    "id": "fr-1011",
+    "front": "Ma batterie est presque à plat.",
+    "pronunciation": "[mah bah-tuh-REE eh pres-kuh ah PLAH]",
+    "back": "My battery is almost dead.",
+    "context": "'À plat' = flat, dead."
+  },
+  {
+    "id": "fr-1012",
+    "front": "Je n'ai plus de réseau ici.",
+    "pronunciation": "[zhuh neh plü duh ray-ZOH ee-SEE]",
+    "back": "I've got no signal here.",
+    "context": "'Le réseau' = network, signal."
+  },
+  {
+    "id": "fr-1013",
+    "front": "La connexion est trop lente pour regarder la vidéo.",
+    "pronunciation": "[lah koh-nek-syohn eh troh LAHNT poor ruh-gar-day lah vee-day-OH]",
+    "back": "The connection is too slow to watch the video.",
+    "context": "'La connexion' = internet connection."
+  },
+  {
+    "id": "fr-1014",
+    "front": "Je télécharge l'application.",
+    "pronunciation": "[zhuh tay-lay-SHARZH lah-plee-kah-SYOHN]",
+    "back": "I'm downloading the app.",
+    "context": "'Télécharger' = to download. 'Une appli' = an app (informal)."
+  },
+  {
+    "id": "fr-1015",
+    "front": "J'ai oublié mon mot de passe.",
+    "pronunciation": "[zhay oo-blee-YAY mohn moh duh PAS]",
+    "back": "I forgot my password.",
+    "context": "'Réinitialiser le mot de passe' = to reset the password."
+  },
+  {
+    "id": "fr-1016",
+    "front": "Crée un compte avec ton adresse e-mail.",
+    "pronunciation": "[kray an KOHNT ah-vek tohn nah-dres ee-MEL]",
+    "back": "Create an account with your email address.",
+    "context": "'Un compte' = account. 'Se connecter' = to log in."
+  },
+  {
+    "id": "fr-1017",
+    "front": "Je me suis déconnecté de tous les réseaux pendant les vacances.",
+    "pronunciation": "[zhuh muh swee day-koh-nek-TAY duh too lay ray-ZOH pahn-dahn lay vah-KAHNS]",
+    "back": "I logged off all social media during the holidays.",
+    "context": "'Se déconnecter' = to log off, also to unplug mentally."
+  },
+  {
+    "id": "fr-1018",
+    "front": "Je passe trop de temps sur mon téléphone.",
+    "pronunciation": "[zhuh pas troh duh tahn sür mohn tay-lay-FUN]",
+    "back": "I spend too much time on my phone.",
+    "context": "'Passer du temps à / sur' = to spend time on."
+  },
+  {
+    "id": "fr-1019",
+    "front": "Cette vidéo a fait le buzz.",
+    "pronunciation": "[set vee-day-OH ah feh luh BUZ]",
+    "back": "This video went viral.",
+    "context": "'Faire le buzz' = to go viral, create buzz."
+  },
+  {
+    "id": "fr-1020",
+    "front": "Il ne faut pas croire tout ce qu'on lit sur internet.",
+    "pronunciation": "[eel nuh foh pah krwahr too suh kohn lee sür an-tehr-NET]",
+    "back": "You shouldn't believe everything you read on the internet.",
+    "context": "'Tout ce que' = everything that."
+  },
+  {
+    "id": "fr-1021",
+    "front": "C'est une fausse information.",
+    "pronunciation": "[seh tün fohs an-for-mah-SYOHN]",
+    "back": "That's fake news.",
+    "context": "Also 'une fake news' or 'une infox' (official French term)."
+  },
+  {
+    "id": "fr-1022",
+    "front": "Elle fait des stories tous les jours.",
+    "pronunciation": "[el feh day stoh-REE too lay ZHOOR]",
+    "back": "She posts stories every day.",
+    "context": "Many English social media words are used as-is in French."
+  },
+  {
+    "id": "fr-1023",
+    "front": "Je regarde des séries en streaming.",
+    "pronunciation": "[zhuh ruh-gard day say-REE ahn stree-MEENG]",
+    "back": "I watch series on streaming platforms.",
+    "context": "'Une série' = TV series. 'Regarder en replay' = to catch up."
+  },
+  {
+    "id": "fr-1024",
+    "front": "Mon frère est accro aux jeux vidéo.",
+    "pronunciation": "[mohn frehr eh tah-KROH oh zhuh vee-day-OH]",
+    "back": "My brother is addicted to video games.",
+    "context": "'Accro à' = hooked on (informal for 'dépendant')."
+  },
+  {
+    "id": "fr-1025",
+    "front": "Tu peux me taguer sur la photo.",
+    "pronunciation": "[tü puh muh tah-gay sür lah foh-TOH]",
+    "back": "You can tag me in the photo.",
+    "context": "'Taguer' (or 'identifier') = to tag."
+  },
+  {
+    "id": "fr-1026",
+    "front": "Je préfère qu'on ne publie pas de photos des enfants.",
+    "pronunciation": "[zhuh pray-fehr kohn nuh pü-blee pah duh foh-toh day zahn-FAHN]",
+    "back": "I'd rather we didn't post photos of the children.",
+    "context": "'Préférer que' + subjunctive."
+  },
+  {
+    "id": "fr-1027",
+    "front": "On fait un appel vidéo ce soir ?",
+    "pronunciation": "[ohn feh tan nah-pel vee-day-OH suh SWAHR]",
+    "back": "Shall we video call tonight?",
+    "context": "'Un appel vidéo' = a video call."
+  },
+  {
+    "id": "fr-1028",
+    "front": "Ton micro est coupé, on ne t'entend pas.",
+    "pronunciation": "[tohn mee-KROH eh koo-PAY, ohn nuh tahn-tahn PAH]",
+    "back": "Your mic is muted, we can't hear you.",
+    "context": "The most repeated sentence of the remote-work era!"
+  },
+  {
+    "id": "fr-1029",
+    "front": "J'ai mis à jour mon téléphone hier.",
+    "pronunciation": "[zhay mee ah ZHOOR mohn tay-lay-FUN YEHR]",
+    "back": "I updated my phone yesterday.",
+    "context": "'Mettre à jour' = to update. 'Une mise à jour' = an update."
+  },
+  {
+    "id": "fr-1030",
+    "front": "Les commentaires sous cette vidéo sont horribles.",
+    "pronunciation": "[lay koh-mahn-tehr soo set vee-day-OH sohn toh-REE-bluh]",
+    "back": "The comments under this video are horrible.",
+    "context": "'Sous' = under (a post)."
+  },
+  {
+    "id": "fr-1031",
+    "front": "Il a été victime de harcèlement en ligne.",
+    "pronunciation": "[ee la ay-tay veek-teem duh ar-sel-MAHN ahn LEEN]",
+    "back": "He was a victim of online harassment.",
+    "context": "'En ligne' = online. The h of 'harcèlement' is aspirated."
+  },
+  {
+    "id": "fr-1032",
+    "front": "Pense à protéger tes données personnelles.",
+    "pronunciation": "[pahns ah proh-tay-zhay tay doh-nay pehr-soh-NEL]",
+    "back": "Remember to protect your personal data.",
+    "context": "'Les données' = data (plural). Protected in Europe by the GDPR ('le RGPD')."
+  },
+  {
+    "id": "fr-1033",
+    "front": "Elle est devenue influenceuse.",
+    "pronunciation": "[el eh duh-vuh-nü an-flü-ahn-SUHZ]",
+    "back": "She became an influencer.",
+    "context": "'Un influenceur / une influenceuse'."
+  },
+  {
+    "id": "fr-1034",
+    "front": "J'ai fait une capture d'écran de la conversation.",
+    "pronunciation": "[zhay feh tün kap-tür day-KRAHN duh lah kohn-vehr-sah-SYOHN]",
+    "back": "I took a screenshot of the conversation.",
+    "context": "'Une capture d'écran' = screenshot."
+  },
+  {
+    "id": "fr-1035",
+    "front": "Je reçois trop de notifications.",
+    "pronunciation": "[zhuh ruh-swah troh duh noh-tee-fee-kah-SYOHN]",
+    "back": "I get too many notifications.",
+    "context": "'Recevoir' = to receive: je reçois (ç before o)."
+  }
+]
