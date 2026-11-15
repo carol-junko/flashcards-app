@@ -1,0 +1,317 @@
+[
+  {
+    "id": "fr-1666",
+    "front": "La gastronomie française est inscrite au patrimoine immatériel de l'Unesco.",
+    "pronunciation": "[lah gas-troh-noh-mee frahn-SEZ eh tan-skreet oh pah-tree-mwahn ee-mah-tay-RYEL duh lü-nes-KOH]",
+    "back": "French gastronomy is listed as UNESCO intangible heritage.",
+    "context": "More precisely, 'le repas gastronomique des Français' was listed in 2010."
+  },
+  {
+    "id": "fr-1667",
+    "front": "Un repas traditionnel comprend une entrée, un plat, du fromage et un dessert.",
+    "pronunciation": "[an ruh-pah trah-dee-syoh-NEL kohm-prahn tün nahn-TRAY, an PLAH, dü froh-MAHZH ay an deh-SEHR]",
+    "back": "A traditional meal includes a starter, a main course, cheese and dessert.",
+    "context": "Cheese comes before dessert in France."
+  },
+  {
+    "id": "fr-1668",
+    "front": "Il faut faire revenir les oignons dans le beurre.",
+    "pronunciation": "[eel foh fehr ruh-vuh-neer lay zoh-NYOHN dahn luh BUHR]",
+    "back": "Brown the onions in the butter.",
+    "context": "'Faire revenir' = to brown, sauté lightly."
+  },
+  {
+    "id": "fr-1669",
+    "front": "Laissez mijoter à feu doux pendant deux heures.",
+    "pronunciation": "[leh-say mee-zhoh-tay ah fuh DOO pahn-dahn duh ZUHR]",
+    "back": "Let it simmer on low heat for two hours.",
+    "context": "'Mijoter' = to simmer. 'À feu doux / vif' = on low / high heat."
+  },
+  {
+    "id": "fr-1670",
+    "front": "Le bœuf bourguignon mijote longtemps dans du vin rouge.",
+    "pronunciation": "[luh buhf boor-ghee-NYOHN mee-zhot lohn-TAHN dahn dü van ROOZH]",
+    "back": "Beef bourguignon simmers for a long time in red wine.",
+    "context": "A classic Burgundy dish."
+  },
+  {
+    "id": "fr-1671",
+    "front": "Faites dorer le poulet au four.",
+    "pronunciation": "[fet doh-ray luh poo-LEH oh FOOR]",
+    "back": "Brown the chicken in the oven.",
+    "context": "'Dorer' = to brown, turn golden."
+  },
+  {
+    "id": "fr-1672",
+    "front": "Il faut d'abord éplucher et couper les légumes en dés.",
+    "pronunciation": "[eel foh dah-bor ay-plü-shay ay koo-pay lay lay-güm ahn DAY]",
+    "back": "First peel and dice the vegetables.",
+    "context": "'Éplucher' = to peel. 'En dés' = diced; 'en rondelles' = sliced into rounds."
+  },
+  {
+    "id": "fr-1673",
+    "front": "Battez les œufs en neige.",
+    "pronunciation": "[bah-tay lay zuh ahn NEZH]",
+    "back": "Beat the egg whites until stiff.",
+    "context": "'Battre en neige' = to whisk until stiff peaks form."
+  },
+  {
+    "id": "fr-1674",
+    "front": "Préchauffez le four à 180 degrés.",
+    "pronunciation": "[pray-shoh-fay luh foor ah sahn kah-truh-van duh-GRAY]",
+    "back": "Preheat the oven to 180 degrees.",
+    "context": "Celsius, of course. Older recipes say 'thermostat 6'."
+  },
+  {
+    "id": "fr-1675",
+    "front": "Salez et poivrez selon votre goût.",
+    "pronunciation": "[sah-lay ay pwah-vray suh-lohn voh-truh GOO]",
+    "back": "Season with salt and pepper to taste.",
+    "context": "'Selon votre goût' = to taste."
+  },
+  {
+    "id": "fr-1676",
+    "front": "Cette sauce est trop salée.",
+    "pronunciation": "[set sohs eh troh sah-LAY]",
+    "back": "This sauce is too salty.",
+    "context": "Tastes: salé, sucré, amer (bitter), acide, épicé (spicy)."
+  },
+  {
+    "id": "fr-1677",
+    "front": "La viande est tendre et fondante.",
+    "pronunciation": "[lah vyahnd eh TAHN-druh ay fohn-DAHNT]",
+    "back": "The meat is tender and melts in your mouth.",
+    "context": "'Fondant' = melting."
+  },
+  {
+    "id": "fr-1678",
+    "front": "Ce vin se marie parfaitement avec le fromage.",
+    "pronunciation": "[suh van suh mah-ree par-fet-mahn ah-vek luh froh-MAHZH]",
+    "back": "This wine pairs perfectly with the cheese.",
+    "context": "'Se marier avec' = to pair well with. 'L'accord mets-vins' = food and wine pairing."
+  },
+  {
+    "id": "fr-1679",
+    "front": "Un vin rouge charpenté accompagne bien les viandes rouges.",
+    "pronunciation": "[an van roozh shar-pahn-TAY ah-kohm-pan-yuh byan lay vyahnd ROOZH]",
+    "back": "A full-bodied red wine goes well with red meat.",
+    "context": "'Charpenté' (well-framed) = full-bodied."
+  },
+  {
+    "id": "fr-1680",
+    "front": "Le sommelier nous a conseillé un bordeaux.",
+    "pronunciation": "[luh soh-muh-lyay noo zah kohn-seh-yay an bor-DOH]",
+    "back": "The sommelier recommended a Bordeaux.",
+    "context": "Wines are often named after their region: un bordeaux, un bourgogne, un champagne."
+  },
+  {
+    "id": "fr-1681",
+    "front": "Ce vin a un bouquet très fruité.",
+    "pronunciation": "[suh van ah an boo-keh treh frwee-TAY]",
+    "back": "This wine has a very fruity bouquet.",
+    "context": "'Le bouquet' / 'le nez' = the aroma of a wine."
+  },
+  {
+    "id": "fr-1682",
+    "front": "La France compte plus de mille fromages.",
+    "pronunciation": "[lah frahns kohnt plü duh meel froh-MAHZH]",
+    "back": "France has more than a thousand cheeses.",
+    "context": "De Gaulle famously asked how one can govern a country with 246 cheeses."
+  },
+  {
+    "id": "fr-1683",
+    "front": "Le camembert est fabriqué en Normandie.",
+    "pronunciation": "[luh kah-mahn-BEHR eh fah-bree-kay ahn nor-mahn-DEE]",
+    "back": "Camembert is made in Normandy.",
+    "context": "Many cheeses have an AOP (protected designation of origin)."
+  },
+  {
+    "id": "fr-1684",
+    "front": "Le roquefort est un fromage de brebis.",
+    "pronunciation": "[luh rok-FOR eh tan froh-mahzh duh bruh-BEE]",
+    "back": "Roquefort is a sheep's milk cheese.",
+    "context": "Cheeses: de vache (cow), de chèvre (goat), de brebis (sheep)."
+  },
+  {
+    "id": "fr-1685",
+    "front": "Ce chef a obtenu sa troisième étoile au guide Michelin.",
+    "pronunciation": "[suh shef ah ob-tuh-nü sah trwah-zyem ay-TWAL oh gheed meesh-LAN]",
+    "back": "This chef earned his third Michelin star.",
+    "context": "Three stars = 'worth a special journey'."
+  },
+  {
+    "id": "fr-1686",
+    "front": "La cuisine du terroir met en valeur les produits locaux.",
+    "pronunciation": "[lah kwee-zeen dü teh-RWAHR meh tahn vah-luhr lay proh-dwee loh-KOH]",
+    "back": "Regional cooking showcases local produce.",
+    "context": "'Le terroir' = the land and its character, a key concept in French food and wine."
+  },
+  {
+    "id": "fr-1687",
+    "front": "Les produits de saison ont plus de goût.",
+    "pronunciation": "[lay proh-dwee duh seh-ZOHN ohn plü duh GOO]",
+    "back": "Seasonal produce has more flavor.",
+    "context": "'De saison' = in season."
+  },
+  {
+    "id": "fr-1688",
+    "front": "Il faut acheter des produits frais au marché.",
+    "pronunciation": "[eel foh tahsh-tay day proh-dwee FREH oh mar-SHAY]",
+    "back": "You should buy fresh produce at the market.",
+    "context": "'Les produits frais' = fresh produce."
+  },
+  {
+    "id": "fr-1689",
+    "front": "La bouillabaisse est une spécialité marseillaise.",
+    "pronunciation": "[lah boo-yah-BES eh tün spay-syah-lee-tay mar-seh-YEZ]",
+    "back": "Bouillabaisse is a Marseille specialty.",
+    "context": "A fish stew served with 'rouille' sauce and croutons."
+  },
+  {
+    "id": "fr-1690",
+    "front": "La choucroute est un plat typique d'Alsace.",
+    "pronunciation": "[lah shoo-KROOT eh tan plah tee-peek dal-ZAS]",
+    "back": "Sauerkraut with meats is a typical Alsatian dish.",
+    "context": "Usually served with sausages and pork."
+  },
+  {
+    "id": "fr-1691",
+    "front": "Le cassoulet du Sud-Ouest se compose de haricots blancs et de confit de canard.",
+    "pronunciation": "[luh kah-soo-LEH dü sü-DWEST suh kohm-pohz duh ah-ree-koh BLAHN ay duh kohn-fee duh kah-NAR]",
+    "back": "Southwestern cassoulet is made of white beans and duck confit.",
+    "context": "'Se composer de' = to be made up of."
+  },
+  {
+    "id": "fr-1692",
+    "front": "La tarte Tatin est une tarte aux pommes renversée.",
+    "pronunciation": "[lah tart tah-TAN eh tün tart oh pum rahn-vehr-SAY]",
+    "back": "Tarte Tatin is an upside-down apple tart.",
+    "context": "According to legend, the Tatin sisters invented it by accident."
+  },
+  {
+    "id": "fr-1693",
+    "front": "Le chef travaille avec une brigade de vingt cuisiniers.",
+    "pronunciation": "[luh shef trah-vahy ah-vek ün bree-gad duh van kwee-zee-NYAY]",
+    "back": "The chef works with a brigade of twenty cooks.",
+    "context": "'La brigade de cuisine' = the kitchen team hierarchy."
+  },
+  {
+    "id": "fr-1694",
+    "front": "Le service en salle est aussi important que la cuisine.",
+    "pronunciation": "[luh sehr-vees ahn SAL eh toh-see an-por-tahn kuh lah kwee-ZEEN]",
+    "back": "Front-of-house service is as important as the cooking.",
+    "context": "'En salle' = in the dining room."
+  },
+  {
+    "id": "fr-1695",
+    "front": "Les Français passent en moyenne plus de deux heures par jour à table.",
+    "pronunciation": "[lay frahn-SEH pas ahn mwah-yen plü duh duh zuhr par zhoor ah TAH-bluh]",
+    "back": "French people spend on average more than two hours a day at the table.",
+    "context": "'En moyenne' = on average. France tops OECD rankings on time spent eating."
+  },
+  {
+    "id": "fr-1696",
+    "front": "Le goûter est sacré pour les enfants.",
+    "pronunciation": "[luh goo-TAY eh sah-KRAY poor lay zahn-FAHN]",
+    "back": "The afternoon snack is sacred for children.",
+    "context": "'Le goûter' = the 4 p.m. snack."
+  },
+  {
+    "id": "fr-1697",
+    "front": "Ce restaurant propose une cuisine fusion franco-japonaise.",
+    "pronunciation": "[suh res-toh-rahn proh-pohz ün kwee-zeen fü-ZYOHN frahn-koh-zhah-poh-NEZ]",
+    "back": "This restaurant serves French-Japanese fusion cuisine.",
+    "context": "'Proposer' = to offer (on a menu)."
+  },
+  {
+    "id": "fr-1698",
+    "front": "La tendance est au fait maison.",
+    "pronunciation": "[lah tahn-dahns eh toh feh meh-ZOHN]",
+    "back": "The trend is towards homemade food.",
+    "context": "Restaurants can display a 'fait maison' logo for dishes made on site."
+  },
+  {
+    "id": "fr-1699",
+    "front": "Je suis plutôt sucré que salé.",
+    "pronunciation": "[zhuh swee plü-toh sü-KRAY kuh sah-LAY]",
+    "back": "I have more of a sweet tooth than a savory one.",
+    "context": "'Être sucré / salé' = to prefer sweet / savory food."
+  },
+  {
+    "id": "fr-1700",
+    "front": "Ce plat manque un peu de sel.",
+    "pronunciation": "[suh plah mahnk an puh duh SEL]",
+    "back": "This dish needs a little more salt.",
+    "context": "'Manquer de' = to lack."
+  },
+  {
+    "id": "fr-1701",
+    "front": "Il a eu la main lourde sur le piment.",
+    "pronunciation": "[ee lah ü lah man LOORD sür luh pee-MAHN]",
+    "back": "He went overboard with the chili.",
+    "context": "'Avoir la main lourde' = to be heavy-handed."
+  },
+  {
+    "id": "fr-1702",
+    "front": "Mettez la pâte au frais pendant une heure.",
+    "pronunciation": "[meh-tay lah paht oh FREH pahn-dahn tün UHR]",
+    "back": "Put the dough in the fridge for an hour.",
+    "context": "'Au frais' = in a cool place, in the fridge. 'La pâte' = dough/batter."
+  },
+  {
+    "id": "fr-1703",
+    "front": "Le soufflé est retombé, quelle catastrophe !",
+    "pronunciation": "[luh soo-flay eh ruh-tohm-BAY, kel kah-tas-TROF]",
+    "back": "The soufflé has collapsed, what a disaster!",
+    "context": "'Retomber' = to fall back down."
+  },
+  {
+    "id": "fr-1704",
+    "front": "Ça sent délicieusement bon dans la cuisine.",
+    "pronunciation": "[sah sahn day-lee-syuhz-mahn BOHN dahn lah kwee-ZEEN]",
+    "back": "It smells delicious in the kitchen.",
+    "context": "'Sentir bon' = to smell good."
+  },
+  {
+    "id": "fr-1705",
+    "front": "J'ai l'eau à la bouche !",
+    "pronunciation": "[zhay loh ah lah BOOSH]",
+    "back": "My mouth is watering!",
+    "context": "'Mettre l'eau à la bouche' = to make your mouth water."
+  },
+  {
+    "id": "fr-1706",
+    "front": "On s'est régalés !",
+    "pronunciation": "[ohn seh ray-gah-LAY]",
+    "back": "That was a real treat!",
+    "context": "'Se régaler' = to enjoy a meal enormously."
+  },
+  {
+    "id": "fr-1707",
+    "front": "C'est un vrai cordon-bleu.",
+    "pronunciation": "[seh tan vreh kor-dohn-BLUH]",
+    "back": "He's an excellent cook.",
+    "context": "'Un cordon-bleu' = a very good home cook."
+  },
+  {
+    "id": "fr-1708",
+    "front": "Elle met les petits plats dans les grands pour ses invités.",
+    "pronunciation": "[el meh lay puh-tee PLAH dahn lay GRAHN poor say zan-vee-TAY]",
+    "back": "She goes all out for her guests.",
+    "context": "Idiom: literally 'puts the small dishes in the big ones'."
+  },
+  {
+    "id": "fr-1709",
+    "front": "Le pain se pose directement sur la nappe, pas dans l'assiette.",
+    "pronunciation": "[luh pan suh pohz dee-rek-tuh-mahn sür lah NAP, pah dahn lah-SYET]",
+    "back": "Bread goes directly on the tablecloth, not on the plate.",
+    "context": "Table manners: no bread plate in France."
+  },
+  {
+    "id": "fr-1710",
+    "front": "À table, on garde les mains sur la table, pas sur les genoux.",
+    "pronunciation": "[ah TAH-bluh, ohn gard lay man sür lah TAH-bluh, pah sür lay zhuh-NOO]",
+    "back": "At the table, keep your hands on the table, not on your lap.",
+    "context": "A French etiquette rule that surprises many visitors."
+  }
+]

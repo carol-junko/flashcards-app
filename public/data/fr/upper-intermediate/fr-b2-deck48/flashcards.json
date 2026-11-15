@@ -1,0 +1,317 @@
+[
+  {
+    "id": "fr-1621",
+    "front": "Le 14 juillet, on célèbre la prise de la Bastille.",
+    "pronunciation": "[luh kah-torz zhwee-YEH, ohn say-lebr lah preez duh lah bas-TEEY]",
+    "back": "On 14 July, the storming of the Bastille is celebrated.",
+    "context": "The national holiday commemorates 14 July 1789. English speakers call it Bastille Day; the French say 'le 14 Juillet' or 'la fête nationale'."
+  },
+  {
+    "id": "fr-1622",
+    "front": "Le défilé militaire descend les Champs-Élysées.",
+    "pronunciation": "[luh day-fee-lay mee-lee-TEHR day-sahn lay shahn zay-lee-ZAY]",
+    "back": "The military parade goes down the Champs-Élysées.",
+    "context": "Followed in the evening by fireworks and 'bals des pompiers' (firefighters' dances)."
+  },
+  {
+    "id": "fr-1623",
+    "front": "La Fête de la musique a lieu le 21 juin.",
+    "pronunciation": "[lah fet duh lah mü-ZEEK ah lyuh luh van tay an ZHWAN]",
+    "back": "The Music Festival takes place on 21 June.",
+    "context": "Created in France in 1982: free concerts in the streets on the longest day of the year."
+  },
+  {
+    "id": "fr-1624",
+    "front": "À l'Épiphanie, on mange la galette des rois.",
+    "pronunciation": "[ah lay-pee-fah-NEE, ohn mahnzh lah gah-let day RWAH]",
+    "back": "At Epiphany, we eat the kings' cake.",
+    "context": "Whoever finds 'la fève' (the small charm) becomes king or queen for the day and wears the paper crown."
+  },
+  {
+    "id": "fr-1625",
+    "front": "Pour la Chandeleur, on fait des crêpes.",
+    "pronunciation": "[poor lah shahn-duh-LUHR, ohn feh day KREP]",
+    "back": "For Candlemas, we make crêpes.",
+    "context": "On 2 February. Tradition says you flip a crêpe holding a coin for prosperity."
+  },
+  {
+    "id": "fr-1626",
+    "front": "Le premier mai, on offre du muguet.",
+    "pronunciation": "[luh pruh-myay MEH, ohn noh-fruh dü mü-GEH]",
+    "back": "On 1 May, people give lily of the valley.",
+    "context": "A lucky charm on Labour Day; anyone may sell it in the street that day."
+  },
+  {
+    "id": "fr-1627",
+    "front": "Le poisson d'avril est une tradition très ancienne.",
+    "pronunciation": "[luh pwah-sohn dah-VREEL eh tün trah-dee-syohn treh zahn-SYEN]",
+    "back": "April Fool's is a very old tradition.",
+    "context": "Children stick paper fish on people's backs on 1 April."
+  },
+  {
+    "id": "fr-1628",
+    "front": "Le réveillon de Noël se passe en famille.",
+    "pronunciation": "[luh ray-veh-yohn duh noh-EL suh pas ahn fah-MEE]",
+    "back": "Christmas Eve dinner is spent with family.",
+    "context": "'Le réveillon' = the festive late dinner on 24 and 31 December."
+  },
+  {
+    "id": "fr-1629",
+    "front": "Au Nouvel An, on s'embrasse sous le gui à minuit.",
+    "pronunciation": "[oh noo-vel AHN, ohn sahm-bras soo luh GEE ah mee-NWEE]",
+    "back": "At New Year, people kiss under the mistletoe at midnight.",
+    "context": "In France, mistletoe is a New Year tradition rather than a Christmas one."
+  },
+  {
+    "id": "fr-1630",
+    "front": "On se souhaite la bonne année jusqu'à la fin janvier.",
+    "pronunciation": "[ohn suh sweht lah bun ah-NAY zhüs-kah lah fan zhahn-VYAY]",
+    "back": "People wish each other a happy new year until the end of January.",
+    "context": "'Meilleurs vœux !' = best wishes. Saying it in February is too late!"
+  },
+  {
+    "id": "fr-1631",
+    "front": "La Toussaint, on fleurit les tombes avec des chrysanthèmes.",
+    "pronunciation": "[lah too-SAN, ohn fluh-ree lay tohmb ah-vek day kree-zahn-TEM]",
+    "back": "On All Saints' Day, people decorate graves with chrysanthemums.",
+    "context": "On 1 November. Never offer chrysanthemums as a gift: they're associated with the dead."
+  },
+  {
+    "id": "fr-1632",
+    "front": "Chaque région a ses traditions et son identité.",
+    "pronunciation": "[shak ray-zhyohn ah say trah-dee-SYOHN ay sohn nee-dahn-tee-TAY]",
+    "back": "Each region has its own traditions and identity.",
+    "context": "France is very centralized, but regional identities remain strong."
+  },
+  {
+    "id": "fr-1633",
+    "front": "En Bretagne, on danse lors des fest-noz.",
+    "pronunciation": "[ahn bruh-TAN-yuh, ohn dahns lor day fest-NOHZ]",
+    "back": "In Brittany, people dance at fest-noz.",
+    "context": "'Fest-noz' (Breton, 'night festival') = traditional dance gatherings, listed by UNESCO."
+  },
+  {
+    "id": "fr-1634",
+    "front": "Le breton est une langue celtique encore parlée aujourd'hui.",
+    "pronunciation": "[luh bruh-TOHN eh tün lahng sel-TEEK ahn-kor par-lay oh-zhoor-DWEE]",
+    "back": "Breton is a Celtic language still spoken today.",
+    "context": "France has several regional languages: breton, basque, occitan, corse, alsacien…"
+  },
+  {
+    "id": "fr-1635",
+    "front": "Le carnaval de Nice est l'un des plus célèbres au monde.",
+    "pronunciation": "[luh kar-nah-vahl duh NEES eh lan day plü say-leh-bruh oh MOHND]",
+    "back": "The Nice Carnival is one of the most famous in the world.",
+    "context": "Held in February, with the famous 'bataille de fleurs' (flower battle)."
+  },
+  {
+    "id": "fr-1636",
+    "front": "La fête du citron a lieu chaque année à Menton.",
+    "pronunciation": "[lah fet dü see-TROHN ah lyuh shak ah-nay ah mahn-TOHN]",
+    "back": "The Lemon Festival takes place every year in Menton.",
+    "context": "Giant sculptures made of citrus fruit on the Riviera."
+  },
+  {
+    "id": "fr-1637",
+    "front": "En Alsace, les marchés de Noël sont une institution.",
+    "pronunciation": "[ahn nal-ZAS, lay mar-shay duh noh-EL sohn tün an-stee-tü-SYOHN]",
+    "back": "In Alsace, Christmas markets are an institution.",
+    "context": "With mulled wine ('vin chaud') and gingerbread ('pain d'épices')."
+  },
+  {
+    "id": "fr-1638",
+    "front": "Dans le Sud-Ouest, les fêtes de Bayonne attirent un million de visiteurs.",
+    "pronunciation": "[dahn luh sü-DWEST, lay fet duh bah-YON ah-teer an mee-lyohn duh vee-zee-TUHR]",
+    "back": "In the southwest, the Bayonne festival draws a million visitors.",
+    "context": "Everyone dresses in white with a red scarf."
+  },
+  {
+    "id": "fr-1639",
+    "front": "La pétanque est un jeu typique du Sud.",
+    "pronunciation": "[lah pay-TAHNK eh tan zhuh tee-peek dü SÜD]",
+    "back": "Pétanque is a typical game from the south.",
+    "context": "Played with metal balls ('les boules') aiming at a small wooden ball ('le cochonnet')."
+  },
+  {
+    "id": "fr-1640",
+    "front": "Le Tour de France passe chaque juillet par des centaines de villages.",
+    "pronunciation": "[luh toor duh FRAHNS pas shak zhwee-YEH par day sahn-ten duh vee-LAHZH]",
+    "back": "Every July, the Tour de France passes through hundreds of villages.",
+    "context": "Created in 1903, it's a huge popular festival as much as a race."
+  },
+  {
+    "id": "fr-1641",
+    "front": "Les Journées européennes du patrimoine attirent des millions de curieux.",
+    "pronunciation": "[lay zhoor-nay zuh-roh-pay-en dü pah-tree-MWAHN ah-teer day mee-lyohn duh kü-RYUH]",
+    "back": "European Heritage Days attract millions of curious visitors.",
+    "context": "Each September, the Élysée Palace and many other buildings open their doors."
+  },
+  {
+    "id": "fr-1642",
+    "front": "Le Beaujolais nouveau est arrivé !",
+    "pronunciation": "[luh boh-zhoh-leh noo-voh eh tah-ree-VAY]",
+    "back": "The Beaujolais nouveau has arrived!",
+    "context": "Released on the third Thursday of November, a marketing tradition since the 1950s–70s."
+  },
+  {
+    "id": "fr-1643",
+    "front": "Au Moyen Âge, les troubadours chantaient l'amour courtois.",
+    "pronunciation": "[oh mwah-yen NAHZH, lay troo-bah-DOOR shahn-teh lah-moor koor-TWAH]",
+    "back": "In the Middle Ages, troubadours sang of courtly love.",
+    "context": "Troubadours wrote in Occitan, the language of the south."
+  },
+  {
+    "id": "fr-1644",
+    "front": "Le folklore régional connaît un renouveau chez les jeunes.",
+    "pronunciation": "[luh folk-lor ray-zhyoh-NAL koh-neh tan ruh-noo-VOH shay lay ZHUHN]",
+    "back": "Regional folklore is enjoying a revival among young people.",
+    "context": "'Un renouveau' = a revival."
+  },
+  {
+    "id": "fr-1645",
+    "front": "La légende raconte qu'une fée vivait dans cette forêt.",
+    "pronunciation": "[lah lay-zhahnd rah-kohnt kün FAY vee-veh dahn set foh-REH]",
+    "back": "Legend has it that a fairy lived in this forest.",
+    "context": "Brittany's Brocéliande forest is linked to the legends of King Arthur and Merlin."
+  },
+  {
+    "id": "fr-1646",
+    "front": "En Provence, on prépare treize desserts pour Noël.",
+    "pronunciation": "[ahn proh-VAHNS, ohn pray-par trez deh-SEHR poor noh-EL]",
+    "back": "In Provence, people prepare thirteen desserts for Christmas.",
+    "context": "Representing Jesus and the twelve apostles."
+  },
+  {
+    "id": "fr-1647",
+    "front": "Les santons de Provence décorent les crèches.",
+    "pronunciation": "[lay sahn-TOHN duh proh-VAHNS day-kor lay KRESH]",
+    "back": "Provençal santons decorate nativity scenes.",
+    "context": "'Les santons' = small clay figurines, a Provençal craft tradition."
+  },
+  {
+    "id": "fr-1648",
+    "front": "À Lyon, la Fête des Lumières illumine la ville chaque décembre.",
+    "pronunciation": "[ah lee-OHN, lah fet day lü-MYEHR ee-lü-meen lah veel shak day-SAHM-bruh]",
+    "back": "In Lyon, the Festival of Lights lights up the city every December.",
+    "context": "Around 8 December, residents put candles on their windowsills."
+  },
+  {
+    "id": "fr-1649",
+    "front": "La Corse a une culture et une langue très marquées.",
+    "pronunciation": "[lah KORS ah ün kül-tür ay ün lahng treh mar-KAY]",
+    "back": "Corsica has a very distinctive culture and language.",
+    "context": "'Marqué' = pronounced, distinctive."
+  },
+  {
+    "id": "fr-1650",
+    "front": "Les Antilles fêtent le carnaval avec beaucoup d'énergie.",
+    "pronunciation": "[lay zahn-TEEY fet luh kar-nah-VAL ah-vek boh-koo day-nehr-ZHEE]",
+    "back": "The French Caribbean celebrates carnival with great energy.",
+    "context": "Guadeloupe and Martinique are overseas departments with Creole culture."
+  },
+  {
+    "id": "fr-1651",
+    "front": "Le créole est parlé en Martinique, en Guadeloupe et à La Réunion.",
+    "pronunciation": "[luh kray-OL eh par-LAY ahn mar-tee-NEEK, ahn gwah-duh-LOOP ay ah lah ray-ü-NYOHN]",
+    "back": "Creole is spoken in Martinique, Guadeloupe and Réunion.",
+    "context": "French-based Creoles are distinct languages."
+  },
+  {
+    "id": "fr-1652",
+    "front": "Cette tradition remonte au dix-neuvième siècle.",
+    "pronunciation": "[set trah-dee-syohn ruh-mohnt oh deez-nuh-vyem SYEH-kluh]",
+    "back": "This tradition dates back to the 19th century.",
+    "context": "'Remonter à' = to date back to."
+  },
+  {
+    "id": "fr-1653",
+    "front": "Les jeunes perpétuent les coutumes de leurs grands-parents.",
+    "pronunciation": "[lay zhuhn pehr-pay-tü lay koo-tüm duh luhr grahn-pah-RAHN]",
+    "back": "Young people carry on their grandparents' customs.",
+    "context": "'Perpétuer' = to perpetuate. 'Une coutume' = a custom."
+  },
+  {
+    "id": "fr-1654",
+    "front": "Le muguet porte bonheur, paraît-il.",
+    "pronunciation": "[luh mü-geh port boh-NUHR, pah-reh-TEEL]",
+    "back": "Lily of the valley brings good luck, apparently.",
+    "context": "'Porter bonheur' = to bring luck. 'Paraît-il' = apparently (inverted)."
+  },
+  {
+    "id": "fr-1655",
+    "front": "Les Français sont très attachés à leurs jours fériés.",
+    "pronunciation": "[lay frahn-SEH sohn treh zah-tah-shay ah luhr zhoor fay-RYAY]",
+    "back": "French people are very attached to their public holidays.",
+    "context": "France has 11 public holidays ('jours fériés')."
+  },
+  {
+    "id": "fr-1656",
+    "front": "Quand un jour férié tombe un jeudi, on fait souvent le pont.",
+    "pronunciation": "[kahn tan zhoor fay-ryay tohmb an zhuh-DEE, ohn feh soo-vahn luh POHN]",
+    "back": "When a public holiday falls on a Thursday, people often take Friday off too.",
+    "context": "'Faire le pont' (make the bridge) = take the day between a holiday and the weekend."
+  },
+  {
+    "id": "fr-1657",
+    "front": "Mai est le mois des ponts.",
+    "pronunciation": "[MEH eh luh mwah day POHN]",
+    "back": "May is the month of long weekends.",
+    "context": "With 1 May, 8 May, Ascension and sometimes Pentecost Monday."
+  },
+  {
+    "id": "fr-1658",
+    "front": "Le 11 novembre commémore l'armistice de 1918.",
+    "pronunciation": "[luh ohnz noh-VAHM-bruh koh-may-mor lar-mees-TEES duh meel nuhf sahn dee-ZWEET]",
+    "back": "11 November commemorates the 1918 Armistice.",
+    "context": "Every village has a 'monument aux morts' (war memorial)."
+  },
+  {
+    "id": "fr-1659",
+    "front": "La fête des voisins rassemble les habitants d'un même immeuble.",
+    "pronunciation": "[lah fet day vwah-ZAN rah-sahm-bluh lay zah-bee-tahn dan mem ee-MUH-bluh]",
+    "back": "Neighbors' Day brings together the residents of a building.",
+    "context": "Created in Paris in 1999 to fight urban isolation."
+  },
+  {
+    "id": "fr-1660",
+    "front": "Le bal du 14 juillet est un moment de convivialité.",
+    "pronunciation": "[luh bal dü kah-torz zhwee-YEH eh tan moh-mahn duh kohn-vee-vyah-lee-TAY]",
+    "back": "The 14 July dance is a moment of friendliness and togetherness.",
+    "context": "'La convivialité' = conviviality, a key French social value."
+  },
+  {
+    "id": "fr-1661",
+    "front": "Ce festival met à l'honneur les cultures du monde entier.",
+    "pronunciation": "[suh fes-tee-VAL meh tah loh-NUHR lay kül-tür dü mohnd ahn-TYAY]",
+    "back": "This festival showcases cultures from all over the world.",
+    "context": "'Mettre à l'honneur' = to celebrate, showcase."
+  },
+  {
+    "id": "fr-1662",
+    "front": "Le festival d'Avignon est le plus grand festival de théâtre au monde.",
+    "pronunciation": "[luh fes-tee-val dah-vee-NYOHN eh luh plü grahn fes-tee-val duh tay-AH-truh oh MOHND]",
+    "back": "The Avignon Festival is the largest theater festival in the world.",
+    "context": "Every July, with its official 'In' and its huge 'Off'."
+  },
+  {
+    "id": "fr-1663",
+    "front": "Le festival de Cannes récompense les meilleurs films du monde.",
+    "pronunciation": "[luh fes-tee-val duh KAN ray-kohm-pahns lay meh-yuhr feelm dü MOHND]",
+    "back": "The Cannes Film Festival rewards the best films in the world.",
+    "context": "Its top prize is the Palme d'or."
+  },
+  {
+    "id": "fr-1664",
+    "front": "Chaque village organise sa fête patronale.",
+    "pronunciation": "[shak vee-lahzh or-gah-neez sah fet pah-troh-NAL]",
+    "back": "Every village holds its patron saint's festival.",
+    "context": "Often with a funfair ('la fête foraine') and a dance."
+  },
+  {
+    "id": "fr-1665",
+    "front": "Ces traditions font partie de notre identité.",
+    "pronunciation": "[say trah-dee-syohn fohn par-tee duh noh-tree-dahn-tee-TAY]",
+    "back": "These traditions are part of our identity.",
+    "context": "'Faire partie de' = to be part of."
+  }
+]
