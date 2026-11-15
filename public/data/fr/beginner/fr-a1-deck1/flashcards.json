@@ -138,5 +138,110 @@
     "pronunciation": "[lah-dee-SYOHN, seel voo PLEH]",
     "back": "The check, please.",
     "context": "Waiters in France won't bring the bill until you ask for it."
+  },
+  {
+    "id": "fr-021",
+    "front": "Bonne journée !",
+    "pronunciation": "[bun zhoor-NAY]",
+    "back": "Have a nice day!",
+    "context": "Said when leaving a shop or ending a conversation during the day. 'Bonne soirée' is the evening version."
+  },
+  {
+    "id": "fr-022",
+    "front": "Bonne soirée !",
+    "pronunciation": "[bun swah-RAY]",
+    "back": "Have a nice evening!",
+    "context": "Used when parting in the late afternoon or evening. 'Bonne nuit' is only for going to bed."
+  },
+  {
+    "id": "fr-023",
+    "front": "À bientôt !",
+    "pronunciation": "[ah byan-TOH]",
+    "back": "See you soon!",
+    "context": "Friendly goodbye when you expect to meet again. 'À demain' = see you tomorrow."
+  },
+  {
+    "id": "fr-024",
+    "front": "À demain !",
+    "pronunciation": "[ah duh-MAN]",
+    "back": "See you tomorrow!",
+    "context": "'À' + a time expression makes many goodbyes: à plus tard, à lundi, à ce soir."
+  },
+  {
+    "id": "fr-025",
+    "front": "Bonne nuit !",
+    "pronunciation": "[bun NWEE]",
+    "back": "Good night!",
+    "context": "Only said before going to sleep. To greet someone at night, say 'Bonsoir'."
+  },
+  {
+    "id": "fr-026",
+    "front": "Je vous en prie.",
+    "pronunciation": "[zhuh voo zahn PREE]",
+    "back": "You're welcome. / Please, go ahead.",
+    "context": "Polite reply to 'merci', also used to let someone pass. With friends: 'Je t'en prie'."
+  },
+  {
+    "id": "fr-027",
+    "front": "Je suis désolé.",
+    "pronunciation": "[zhuh swee day-zoh-LAY]",
+    "back": "I'm sorry.",
+    "context": "A real apology. A woman writes 'désolée'; the pronunciation is the same. 'Pardon' is lighter."
+  },
+  {
+    "id": "fr-028",
+    "front": "Comment vous appelez-vous ?",
+    "pronunciation": "[koh-mahn voo zah-play VOO]",
+    "back": "What's your name?",
+    "context": "Formal question with inversion. Informally: 'Tu t'appelles comment ?'"
+  },
+  {
+    "id": "fr-029",
+    "front": "Pas mal, et toi ?",
+    "pronunciation": "[pah MAHL, ay TWAH]",
+    "back": "Not bad, and you?",
+    "context": "Casual answer to 'Ça va ?'. 'Et toi' is for friends; 'et vous' is polite or plural."
+  },
+  {
+    "id": "fr-030",
+    "front": "Je ne parle pas bien français.",
+    "pronunciation": "[zhuh nuh PARL pah byan frahn-SEH]",
+    "back": "I don't speak French well.",
+    "context": "Negation wraps the verb: ne + verb + pas. Languages are written with a small letter: 'le français'."
+  },
+  {
+    "id": "fr-031",
+    "front": "Pouvez-vous parler plus lentement, s'il vous plaît ?",
+    "pronunciation": "[poo-vay VOO par-LAY plü lahnt-MAHN, seel voo PLEH]",
+    "back": "Could you speak more slowly, please?",
+    "context": "One of the most useful sentences for beginners. 'Lentement' = slowly."
+  },
+  {
+    "id": "fr-032",
+    "front": "Qu'est-ce que ça veut dire ?",
+    "pronunciation": "[kehs-kuh sah vuh DEER]",
+    "back": "What does that mean?",
+    "context": "'Vouloir dire' = to mean. Point at a word or repeat it, then ask."
+  },
+  {
+    "id": "fr-033",
+    "front": "Comment dit-on « merci » en anglais ?",
+    "pronunciation": "[koh-mahn dee-TOHN mehr-SEE ahn nahn-GLEH]",
+    "back": "How do you say 'merci' in English?",
+    "context": "'Comment dit-on… en…?' lets you ask for any word. French uses « guillemets » for quotes."
+  },
+  {
+    "id": "fr-034",
+    "front": "Oui, bien sûr !",
+    "pronunciation": "[WEE, byan SÜR]",
+    "back": "Yes, of course!",
+    "context": "Warm, natural agreement. 'Bien sûr que non' = of course not."
+  },
+  {
+    "id": "fr-035",
+    "front": "Non, merci.",
+    "pronunciation": "[NOHN, mehr-SEE]",
+    "back": "No, thank you.",
+    "context": "A polite refusal. In France, 'Merci' alone, with a small gesture, can also mean no thanks when offered something."
   }
 ]
