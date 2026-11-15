@@ -7,6 +7,8 @@
 const words = (text) => text.trim().split(/\s+/)
 // Cards like "Um / Uma" list alternatives: fine to match, not to type or reorder
 const hasAlternatives = (text) => /\s\/\s/.test(text)
+// Cards that are lists ("je, tu, il, elle…" or a conjugation table) make poor exercises
+const isList = (text) => (text.match(/,/g) || []).length >= 3
 
 export function stripAccents(text) {
   return text.normalize('NFD').replace(/[̀-ͯ]/g, '')
@@ -107,7 +109,7 @@ function listeningExercise(card, n) {
 }
 
 export function generateExercises(cards, { random = Math.random } = {}) {
-  const pool = shuffle(cards.filter((c) => c && c.front && c.back), random)
+  const pool = shuffle(cards.filter((c) => c && c.front && c.back && !isList(c.front)), random)
   const used = new Set()
   const count = (c) => words(c.front).filter((w) => /\p{L}/u.test(w)).length
   const exercises = []

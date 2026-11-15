@@ -1,0 +1,212 @@
+[
+  {
+    "id": "fr-291",
+    "front": "le / la / l' / les",
+    "pronunciation": "[luh / lah / l / lay]",
+    "back": "the",
+    "context": "Definite articles: le (m), la (f), l' (before a vowel or silent h), les (plural)."
+  },
+  {
+    "id": "fr-292",
+    "front": "un / une / des",
+    "pronunciation": "[AN / ÜN / DAY]",
+    "back": "a, an / some",
+    "context": "Indefinite articles. 'Des' has no English equivalent: 'des amis' = (some) friends."
+  },
+  {
+    "id": "fr-293",
+    "front": "Le soleil et la lune.",
+    "pronunciation": "[luh soh-LAY ay lah LÜN]",
+    "back": "The sun and the moon.",
+    "context": "Gender must be learned with each noun: le soleil (m), la lune (f). Learn nouns with their article!"
+  },
+  {
+    "id": "fr-294",
+    "front": "J'aime le chocolat, mais je mange une pomme.",
+    "pronunciation": "[zhem luh shoh-koh-LAH, meh zhuh mahnzh ün PUM]",
+    "back": "I like chocolate, but I'm eating an apple.",
+    "context": "'Le' for things in general (chocolate as a whole); 'un/une' for one specific item."
+  },
+  {
+    "id": "fr-295",
+    "front": "L'hôtel et l'école sont près d'ici.",
+    "pronunciation": "[loh-TEL ay lay-KOL sohn preh dee-SEE]",
+    "back": "The hotel and the school are near here.",
+    "context": "Elision: le/la become l' before a vowel or a silent h."
+  },
+  {
+    "id": "fr-296",
+    "front": "je, tu, il, elle, on, nous, vous, ils, elles",
+    "pronunciation": "[zhuh, tü, eel, el, ohn, noo, voo, eel, el]",
+    "back": "I, you, he, she, one/we, we, you, they (m), they (f)",
+    "context": "Subject pronouns. 'Ils' is used for any group that includes at least one man."
+  },
+  {
+    "id": "fr-297",
+    "front": "On parle français ici.",
+    "pronunciation": "[ohn parl frahn-SEH ee-SEE]",
+    "back": "French is spoken here.",
+    "context": "'On' = people in general, or 'we' in everyday speech. It always takes the il/elle verb form."
+  },
+  {
+    "id": "fr-298",
+    "front": "On se voit demain ?",
+    "pronunciation": "[ohn suh vwah duh-MAN]",
+    "back": "Shall we see each other tomorrow?",
+    "context": "'On' replaces 'nous' in conversation: on = we."
+  },
+  {
+    "id": "fr-299",
+    "front": "Tu ou vous ?",
+    "pronunciation": "[TÜ oo VOO]",
+    "back": "Tu or vous?",
+    "context": "'Tu' for friends, family, children and peers; 'vous' for strangers, elders, at work, and for groups. When in doubt, use vous."
+  },
+  {
+    "id": "fr-300",
+    "front": "On peut se tutoyer ?",
+    "pronunciation": "[ohn puh suh tü-twah-YAY]",
+    "back": "Can we use 'tu' with each other?",
+    "context": "'Tutoyer' = to use tu; 'vouvoyer' = to use vous. Usually the older or senior person proposes it."
+  },
+  {
+    "id": "fr-301",
+    "front": "Moi, je préfère le thé.",
+    "pronunciation": "[MWAH, zhuh pray-FEHR luh TAY]",
+    "back": "Me, I prefer tea.",
+    "context": "Stressed pronouns (moi, toi, lui, elle, nous, vous, eux, elles) add emphasis."
+  },
+  {
+    "id": "fr-302",
+    "front": "Et toi ? Et lui ?",
+    "pronunciation": "[ay TWAH? ay LWEE]",
+    "back": "And you? And him?",
+    "context": "Stressed pronouns are used alone or after 'et', 'avec', 'pour': avec moi, pour lui."
+  },
+  {
+    "id": "fr-303",
+    "front": "Je viens avec toi.",
+    "pronunciation": "[zhuh vyan ah-vek TWAH]",
+    "back": "I'm coming with you.",
+    "context": "After prepositions, use stressed pronouns: avec toi (never 'avec tu')."
+  },
+  {
+    "id": "fr-304",
+    "front": "J'aime le café et le thé.",
+    "pronunciation": "[zhem luh kah-FAY ay luh TAY]",
+    "back": "I like coffee and tea.",
+    "context": "'Et' = and. Never pronounce the t."
+  },
+  {
+    "id": "fr-305",
+    "front": "Tu veux du thé ou du café ?",
+    "pronunciation": "[tü vuh dü TAY oo dü kah-FAY]",
+    "back": "Do you want tea or coffee?",
+    "context": "'Ou' = or. Don't confuse it with 'où' = where."
+  },
+  {
+    "id": "fr-306",
+    "front": "Je suis fatigué, mais content.",
+    "pronunciation": "[zhuh swee fah-tee-GAY, meh kohn-TAHN]",
+    "back": "I'm tired, but happy.",
+    "context": "'Mais' = but."
+  },
+  {
+    "id": "fr-307",
+    "front": "Je reste à la maison parce qu'il pleut.",
+    "pronunciation": "[zhuh rest ah lah meh-ZOHN pars keel PLUH]",
+    "back": "I'm staying home because it's raining.",
+    "context": "'Parce que' = because. 'Que' becomes 'qu'' before a vowel."
+  },
+  {
+    "id": "fr-308",
+    "front": "Il pleut, donc je prends mon parapluie.",
+    "pronunciation": "[eel PLUH, dohnk zhuh prahn mohn pah-rah-PLWEE]",
+    "back": "It's raining, so I'm taking my umbrella.",
+    "context": "'Donc' = so / therefore."
+  },
+  {
+    "id": "fr-309",
+    "front": "Je mange, puis je fais la vaisselle.",
+    "pronunciation": "[zhuh MAHNZH, pwee zhuh feh lah veh-SEL]",
+    "back": "I eat, then I do the dishes.",
+    "context": "'Puis' / 'ensuite' = then. 'D'abord… ensuite… enfin' = first… then… finally."
+  },
+  {
+    "id": "fr-310",
+    "front": "Quand tu arrives, appelle-moi.",
+    "pronunciation": "[kahn tü ah-REEV, ah-pel-MWAH]",
+    "back": "When you arrive, call me.",
+    "context": "'Quand' = when. Linked before a vowel: [kahn tü]."
+  },
+  {
+    "id": "fr-311",
+    "front": "Il travaille aussi le week-end.",
+    "pronunciation": "[eel trah-VYE oh-SEE luh wee-KEND]",
+    "back": "He works on weekends too.",
+    "context": "'Aussi' = also, too. 'Moi aussi' = me too; 'moi non plus' = me neither."
+  },
+  {
+    "id": "fr-312",
+    "front": "Je parle un peu français, mais pas très bien.",
+    "pronunciation": "[zhuh parl an puh frahn-SEH, meh pah treh BYAN]",
+    "back": "I speak a little French, but not very well.",
+    "context": "'Très' = very; 'un peu' = a little; 'beaucoup' = a lot."
+  },
+  {
+    "id": "fr-313",
+    "front": "Les enfants jouent dans le jardin.",
+    "pronunciation": "[lay zahn-FAHN zhoo dahn luh zhar-DAN]",
+    "back": "The children are playing in the garden.",
+    "context": "'Les' links before a vowel: [lay zahn-FAHN]. The -ent verb ending is silent."
+  },
+  {
+    "id": "fr-314",
+    "front": "Elles sont sœurs.",
+    "pronunciation": "[el sohn SUHR]",
+    "back": "They're sisters.",
+    "context": "'Elles' = they, for an all-female group."
+  },
+  {
+    "id": "fr-315",
+    "front": "C'est pour vous.",
+    "pronunciation": "[seh poor VOO]",
+    "back": "This is for you.",
+    "context": "'Pour' = for."
+  },
+  {
+    "id": "fr-316",
+    "front": "Il y a des pommes et une orange.",
+    "pronunciation": "[eel yah day PUM ay ün oh-RAHNZH]",
+    "back": "There are some apples and an orange.",
+    "context": "'Des' = plural of un/une."
+  },
+  {
+    "id": "fr-317",
+    "front": "Je n'ai pas de voiture.",
+    "pronunciation": "[zhuh neh pah duh vwah-TÜR]",
+    "back": "I don't have a car.",
+    "context": "After negation, un/une/des become 'de': j'ai une voiture → je n'ai pas DE voiture."
+  },
+  {
+    "id": "fr-318",
+    "front": "Le français, c'est difficile, mais c'est beau.",
+    "pronunciation": "[luh frahn-SEH, seh dee-fee-SEEL, meh seh BOH]",
+    "back": "French is difficult, but it's beautiful.",
+    "context": "A typical French structure: topic first, then 'c'est'."
+  },
+  {
+    "id": "fr-319",
+    "front": "Qui est-ce ? C'est elle.",
+    "pronunciation": "[kee ESS? seh TEL]",
+    "back": "Who is it? It's her.",
+    "context": "'Qui' = who. After 'c'est', use stressed pronouns: c'est moi, c'est lui, c'est elle."
+  },
+  {
+    "id": "fr-320",
+    "front": "Il ne parle ni anglais ni espagnol.",
+    "pronunciation": "[eel nuh parl nee ahn-GLEH nee es-pah-NYOL]",
+    "back": "He speaks neither English nor Spanish.",
+    "context": "'Ne… ni… ni' = neither… nor."
+  }
+]

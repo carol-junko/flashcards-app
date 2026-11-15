@@ -56,6 +56,18 @@ test('cards listing alternatives ("Um / Uma") are only used for matching', () =>
   }
 })
 
+test('list cards (pronoun lists, conjugation tables) are never used', () => {
+  const cards = [
+    { id: 'l1', front: 'je, tu, il, elle, on, nous, vous, ils, elles', back: 'subject pronouns' },
+    { id: 'l2', front: 'Je suis, tu es, il est, nous sommes, vous êtes, ils sont.', back: 'être' },
+    ...deck.slice(0, 10),
+  ]
+  for (let seed = 1; seed < 15; seed++) {
+    const text = JSON.stringify(generateExercises(cards, { random: seeded(seed) }))
+    assert.doesNotMatch(text, /je, tu, il|tu es, il est/)
+  }
+})
+
 test('stripAccents', () => {
   assert.equal(stripAccents('Você está ótimo, não?'), 'Voce esta otimo, nao?')
 })

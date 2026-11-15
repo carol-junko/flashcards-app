@@ -1,0 +1,352 @@
+[
+  {
+    "id": "fr-036",
+    "front": "zéro",
+    "pronunciation": "[zay-ROH]",
+    "back": "zero",
+    "context": "Also used in scores and phone numbers. 'Zéro pointé' = a big fat zero."
+  },
+  {
+    "id": "fr-037",
+    "front": "un / une",
+    "pronunciation": "[AN / ÜN]",
+    "back": "one",
+    "context": "'Un' before masculine nouns (un café), 'une' before feminine nouns (une pomme)."
+  },
+  {
+    "id": "fr-038",
+    "front": "deux",
+    "pronunciation": "[DUH]",
+    "back": "two",
+    "context": "Before a vowel the x sounds like z: 'deux amis' [duh-zah-MEE]."
+  },
+  {
+    "id": "fr-039",
+    "front": "trois",
+    "pronunciation": "[TRWAH]",
+    "back": "three",
+    "context": "Linking: 'trois enfants' [trwah-zahn-FAHN]."
+  },
+  {
+    "id": "fr-040",
+    "front": "quatre",
+    "pronunciation": "[KAH-truh]",
+    "back": "four",
+    "context": "In fast speech often just [KAT]."
+  },
+  {
+    "id": "fr-041",
+    "front": "cinq",
+    "pronunciation": "[SANK]",
+    "back": "five",
+    "context": "The q is pronounced, except sometimes before a consonant: 'cinq livres' [san LEE-vruh]."
+  },
+  {
+    "id": "fr-042",
+    "front": "six",
+    "pronunciation": "[SEES]",
+    "back": "six",
+    "context": "Pronounced [SEE] before a consonant (six livres) and [SEEZ] before a vowel (six ans)."
+  },
+  {
+    "id": "fr-043",
+    "front": "sept",
+    "pronunciation": "[SET]",
+    "back": "seven",
+    "context": "The p is silent."
+  },
+  {
+    "id": "fr-044",
+    "front": "huit",
+    "pronunciation": "[WEET]",
+    "back": "eight",
+    "context": "No linking before huit: 'le huit' (not l'huit)."
+  },
+  {
+    "id": "fr-045",
+    "front": "neuf",
+    "pronunciation": "[NUHF]",
+    "back": "nine",
+    "context": "Becomes [nuhv] in 'neuf ans' and 'neuf heures'."
+  },
+  {
+    "id": "fr-046",
+    "front": "dix",
+    "pronunciation": "[DEES]",
+    "back": "ten",
+    "context": "Same pattern as six: [DEE] before a consonant, [DEEZ] before a vowel."
+  },
+  {
+    "id": "fr-047",
+    "front": "onze",
+    "pronunciation": "[OHNZ]",
+    "back": "eleven",
+    "context": "No elision before onze: 'le onze novembre'."
+  },
+  {
+    "id": "fr-048",
+    "front": "douze",
+    "pronunciation": "[DOOZ]",
+    "back": "twelve",
+    "context": "'Une douzaine' = a dozen (of eggs, oysters…)."
+  },
+  {
+    "id": "fr-049",
+    "front": "quinze",
+    "pronunciation": "[KANZ]",
+    "back": "fifteen",
+    "context": "'Quinze jours' means two weeks in everyday French."
+  },
+  {
+    "id": "fr-050",
+    "front": "seize",
+    "pronunciation": "[SEZ]",
+    "back": "sixteen",
+    "context": "The last number with its own name. From 17: dix-sept, dix-huit, dix-neuf."
+  },
+  {
+    "id": "fr-051",
+    "front": "dix-sept",
+    "pronunciation": "[dees-SET]",
+    "back": "seventeen",
+    "context": "Literally ten-seven. Same logic for dix-huit and dix-neuf."
+  },
+  {
+    "id": "fr-052",
+    "front": "vingt",
+    "pronunciation": "[VAN]",
+    "back": "twenty",
+    "context": "The g and t are silent, except in 21–29: vingt-deux [vant-DUH]."
+  },
+  {
+    "id": "fr-053",
+    "front": "vingt et un",
+    "pronunciation": "[vant ay AN]",
+    "back": "twenty-one",
+    "context": "21, 31, 41, 51, 61 and 71 use 'et': trente et un, soixante et onze."
+  },
+  {
+    "id": "fr-054",
+    "front": "trente",
+    "pronunciation": "[TRAHNT]",
+    "back": "thirty",
+    "context": "Then quarante (40), cinquante (50), soixante (60)."
+  },
+  {
+    "id": "fr-055",
+    "front": "soixante",
+    "pronunciation": "[swah-SAHNT]",
+    "back": "sixty",
+    "context": "The x sounds like s."
+  },
+  {
+    "id": "fr-056",
+    "front": "soixante-dix",
+    "pronunciation": "[swah-sahnt-DEES]",
+    "back": "seventy",
+    "context": "Literally sixty-ten: 71 = soixante et onze, 72 = soixante-douze… In Belgium and Switzerland: septante."
+  },
+  {
+    "id": "fr-057",
+    "front": "quatre-vingts",
+    "pronunciation": "[kah-truh-VAN]",
+    "back": "eighty",
+    "context": "Literally four twenties. It takes an s only when nothing follows: quatre-vingt-un has no s."
+  },
+  {
+    "id": "fr-058",
+    "front": "quatre-vingt-dix",
+    "pronunciation": "[kah-truh-van-DEES]",
+    "back": "ninety",
+    "context": "Four twenties and ten: 99 = quatre-vingt-dix-neuf. Belgians and Swiss say nonante."
+  },
+  {
+    "id": "fr-059",
+    "front": "cent",
+    "pronunciation": "[SAHN]",
+    "back": "one hundred",
+    "context": "Never 'un cent'. Deux cents takes an s, but deux cent dix doesn't."
+  },
+  {
+    "id": "fr-060",
+    "front": "mille",
+    "pronunciation": "[MEEL]",
+    "back": "one thousand",
+    "context": "Never takes an s: deux mille, trois mille."
+  },
+  {
+    "id": "fr-061",
+    "front": "Quelle heure est-il ?",
+    "pronunciation": "[kel uhr eh-TEEL]",
+    "back": "What time is it?",
+    "context": "The polite, standard question. In speech: 'Il est quelle heure ?'"
+  },
+  {
+    "id": "fr-062",
+    "front": "Il est trois heures et demie.",
+    "pronunciation": "[eel eh trwah ZUHR ay duh-MEE]",
+    "back": "It's half past three.",
+    "context": "'Et demie' = half past; 'et quart' = quarter past; 'moins le quart' = quarter to."
+  },
+  {
+    "id": "fr-063",
+    "front": "Il est midi.",
+    "pronunciation": "[eel eh mee-DEE]",
+    "back": "It's noon.",
+    "context": "'Minuit' = midnight. Don't say 'douze heures' in conversation for noon (though it's correct in timetables)."
+  },
+  {
+    "id": "fr-064",
+    "front": "Le train part à dix-huit heures trente.",
+    "pronunciation": "[luh tran par ah dee-zwee tuhr TRAHNT]",
+    "back": "The train leaves at 6:30 p.m.",
+    "context": "France uses the 24-hour clock for timetables, appointments and official times."
+  },
+  {
+    "id": "fr-065",
+    "front": "À quelle heure ouvre la boulangerie ?",
+    "pronunciation": "[ah kel uhr OO-vruh lah boo-lahn-zhuh-REE]",
+    "back": "What time does the bakery open?",
+    "context": "'À quelle heure…?' = at what time…? 'Ferme' = closes."
+  },
+  {
+    "id": "fr-066",
+    "front": "lundi",
+    "pronunciation": "[lan-DEE]",
+    "back": "Monday",
+    "context": "Days of the week are masculine and written with a small letter. The week starts on Monday in France."
+  },
+  {
+    "id": "fr-067",
+    "front": "mardi",
+    "pronunciation": "[mar-DEE]",
+    "back": "Tuesday",
+    "context": "From Mars. 'Mardi gras' = Shrove Tuesday."
+  },
+  {
+    "id": "fr-068",
+    "front": "mercredi",
+    "pronunciation": "[mehr-kruh-DEE]",
+    "back": "Wednesday",
+    "context": "Primary schools often have no classes on Wednesday afternoon in France."
+  },
+  {
+    "id": "fr-069",
+    "front": "jeudi",
+    "pronunciation": "[zhuh-DEE]",
+    "back": "Thursday",
+    "context": "From Jupiter ('Jove')."
+  },
+  {
+    "id": "fr-070",
+    "front": "vendredi",
+    "pronunciation": "[vahn-druh-DEE]",
+    "back": "Friday",
+    "context": "From Venus."
+  },
+  {
+    "id": "fr-071",
+    "front": "samedi",
+    "pronunciation": "[sahm-DEE]",
+    "back": "Saturday",
+    "context": "'Le samedi' (with an article) = on Saturdays, every Saturday."
+  },
+  {
+    "id": "fr-072",
+    "front": "dimanche",
+    "pronunciation": "[dee-MAHNSH]",
+    "back": "Sunday",
+    "context": "Many shops are closed on Sunday in France."
+  },
+  {
+    "id": "fr-073",
+    "front": "janvier",
+    "pronunciation": "[zhahn-vee-AY]",
+    "back": "January",
+    "context": "Months are masculine and written with a small letter: en janvier, au mois de janvier."
+  },
+  {
+    "id": "fr-074",
+    "front": "février",
+    "pronunciation": "[fay-vree-AY]",
+    "back": "February",
+    "context": "Then mars (March), avril (April), mai (May)."
+  },
+  {
+    "id": "fr-075",
+    "front": "juin",
+    "pronunciation": "[ZHWAN]",
+    "back": "June",
+    "context": "Don't confuse it with juillet (July) [zhwee-YEH]."
+  },
+  {
+    "id": "fr-076",
+    "front": "juillet",
+    "pronunciation": "[zhwee-YEH]",
+    "back": "July",
+    "context": "'Le 14 juillet' (Bastille Day) is the national holiday."
+  },
+  {
+    "id": "fr-077",
+    "front": "août",
+    "pronunciation": "[OOT]",
+    "back": "August",
+    "context": "Usually pronounced [OOT] (sometimes [OO]). Many French people go on holiday in August."
+  },
+  {
+    "id": "fr-078",
+    "front": "septembre",
+    "pronunciation": "[sep-TAHM-bruh]",
+    "back": "September",
+    "context": "Then octobre, novembre, décembre."
+  },
+  {
+    "id": "fr-079",
+    "front": "Quelle est la date aujourd'hui ?",
+    "pronunciation": "[kel eh lah daht oh-zhoor-DWEE]",
+    "back": "What's the date today?",
+    "context": "Also: 'On est le combien aujourd'hui ?' (casual)."
+  },
+  {
+    "id": "fr-080",
+    "front": "Nous sommes le premier mai.",
+    "pronunciation": "[noo sum luh pruh-myay MEH]",
+    "back": "Today is May 1st.",
+    "context": "Only the first day uses an ordinal (le premier); after that: le deux mai, le trois mai."
+  },
+  {
+    "id": "fr-081",
+    "front": "Mon anniversaire, c'est le douze avril.",
+    "pronunciation": "[mohn nah-nee-vehr-SEHR, seh luh dooz ah-VREEL]",
+    "back": "My birthday is April 12th.",
+    "context": "French dates go day-month-year: 12/04 = 12 April."
+  },
+  {
+    "id": "fr-082",
+    "front": "Je suis né en mille neuf cent quatre-vingt-quinze.",
+    "pronunciation": "[zhuh swee nay ahn meel nuhf sahn kah-truh-van-KANZ]",
+    "back": "I was born in 1995.",
+    "context": "Years are read as full numbers: mil neuf cent… A woman writes 'née'."
+  },
+  {
+    "id": "fr-083",
+    "front": "Il y a quatre saisons : le printemps, l'été, l'automne et l'hiver.",
+    "pronunciation": "[eel yah kah-truh seh-ZOHN: luh pran-TAHN, lay-TAY, loh-TUN ay lee-VEHR]",
+    "back": "There are four seasons: spring, summer, autumn and winter.",
+    "context": "'Au printemps' but 'en été, en automne, en hiver'."
+  },
+  {
+    "id": "fr-084",
+    "front": "Le rendez-vous est dans deux semaines.",
+    "pronunciation": "[luh rahn-day-VOO eh dahn duh suh-MEN]",
+    "back": "The appointment is in two weeks.",
+    "context": "'Dans' + time = in (from now). 'Il y a deux semaines' = two weeks ago."
+  },
+  {
+    "id": "fr-085",
+    "front": "Ça coûte vingt-cinq euros cinquante.",
+    "pronunciation": "[sah koot vant-sank uh-ROH san-KAHNT]",
+    "back": "That costs 25 euros 50.",
+    "context": "Prices: euros first, then cents, often without saying 'centimes'. Linking: 'vingt-cinq euros' [vant-san-kuh-ROH]."
+  }
+]

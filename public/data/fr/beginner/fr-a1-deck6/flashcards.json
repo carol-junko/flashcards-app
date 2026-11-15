@@ -1,0 +1,212 @@
+[
+  {
+    "id": "fr-181",
+    "front": "le téléphone / le portable",
+    "pronunciation": "[luh tay-lay-FUN / luh por-TAH-bluh]",
+    "back": "phone / mobile phone",
+    "context": "In France a cell phone is 'un portable' or 'un smartphone'."
+  },
+  {
+    "id": "fr-182",
+    "front": "les clés",
+    "pronunciation": "[lay KLAY]",
+    "back": "keys",
+    "context": "Also spelled 'les clefs'. 'J'ai perdu mes clés' = I lost my keys."
+  },
+  {
+    "id": "fr-183",
+    "front": "le portefeuille",
+    "pronunciation": "[luh port-FUH-yuh]",
+    "back": "wallet",
+    "context": "Literally 'carry-leaf'. 'Le porte-monnaie' = coin purse."
+  },
+  {
+    "id": "fr-184",
+    "front": "le sac",
+    "pronunciation": "[luh SAK]",
+    "back": "bag",
+    "context": "'Un sac à main' = handbag; 'un sac à dos' = backpack."
+  },
+  {
+    "id": "fr-185",
+    "front": "le livre / le cahier",
+    "pronunciation": "[luh LEE-vruh / luh kah-YAY]",
+    "back": "book / notebook",
+    "context": "'Un cahier' is the school exercise book."
+  },
+  {
+    "id": "fr-186",
+    "front": "le stylo / le crayon",
+    "pronunciation": "[luh stee-LOH / luh kreh-YOHN]",
+    "back": "pen / pencil",
+    "context": "'Un crayon' is a pencil, not a crayon (which is 'un crayon de couleur')."
+  },
+  {
+    "id": "fr-187",
+    "front": "l'ordinateur",
+    "pronunciation": "[lor-dee-nah-TUHR]",
+    "back": "computer",
+    "context": "'Un ordinateur portable' = a laptop."
+  },
+  {
+    "id": "fr-188",
+    "front": "la montre",
+    "pronunciation": "[lah MOHN-truh]",
+    "back": "watch",
+    "context": "'Montrer' = to show; 'la montre' = the thing that shows the time."
+  },
+  {
+    "id": "fr-189",
+    "front": "les lunettes de soleil",
+    "pronunciation": "[lay lü-NET duh soh-LAY]",
+    "back": "sunglasses",
+    "context": "Always plural, like 'les lunettes'."
+  },
+  {
+    "id": "fr-190",
+    "front": "le parapluie",
+    "pronunciation": "[luh pah-rah-PLWEE]",
+    "back": "umbrella",
+    "context": "'Para' (against) + 'pluie' (rain)."
+  },
+  {
+    "id": "fr-191",
+    "front": "la chaise / la table",
+    "pronunciation": "[lah SHEZ / lah TAH-bluh]",
+    "back": "chair / table",
+    "context": "Both feminine. 'À table !' = Dinner's ready!"
+  },
+  {
+    "id": "fr-192",
+    "front": "la fenêtre / la porte",
+    "pronunciation": "[lah fuh-NEH-truh / lah PORT]",
+    "back": "window / door",
+    "context": "'Ouvrir la fenêtre' = to open the window."
+  },
+  {
+    "id": "fr-193",
+    "front": "la voiture",
+    "pronunciation": "[lah vwah-TÜR]",
+    "back": "car",
+    "context": "Informally: 'la bagnole'. In Québec: 'le char'."
+  },
+  {
+    "id": "fr-194",
+    "front": "le vélo",
+    "pronunciation": "[luh vay-LOH]",
+    "back": "bike",
+    "context": "Short for 'vélocipède'. Many French cities have bike-sharing systems."
+  },
+  {
+    "id": "fr-195",
+    "front": "la bouteille / le verre / la tasse",
+    "pronunciation": "[lah boo-TAY / luh VEHR / lah TAHS]",
+    "back": "bottle / glass / cup",
+    "context": "'Une tasse de thé' = a cup of tea; 'une tasse à thé' = a teacup."
+  },
+  {
+    "id": "fr-196",
+    "front": "C'est quoi, ça ?",
+    "pronunciation": "[seh KWAH, SAH]",
+    "back": "What's that?",
+    "context": "Casual. More standard: 'Qu'est-ce que c'est ?'"
+  },
+  {
+    "id": "fr-197",
+    "front": "Qu'est-ce que c'est ?",
+    "pronunciation": "[kehs-kuh SEH]",
+    "back": "What is it?",
+    "context": "The standard question to ask what something is. Answer: 'C'est un…' / 'C'est une…'"
+  },
+  {
+    "id": "fr-198",
+    "front": "C'est un cadeau pour toi.",
+    "pronunciation": "[seh tan kah-DOH poor TWAH]",
+    "back": "It's a present for you.",
+    "context": "'C'est un/une' introduces a thing; 'ce sont des' for plurals."
+  },
+  {
+    "id": "fr-199",
+    "front": "C'est à qui, ce sac ?",
+    "pronunciation": "[seh tah KEE, suh SAK]",
+    "back": "Whose bag is this?",
+    "context": "'Être à quelqu'un' = to belong to someone. Answer: 'C'est à moi' = it's mine."
+  },
+  {
+    "id": "fr-200",
+    "front": "C'est à moi.",
+    "pronunciation": "[seh tah MWAH]",
+    "back": "It's mine.",
+    "context": "Also: c'est à toi (yours), à lui (his), à elle (hers), à nous (ours)."
+  },
+  {
+    "id": "fr-201",
+    "front": "C'est mon livre, pas le tien.",
+    "pronunciation": "[seh mohn LEE-vruh, pah luh TYAN]",
+    "back": "It's my book, not yours.",
+    "context": "'Le tien / la tienne' = yours (informal). 'Le vôtre / la vôtre' = yours (formal or plural)."
+  },
+  {
+    "id": "fr-202",
+    "front": "Où sont mes lunettes ?",
+    "pronunciation": "[oo sohn may lü-NET]",
+    "back": "Where are my glasses?",
+    "context": "'Mes' (my) is plural: mon (m), ma (f), mes (pl). Before a vowel: mon amie."
+  },
+  {
+    "id": "fr-203",
+    "front": "Mes clés sont sur la table.",
+    "pronunciation": "[may klay sohn sür lah TAH-bluh]",
+    "back": "My keys are on the table.",
+    "context": "'Sur' = on; 'sous' = under; 'dans' = in."
+  },
+  {
+    "id": "fr-204",
+    "front": "Le chargeur est dans mon sac.",
+    "pronunciation": "[luh shar-ZHUHR eh dahn mohn SAK]",
+    "back": "The charger is in my bag.",
+    "context": "'Dans' = inside something."
+  },
+  {
+    "id": "fr-205",
+    "front": "Le chat dort sous le lit.",
+    "pronunciation": "[luh SHAH dor soo luh LEE]",
+    "back": "The cat is sleeping under the bed.",
+    "context": "Don't confuse 'sous' [soo] (under) with 'sur' [sür] (on)."
+  },
+  {
+    "id": "fr-206",
+    "front": "J'ai besoin d'un stylo.",
+    "pronunciation": "[zhay buh-ZWAN dan stee-LOH]",
+    "back": "I need a pen.",
+    "context": "'Avoir besoin de' = to need. Very useful at A1."
+  },
+  {
+    "id": "fr-207",
+    "front": "Tu peux me prêter ton parapluie ?",
+    "pronunciation": "[tü puh muh preh-TAY tohn pah-rah-PLWEE]",
+    "back": "Can you lend me your umbrella?",
+    "context": "'Prêter' = to lend; 'emprunter' = to borrow."
+  },
+  {
+    "id": "fr-208",
+    "front": "Il y a des livres partout !",
+    "pronunciation": "[eel yah day LEE-vruh par-TOO]",
+    "back": "There are books everywhere!",
+    "context": "'Partout' = everywhere; 'nulle part' = nowhere."
+  },
+  {
+    "id": "fr-209",
+    "front": "Ces chaussures sont neuves.",
+    "pronunciation": "[say shoh-SÜR sohn NUHV]",
+    "back": "These shoes are new.",
+    "context": "'Neuf/neuve' = brand new; 'nouveau/nouvelle' = new (to me, different)."
+  },
+  {
+    "id": "fr-210",
+    "front": "Je cherche mon portable, tu l'as vu ?",
+    "pronunciation": "[zhuh shersh mohn por-TAH-bluh, tü lah VÜ]",
+    "back": "I'm looking for my phone, have you seen it?",
+    "context": "'Chercher' = to look for (no 'pour' needed)."
+  }
+]

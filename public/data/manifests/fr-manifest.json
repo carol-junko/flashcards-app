@@ -5,7 +5,698 @@
     "level": "Beginner",
     "category": "Essentials",
     "title": "French Survival Phrases",
-    "description": "Essential introductory vocabulary for navigating everyday interactions seamlessly.",
-    "cardCount": 20
+    "description": "Essential greetings, courtesy phrases and questions to get through everyday interactions.",
+    "cardCount": 35
+  },
+  {
+    "id": "fr-a1-deck2",
+    "languageId": "fr",
+    "level": "Beginner",
+    "category": "Numbers & Time",
+    "title": "Numbers, Days & Months",
+    "description": "Count from 0 to 1,000, tell the time and talk about days, months and dates.",
+    "cardCount": 50
+  },
+  {
+    "id": "fr-a1-deck3",
+    "languageId": "fr",
+    "level": "Beginner",
+    "category": "Personal Info",
+    "title": "All About Me",
+    "description": "Introduce yourself: name, age, nationality, profession and where you live.",
+    "cardCount": 30
+  },
+  {
+    "id": "fr-a1-deck4",
+    "languageId": "fr",
+    "level": "Beginner",
+    "category": "Family & Home",
+    "title": "Family Members & Rooms",
+    "description": "Talk about your immediate family and the rooms and furniture of a home.",
+    "cardCount": 30
+  },
+  {
+    "id": "fr-a1-deck5",
+    "languageId": "fr",
+    "level": "Beginner",
+    "category": "Food Basics",
+    "title": "Staple Foods & Drinks",
+    "description": "Everyday foods, bakery classics, fruit and drinks, with the right articles.",
+    "cardCount": 35
+  },
+  {
+    "id": "fr-a1-deck6",
+    "languageId": "fr",
+    "level": "Beginner",
+    "category": "Everyday Objects",
+    "title": "Objects & Belongings",
+    "description": "Name common objects, say what belongs to whom and where things are.",
+    "cardCount": 30
+  },
+  {
+    "id": "fr-a1-deck7",
+    "languageId": "fr",
+    "level": "Beginner",
+    "category": "Descriptions",
+    "title": "Colors & Basic Adjectives",
+    "description": "Describe people and things, with adjective agreement and position.",
+    "cardCount": 30
+  },
+  {
+    "id": "fr-a1-deck8",
+    "languageId": "fr",
+    "level": "Beginner",
+    "category": "Grammar Verbs",
+    "title": "The Verbs 'Être' & 'Avoir'",
+    "description": "The two pillars of French: identity, states, age, possession and common expressions.",
+    "cardCount": 25
+  },
+  {
+    "id": "fr-a1-deck9",
+    "languageId": "fr",
+    "level": "Beginner",
+    "category": "Grammar Verbs",
+    "title": "The Verbs 'Aller' & 'Faire'",
+    "description": "Going places, the near future and the many everyday uses of faire.",
+    "cardCount": 25
+  },
+  {
+    "id": "fr-a1-deck10",
+    "languageId": "fr",
+    "level": "Beginner",
+    "category": "Grammar Basics",
+    "title": "Articles, Pronouns & Connectors",
+    "description": "Le/la/les vs un/une/des, subject pronouns including on, and simple connectors.",
+    "cardCount": 30
+  },
+  {
+    "id": "fr-a2-deck11",
+    "languageId": "fr",
+    "level": "Elementary",
+    "category": "Shopping & Money",
+    "title": "Prices, Shops & Clothes",
+    "description": "Ask for prices and sizes, shop at the market and talk about clothes.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-a2-deck12",
+    "languageId": "fr",
+    "level": "Elementary",
+    "category": "Dining Out",
+    "title": "Ordering at a Restaurant & Café",
+    "description": "Book a table, order, ask for the bill and understand French dining etiquette.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-a2-deck13",
+    "languageId": "fr",
+    "level": "Elementary",
+    "category": "Directions & Travel",
+    "title": "Getting Around & Transport",
+    "description": "Metro, train and bus, buying tickets and asking for directions.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-a2-deck14",
+    "languageId": "fr",
+    "level": "Elementary",
+    "category": "Weather & Climate",
+    "title": "Talking About the Weather",
+    "description": "Weather expressions with faire and il y a, seasons and forecasts.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-a2-deck15",
+    "languageId": "fr",
+    "level": "Elementary",
+    "category": "Workplace Basics",
+    "title": "Professions & Office Life",
+    "description": "Jobs, the workplace, colleagues and polite professional exchanges.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-a2-deck16",
+    "languageId": "fr",
+    "level": "Elementary",
+    "category": "Health & Body",
+    "title": "Body Parts & Wellness",
+    "description": "Say where it hurts, see a doctor and talk about healthy habits.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-a2-deck17",
+    "languageId": "fr",
+    "level": "Elementary",
+    "category": "Hobbies & Leisure",
+    "title": "Sports, Music & Free Time",
+    "description": "Talk about hobbies with jouer à / jouer de and faire du.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-a2-deck18",
+    "languageId": "fr",
+    "level": "Elementary",
+    "category": "Local Slang",
+    "title": "Essential Everyday French",
+    "description": "The informal French people really speak: ça marche, bof, truc, sympa and more.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-a2-deck19",
+    "languageId": "fr",
+    "level": "Elementary",
+    "category": "Grammar Verbs",
+    "title": "Regular -ER Verbs (Present)",
+    "description": "Conjugate the largest verb family, with spelling changes like manger and appeler.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-a2-deck20",
+    "languageId": "fr",
+    "level": "Elementary",
+    "category": "Grammar Verbs",
+    "title": "-IR & -RE Verbs (Present)",
+    "description": "Finir, partir, prendre, attendre and other key verbs in the present.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-a2-deck21",
+    "languageId": "fr",
+    "level": "Elementary",
+    "category": "Grammar Basics",
+    "title": "Past Tense: Le Passé Composé",
+    "description": "Talk about completed actions with avoir and être, and past participle agreement.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-a2-deck22",
+    "languageId": "fr",
+    "level": "Elementary",
+    "category": "Grammar Basics",
+    "title": "Prepositions of Place",
+    "description": "À, en, au, chez, dans, sur, sous and prepositions with countries and cities.",
+    "cardCount": 30,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-a2-deck23",
+    "languageId": "fr",
+    "level": "Elementary",
+    "category": "Grammar Basics",
+    "title": "Making Requests & Commands",
+    "description": "The imperative, polite requests with pouvoir and vouloir, and the conditional of politeness.",
+    "cardCount": 30,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-a2-deck24",
+    "languageId": "fr",
+    "level": "Elementary",
+    "category": "Daily Routine",
+    "title": "From Morning to Night",
+    "description": "Pronominal verbs (se lever, se coucher) to describe your day.",
+    "cardCount": 30,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-a2-deck25",
+    "languageId": "fr",
+    "level": "Elementary",
+    "category": "Socializing",
+    "title": "Invitations & Planning",
+    "description": "Invite, accept, decline politely and make plans with friends.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b1-deck26",
+    "languageId": "fr",
+    "level": "Intermediate",
+    "category": "Expressing Opinions",
+    "title": "Agreeing & Disagreeing",
+    "description": "Give your opinion, agree, disagree and nuance your position.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b1-deck27",
+    "languageId": "fr",
+    "level": "Intermediate",
+    "category": "Expressing Opinions",
+    "title": "Doubts & Certainty",
+    "description": "Express certainty, doubt and probability, with a first look at the subjunctive.",
+    "cardCount": 30,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b1-deck28",
+    "languageId": "fr",
+    "level": "Intermediate",
+    "category": "Tourism in France",
+    "title": "Hotel Check-ins & Bookings",
+    "description": "Book accommodation, check in, ask about services and solve problems.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b1-deck29",
+    "languageId": "fr",
+    "level": "Intermediate",
+    "category": "Tourism in France",
+    "title": "Sightseeing & Attractions",
+    "description": "Museums, monuments, guided tours and the regions of France.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b1-deck30",
+    "languageId": "fr",
+    "level": "Intermediate",
+    "category": "Feelings & Emotions",
+    "title": "Moods & Emotional States",
+    "description": "Describe feelings and reactions with avoir, être and se sentir.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b1-deck31",
+    "languageId": "fr",
+    "level": "Intermediate",
+    "category": "Technology & Media",
+    "title": "Social Media & Internet",
+    "description": "Posting, sharing, streaming and online life in French.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b1-deck32",
+    "languageId": "fr",
+    "level": "Intermediate",
+    "category": "Technology & Media",
+    "title": "Computers & Gadgets",
+    "description": "Devices, apps, technical problems and getting help.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b1-deck33",
+    "languageId": "fr",
+    "level": "Intermediate",
+    "category": "Services",
+    "title": "At the Bank & Money Matters",
+    "description": "Open an account, transfers, cards and everyday money in France.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b1-deck34",
+    "languageId": "fr",
+    "level": "Intermediate",
+    "category": "Services",
+    "title": "At the Pharmacy & Post Office",
+    "description": "Medicines, prescriptions, parcels and administrative errands.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b1-deck35",
+    "languageId": "fr",
+    "level": "Intermediate",
+    "category": "Emergencies",
+    "title": "Safety & Urgent Situations",
+    "description": "Emergency numbers, reporting a problem and asking for urgent help.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b1-deck36",
+    "languageId": "fr",
+    "level": "Intermediate",
+    "category": "Style & Fashion",
+    "title": "Describing Outfits & Styles",
+    "description": "Clothing, style and fashion vocabulary, from the street to Paris Fashion Week.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b1-deck37",
+    "languageId": "fr",
+    "level": "Intermediate",
+    "category": "Grammar Basics",
+    "title": "Past Tense: L'Imparfait",
+    "description": "Describe the past: habits, settings and ongoing actions.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b1-deck38",
+    "languageId": "fr",
+    "level": "Intermediate",
+    "category": "Grammar Basics",
+    "title": "Imparfait vs Passé Composé",
+    "description": "Combine the two past tenses to tell a story.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b1-deck39",
+    "languageId": "fr",
+    "level": "Intermediate",
+    "category": "Grammar Basics",
+    "title": "The Simple Future Tense",
+    "description": "Plans, predictions and promises with the futur simple.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b1-deck40",
+    "languageId": "fr",
+    "level": "Intermediate",
+    "category": "Grammar Basics",
+    "title": "The Conditional Tense",
+    "description": "Wishes, advice, hypotheses and politeness with the conditionnel.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b1-deck41",
+    "languageId": "fr",
+    "level": "Intermediate",
+    "category": "Grammar Basics",
+    "title": "Object Pronouns: le, lui, y, en",
+    "description": "Replace nouns with COD, COI, y and en, and get their order right.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b1-deck42",
+    "languageId": "fr",
+    "level": "Intermediate",
+    "category": "Narrating Stories",
+    "title": "Describing Childhood Memories",
+    "description": "Tell stories about your childhood with the imparfait.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b1-deck43",
+    "languageId": "fr",
+    "level": "Intermediate",
+    "category": "Narrating Stories",
+    "title": "Talking About Your Weekend",
+    "description": "Recount recent events with the passé composé and time markers.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b1-deck44",
+    "languageId": "fr",
+    "level": "Intermediate",
+    "category": "Preferences",
+    "title": "Comparing Things & People",
+    "description": "Plus, moins, aussi, autant, and irregular meilleur and mieux.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b1-deck45",
+    "languageId": "fr",
+    "level": "Intermediate",
+    "category": "Preferences",
+    "title": "Superlatives & Extremes",
+    "description": "Le plus, le moins, le meilleur, and expressing extremes.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b2-deck46",
+    "languageId": "fr",
+    "level": "Upper-Intermediate",
+    "category": "Current Events & News",
+    "title": "Modern France: Economy, Society & Environment",
+    "description": "Discuss the economy, strikes, social debates and ecology in today's France.",
+    "cardCount": 50,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b2-deck47",
+    "languageId": "fr",
+    "level": "Upper-Intermediate",
+    "category": "Business & Negotiations",
+    "title": "Business & Professional Communication",
+    "description": "Emails, meetings, negotiation and formal registers at work.",
+    "cardCount": 45,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b2-deck48",
+    "languageId": "fr",
+    "level": "Upper-Intermediate",
+    "category": "French Culture",
+    "title": "Festivals & Regional Traditions",
+    "description": "From the 14 juillet to Breton fest-noz: celebrations and regional identities.",
+    "cardCount": 45,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b2-deck49",
+    "languageId": "fr",
+    "level": "Upper-Intermediate",
+    "category": "Gastronomy",
+    "title": "Gastronomy & Culinary Arts",
+    "description": "Cooking techniques, wine, cheese and the culture of the French table.",
+    "cardCount": 45,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b2-deck50",
+    "languageId": "fr",
+    "level": "Upper-Intermediate",
+    "category": "Relationships",
+    "title": "Relationships & Social Nuances",
+    "description": "Tu vs vous, friendship, dating and the unwritten rules of French social life.",
+    "cardCount": 45,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b2-deck51",
+    "languageId": "fr",
+    "level": "Upper-Intermediate",
+    "category": "Advanced Idioms",
+    "title": "Argot & Verlan",
+    "description": "Street French and verlan: meuf, relou, chelou, ouf and more.",
+    "cardCount": 45,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b2-deck52",
+    "languageId": "fr",
+    "level": "Upper-Intermediate",
+    "category": "Advanced Idioms",
+    "title": "Everyday French Idioms",
+    "description": "Colorful idioms like avoir le cafard, poser un lapin and coûter les yeux de la tête.",
+    "cardCount": 45,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b2-deck53",
+    "languageId": "fr",
+    "level": "Upper-Intermediate",
+    "category": "Abstract Concepts",
+    "title": "Life, Values & Ambition",
+    "description": "Talk about values, goals, success and life choices.",
+    "cardCount": 45,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b2-deck54",
+    "languageId": "fr",
+    "level": "Upper-Intermediate",
+    "category": "Grammar Subjunctive",
+    "title": "Present Subjunctive Mastery",
+    "description": "When and how to use the subjonctif présent after verbs and conjunctions.",
+    "cardCount": 45,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b2-deck55",
+    "languageId": "fr",
+    "level": "Upper-Intermediate",
+    "category": "Grammar Subjunctive",
+    "title": "Past Subjunctive & Sequence of Tenses",
+    "description": "Subjonctif passé, plus-que-parfait and reported speech.",
+    "cardCount": 45,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b2-deck56",
+    "languageId": "fr",
+    "level": "Upper-Intermediate",
+    "category": "Grammar Basics",
+    "title": "Advanced Sentence Structures",
+    "description": "Relative pronouns (dont, lequel, auquel), the passive voice and emphasis.",
+    "cardCount": 45,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-b2-deck57",
+    "languageId": "fr",
+    "level": "Upper-Intermediate",
+    "category": "Debating",
+    "title": "Debating & Media Literacy",
+    "description": "Structure arguments, concede and refute, and read the news critically.",
+    "cardCount": 50,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-c1-deck58",
+    "languageId": "fr",
+    "level": "Advanced",
+    "category": "Legal & Admin",
+    "title": "Legal, Administrative & Relocation Essentials",
+    "description": "Leases, the préfecture and residence permits, CAF, Sécu and formal letters.",
+    "cardCount": 50,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-c1-deck59",
+    "languageId": "fr",
+    "level": "Advanced",
+    "category": "Academic Writing",
+    "title": "Academic Writing & Oratory",
+    "description": "The dissertation and its plan, formal connectors and presentations.",
+    "cardCount": 45,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-c1-deck60",
+    "languageId": "fr",
+    "level": "Advanced",
+    "category": "Literature & Art",
+    "title": "Literature, Poetry & Arts Critique",
+    "description": "Hugo, Proust, Camus, Baudelaire, the Nouvelle Vague and the vocabulary of criticism.",
+    "cardCount": 50,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-c1-deck61",
+    "languageId": "fr",
+    "level": "Advanced",
+    "category": "Debating",
+    "title": "Elite Persuasion & Public Speaking",
+    "description": "Rhetoric, emphasis and handling difficult questions in public.",
+    "cardCount": 45,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-c1-deck62",
+    "languageId": "fr",
+    "level": "Advanced",
+    "category": "Metaphors & Proverbs",
+    "title": "Idioms, Proverbs & Metaphors",
+    "description": "Classic proverbs and the stories behind them.",
+    "cardCount": 45,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-c1-deck63",
+    "languageId": "fr",
+    "level": "Advanced",
+    "category": "Corporate Strategy",
+    "title": "Corporate Strategy & Leadership",
+    "description": "Start-ups, restructuring, governance and leadership in French companies.",
+    "cardCount": 45,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-c1-deck64",
+    "languageId": "fr",
+    "level": "Advanced",
+    "category": "Grammar Nuances",
+    "title": "Advanced Grammar & Nuances",
+    "description": "Passé simple, past participle agreement, ne explétif and subtle mood choices.",
+    "cardCount": 50,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-c1-deck65",
+    "languageId": "fr",
+    "level": "Advanced",
+    "category": "Historical Nuance",
+    "title": "French History & Political Eras",
+    "description": "From the Revolution and Napoleon to the Fifth Republic and May 68.",
+    "cardCount": 45,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-c1-deck66",
+    "languageId": "fr",
+    "level": "Advanced",
+    "category": "Science & Medicine",
+    "title": "Science, Bioethics & Public Health",
+    "description": "Research, bioethics, the Sécurité sociale and public health debates.",
+    "cardCount": 45,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-c1-deck67",
+    "languageId": "fr",
+    "level": "Advanced",
+    "category": "Journalism",
+    "title": "Journalism, Satire & Irony",
+    "description": "Investigative reporting, satire and the irony of French humor.",
+    "cardCount": 45,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-c1-deck68",
+    "languageId": "fr",
+    "level": "Advanced",
+    "category": "Regional Variations",
+    "title": "Le Français du Québec",
+    "description": "Québécois expressions and accent: char, magasiner, c'est plate, tiguidou.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-c1-deck69",
+    "languageId": "fr",
+    "level": "Advanced",
+    "category": "Regional Variations",
+    "title": "Belgique & Suisse Romande",
+    "description": "Septante, nonante, une fois, s'il vous plaît for 'here you are' and more.",
+    "cardCount": 35,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-c1-deck70",
+    "languageId": "fr",
+    "level": "Advanced",
+    "category": "Psychology",
+    "title": "Psychology & Philosophy",
+    "description": "Biases, emotions and the French philosophers from Descartes to Beauvoir.",
+    "cardCount": 45,
+    "comingSoon": true
+  },
+  {
+    "id": "fr-c1-deck71",
+    "languageId": "fr",
+    "level": "Fluency Milestone",
+    "category": "Final Challenge",
+    "title": "The Native Integration Exam",
+    "description": "Rapid-fire scenarios, rare idioms and the unwritten rules of French life.",
+    "cardCount": 50,
+    "comingSoon": true
   }
 ]

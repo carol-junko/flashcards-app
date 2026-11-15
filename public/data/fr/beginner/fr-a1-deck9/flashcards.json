@@ -1,0 +1,177 @@
+[
+  {
+    "id": "fr-266",
+    "front": "Je vais, tu vas, il va, nous allons, vous allez, ils vont.",
+    "pronunciation": "[zhuh VEH, tü VAH, eel VAH, noo zah-LOHN, voo zah-LAY, eel VOHN]",
+    "back": "I go, you go, he goes, we go, you go, they go.",
+    "context": "The present of aller: very irregular, and essential."
+  },
+  {
+    "id": "fr-267",
+    "front": "Je fais, tu fais, il fait, nous faisons, vous faites, ils font.",
+    "pronunciation": "[zhuh FEH, tü FEH, eel FEH, noo fuh-ZOHN, voo FET, eel FOHN]",
+    "back": "I do, you do, he does, we do, you do, they do.",
+    "context": "The present of faire. 'Nous faisons' is pronounced [fuh-ZOHN]. Never say 'vous faisez'!"
+  },
+  {
+    "id": "fr-268",
+    "front": "Comment allez-vous ?",
+    "pronunciation": "[koh-mahn tah-lay-VOO]",
+    "back": "How are you?",
+    "context": "Formal greeting using aller. Answer: 'Je vais bien, merci.'"
+  },
+  {
+    "id": "fr-269",
+    "front": "Je vais au cinéma ce soir.",
+    "pronunciation": "[zhuh veh oh see-nay-MAH suh SWAHR]",
+    "back": "I'm going to the movies tonight.",
+    "context": "À + le = au: 'je vais au cinéma, au marché'. À + la stays: 'à la plage'."
+  },
+  {
+    "id": "fr-270",
+    "front": "Tu vas où ?",
+    "pronunciation": "[tü vah OO]",
+    "back": "Where are you going?",
+    "context": "Casual. Formal: 'Où allez-vous ?'"
+  },
+  {
+    "id": "fr-271",
+    "front": "Nous allons à la plage.",
+    "pronunciation": "[noo zah-lohn ah lah PLAZH]",
+    "back": "We're going to the beach.",
+    "context": "'Aller à la' + feminine place: à la piscine, à la boulangerie."
+  },
+  {
+    "id": "fr-272",
+    "front": "Ils vont aux États-Unis cet été.",
+    "pronunciation": "[eel vohn oh zay-tah-zü-NEE set ay-TAY]",
+    "back": "They're going to the United States this summer.",
+    "context": "À + les = aux: aux États-Unis, aux toilettes."
+  },
+  {
+    "id": "fr-273",
+    "front": "Je vais chez le médecin.",
+    "pronunciation": "[zhuh veh shay luh mayd-SAN]",
+    "back": "I'm going to the doctor's.",
+    "context": "'Chez' = to/at someone's place: chez moi, chez le coiffeur."
+  },
+  {
+    "id": "fr-274",
+    "front": "Je vais manger.",
+    "pronunciation": "[zhuh veh mahn-ZHAY]",
+    "back": "I'm going to eat.",
+    "context": "Futur proche: aller + infinitive, the easiest way to talk about the future."
+  },
+  {
+    "id": "fr-275",
+    "front": "On va regarder un film demain.",
+    "pronunciation": "[ohn vah ruh-gar-DAY an FEELM duh-MAN]",
+    "back": "We're going to watch a film tomorrow.",
+    "context": "Futur proche with 'on'. Very common in conversation."
+  },
+  {
+    "id": "fr-276",
+    "front": "Il va pleuvoir.",
+    "pronunciation": "[eel vah pluh-VWAHR]",
+    "back": "It's going to rain.",
+    "context": "Predictions with the futur proche."
+  },
+  {
+    "id": "fr-277",
+    "front": "Je ne vais pas sortir ce soir.",
+    "pronunciation": "[zhuh nuh veh pah sor-TEER suh SWAHR]",
+    "back": "I'm not going to go out tonight.",
+    "context": "Negation goes around aller: ne vais pas + infinitive."
+  },
+  {
+    "id": "fr-278",
+    "front": "Ça va ?",
+    "pronunciation": "[sah VAH]",
+    "back": "How's it going?",
+    "context": "Literally 'it goes?' The most common greeting. Answer: 'Ça va bien' or just 'Ça va !'"
+  },
+  {
+    "id": "fr-279",
+    "front": "Allez, on y va !",
+    "pronunciation": "[ah-LAY, ohn nee VAH]",
+    "back": "Come on, let's go!",
+    "context": "'Allez !' (come on!) also cheers on sports teams: 'Allez les Bleus !'"
+  },
+  {
+    "id": "fr-280",
+    "front": "Qu'est-ce que tu fais ?",
+    "pronunciation": "[kehs-kuh tü FEH]",
+    "back": "What are you doing?",
+    "context": "Can mean right now or as a job: 'Qu'est-ce que tu fais dans la vie ?'"
+  },
+  {
+    "id": "fr-281",
+    "front": "Je fais les courses le samedi.",
+    "pronunciation": "[zhuh feh lay KOORS luh sahm-DEE]",
+    "back": "I do the grocery shopping on Saturdays.",
+    "context": "'Faire les courses' = to go grocery shopping. 'Faire du shopping' = shopping for fun."
+  },
+  {
+    "id": "fr-282",
+    "front": "Je fais du sport trois fois par semaine.",
+    "pronunciation": "[zhuh feh dü SPOR trwah fwah par suh-MEN]",
+    "back": "I play sports three times a week.",
+    "context": "'Faire du/de la' + activity: faire du vélo, faire de la natation, faire du yoga."
+  },
+  {
+    "id": "fr-283",
+    "front": "Il fait chaud aujourd'hui.",
+    "pronunciation": "[eel feh SHOH oh-zhoor-DWEE]",
+    "back": "It's hot today.",
+    "context": "Weather with 'il fait': il fait froid, il fait beau, il fait mauvais."
+  },
+  {
+    "id": "fr-284",
+    "front": "Tu fais la cuisine ce soir ?",
+    "pronunciation": "[tü feh lah kwee-ZEEN suh SWAHR]",
+    "back": "Are you cooking tonight?",
+    "context": "'Faire la cuisine' = to cook; 'faire la vaisselle' = to do the dishes."
+  },
+  {
+    "id": "fr-285",
+    "front": "Il fait nuit déjà !",
+    "pronunciation": "[eel feh NWEE day-ZHAH]",
+    "back": "It's already dark!",
+    "context": "'Il fait jour / il fait nuit' = it's light / it's dark."
+  },
+  {
+    "id": "fr-286",
+    "front": "Ça ne fait rien.",
+    "pronunciation": "[sah nuh feh RYAN]",
+    "back": "It doesn't matter.",
+    "context": "Polite reply to an apology. Also: 'Ce n'est pas grave.'"
+  },
+  {
+    "id": "fr-287",
+    "front": "Ça fait combien ?",
+    "pronunciation": "[sah feh kohm-BYAN]",
+    "back": "How much is it (altogether)?",
+    "context": "At the till: 'faire' is used for totals. 'Ça fait 12 euros.'"
+  },
+  {
+    "id": "fr-288",
+    "front": "Fais attention !",
+    "pronunciation": "[feh zah-tahn-SYOHN]",
+    "back": "Be careful!",
+    "context": "Imperative of faire. Formal or plural: 'Faites attention !'"
+  },
+  {
+    "id": "fr-289",
+    "front": "On fait une pause ?",
+    "pronunciation": "[ohn feh tün POHZ]",
+    "back": "Shall we take a break?",
+    "context": "'Faire une pause' = to take a break."
+  },
+  {
+    "id": "fr-290",
+    "front": "Vous allez faire quoi pendant les vacances ?",
+    "pronunciation": "[voo zah-lay fehr KWAH pahn-dahn lay vah-KAHNS]",
+    "back": "What are you going to do during the holidays?",
+    "context": "Combines both verbs: aller (future) + faire."
+  }
+]

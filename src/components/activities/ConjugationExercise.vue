@@ -86,7 +86,8 @@ const evaluateSubmission = () => {
   })
 
   const correctAnswer = conjugationRows.value
-    .map((row) => `${row.pronoun} ${expectedMap[row.rowId]}`)
+    // No space after an elided pronoun: "Je m'appelle", not "Je m' appelle"
+    .map((row) => `${row.pronoun}${/['’]$/.test(row.pronoun) ? '' : ' '}${expectedMap[row.rowId]}`)
     .join(' · ')
   emit('answered', { exerciseId: props.data.id, isCorrect, mistakes, correctAnswer })
 }
