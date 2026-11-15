@@ -70,7 +70,13 @@ const initializeScrambleGame = () => {
   assembledWords.value = []
   if (props.data?.wordsPool) {
     const freshClone = JSON.parse(JSON.stringify(props.data.wordsPool))
-    const randomized = shuffleInPlace(freshClone)
+    let randomized = shuffleInPlace(freshClone)
+    // A short sentence can come out of the shuffle already in order (1 in 6 for
+    // three words), which would solve the exercise by itself: shuffle again.
+    const solution = props.data.correctSentence?.trim()
+    for (let tries = 0; tries < 10 && new Set(randomized).size > 1 && randomized.join(' ') === solution; tries++) {
+      randomized = shuffleInPlace(randomized)
+    }
     poolWords.value = randomized.map(word => ({ text: word, isUsed: false }))
   }
 }
