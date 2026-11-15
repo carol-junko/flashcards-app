@@ -1,0 +1,352 @@
+[
+  {
+    "id": "fr-2356",
+    "front": "Il entra, s'assit et se mit à écrire.",
+    "pronunciation": "[ee lahn-TRAH, sah-SEE ay suh mee tah ay-KREER]",
+    "back": "He came in, sat down and began to write.",
+    "context": "Passé simple: the written narrative tense for completed actions in sequence. Entrer → il entra; s'asseoir → il s'assit; se mettre → il se mit."
+  },
+  {
+    "id": "fr-2357",
+    "front": "Ils furent surpris par la nouvelle.",
+    "pronunciation": "[eel FÜR sür-pree par lah noo-VEL]",
+    "back": "They were surprised by the news.",
+    "context": "Passé simple of être: je fus, tu fus, il fut, nous fûmes, vous fûtes, ils furent."
+  },
+  {
+    "id": "fr-2358",
+    "front": "Elle naquit à Lyon en 1902.",
+    "pronunciation": "[el nah-KEE ah lee-OHN ahn meel nuhf-sahn-DUH]",
+    "back": "She was born in Lyon in 1902.",
+    "context": "Naître → elle naquit. Common in biographies and encyclopedias."
+  },
+  {
+    "id": "fr-2359",
+    "front": "Le roi mourut sans héritier.",
+    "pronunciation": "[luh RWAH moo-RÜ sahn zay-ree-TYAY]",
+    "back": "The king died without an heir.",
+    "context": "Mourir → il mourut."
+  },
+  {
+    "id": "fr-2360",
+    "front": "Ils eurent trois enfants.",
+    "pronunciation": "[eel ZÜR trwah zahn-FAHN]",
+    "back": "They had three children.",
+    "context": "Passé simple of avoir: j'eus, tu eus, il eut, nous eûmes, vous eûtes, ils eurent. 'Eu-' is pronounced 'ü'."
+  },
+  {
+    "id": "fr-2361",
+    "front": "Il vint, il vit, il vainquit.",
+    "pronunciation": "[eel VAN, eel VEE, eel van-KEE]",
+    "back": "He came, he saw, he conquered.",
+    "context": "Venir → il vint; voir → il vit; vaincre → il vainquit."
+  },
+  {
+    "id": "fr-2362",
+    "front": "La lettre que j'ai écrite est partie ce matin.",
+    "pronunciation": "[lah LET-ruh kuh zhay ay-KREET eh par-TEE suh mah-TAN]",
+    "back": "The letter I wrote went off this morning.",
+    "context": "With avoir, the participle agrees with a direct object placed BEFORE it: que (= la lettre) → écrite."
+  },
+  {
+    "id": "fr-2363",
+    "front": "Les fleurs que tu m'as offertes sont magnifiques.",
+    "pronunciation": "[lay FLUHR kuh tü mah zoh-FEHRT sohn mah-nyee-FEEK]",
+    "back": "The flowers you gave me are magnificent.",
+    "context": "'Offertes' agrees with 'que' (= les fleurs, feminine plural). You can hear the t."
+  },
+  {
+    "id": "fr-2364",
+    "front": "Ces photos, je les ai prises à Venise.",
+    "pronunciation": "[say foh-TOH, zhuh lay zay PREEZ ah vuh-NEEZ]",
+    "back": "These photos, I took them in Venice.",
+    "context": "'Les' (= les photos) comes before → prises."
+  },
+  {
+    "id": "fr-2365",
+    "front": "Combien de livres as-tu lus cet été ?",
+    "pronunciation": "[kohm-byan duh LEE-vruh ah-tü LÜ set ay-TAY]",
+    "back": "How many books did you read this summer?",
+    "context": "'Combien de livres' is a direct object before the verb → lus."
+  },
+  {
+    "id": "fr-2366",
+    "front": "Des pommes, j'en ai mangé trois.",
+    "pronunciation": "[day PUM, zhahn nay mahn-zhay TRWAH]",
+    "back": "Apples, I ate three of them.",
+    "context": "No agreement with 'en'."
+  },
+  {
+    "id": "fr-2367",
+    "front": "Les efforts qu'il a fallu ont été énormes.",
+    "pronunciation": "[lay zay-FOR keel ah fah-LÜ ohn tay-tay ay-NORM]",
+    "back": "The efforts that were needed were enormous.",
+    "context": "Impersonal verbs (falloir, y avoir) never agree."
+  },
+  {
+    "id": "fr-2368",
+    "front": "Elles se sont lavées.",
+    "pronunciation": "[el suh sohn lah-VAY]",
+    "back": "They washed (themselves).",
+    "context": "Pronominal verb: 'se' is the direct object → agreement."
+  },
+  {
+    "id": "fr-2369",
+    "front": "Elles se sont lavé les mains.",
+    "pronunciation": "[el suh sohn lah-vay lay MAN]",
+    "back": "They washed their hands.",
+    "context": "Here the direct object is 'les mains', after the verb → no agreement."
+  },
+  {
+    "id": "fr-2370",
+    "front": "Ils se sont parlé pendant des heures.",
+    "pronunciation": "[eel suh sohn par-LAY pahn-dahn day ZUHR]",
+    "back": "They talked to each other for hours.",
+    "context": "Parler À quelqu'un: 'se' is indirect → no agreement. Same with se sourire, se téléphoner, se succéder."
+  },
+  {
+    "id": "fr-2371",
+    "front": "Elle s'est rendu compte de son erreur.",
+    "pronunciation": "[el seh rahn-dü KOHNT duh soh neh-RUHR]",
+    "back": "She realized her mistake.",
+    "context": "'Se rendre compte': the direct object is 'compte' → 'rendu' never agrees."
+  },
+  {
+    "id": "fr-2372",
+    "front": "Je me suis permis de vous écrire.",
+    "pronunciation": "[zhuh muh swee pehr-MEE duh voo zay-KREER]",
+    "back": "I took the liberty of writing to you.",
+    "context": "Permettre À soi → indirect 'se' → no agreement, even for a woman: 'elle s'est permis'."
+  },
+  {
+    "id": "fr-2373",
+    "front": "La chanson que j'ai entendu chanter était magnifique.",
+    "pronunciation": "[lah shahn-SOHN kuh zhay ahn-tahn-dü shahn-TAY ay-teh mah-nyee-FEEK]",
+    "back": "The song I heard being sung was magnificent.",
+    "context": "Before an infinitive: no agreement if the object doesn't perform the action (the song isn't singing)."
+  },
+  {
+    "id": "fr-2374",
+    "front": "La chanteuse que j'ai entendue chanter était magnifique.",
+    "pronunciation": "[lah shahn-TUHZ kuh zhay ahn-tahn-dü shahn-TAY ay-teh mah-nyee-FEEK]",
+    "back": "The singer I heard singing was magnificent.",
+    "context": "Agreement: the singer performs the action."
+  },
+  {
+    "id": "fr-2375",
+    "front": "Je crains qu'il ne pleuve.",
+    "pronunciation": "[zhuh kran keel nuh PLUHV]",
+    "back": "I'm afraid it may rain.",
+    "context": "'Ne explétif': no negative meaning, typical of careful French after verbs of fear."
+  },
+  {
+    "id": "fr-2376",
+    "front": "Il est plus intelligent qu'on ne le pense.",
+    "pronunciation": "[ee leh plü zan-teh-lee-ZHAHN kohn nuh luh PAHNS]",
+    "back": "He's more intelligent than people think.",
+    "context": "'Ne explétif' after unequal comparisons. 'Le' stands for the idea."
+  },
+  {
+    "id": "fr-2377",
+    "front": "Il parle bas de peur qu'on ne l'entende.",
+    "pronunciation": "[eel parl BAH duh puhr kohn nuh lahn-TAHND]",
+    "back": "He speaks quietly for fear of being overheard.",
+    "context": "'De peur que / de crainte que' + subjunctive, often with 'ne'."
+  },
+  {
+    "id": "fr-2378",
+    "front": "Je n'ose le lui dire.",
+    "pronunciation": "[zhuh nohz luh lwee DEER]",
+    "back": "I daren't tell him.",
+    "context": "Literary: 'ne' alone (without pas) with oser, pouvoir, savoir and cesser."
+  },
+  {
+    "id": "fr-2379",
+    "front": "Il ne cesse de pleuvoir depuis lundi.",
+    "pronunciation": "[eel nuh ses duh pluh-VWAHR duh-pwee lan-DEE]",
+    "back": "It hasn't stopped raining since Monday.",
+    "context": "'Ne cesser de' = to keep on (formal)."
+  },
+  {
+    "id": "fr-2380",
+    "front": "Je ne saurais vous dire à quelle heure il arrivera.",
+    "pronunciation": "[zhuh nuh soh-reh voo DEER ah kel uhr ee lah-reev-RAH]",
+    "back": "I couldn't tell you what time he'll arrive.",
+    "context": "'Je ne saurais' = I couldn't (very polite, formal)."
+  },
+  {
+    "id": "fr-2381",
+    "front": "Le fait qu'il ait menti me choque.",
+    "pronunciation": "[luh FEH keel eh mahn-TEE muh SHOK]",
+    "back": "The fact that he lied shocks me.",
+    "context": "'Le fait que' + subjunctive is preferred when the fact is being judged."
+  },
+  {
+    "id": "fr-2382",
+    "front": "Que tu sois d'accord ne change rien.",
+    "pronunciation": "[kuh tü swah dah-KOR nuh shahnzh RYAN]",
+    "back": "Whether or not you agree changes nothing.",
+    "context": "A 'que' clause placed first as subject takes the subjunctive."
+  },
+  {
+    "id": "fr-2383",
+    "front": "Je comprends qu'il soit déçu.",
+    "pronunciation": "[zhuh kohm-prahn keel swah day-SÜ]",
+    "back": "I understand why he's disappointed.",
+    "context": "'Comprendre que' = to accept, find normal → subjunctive."
+  },
+  {
+    "id": "fr-2384",
+    "front": "J'ai compris qu'il était déçu.",
+    "pronunciation": "[zhay kohm-pree keel ay-teh day-SÜ]",
+    "back": "I realized he was disappointed.",
+    "context": "'Comprendre que' = to realize → indicative. Same verb, different mood."
+  },
+  {
+    "id": "fr-2385",
+    "front": "Il est probable qu'il viendra.",
+    "pronunciation": "[ee leh proh-BAH-bluh keel vyan-DRAH]",
+    "back": "He'll probably come.",
+    "context": "Probability → indicative. But 'il est possible qu'il vienne' (possibility) → subjunctive."
+  },
+  {
+    "id": "fr-2386",
+    "front": "Je ne nie pas qu'il ait du talent.",
+    "pronunciation": "[zhuh nuh NEE pah keel eh dü tah-LAHN]",
+    "back": "I don't deny he has talent.",
+    "context": "'Ne pas nier que' + subjunctive."
+  },
+  {
+    "id": "fr-2387",
+    "front": "Si tu viens et que tu as le temps, on ira au musée.",
+    "pronunciation": "[see tü VYAN ay kuh tü ah luh TAHN, ohn nee-rah oh mü-ZAY]",
+    "back": "If you come and you have time, we'll go to the museum.",
+    "context": "'Que' replaces a second 'si' and keeps the indicative."
+  },
+  {
+    "id": "fr-2388",
+    "front": "Quand bien même il s'excuserait, je ne lui pardonnerais pas.",
+    "pronunciation": "[kahn byan MEM eel sek-skü-zuh-REH, zhuh nuh lwee par-dun-REH PAH]",
+    "back": "Even if he apologized, I wouldn't forgive him.",
+    "context": "'Quand bien même' + conditional = even if."
+  },
+  {
+    "id": "fr-2389",
+    "front": "Pour peu qu'il fasse beau, nous sortirons.",
+    "pronunciation": "[poor PUH keel fas BOH, noo sor-tee-ROHN]",
+    "back": "If the weather is at all nice, we'll go out.",
+    "context": "'Pour peu que' + subjunctive = if only, provided that."
+  },
+  {
+    "id": "fr-2390",
+    "front": "Dût-il en souffrir, il dira la vérité.",
+    "pronunciation": "[dü-TEEL ahn soo-FREER, eel dee-rah lah vay-ree-TAY]",
+    "back": "Even if he has to suffer for it, he'll tell the truth.",
+    "context": "Literary: inverted imperfect subjunctive of devoir = even if."
+  },
+  {
+    "id": "fr-2391",
+    "front": "Encore faut-il le vouloir.",
+    "pronunciation": "[ahn-kor foh-TEEL luh voo-LWAHR]",
+    "back": "You still have to want it, though.",
+    "context": "'Encore' at the start means 'still, yet' and triggers inversion."
+  },
+  {
+    "id": "fr-2392",
+    "front": "Elle était tout émue.",
+    "pronunciation": "[el ay-teh too tay-MÜ]",
+    "back": "She was deeply moved.",
+    "context": "'Tout' as an adverb (= very) stays invariable before a vowel or silent h. Compare 'elle était toute honteuse'."
+  },
+  {
+    "id": "fr-2393",
+    "front": "Elle était toute honteuse.",
+    "pronunciation": "[el ay-teh toot ohn-TUHZ]",
+    "back": "She was very ashamed.",
+    "context": "Adverb 'tout' agrees before a feminine adjective starting with a consonant or aspirated h. Compare 'elle était tout émue'."
+  },
+  {
+    "id": "fr-2394",
+    "front": "Il y a quelque vingt ans, tout était différent.",
+    "pronunciation": "[eel yah kel-kuh van TAHN, too tay-teh dee-fay-RAHN]",
+    "back": "Some twenty years ago, everything was different.",
+    "context": "'Quelque' before a number = approximately (invariable adverb)."
+  },
+  {
+    "id": "fr-2395",
+    "front": "Je leur ai rendu leurs clés.",
+    "pronunciation": "[zhuh luhr ay rahn-dü luhr KLAY]",
+    "back": "I gave them back their keys.",
+    "context": "'Leur' pronoun (to them) never takes s; 'leurs' possessive agrees."
+  },
+  {
+    "id": "fr-2396",
+    "front": "Plutôt mourir que céder !",
+    "pronunciation": "[plü-toh moo-REER kuh say-DAY]",
+    "back": "I'd rather die than give in!",
+    "context": "'Plutôt' = rather; 'plus tôt' = earlier."
+  },
+  {
+    "id": "fr-2397",
+    "front": "Il faudrait travailler davantage.",
+    "pronunciation": "[eel foh-dreh trah-vah-yay dah-vahn-TAHZH]",
+    "back": "We ought to work more.",
+    "context": "'Davantage' = more (elegant alternative to 'plus')."
+  },
+  {
+    "id": "fr-2398",
+    "front": "Nul n'est censé ignorer la loi.",
+    "pronunciation": "[NÜL neh sahn-say een-yoh-ray lah LWAH]",
+    "back": "Ignorance of the law is no excuse.",
+    "context": "'Nul' = no one (formal). A legal maxim."
+  },
+  {
+    "id": "fr-2399",
+    "front": "Il s'en est fallu de peu qu'on rate le train.",
+    "pronunciation": "[eel sahn neh fah-lü duh PUH kohn rat luh TRAN]",
+    "back": "We very nearly missed the train.",
+    "context": "'Il s'en est fallu de peu' + subjunctive = it came close."
+  },
+  {
+    "id": "fr-2400",
+    "front": "C'est en lisant qu'on apprend à écrire.",
+    "pronunciation": "[seh tahn lee-ZAHN kohn nah-prahn ah ay-KREER]",
+    "back": "It's by reading that you learn to write.",
+    "context": "Gerund: en + present participle, expressing means."
+  },
+  {
+    "id": "fr-2401",
+    "front": "Les élèves ayant terminé peuvent sortir.",
+    "pronunciation": "[lay zay-lev eh-yahn tehr-mee-NAY puhv sor-TEER]",
+    "back": "Students who have finished may leave.",
+    "context": "The present participle 'ayant terminé' replaces 'qui ont terminé' (formal)."
+  },
+  {
+    "id": "fr-2402",
+    "front": "Il est midi et demi.",
+    "pronunciation": "[ee leh mee-DEE ay duh-MEE]",
+    "back": "It's half past twelve.",
+    "context": "'Demi' after the noun agrees in gender: 'une heure et demie'. Before it, invariable: 'une demi-heure'."
+  },
+  {
+    "id": "fr-2403",
+    "front": "Je ne doute pas qu'il réussisse.",
+    "pronunciation": "[zhuh nuh doot PAH keel ray-ü-SEES]",
+    "back": "I have no doubt he'll succeed.",
+    "context": "'Ne pas douter que' traditionally takes the subjunctive (sometimes with 'ne')."
+  },
+  {
+    "id": "fr-2404",
+    "front": "Je cherche une maison qui ait un grand jardin.",
+    "pronunciation": "[zhuh shersh ün meh-ZOHN kee eh tan grahn zhar-DAN]",
+    "back": "I'm looking for a house that has a big garden.",
+    "context": "Subjunctive: the house is hypothetical. 'Une maison qui a un grand jardin' = a specific one you know exists."
+  },
+  {
+    "id": "fr-2405",
+    "front": "Après que vous aurez signé, nous vous enverrons une copie.",
+    "pronunciation": "[ah-preh kuh voo zoh-ray see-NYAY, noo voo zahn-veh-rohn zün koh-PEE]",
+    "back": "Once you've signed, we'll send you a copy.",
+    "context": "Future perfect after 'après que' for a future sequence. Indicative, not subjunctive."
+  }
+]
